@@ -291,7 +291,14 @@ def save_to_github(data, league_name, start_date):
         try:
             contents = repo.get_contents(filename)
             logging.info(f"Файл {filename} уже существует, обновляем...")
-            existing_data = json.loads(contents.decoded_content.decode())
+            try:
+                existing_data = json.loads(contents.decoded_content.decode())
+                if not isinstance(existing_data, list):
+                    logging.warning(f"Содержимое {filename} не является списком, инициализируем как []")
+                    existing_data = []
+            except json.JSONDecodeError:
+                logging.warning(f"Некорректный JSON в {filename}, инициализируем как []")
+                existing_data = []
             existing_data.extend(data)
             repo.update_file(
                 contents.path,
@@ -299,6 +306,7 @@ def save_to_github(data, league_name, start_date):
                 json.dumps(existing_data, indent=4),
                 contents.sha
             )
+            logging.info(f"Файл {filename} обновлён, записей: {len(existing_data)}")
         except GithubException as e:
             if e.status == 404:
                 logging.info(f"Файл {filename} не существует, создаём новый...")
@@ -307,11 +315,10 @@ def save_to_github(data, league_name, start_date):
                     f"Create {filename} with initial data",
                     json.dumps(data, indent=4)
                 )
+                logging.info(f"Файл {filename} создан, записей: {len(data)}")
             else:
                 logging.error(f"Ошибка GitHub API: {str(e)}")
                 raise e
-        
-        logging.info(f"Файл {filename} обновлён, записей: {len(data) if 'existing_data' not in locals() else len(existing_data)}")
     except Exception as e:
         logging.error(f"Ошибка сохранения на GitHub: {str(e)}")
 
