@@ -10,6 +10,7 @@ import os
 import re
 from fake_useragent import UserAgent
 import logging
+import pytz
 
 # Настройка логирования
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -142,7 +143,7 @@ def get_sellers_data(league_id):
             stock = offer.find("div", {"class": "tc-amount"}).text.strip()
             price = offer.find("div", {"class": "tc-price"}).text.strip().split()[0]
             sellers.append({
-                "Timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+                "Timestamp": datetime.now(pytz.timezone("Europe/Moscow")).strftime("%Y-%m-%d %H:%M:%S"),
                 "Seller": seller_name,
                 "Stock": stock,
                 "Price": float(price)
