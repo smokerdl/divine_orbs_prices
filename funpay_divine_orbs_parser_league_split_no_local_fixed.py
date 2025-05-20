@@ -165,8 +165,6 @@ def upload_to_github(data, league_name, start_date):
 
         logger.info("Попытка подключения к GitHub...")
         g = Github(GITHUB_TOKEN)
-        user = g.get_user()
-        logger.info(f"Аутентифицирован как пользователь: {user.login}")
 
         repo = g.get_repo(REPO_NAME)
         logger.info(f"Репозиторий {REPO_NAME} успешно найден.")
