@@ -1,0 +1,29 @@
+name: Run Divine Orbs Parser
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Запуск каждые 30 минут
+  workflow_dispatch:  # Возможность запускать вручную
+
+jobs:
+  run-parser:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 pygithub fake-useragent
+
+      - name: Run parser script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python funpay_divine_orbs_parser_league_split_no_local_fixed.py
