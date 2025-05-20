@@ -44,7 +44,7 @@ def get_leagues():
                 
                 # Логируем HTML для отладки
                 with open("funpay_leagues.html", "w", encoding="utf-8") as f:
-                    f.write(soup.pretty_print())
+                    f.write(soup.prettify())
                 logging.info("HTML страницы лиг сохранён в funpay_leagues.html")
                 
                 select = soup.find("select", {"name": "server"})
@@ -139,7 +139,7 @@ def get_sellers_data(league_id):
                 
                 soup = BeautifulSoup(response.text, "html.parser")
                 with open("funpay_sellers.html", "w", encoding="utf-8") as f:
-                    f.write(soup.pretty_print())
+                    f.write(soup.prettify())
                 logging.info("HTML страницы продавцов сохранён в funpay_sellers.html")
                 
                 # Фильтруем продавцов по data-server
