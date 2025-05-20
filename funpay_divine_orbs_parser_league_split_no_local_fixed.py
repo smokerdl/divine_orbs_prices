@@ -28,7 +28,8 @@ def get_leagues():
         "Referer": "https://funpay.com/",
         "Accept-Language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
         "Accept-Encoding": "gzip, deflate, br",
-        "Connection": "keep-alive"
+        "Connection": "keep-alive",
+        "X-Requested-With": "XMLHttpRequest"
     }
     
     leagues = []
@@ -55,7 +56,6 @@ def get_leagues():
                     try:
                         league_id = option["value"]
                         league_name = option.text.strip().lower().replace(" ", "_")
-                        # Точное совпадение с (pc)_settlers_of_kalguur
                         if league_id and league_name == "(pc)_settlers_of_kalguur":
                             leagues.append({"name": "settlers_of_kalguur", "id": league_id})
                             logging.info(f"Найдена лига: {league_name} (ID: {league_id})")
@@ -112,47 +112,53 @@ def get_leagues():
 def get_sellers_data(league_id):
     logging.info("Сбор данных о продавцах...")
     sellers = []
-    url = f"https://funpay.com/lots/{league_id}/"
+    url = "https://funpay.com/chips/173/"
     headers = {
         "User-Agent": UserAgent().random,
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
         "Referer": "https://funpay.com/",
         "Accept-Language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
         "Accept-Encoding": "gzip, deflate, br",
-        "Connection": "keep-alive"
+        "Connection": "keep-alive",
+        "X-Requested-With": "XMLHttpRequest"
     }
     
     for attempt in range(3):
         try:
             with Session() as session:
                 response = session.get(url, headers=headers, timeout=10)
-                logging.info(f"Статус ответа FunPay: {response.status_code}")
-                if response.status_code == 404:
-                    logging.error(f"Страница не найдена: {url}")
-                    return []
+                logging.info(f"Статус ответа FunPay для {url}: {response.status_code}")
                 response.raise_for_status()
-                soup = BeautifulSoup(response.text, "html.parser")
                 
-                # Логируем HTML для отладки
+                # Логируем полный ответ для отладки
+                with open("funpay_sellers_response.html", "w", encoding="utf-8") as f:
+                    f.write(response.text)
+                logging.info("Ответ FunPay сохранён в funpay_sellers_response.html")
+                
+                soup = BeautifulSoup(response.text, "html.parser")
                 with open("funpay_sellers.html", "w", encoding="utf-8") as f:
                     f.write(soup.prettify())
                 logging.info("HTML страницы продавцов сохранён в funpay_sellers.html")
                 
-                # Пробуем несколько селекторов для продавцов
-                offers = soup.find_all("a", class_="tc-item") or soup.find_all("div", class_="offer-item")
-                logging.info(f"Найдено продавцов: {len(offers)}")
+                # Фильтруем продавцов по data-server
+                offers = soup.find_all("a", class_="tc-item", attrs={"data-server": league_id})
+                logging.info(f"Найдено продавцов для лиги {league_id}: {len(offers)}")
+                
+                if not offers:
+                    logging.warning(f"Селектор a.tc-item с data-server={league_id} не нашёл продавцов на {url}")
+                    break
                 
                 for offer in offers:
                     try:
                         # Имя продавца
-                        seller_name_elem = offer.find("div", class_="tc-user") or offer.find("div", class_="seller-name")
+                        seller_name_elem = offer.find("div", class_="media-user-name")
                         seller_name = seller_name_elem.text.strip() if seller_name_elem else None
                         if not seller_name:
                             logging.error("Не найдено имя продавца")
                             continue
                         
                         # Количество
-                        stock_elem = offer.find("div", class_="tc-amount") or offer.find("div", class_="offer-amount")
+                        stock_elem = offer.find("div", class_="tc-amount")
                         stock = stock_elem.text.strip() if stock_elem else "0"
                         stock = re.sub(r"[^\d]", "", stock)  # Очищаем количество
                         
@@ -163,10 +169,6 @@ def get_sellers_data(league_id):
                             price_span = price_div.find("span", class_="unit")
                             if price_span:
                                 price_text = price_div.text.replace(price_span.text, "").strip()
-                        else:
-                            price_div = offer.find("div", class_="price-block")
-                            if price_div:
-                                price_text = price_div.find("span", class_="price-amount").text.strip()
                         
                         if price_text:
                             logging.info(f"Извлечённая цена для {seller_name}: {price_text}")
@@ -194,10 +196,13 @@ def get_sellers_data(league_id):
                         logging.error(f"Ошибка обработки продавца: {str(e)}")
                         continue
                 
-                time.sleep(random.uniform(5, 10))
-                return sellers
+                if sellers:
+                    logging.info(f"Собрано продавцов: {len(sellers)}")
+                    time.sleep(random.uniform(5, 10))
+                    return sellers
+                break
         except Exception as e:
-            logging.error(f"Ошибка загрузки страницы FunPay (попытка {attempt + 1}): {str(e)}")
+            logging.error(f"Ошибка загрузки страницы FunPay для {url} (попытка {attempt + 1}): {str(e)}")
             time.sleep(random.uniform(2, 5))
             continue
     
@@ -218,6 +223,11 @@ def get_league_start_date(league_name):
             response.raise_for_status()
             leagues = response.json()
             logging.info(f"API PoE вернул {len(leagues)} лиг")
+            
+            # Логируем ответ API для отладки
+            with open("poe_api_response.json", "w", encoding="utf-8") as f:
+                json.dump(leagues, f, indent=4)
+            logging.info("Ответ PoE API сохранён в poe_api_response.json")
             
             for league in leagues:
                 if league["id"].lower().replace(" ", "_") == league_name:
