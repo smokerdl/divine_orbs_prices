@@ -20,8 +20,22 @@ KNOWN_LEAGUE_DATES = {
     "settlers_of_kalguur": "2024-07"
 }
 
-# Фиксированный курс для конверсии (временное решение)
-USD_TO_RUB_RATE = 80.0
+# Fallback-курс, если API недоступен
+FALLBACK_USD_TO_RUB_RATE = 80.0
+
+def get_usd_to_rub_rate():
+    logging.info("Получение курса USD/RUB от ЦБ РФ...")
+    try:
+        response = requests.get("http://www.cbr-xml-daily.ru/daily_json.js", timeout=10)
+        response.raise_for_status()
+        data = response.json()
+        rate = data["Valute"]["USD"]["Value"]
+        logging.info(f"Курс USD/RUB: {rate}")
+        return rate
+    except Exception as e:
+        logging.error(f"Ошибка получения курса USD/RUB: {str(e)}")
+        logging.info(f"Использую fallback-курс: {FALLBACK_USD_TO_RUB_RATE}")
+        return FALLBACK_USD_TO_RUB_RATE
 
 def get_leagues():
     logging.info("Получение списка лиг...")
@@ -32,27 +46,13 @@ def get_leagues():
         "Accept-Language": "ru-RU,ru;q=1.0",
         "Accept-Encoding": "gzip, deflate, br",
         "Connection": "keep-alive",
-        "X-Requested-With": "XMLHttpRequest",
-        "X-Forwarded-For": "185.220.100.100"  # Российский IP для теста
+        "X-Requested-With": "XMLHttpRequest"
     }
     
     leagues = []
     url = "https://funpay.com/chips/173/"
     
     with Session() as session:
-        # Эмуляция смены валюты через POST
-        try:
-            change_currency_url = "https://funpay.com/account/changeCurrency"
-            payload = {"cy": "rub"}
-            headers["Content-Type"] = "application/x-www-form-urlencoded"
-            init_response = session.post(change_currency_url, data=payload, headers=headers, timeout=10)
-            logging.info(f"Статус ответа FunPay (смена валюты): {init_response.status_code}")
-            init_response.raise_for_status()
-            cookies = session.cookies.get_dict()
-            logging.info(f"Полученные куки после смены валюты: {cookies}")
-        except Exception as e:
-            logging.error(f"Ошибка при смене валюты: {str(e)}")
-        
         for attempt in range(3):
             try:
                 response = session.get(url, headers=headers, timeout=10)
@@ -139,24 +139,13 @@ def get_sellers_data(league_id):
         "Accept-Language": "ru-RU,ru;q=1.0",
         "Accept-Encoding": "gzip, deflate, br",
         "Connection": "keep-alive",
-        "X-Requested-With": "XMLHttpRequest",
-        "X-Forwarded-For": "185.220.100.100"  # Российский IP для теста
+        "X-Requested-With": "XMLHttpRequest"
     }
     
+    # Получаем курс USD/RUB
+    usd_to_rub_rate = get_usd_to_rub_rate()
+    
     with Session() as session:
-        # Эмуляция смены валюты через POST
-        try:
-            change_currency_url = "https://funpay.com/account/changeCurrency"
-            payload = {"cy": "rub"}
-            headers["Content-Type"] = "application/x-www-form-urlencoded"
-            init_response = session.post(change_currency_url, data=payload, headers=headers, timeout=10)
-            logging.info(f"Статус ответа FunPay (смена валюты): {init_response.status_code}")
-            init_response.raise_for_status()
-            cookies = session.cookies.get_dict()
-            logging.info(f"Полученные куки после смены валюты: {cookies}")
-        except Exception as e:
-            logging.error(f"Ошибка при смене валюты: {str(e)}")
-        
         for attempt in range(3):
             try:
                 response = session.get(url, headers=headers, timeout=10)
@@ -213,10 +202,10 @@ def get_sellers_data(league_id):
                             price = re.sub(r"[^\d.]", "", price_text.replace(",", "."))
                             try:
                                 price = float(price)
-                                # Временная конверсия, если валюта в долларах
+                                # Конверсия, если валюта в долларах
                                 if "$" in price_div.text:
-                                    price = price * USD_TO_RUB_RATE
-                                    logging.info(f"Конверсия для {seller_name}: {price / USD_TO_RUB_RATE} $ -> {price} ₽")
+                                    price = price * usd_to_rub_rate
+                                    logging.info(f"Конверсия для {seller_name}: {price / usd_to_rub_rate} $ -> {price} ₽ (курс: {usd_to_rub_rate})")
                                 logging.info(f"Финальная цена для {seller_name}: {price}")
                             except ValueError:
                                 logging.error(f"Не удалось преобразовать цену для {seller_name}: {price_text}")
