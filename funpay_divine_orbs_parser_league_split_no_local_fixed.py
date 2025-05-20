@@ -20,6 +20,11 @@ KNOWN_LEAGUE_DATES = {
     "settlers_of_kalguur": "2024-07"
 }
 
+# Временное решение: захардкодим лигу
+HARDCODED_LEAGUES = [
+    {"name": "settlers_of_kalguur", "id": "10480"}
+]
+
 def get_leagues():
     logging.info("Получение списка лиг...")
     headers = {
@@ -29,6 +34,12 @@ def get_leagues():
         "Accept-Language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7"
     }
     
+    # Временное решение: возвращаем захардкоденную лигу
+    logging.info("Используем захардкоденную лигу settlers_of_kalguur (ID: 10480)")
+    return HARDCODED_LEAGUES
+    
+    # Попытка парсинга (закомментировано до проверки селекторов)
+    """
     try:
         with Session() as session:
             response = session.get("https://funpay.com/chips/173/", headers=headers)
@@ -36,27 +47,35 @@ def get_leagues():
             response.raise_for_status()
             soup = BeautifulSoup(response.text, "html.parser")
             
+            # Логируем HTML для отладки
+            with open("funpay_leagues.html", "w", encoding="utf-8") as f:
+                f.write(soup.prettify())
+            logging.info("HTML страницы лиг сохранён в funpay_leagues.html")
+            
             league_elements = soup.find_all("a", class_="tc-item")
             leagues = []
             for elem in league_elements:
                 try:
-                    league_name = elem.find("div", class_="tc-desc").text.strip().lower().replace(" ", "_")
-                    league_id = elem["href"].split("/")[-2]
-                    if "settlers" in league_name:
-                        leagues.append({"name": league_name, "id": league_id})
+                    desc_elem = elem.find("div", class_="tc-desc") or elem.find("div", class_="league-name")
+                    if desc_elem:
+                        league_name = desc_elem.text.strip().lower().replace(" ", "_")
+                        league_id = elem["href"].split("/")[-2]
+                        if "settlers" in league_name:
+                            leagues.append({"name": league_name, "id": league_id})
+                            logging.info(f"Найдена лига: {league_name} (ID: {league_id})")
+                    else:
+                        logging.warning("Не найден элемент с названием лиги")
                 except Exception as e:
                     logging.error(f"Ошибка обработки элемента лиги: {str(e)}")
                     continue
             
             logging.info(f"Найдено подходящих лиг: {len(leagues)}")
-            for league in leagues:
-                logging.info(f"Лига: {league['name']} (ID: {league['id']})")
-            
             time.sleep(random.uniform(5, 10))
             return leagues
     except Exception as e:
         logging.error(f"Ошибка получения лиг: {str(e)}")
         return []
+    """
 
 def get_sellers_data(league_id):
     logging.info("Сбор данных о продавцах...")
@@ -76,6 +95,11 @@ def get_sellers_data(league_id):
             response.raise_for_status()
             soup = BeautifulSoup(response.text, "html.parser")
             
+            # Логируем HTML для отладки
+            with open("funpay_sellers.html", "w", encoding="utf-8") as f:
+                f.write(soup.prettify())
+            logging.info("HTML страницы продавцов сохранён в funpay_sellers.html")
+            
             offers = soup.find_all("a", class_="tc-item")
             logging.info(f"Найдено продавцов: {len(offers)}")
             
@@ -85,13 +109,12 @@ def get_sellers_data(league_id):
                     stock = offer.find("div", class_="tc-amount").text.strip()
                     stock = re.sub(r"[^\d]", "", stock)  # Очищаем количество
                     
-                    # Пробуем основной селектор цены
+                    # Пробуем несколько селекторов для цены
                     price_text = None
                     price_element = offer.find("div", class_="tc-price")
                     if price_element:
                         price_text = price_element.find("div", class_="amount").text.strip()
                     else:
-                        # Альтернативный селектор, если основной не сработал
                         price_element = offer.find("div", class_="price-block")
                         if price_element:
                             price_text = price_element.find("span", class_="price-amount").text.strip()
@@ -102,10 +125,10 @@ def get_sellers_data(league_id):
                         price = re.sub(r"[^\d.]", "", price_text.replace(",", "."))
                         try:
                             price = float(price)
-                            # Проверяем, не слишком ли низкая цена (меньше 0.1 рубля)
+                            # Проверяем, не слишком ли низкая цена
                             if price < 0.1:
                                 logging.warning(f"Аномально низкая цена для {seller_name}: {price} рубля")
-                                continue  # Пропускаем запись
+                                continue
                         except ValueError:
                             logging.error(f"Не удалось преобразовать цену для {seller_name}: {price_text}")
                             continue
@@ -123,7 +146,7 @@ def get_sellers_data(league_id):
                     logging.error(f"Ошибка обработки продавца: {str(e)}")
                     continue
                 
-            time.sleep(random.uniform(5, 10))  # Задержка для избежания блокировки
+            time.sleep(random.uniform(5, 10))
             return sellers
     except Exception as e:
         logging.error(f"Ошибка загрузки страницы FunPay: {str(e)}")
@@ -140,7 +163,7 @@ def get_league_start_date(league_name):
             if league["id"].lower().replace(" ", "_") == league_name:
                 start_date = league["startAt"]
                 logging.info(f"Найдена лига: {league['id']} (старт: {start_date})")
-                return start_date[:7]  # Вернуть год-месяц (YYYY-MM)
+                return start_date[:7]
         
         logging.warning(f"Лига {league_name} не найдена в API, использую KNOWN_LEAGUE_DATES")
         return KNOWN_LEAGUE_DATES.get(league_name, datetime.now().strftime("%Y-%m"))
