@@ -30,14 +30,27 @@ def get_leagues():
         "Accept-Encoding": "gzip, deflate, br",
         "Connection": "keep-alive",
         "X-Requested-With": "XMLHttpRequest",
-        "Cookie": "currency=RUB; currency_id=1"
+        "Cookie": "currency=rub"
     }
     
     leagues = []
     url = "https://funpay.com/chips/173/?currency=RUB"
-    for attempt in range(3):
+    
+    with Session() as session:
+        # Предварительный запрос для установки сессии
         try:
-            with Session() as session:
+            init_url = "https://funpay.com/?currency=RUB"
+            init_response = session.get(init_url, headers=headers, timeout=10)
+            logging.info(f"Статус ответа FunPay (инициализация): {init_response.status_code}")
+            init_response.raise_for_status()
+            # Логируем куки
+            cookies = session.cookies.get_dict()
+            logging.info(f"Полученные куки после инициализации: {cookies}")
+        except Exception as e:
+            logging.error(f"Ошибка инициализации сессии: {str(e)}")
+        
+        for attempt in range(3):
+            try:
                 response = session.get(url, headers=headers, timeout=10)
                 logging.info(f"Статус ответа FunPay: {response.status_code}")
                 response.raise_for_status()
@@ -103,10 +116,10 @@ def get_leagues():
                     logging.warning("Лига (PC) Settlers of Kalguur не найдена")
                     time.sleep(random.uniform(2, 5))
                     continue
-        except Exception as e:
-            logging.error(f"Ошибка получения лиг (попытка {attempt + 1}): {str(e)}")
-            time.sleep(random.uniform(2, 5))
-            continue
+            except Exception as e:
+                logging.error(f"Ошибка получения лиг (попытка {attempt + 1}): {str(e)}")
+                time.sleep(random.uniform(2, 5))
+                continue
     
     logging.error("Не удалось найти лигу, возвращаем пустой список")
     return []
@@ -123,12 +136,24 @@ def get_sellers_data(league_id):
         "Accept-Encoding": "gzip, deflate, br",
         "Connection": "keep-alive",
         "X-Requested-With": "XMLHttpRequest",
-        "Cookie": "currency=RUB; currency_id=1"
+        "Cookie": "currency=rub"
     }
     
-    for attempt in range(3):
+    with Session() as session:
+        # Предварительный запрос для установки сессии
         try:
-            with Session() as session:
+            init_url = "https://funpay.com/?currency=RUB"
+            init_response = session.get(init_url, headers=headers, timeout=10)
+            logging.info(f"Статус ответа FunPay (инициализация): {init_response.status_code}")
+            init_response.raise_for_status()
+            # Логируем куки
+            cookies = session.cookies.get_dict()
+            logging.info(f"Полученные куки после инициализации: {cookies}")
+        except Exception as e:
+            logging.error(f"Ошибка инициализации сессии: {str(e)}")
+        
+        for attempt in range(3):
+            try:
                 response = session.get(url, headers=headers, timeout=10)
                 logging.info(f"Статус ответа FunPay для {url}: {response.status_code}")
                 response.raise_for_status()
@@ -206,10 +231,10 @@ def get_sellers_data(league_id):
                     time.sleep(random.uniform(5, 10))
                     return sellers
                 break
-        except Exception as e:
-            logging.error(f"Ошибка загрузки страницы FunPay для {url} (попытка {attempt + 1}): {str(e)}")
-            time.sleep(random.uniform(2, 5))
-            continue
+            except Exception as e:
+                logging.error(f"Ошибка загрузки страницы FunPay для {url} (попытка {attempt + 1}): {str(e)}")
+                time.sleep(random.uniform(2, 5))
+                continue
     
     logging.error(f"Не удалось загрузить страницу продавцов: {url}")
     return []
