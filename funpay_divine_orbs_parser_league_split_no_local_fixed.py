@@ -130,7 +130,7 @@ def get_leagues():
 
 def get_sellers_data(league_id):
     logging.info("Сбор данных о продавцах...")
-    sellers = []
+    all_offers = []
     url = "https://funpay.com/chips/173/"
     headers = {
         "User-Agent": UserAgent().random,
@@ -170,13 +170,13 @@ def get_sellers_data(league_id):
                     logging.warning(f"Селектор a.tc-item с data-server={league_id} не нашёл продавцов на {url}")
                     break
                 
-                for offer in offers:
+                for index, offer in enumerate(offers, 1):
                     try:
                         # Имя продавца
                         seller_name_elem = offer.find("div", class_="media-user-name")
                         seller_name = seller_name_elem.text.strip() if seller_name_elem else None
                         if not seller_name:
-                            logging.error("Не найдено имя продавца")
+                            logging.error(f"Не найдено имя продавца на позиции {index}")
                             continue
                         
                         # Количество
@@ -188,7 +188,7 @@ def get_sellers_data(league_id):
                         price_text = None
                         price_div = offer.find("div", class_="tc-price")
                         if price_div:
-                            logging.info(f"Сырой текст div.tc-price для {seller_name}: {price_div.text}")
+                            logging.info(f"Сырой текст div.tc-price для {seller_name} (позиция {index}): {price_div.text}")
                             price_inner_div = price_div.find("div")
                             if price_inner_div:
                                 logging.info(f"Сырой текст price_inner_div для {seller_name}: {price_inner_div.text}")
@@ -206,28 +206,35 @@ def get_sellers_data(league_id):
                                 if "$" in price_div.text:
                                     price = price * usd_to_rub_rate
                                     logging.info(f"Конверсия для {seller_name}: {price / usd_to_rub_rate} $ -> {price} ₽ (курс: {usd_to_rub_rate})")
+                                # Округляем до 2 знаков
+                                price = round(price, 2)
                                 logging.info(f"Финальная цена для {seller_name}: {price}")
                             except ValueError:
                                 logging.error(f"Не удалось преобразовать цену для {seller_name}: {price_text}")
                                 continue
                         else:
-                            logging.error(f"Не найдён элемент цены для {seller_name}")
+                            logging.error(f"Не найдён элемент цены для {seller_name} на позиции {index}")
                             continue
                         
-                        sellers.append({
+                        all_offers.append({
                             "Timestamp": datetime.now(pytz.timezone("Europe/Moscow")).strftime("%Y-%m-%d %H:%M:%S"),
                             "Seller": seller_name,
                             "Stock": stock,
-                            "Price": price
+                            "Price": price,
+                            "Position": index
                         })
                     except Exception as e:
-                        logging.error(f"Ошибка обработки продавца: {str(e)}")
+                        logging.error(f"Ошибка обработки продавца на позиции {index}: {str(e)}")
                         continue
                 
-                if sellers:
-                    logging.info(f"Собрано продавцов: {len(sellers)}")
+                if all_offers:
+                    # Фильтрация: игнорируем первые 3, берём позиции 3–13
+                    filtered_offers = [offer for offer in all_offers if 3 < offer["Position"] <= 13]
+                    logging.info(f"Отфильтровано продавцов: {len(filtered_offers)} (позиции 4–13)")
+                    for offer in filtered_offers:
+                        logging.info(f"Сохранён продавец: {offer['Seller']} (позиция {offer['Position']}, цена {offer['Price']} ₽)")
                     time.sleep(random.uniform(5, 10))
-                    return sellers
+                    return filtered_offers
                 break
             except Exception as e:
                 logging.error(f"Ошибка загрузки страницы FunPay для {url} (попытка {attempt + 1}): {str(e)}")
