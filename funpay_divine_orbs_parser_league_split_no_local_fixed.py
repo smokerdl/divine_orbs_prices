@@ -55,7 +55,8 @@ def get_leagues():
                     try:
                         league_id = option["value"]
                         league_name = option.text.strip().lower().replace(" ", "_")
-                        if league_id and "(pc)_settlers_of_kalguur" in league_name:
+                        # Точное совпадение с (pc)_settlers_of_kalguur
+                        if league_id and league_name == "(pc)_settlers_of_kalguur":
                             leagues.append({"name": "settlers_of_kalguur", "id": league_id})
                             logging.info(f"Найдена лига: {league_name} (ID: {league_id})")
                     except Exception as e:
@@ -68,6 +69,7 @@ def get_leagues():
                         league_data = [{"name": l["name"], "id": l["id"], "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S")} for l in leagues]
                         g = Github(os.getenv("GITHUB_TOKEN"))
                         repo = g.get_repo("smokerdl/divine_orbs_prices")
+                        logging.info("Подключение к GitHub успешно")
                         try:
                             contents = repo.get_contents("league_ids.json")
                             existing_data = json.loads(contents.decoded_content.decode())
@@ -78,6 +80,7 @@ def get_leagues():
                                 json.dumps(existing_data, indent=4),
                                 contents.sha
                             )
+                            logging.info("Файл league_ids.json обновлён")
                         except GithubException as e:
                             if e.status == 404:
                                 repo.create_file(
@@ -85,6 +88,9 @@ def get_leagues():
                                     "Create league_ids.json",
                                     json.dumps(league_data, indent=4)
                                 )
+                                logging.info("Файл league_ids.json создан")
+                            else:
+                                logging.error(f"Ошибка GitHub API: {str(e)}")
                     except Exception as e:
                         logging.error(f"Ошибка сохранения league_ids.json: {str(e)}")
                     
@@ -92,7 +98,7 @@ def get_leagues():
                     time.sleep(random.uniform(5, 10))
                     return leagues
                 else:
-                    logging.warning("Лига Settlers of Kalguur не найдена")
+                    logging.warning("Лига (PC) Settlers of Kalguur не найдена")
                     time.sleep(random.uniform(2, 5))
                     continue
         except Exception as e:
@@ -106,7 +112,7 @@ def get_leagues():
 def get_sellers_data(league_id):
     logging.info("Сбор данных о продавцах...")
     sellers = []
-    url = f"https://funpay.com/lots/{league_id}/trade"
+    url = f"https://funpay.com/lots/{league_id}/"
     headers = {
         "User-Agent": UserAgent().random,
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
@@ -132,16 +138,25 @@ def get_sellers_data(league_id):
                     f.write(soup.prettify())
                 logging.info("HTML страницы продавцов сохранён в funpay_sellers.html")
                 
-                offers = soup.find_all("a", class_="tc-item")
+                # Пробуем несколько селекторов для продавцов
+                offers = soup.find_all("a", class_="tc-item") or soup.find_all("div", class_="offer-item")
                 logging.info(f"Найдено продавцов: {len(offers)}")
                 
                 for offer in offers:
                     try:
-                        seller_name = offer.find("div", class_="tc-user").text.strip()
-                        stock = offer.find("div", class_="tc-amount").text.strip()
+                        # Имя продавца
+                        seller_name_elem = offer.find("div", class_="tc-user") or offer.find("div", class_="seller-name")
+                        seller_name = seller_name_elem.text.strip() if seller_name_elem else None
+                        if not seller_name:
+                            logging.error("Не найдено имя продавца")
+                            continue
+                        
+                        # Количество
+                        stock_elem = offer.find("div", class_="tc-amount") or offer.find("div", class_="offer-amount")
+                        stock = stock_elem.text.strip() if stock_elem else "0"
                         stock = re.sub(r"[^\d]", "", stock)  # Очищаем количество
                         
-                        # Пробуем новый селектор для цены
+                        # Цена
                         price_text = None
                         price_div = offer.find("div", class_="tc-price")
                         if price_div:
@@ -191,9 +206,15 @@ def get_sellers_data(league_id):
 
 def get_league_start_date(league_name):
     logging.info("Получение даты начала лиги через API PoE...")
+    headers = {
+        "User-Agent": UserAgent().random,
+        "Accept": "application/json",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Connection": "keep-alive"
+    }
     for attempt in range(3):
         try:
-            response = requests.get("https://www.pathofexile.com/api/leagues?type=main", timeout=5)
+            response = requests.get("https://www.pathofexile.com/api/leagues?type=main", headers=headers, timeout=10)
             response.raise_for_status()
             leagues = response.json()
             logging.info(f"API PoE вернул {len(leagues)} лиг")
@@ -242,6 +263,7 @@ def save_to_github(data, league_name, start_date):
                     json.dumps(data, indent=4)
                 )
             else:
+                logging.error(f"Ошибка GitHub API: {str(e)}")
                 raise e
         
         logging.info(f"Файл {filename} обновлён, записей: {len(data) if 'existing_data' not in locals() else len(existing_data)}")
