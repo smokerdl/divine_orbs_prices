@@ -30,14 +30,15 @@ def get_leagues():
         "Accept-Encoding": "gzip, deflate, br",
         "Connection": "keep-alive",
         "X-Requested-With": "XMLHttpRequest",
-        "Cookie": "currency=RUB"
+        "Cookie": "currency=RUB; currency_id=1"
     }
     
     leagues = []
+    url = "https://funpay.com/chips/173/?currency=RUB"
     for attempt in range(3):
         try:
             with Session() as session:
-                response = session.get("https://funpay.com/chips/173/", headers=headers, timeout=10)
+                response = session.get(url, headers=headers, timeout=10)
                 logging.info(f"Статус ответа FunPay: {response.status_code}")
                 response.raise_for_status()
                 soup = BeautifulSoup(response.text, "html.parser")
@@ -113,7 +114,7 @@ def get_leagues():
 def get_sellers_data(league_id):
     logging.info("Сбор данных о продавцах...")
     sellers = []
-    url = "https://funpay.com/chips/173/"
+    url = "https://funpay.com/chips/173/?currency=RUB"
     headers = {
         "User-Agent": UserAgent().random,
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
@@ -122,7 +123,7 @@ def get_sellers_data(league_id):
         "Accept-Encoding": "gzip, deflate, br",
         "Connection": "keep-alive",
         "X-Requested-With": "XMLHttpRequest",
-        "Cookie": "currency=RUB"
+        "Cookie": "currency=RUB; currency_id=1"
     }
     
     for attempt in range(3):
