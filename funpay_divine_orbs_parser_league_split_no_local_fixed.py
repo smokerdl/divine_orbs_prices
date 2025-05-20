@@ -166,18 +166,21 @@ def get_sellers_data(league_id):
                         price_text = None
                         price_div = offer.find("div", class_="tc-price")
                         if price_div:
+                            logging.info(f"Сырой текст div.tc-price для {seller_name}: {price_div.text}")
                             price_inner_div = price_div.find("div")
                             if price_inner_div:
+                                logging.info(f"Сырой текст price_inner_div для {seller_name}: {price_inner_div.text}")
                                 price_span = price_inner_div.find("span", class_="unit")
                                 if price_span:
                                     price_text = price_inner_div.text.replace(price_span.text, "").strip()
+                                    logging.info(f"Очищенный текст цены для {seller_name}: {price_text}")
                         
                         if price_text:
-                            logging.info(f"Извлечённая цена для {seller_name}: {price_text}")
                             # Очищаем цену
                             price = re.sub(r"[^\d.]", "", price_text.replace(",", "."))
                             try:
                                 price = float(price)
+                                logging.info(f"Финальная цена для {seller_name}: {price}")
                             except ValueError:
                                 logging.error(f"Не удалось преобразовать цену для {seller_name}: {price_text}")
                                 continue
