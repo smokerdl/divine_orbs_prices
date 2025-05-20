@@ -26,10 +26,11 @@ def get_leagues():
         "User-Agent": UserAgent().random,
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
         "Referer": "https://funpay.com/",
-        "Accept-Language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+        "Accept-Language": "ru-RU,ru;q=1.0",
         "Accept-Encoding": "gzip, deflate, br",
         "Connection": "keep-alive",
-        "X-Requested-With": "XMLHttpRequest"
+        "X-Requested-With": "XMLHttpRequest",
+        "Cookie": "currency=RUB"
     }
     
     leagues = []
@@ -43,7 +44,7 @@ def get_leagues():
                 
                 # Логируем HTML для отладки
                 with open("funpay_leagues.html", "w", encoding="utf-8") as f:
-                    f.write(soup.prettify())
+                    f.write(soup.pretty_print())
                 logging.info("HTML страницы лиг сохранён в funpay_leagues.html")
                 
                 select = soup.find("select", {"name": "server"})
@@ -117,10 +118,11 @@ def get_sellers_data(league_id):
         "User-Agent": UserAgent().random,
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
         "Referer": "https://funpay.com/",
-        "Accept-Language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+        "Accept-Language": "ru-RU,ru;q=1.0",
         "Accept-Encoding": "gzip, deflate, br",
         "Connection": "keep-alive",
-        "X-Requested-With": "XMLHttpRequest"
+        "X-Requested-With": "XMLHttpRequest",
+        "Cookie": "currency=RUB"
     }
     
     for attempt in range(3):
@@ -137,7 +139,7 @@ def get_sellers_data(league_id):
                 
                 soup = BeautifulSoup(response.text, "html.parser")
                 with open("funpay_sellers.html", "w", encoding="utf-8") as f:
-                    f.write(soup.prettify())
+                    f.write(soup.pretty_print())
                 logging.info("HTML страницы продавцов сохранён в funpay_sellers.html")
                 
                 # Фильтруем продавцов по data-server
@@ -216,7 +218,7 @@ def get_league_start_date(league_name):
     headers = {
         "User-Agent": UserAgent().random,
         "Accept": "application/json",
-        "Accept-Language": "en-US,en;q=0.9",
+        "Accept-Language": "ru-RU,ru;q=1.0",
         "Connection": "keep-alive"
     }
     for attempt in range(3):
