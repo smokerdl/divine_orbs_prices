@@ -24,12 +24,14 @@ def get_leagues():
     logging.info("Получение списка лиг...")
     headers = {
         "User-Agent": UserAgent().random,
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "Referer": "https://funpay.com/",
+        "Accept-Language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7"
     }
     
     try:
         with Session() as session:
-            response = session.get("https://funpay.com/lots/offer?category=123", headers=headers)
+            response = session.get("https://funpay.com/chips/173/", headers=headers)
             logging.info(f"Статус ответа FunPay: {response.status_code}")
             response.raise_for_status()
             soup = BeautifulSoup(response.text, "html.parser")
@@ -37,10 +39,14 @@ def get_leagues():
             league_elements = soup.find_all("a", class_="tc-item")
             leagues = []
             for elem in league_elements:
-                league_name = elem.find("div", class_="tc-desc").text.strip().lower().replace(" ", "_")
-                league_id = elem["href"].split("/")[-2]
-                if "settlers" in league_name:
-                    leagues.append({"name": league_name, "id": league_id})
+                try:
+                    league_name = elem.find("div", class_="tc-desc").text.strip().lower().replace(" ", "_")
+                    league_id = elem["href"].split("/")[-2]
+                    if "settlers" in league_name:
+                        leagues.append({"name": league_name, "id": league_id})
+                except Exception as e:
+                    logging.error(f"Ошибка обработки элемента лиги: {str(e)}")
+                    continue
             
             logging.info(f"Найдено подходящих лиг: {len(leagues)}")
             for league in leagues:
@@ -58,7 +64,9 @@ def get_sellers_data(league_id):
     url = f"https://funpay.com/lots/{league_id}/"
     headers = {
         "User-Agent": UserAgent().random,
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "Referer": "https://funpay.com/",
+        "Accept-Language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7"
     }
     
     try:
@@ -77,12 +85,20 @@ def get_sellers_data(league_id):
                     stock = offer.find("div", class_="tc-amount").text.strip()
                     stock = re.sub(r"[^\d]", "", stock)  # Очищаем количество
                     
-                    # Извлекаем цену
+                    # Пробуем основной селектор цены
+                    price_text = None
                     price_element = offer.find("div", class_="tc-price")
                     if price_element:
                         price_text = price_element.find("div", class_="amount").text.strip()
+                    else:
+                        # Альтернативный селектор, если основной не сработал
+                        price_element = offer.find("div", class_="price-block")
+                        if price_element:
+                            price_text = price_element.find("span", class_="price-amount").text.strip()
+                    
+                    if price_text:
                         logging.info(f"Извлечённая цена для {seller_name}: {price_text}")
-                        # Очищаем цену, оставляя только цифры и точку
+                        # Очищаем цену: заменяем запятые на точки, убираем лишние символы
                         price = re.sub(r"[^\d.]", "", price_text.replace(",", "."))
                         try:
                             price = float(price)
