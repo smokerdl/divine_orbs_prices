@@ -14,236 +14,173 @@ import pytz
 
 # Настройка логирования
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-logger = logging.getLogger(__name__)
 
-# URL страницы FunPay
-URL = "https://funpay.com/chips/173/"
-
-# Заголовки для имитации браузера
-ua = UserAgent()
-HEADERS = {
-    "User-Agent": ua.random,  # Случайный User-Agent для каждого запроса
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-    "Accept-Language": "en-US,en;q=0.9,ru;q=0.8",
-    "Accept-Encoding": "gzip, deflate, br",
-    "Connection": "keep-alive",
-    "DNT": "1",
-    "Upgrade-Insecure-Requests": "1",
-    "Sec-Fetch-Dest": "document",
-    "Sec-Fetch-Mode": "navigate",
-    "Sec-Fetch-Site": "none",
-    "Sec-Fetch-User": "?1"
-}
-
-# GitHub настройки
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
-REPO_NAME = "smokerdl/divine_orbs_prices"
-
-# Fallback даты старта для известных лиг
+# Словарь с известными датами лиг
 KNOWN_LEAGUE_DATES = {
     "settlers_of_kalguur": "2024-07"
 }
 
-def normalize_league_name(name):
-    """Нормализует имя лиги для сравнения."""
-    name = re.sub(r"[^\w\s]", "", name).replace(" ", "").replace("_", "").lower()
-    return name
-
 def get_leagues():
-    """Получает список подходящих лиг с FunPay, фильтруя по '(PC)' и исключая нежелательные."""
+    logging.info("Получение списка лиг...")
+    headers = {
+        "User-Agent": UserAgent().random,
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+    }
+    
     try:
-        time.sleep(random.uniform(5, 10))  # Случайная задержка
-        session = Session()
-        session.headers.update({**HEADERS, "User-Agent": ua.random})  # Обновляем User-Agent
-        response = session.get(URL)
-        logger.info(f"Статус ответа FunPay: {response.status_code}")
-        if response.status_code != 200:
-            logger.error(f"Ошибка загрузки страницы FunPay: {response.status_code}")
-            return []
-
-        soup = BeautifulSoup(response.text, "html.parser")
-        select = soup.find("select", {"name": "server"}) or soup.find("select", {"class": "form-control showcase-filter-input"})
-        if not select:
-            logger.error("Не найдено выпадающее меню лиг")
-            return []
-
-        leagues = []
-        for option in select.find_all("option"):
-            league_id = option.get("value")
-            league_name = option.text.strip()
-
-            # Фильтрация: только лиги с приставкой (PC), исключаем Standard, Hardcore, Ruthless
-            if not league_name.startswith("(PC)"):
-                continue
-            if "standard" in league_name.lower() or any(keyword in league_name.lower() for keyword in ["hardcore", "ruthless"]):
-                continue
-            if any(suffix in league_name for suffix in ["[Hardcore]", "[Ruthless Hardcore]", "[Ruthless]"]):
-                continue
-
-            # Нормализуем название для имени файла
-            league_name_safe = re.sub(r"[^\w\s-]", "", league_name.replace("(PC)", "").strip()).replace(" ", "_").lower()
-            leagues.append({"id": league_id, "name": league_name_safe})
-
-        # Сортируем по ID, предполагая, что новая лига имеет самый высокий ID
-        leagues.sort(key=lambda x: int(x["id"]), reverse=True)
-        logger.info(f"Найдено подходящих лиг: {len(leagues)}")
-        for league in leagues:
-            logger.info(f"Лига: {league['name']} (ID: {league['id']})")
-        return leagues
+        with Session() as session:
+            response = session.get("https://funpay.com/lots/offer?category=123", headers=headers)
+            logging.info(f"Статус ответа FunPay: {response.status_code}")
+            response.raise_for_status()
+            soup = BeautifulSoup(response.text, "html.parser")
+            
+            league_elements = soup.find_all("a", class_="tc-item")
+            leagues = []
+            for elem in league_elements:
+                league_name = elem.find("div", class_="tc-desc").text.strip().lower().replace(" ", "_")
+                league_id = elem["href"].split("/")[-2]
+                if "settlers" in league_name:
+                    leagues.append({"name": league_name, "id": league_id})
+            
+            logging.info(f"Найдено подходящих лиг: {len(leagues)}")
+            for league in leagues:
+                logging.info(f"Лига: {league['name']} (ID: {league['id']})")
+            
+            time.sleep(random.uniform(5, 10))
+            return leagues
     except Exception as e:
-        logger.error(f"Ошибка при парсинге лиг: {e}")
+        logging.error(f"Ошибка получения лиг: {str(e)}")
+        return []
+
+def get_sellers_data(league_id):
+    logging.info("Сбор данных о продавцах...")
+    sellers = []
+    url = f"https://funpay.com/lots/{league_id}/"
+    headers = {
+        "User-Agent": UserAgent().random,
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+    }
+    
+    try:
+        with Session() as session:
+            response = session.get(url, headers=headers)
+            logging.info(f"Статус ответа FunPay: {response.status_code}")
+            response.raise_for_status()
+            soup = BeautifulSoup(response.text, "html.parser")
+            
+            offers = soup.find_all("a", class_="tc-item")
+            logging.info(f"Найдено продавцов: {len(offers)}")
+            
+            for offer in offers:
+                try:
+                    seller_name = offer.find("div", class_="tc-user").text.strip()
+                    stock = offer.find("div", class_="tc-amount").text.strip()
+                    stock = re.sub(r"[^\d]", "", stock)  # Очищаем количество
+                    
+                    # Извлекаем цену
+                    price_element = offer.find("div", class_="tc-price")
+                    if price_element:
+                        price_text = price_element.find("div", class_="amount").text.strip()
+                        logging.info(f"Извлечённая цена для {seller_name}: {price_text}")
+                        # Очищаем цену, оставляя только цифры и точку
+                        price = re.sub(r"[^\d.]", "", price_text.replace(",", "."))
+                        try:
+                            price = float(price)
+                            # Проверяем, не слишком ли низкая цена (меньше 0.1 рубля)
+                            if price < 0.1:
+                                logging.warning(f"Аномально низкая цена для {seller_name}: {price} рубля")
+                                continue  # Пропускаем запись
+                        except ValueError:
+                            logging.error(f"Не удалось преобразовать цену для {seller_name}: {price_text}")
+                            continue
+                    else:
+                        logging.error(f"Не найдён элемент цены для {seller_name}")
+                        continue
+                    
+                    sellers.append({
+                        "Timestamp": datetime.now(pytz.timezone("Europe/Moscow")).strftime("%Y-%m-%d %H:%M:%S"),
+                        "Seller": seller_name,
+                        "Stock": stock,
+                        "Price": price
+                    })
+                except Exception as e:
+                    logging.error(f"Ошибка обработки продавца: {str(e)}")
+                    continue
+                
+            time.sleep(random.uniform(5, 10))  # Задержка для избежания блокировки
+            return sellers
+    except Exception as e:
+        logging.error(f"Ошибка загрузки страницы FunPay: {str(e)}")
         return []
 
 def get_league_start_date(league_name):
-    """Получает дату старта лиги через API Path of Exile."""
+    logging.info("Получение даты начала лиги через API PoE...")
     try:
-        session = Session()
-        session.headers.update({"User-Agent": ua.random})
-        response = session.get("https://api.pathofexile.com/leagues")
-        if response.status_code != 200:
-            logger.error(f"Ошибка загрузки API PoE: {response.status_code}")
-            return KNOWN_LEAGUE_DATES.get(league_name, datetime.now().strftime("%Y-%m"))
-
+        response = requests.get("https://www.pathofexile.com/api/leagues?type=main")
         leagues = response.json()
-        logger.info(f"API PoE вернул {len(leagues)} лиг")
-        normalized_input = normalize_league_name(league_name)
+        logging.info(f"API PoE вернул {len(leagues)} лиг")
+        
         for league in leagues:
-            normalized_api_name = normalize_league_name(league["id"])
-            if normalized_api_name in normalized_input:
-                start_date = league.get("startAt")
-                if start_date:
-                    logger.info(f"Найдена лига: {league['id']} (старт: {start_date})")
-                    return datetime.strptime(start_date, "%Y-%m-%dT%H:%M:%SZ").strftime("%Y-%m")
-
-        logger.warning(f"Дата старта для лиги {league_name} не найдена в API, используется fallback")
+            if league["id"].lower().replace(" ", "_") == league_name:
+                start_date = league["startAt"]
+                logging.info(f"Найдена лига: {league['id']} (старт: {start_date})")
+                return start_date[:7]  # Вернуть год-месяц (YYYY-MM)
+        
+        logging.warning(f"Лига {league_name} не найдена в API, использую KNOWN_LEAGUE_DATES")
         return KNOWN_LEAGUE_DATES.get(league_name, datetime.now().strftime("%Y-%m"))
     except Exception as e:
-        logger.error(f"Ошибка при получении даты лиги: {e}")
+        logging.error(f"Ошибка API PoE: {str(e)}")
         return KNOWN_LEAGUE_DATES.get(league_name, datetime.now().strftime("%Y-%m"))
 
-def get_sellers_data(league_id):
-    """Получает данные о продавцах с сайта FunPay для указанной лиги."""
+def save_to_github(data, league_name, start_date):
+    logging.info("Попытка подключения к GitHub...")
     try:
-        time.sleep(random.uniform(5, 10))  # Случайная задержка
-        session = Session()
-        session.headers.update({**HEADERS, "User-Agent": ua.random})  # Обновляем User-Agent
-        response = session.get(URL)
-        if response.status_code != 200:
-            logger.error(f"Ошибка загрузки страницы: {response.status_code}")
-            return []
-
-        soup = BeautifulSoup(response.text, "html.parser")
-        offers = soup.find_all("a", {"class": "tc-item"})
-
-        sellers = []
-        for offer in offers:
-            if offer.get("data-server") != league_id or offer.get("data-online") != "1":
-                continue
-            seller_name = offer.find("div", {"class": "media-user-name"}).text.strip()
-            stock = offer.find("div", {"class": "tc-amount"}).text.strip()
-            price = offer.find("div", {"class": "tc-price"}).text.strip().split()[0]
-            sellers.append({
-                "Timestamp": datetime.now(pytz.timezone("Europe/Moscow")).strftime("%Y-%m-%d %H:%M:%S"),
-                "Seller": seller_name,
-                "Stock": stock,
-                "Price": float(price)
-            })
-            if len(sellers) == 10:
-                break
-        logger.info(f"Найдено продавцов: {len(sellers)}")
-        return sellers
-    except Exception as e:
-        logger.error(f"Ошибка при парсинге продавцов: {e}")
-        return []
-
-def upload_to_github(data, league_name, start_date):
-    """Загружает данные в JSON-файл в GitHub-репозиторий."""
-    file_path_in_repo = f"prices_{league_name}_{start_date}.json"
-    try:
-        if not GITHUB_TOKEN:
-            logger.error("Ошибка: GITHUB_TOKEN не установлен в переменной окружения.")
-            return False
-
-        logger.info("Попытка подключения к GitHub...")
-        g = Github(GITHUB_TOKEN)
-
-        repo = g.get_repo(REPO_NAME)
-        logger.info(f"Репозиторий {REPO_NAME} успешно найден.")
-
-        # Получаем существующие данные из GitHub, если файл существует
-        existing_data = []
+        g = Github(os.getenv("GITHUB_TOKEN"))
+        repo = g.get_repo("smokerdl/divine_orbs_prices")
+        logging.info(f"Репозиторий smokerdl/divine_orbs_prices успешно найден.")
+        
+        filename = f"prices_{league_name}_{start_date}.json"
         try:
-            file = repo.get_contents(file_path_in_repo, ref="main")
-            existing_data = json.loads(file.decoded_content.decode("utf-8"))
-            logger.info(f"Файл {file_path_in_repo} уже существует, обновляем...")
+            contents = repo.get_contents(filename)
+            logging.info(f"Файл {filename} уже существует, обновляем...")
+            existing_data = json.loads(contents.decoded_content.decode())
+            existing_data.extend(data)
+            repo.update_file(
+                contents.path,
+                f"Update {filename} with new data",
+                json.dumps(existing_data, indent=4),
+                contents.sha
+            )
         except GithubException as e:
             if e.status == 404:
-                logger.info(f"Файл {file_path_in_repo} не существует, создаём...")
-            else:
-                logger.error(f"Ошибка GitHub API при получении файла: {e.status} - {e.data}")
-                return False
-
-        # Добавляем новые данные
-        existing_data.extend(data)
-        content = json.dumps(existing_data, indent=4)
-
-        # Обновляем или создаём файл
-        try:
-            if existing_data and file:  # Файл существует
-                repo.update_file(
-                    path=file_path_in_repo,
-                    message=f"Update {file_path_in_repo} at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
-                    content=content,
-                    sha=file.sha,
-                    branch="main"
-                )
-                logger.info(f"Файл {file_path_in_repo} обновлён, записей: {len(existing_data)}")
-            else:  # Файл не существует
+                logging.info(f"Файл {filename} не существует, создаём новый...")
                 repo.create_file(
-                    path=file_path_in_repo,
-                    message=f"Create {file_path_in_repo} at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
-                    content=content,
-                    branch="main"
+                    filename,
+                    f"Create {filename} with initial data",
+                    json.dumps(data, indent=4)
                 )
-                logger.info(f"Файл {file_path_in_repo} создан, записей: {len(existing_data)}")
-            return True
-        except GithubException as e:
-            logger.error(f"Ошибка GitHub API при загрузке: {e.status} - {e.data}")
-            return False
-    except GithubException as e:
-        logger.error(f"Ошибка авторизации или доступа к репозиторию: {e.status} - {e.data}")
-        return False
+            else:
+                raise e
+        
+        logging.info(f"Файл {filename} обновлён, записей: {len(data) if 'existing_data' not in locals() else len(existing_data)}")
     except Exception as e:
-        logger.error(f"Общая ошибка при загрузке в GitHub: {e}")
-        return False
+        logging.error(f"Ошибка сохранения на GitHub: {str(e)}")
 
 def main():
-    """Основная функция парсера."""
-    logger.info("Парсер запущен.")
-    try:
-        # Получаем список подходящих лиг
-        leagues = get_leagues()
-        if not leagues:
-            logger.error("Не удалось получить список лиг.")
-            return
-
-        # Текущая лига — первая в списке (с самым высоким ID)
-        league_id = leagues[0]["id"]
-        league_name = leagues[0]["name"]
+    logging.info("Парсер запущен.")
+    leagues = get_leagues()
+    
+    for league in leagues:
+        league_name = league["name"]
+        league_id = league["id"]
         start_date = get_league_start_date(league_name)
-        logger.info(f"Текущая лига: {league_name} (ID: {league_id}), дата старта: {start_date}")
-
-        # Собираем данные продавцов
+        logging.info(f"Текущая лига: {league_name} (ID: {league_id}), дата старта: {start_date}")
+        
         sellers_data = get_sellers_data(league_id)
         if sellers_data:
-            if upload_to_github(sellers_data, league_name, start_date):
-                logger.info(f"Данные обработаны: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
-            else:
-                logger.error("Ошибка при загрузке данных в GitHub.")
-        else:
-            logger.warning("Не найдено продавцов онлайн или данные недоступны.")
-    except Exception as e:
-        logger.error(f"Ошибка в основном цикле: {e}")
+            save_to_github(sellers_data, league_name, start_date)
+    
+    logging.info(f"Данные обработаны: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 
 if __name__ == "__main__":
     main()
