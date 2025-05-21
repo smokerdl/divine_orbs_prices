@@ -85,9 +85,17 @@ def get_sellers(game, league_id):
                         side_text = side_elem.text.strip().lower() if side_elem else ""
                         logger.debug(f"tc-desc для {username}: {desc_text}")
                         logger.debug(f"tc-side для {username}: {side_text}")
-                        # Пропускаем явные не-Divine Orbs
-                        if any(keyword in desc_text or keyword in side_text for keyword in ["аккаунт", "услуги", "account", "service"]):
-                            logger.debug(f"Пропущен оффер для {username}: не Divine Orbs (подозрительное описание)")
+                        # Проверяем наличие Divine Orbs
+                        if not ("divine" in desc_text or "божественные сферы" in desc_text or 
+                                "divine" in side_text or "божественные сферы" in side_text):
+                            logger.debug(f"Пропущен оффер для {username}: нет Divine Orbs в описании")
+                            continue
+                        # Исключаем другие валюты и нежелательные офферы
+                        if any(keyword in desc_text or keyword in side_text for keyword in [
+                            "хаос", "ваал", "exalted", "chaos", "vaal", "exalt", 
+                            "аккаунт", "услуги", "account", "service"
+                        ]):
+                            logger.debug(f"Пропущен оффер для {username}: содержит нежелательные ключевые слова")
                             continue
                         orb_type = "Божественные сферы"
                     
@@ -107,6 +115,7 @@ def get_sellers(game, league_id):
                     
                     price_text_clean = re.sub(r"[^\d.]", "", price_text).strip()
                     logger.debug(f"Очищенный текст цены для {username}: '{price_text_clean}'")
+                    # Проверка формата цены (например, 10.00)
                     if not re.match(r"^\d+\.\d{1,2}$", price_text_clean):
                         logger.debug(f"Пропущен оффер для {username}: неверный формат цены ({price_text_clean})")
                         continue
@@ -121,6 +130,7 @@ def get_sellers(game, league_id):
                         price_card = round(price_rub * CARD_COMMISSION, 2)
                         logger.debug(f"Цена для {username}: {price_rub} RUB (USD: {price_usd} $, СБП: {price_sbp} ₽, Карта: {price_card} ₽)")
                     except ValueError:
+                        logger.debug(f"Пропущен оффер для {username}: ошибка преобразования цены ({price_text_clean})")
                         continue
                     
                     valid_offers.append({
