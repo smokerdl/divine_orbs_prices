@@ -1,22 +1,22 @@
 [
     {
-        "Timestamp": "2025-05-21 21:55:16",
-        "Seller": "FREDDYTG",
-        "Stock": "300",
+        "Timestamp": "2025-05-21 22:09:39",
+        "Seller": "xyligannn",
+        "Stock": "2200",
         "Price": 0.03,
         "Currency": "USD",
         "Position": 1
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "muzchina333",
-        "Stock": "185",
+        "Stock": "210",
         "Price": 0.03,
         "Currency": "USD",
         "Position": 11
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "Shark2792",
         "Stock": "2",
         "Price": 0.03,
@@ -24,7 +24,7 @@
         "Position": 12
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "FREDDYTG",
         "Stock": "300",
         "Price": 0.03,
@@ -32,7 +32,7 @@
         "Position": 14
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "Heathens22",
         "Stock": "770",
         "Price": 0.03,
@@ -40,7 +40,7 @@
         "Position": 17
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "ArmagedDoNMeG",
         "Stock": "100",
         "Price": 0.03,
@@ -48,315 +48,323 @@
         "Position": 19
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "tarkovFunProvider137",
-        "Stock": "2006",
+        "Stock": "6",
         "Price": 0.03,
         "Currency": "USD",
         "Position": 24
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "dodik22898",
         "Stock": "1449",
         "Price": 0.03,
         "Currency": "USD",
-        "Position": 25
+        "Position": 26
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "windigoy",
         "Stock": "1388",
-        "Price": 0.03,
-        "Currency": "USD",
-        "Position": 32
-    },
-    {
-        "Timestamp": "2025-05-21 21:55:16",
-        "Seller": "DarkEffekt",
-        "Stock": "685",
         "Price": 0.03,
         "Currency": "USD",
         "Position": 33
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
+        "Seller": "DarkEffekt",
+        "Stock": "685",
+        "Price": 0.03,
+        "Currency": "USD",
+        "Position": 34
+    },
+    {
+        "Timestamp": "2025-05-21 22:09:39",
+        "Seller": "Alliastr",
+        "Stock": "2000",
+        "Price": 0.03,
+        "Currency": "USD",
+        "Position": 35
+    },
+    {
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "xyligannn",
         "Stock": "2200",
-        "Price": 0.03,
-        "Currency": "USD",
-        "Position": 36
-    },
-    {
-        "Timestamp": "2025-05-21 21:55:16",
-        "Seller": "Medo773",
-        "Stock": "870",
-        "Price": 0.03,
-        "Currency": "USD",
-        "Position": 37
-    },
-    {
-        "Timestamp": "2025-05-21 21:55:16",
-        "Seller": "Tetsyo",
-        "Stock": "2830",
         "Price": 0.03,
         "Currency": "USD",
         "Position": 38
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
-        "Seller": "Joka30",
-        "Stock": "2000",
+        "Timestamp": "2025-05-21 22:09:39",
+        "Seller": "Medo773",
+        "Stock": "870",
         "Price": 0.03,
         "Currency": "USD",
         "Position": 39
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
-        "Seller": "LoAZuko",
-        "Stock": "21632",
-        "Price": 0.04,
+        "Timestamp": "2025-05-21 22:09:39",
+        "Seller": "Tetsyo",
+        "Stock": "2830",
+        "Price": 0.03,
         "Currency": "USD",
         "Position": 40
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
-        "Seller": "Haganite",
-        "Stock": "3300",
-        "Price": 0.04,
+        "Timestamp": "2025-05-21 22:09:39",
+        "Seller": "Joka30",
+        "Stock": "2000",
+        "Price": 0.03,
         "Currency": "USD",
         "Position": 41
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
-        "Seller": "NimisPoe",
-        "Stock": "2988",
+        "Timestamp": "2025-05-21 22:09:39",
+        "Seller": "LoAZuko",
+        "Stock": "21632",
         "Price": 0.04,
         "Currency": "USD",
         "Position": 42
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
-        "Seller": "oldHruchel",
-        "Stock": "10000",
+        "Timestamp": "2025-05-21 22:09:39",
+        "Seller": "Haganite",
+        "Stock": "3300",
         "Price": 0.04,
         "Currency": "USD",
         "Position": 43
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
-        "Seller": "smalldevil94",
-        "Stock": "9999999",
+        "Timestamp": "2025-05-21 22:09:39",
+        "Seller": "NimisPoe",
+        "Stock": "2988",
         "Price": 0.04,
         "Currency": "USD",
         "Position": 44
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
-        "Seller": "Proba11",
-        "Stock": "1200",
+        "Timestamp": "2025-05-21 22:09:39",
+        "Seller": "oldHruchel",
+        "Stock": "10000",
+        "Price": 0.04,
+        "Currency": "USD",
+        "Position": 45
+    },
+    {
+        "Timestamp": "2025-05-21 22:09:39",
+        "Seller": "smalldevil94",
+        "Stock": "9999999",
         "Price": 0.04,
         "Currency": "USD",
         "Position": 46
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
+        "Seller": "Proba11",
+        "Stock": "1200",
+        "Price": 0.04,
+        "Currency": "USD",
+        "Position": 48
+    },
+    {
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "egorbuk223",
         "Stock": "99999",
         "Price": 0.04,
         "Currency": "USD",
-        "Position": 54
+        "Position": 56
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "shtefko",
         "Stock": "1526",
-        "Price": 0.05,
-        "Currency": "USD",
-        "Position": 68
-    },
-    {
-        "Timestamp": "2025-05-21 21:55:16",
-        "Seller": "mbfor",
-        "Stock": "155",
         "Price": 0.05,
         "Currency": "USD",
         "Position": 70
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
+        "Seller": "mbfor",
+        "Stock": "155",
+        "Price": 0.05,
+        "Currency": "USD",
+        "Position": 72
+    },
+    {
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "Kronasss",
         "Stock": "5386",
-        "Price": 0.05,
-        "Currency": "USD",
-        "Position": 74
-    },
-    {
-        "Timestamp": "2025-05-21 21:55:16",
-        "Seller": "Tasoky",
-        "Stock": "226",
-        "Price": 0.05,
-        "Currency": "USD",
-        "Position": 75
-    },
-    {
-        "Timestamp": "2025-05-21 21:55:16",
-        "Seller": "Darji",
-        "Stock": "2097",
         "Price": 0.05,
         "Currency": "USD",
         "Position": 76
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
+        "Seller": "Tasoky",
+        "Stock": "226",
+        "Price": 0.05,
+        "Currency": "USD",
+        "Position": 77
+    },
+    {
+        "Timestamp": "2025-05-21 22:09:39",
+        "Seller": "Darji",
+        "Stock": "2097",
+        "Price": 0.05,
+        "Currency": "USD",
+        "Position": 78
+    },
+    {
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "BogOdin",
         "Stock": "1195",
         "Price": 0.07,
         "Currency": "USD",
-        "Position": 79
+        "Position": 81
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "NikAce1",
         "Stock": "777777",
         "Price": 0.08,
         "Currency": "USD",
-        "Position": 80
+        "Position": 82
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "UZURPATORtm",
         "Stock": "1000000000",
         "Price": 0.09,
         "Currency": "USD",
-        "Position": 83
+        "Position": 85
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "KrAsIvO2018",
         "Stock": "1000000000",
-        "Price": 0.09,
-        "Currency": "USD",
-        "Position": 84
-    },
-    {
-        "Timestamp": "2025-05-21 21:55:16",
-        "Seller": "VladislavSergeevich",
-        "Stock": "18925",
         "Price": 0.09,
         "Currency": "USD",
         "Position": 86
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
+        "Seller": "VladislavSergeevich",
+        "Stock": "18925",
+        "Price": 0.09,
+        "Currency": "USD",
+        "Position": 88
+    },
+    {
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "grewen",
         "Stock": "20646",
         "Price": 0.1,
         "Currency": "USD",
-        "Position": 87
+        "Position": 89
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "asdfzxc123",
         "Stock": "18848",
         "Price": 0.11,
         "Currency": "USD",
-        "Position": 89
+        "Position": 91
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "YAKUZA999",
         "Stock": "6000",
         "Price": 0.11,
         "Currency": "USD",
-        "Position": 90
+        "Position": 92
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "SHANNNISH",
         "Stock": "300",
         "Price": 0.12,
         "Currency": "USD",
-        "Position": 93
+        "Position": 95
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "lian1995",
         "Stock": "597",
-        "Price": 0.15,
-        "Currency": "USD",
-        "Position": 97
-    },
-    {
-        "Timestamp": "2025-05-21 21:55:16",
-        "Seller": "Ho0p6uT",
-        "Stock": "4",
         "Price": 0.15,
         "Currency": "USD",
         "Position": 99
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
+        "Seller": "Ho0p6uT",
+        "Stock": "4",
+        "Price": 0.15,
+        "Currency": "USD",
+        "Position": 101
+    },
+    {
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "Grado8582",
         "Stock": "9",
         "Price": 0.21,
         "Currency": "USD",
-        "Position": 104
+        "Position": 107
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "gazmyasrus",
         "Stock": "67",
         "Price": 0.3,
         "Currency": "USD",
-        "Position": 115
+        "Position": 117
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "T4sel",
         "Stock": "18",
         "Price": 0.46,
         "Currency": "USD",
-        "Position": 124
+        "Position": 126
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "SchlechtPWNZ",
         "Stock": "420",
         "Price": 0.52,
         "Currency": "USD",
-        "Position": 126
+        "Position": 128
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "SUGARush",
         "Stock": "530",
         "Price": 0.63,
         "Currency": "USD",
-        "Position": 129
+        "Position": 132
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "KotLeopold54",
         "Stock": "4",
         "Price": 3.38,
         "Currency": "USD",
-        "Position": 152
+        "Position": 155
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "yalu4shiy",
         "Stock": "30",
         "Price": 4.55,
         "Currency": "USD",
-        "Position": 155
+        "Position": 158
     },
     {
-        "Timestamp": "2025-05-21 21:55:16",
+        "Timestamp": "2025-05-21 22:09:39",
         "Seller": "DEMTORK12",
         "Stock": "1",
         "Price": 15.17,
         "Currency": "USD",
-        "Position": 161
+        "Position": 164
     }
 ]
