@@ -134,14 +134,14 @@ def get_sellers(game, league_id):
     
     for attempt in range(3):
         try:
-            response = session.get(url, timeout=15)  # proxies=proxies, если нужен прокси
+            response = session.get(url, timeout=15)
             logger.debug(f"Заголовки запроса: {response.request.headers}")
+            logger.debug(f"Куки: {session.cookies.get_dict()}")
             logger.info(f"Статус ответа FunPay для {game} (лига {league_id}): {response.status_code}")
             if response.status_code == 404:
                 logger.warning(f"Страница {url} не найдена (404)")
                 with open(f'funpay_sellers_error_{game}.html', 'w', encoding='utf-8') as f:
                     f.write(response.text)
-                logger.info(f"Сохранён ответ 404 для {game} в funpay_sellers_error_{game}.html")
                 continue
             
             response.raise_for_status()
@@ -166,9 +166,29 @@ def get_sellers(game, league_id):
                         logger.debug(f"Пропущен оффер на позиции {index}: отсутствует имя")
                         continue
                     
-                    desc_elem = offer.find("div", class_="tc-desc")
-                    orb_type = desc_elem.text.strip() if desc_elem else "Неизвестно"
+                    # Поиск типа сферы
+                    orb_type = "Божественные сферы" if game == 'poe' else "Неизвестно"
+                    if game == 'poe2':
+                        desc_elem = offer.find("div", class_="tc-desc")
+                        if desc_elem and desc_elem.text.strip():
+                            orb_type = desc_elem.text.strip()
+                            logger.debug(f"Найден tc-desc для {username}: {orb_type}")
+                        else:
+                            # Альтернативный поиск по всем div
+                            for elem in offer.find_all("div"):
+                                text = elem.text.strip().lower()
+                                if "божественные сферы" in text or "divine orbs" in text:
+                                    orb_type = "Божественные сферы"
+                                    logger.debug(f"Найден тип сферы в div для {username}: {text}")
+                                    break
                     logger.debug(f"Тип сферы для {username} (позиция {index}): {orb_type}")
+                    
+                    # Сохраняем HTML оффера
+                    with open(f'offer_{game}_{index}.html', 'w', encoding='utf-8') as f:
+                        f.write(str(offer))
+                    logger.debug(f"Сохранён HTML оффера для {username} (позиция {index})")
+                    
+                    # Для PoE 2 фильтруем только Divine Orbs
                     if game == 'poe2' and orb_type != "Божественные сферы":
                         logger.debug(f"Пропущен оффер для {username}: тип сферы не Divine Orbs ({orb_type})")
                         continue
