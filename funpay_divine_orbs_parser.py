@@ -212,9 +212,12 @@ def get_leagues(game):
 def save_to_json(data, filename):
     try:
         logger.debug(f"Попытка сохранить данные в {filename}: {data}")
+        if not data:
+            logger.warning(f"Нет данных для сохранения в {filename}")
+            return
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
-        logger.info(f"Данные успешно сохранены в {filename}")
+        logger.info(f"Данные успешно сохранены в {filename}: {data}")
     except Exception as e:
         logger.error(f"Ошибка сохранения в {filename}: {e}")
         raise
@@ -222,6 +225,9 @@ def save_to_json(data, filename):
 def upload_to_github(data, filename, repo_name, token):
     try:
         logger.debug(f"Попытка загрузки {filename} в GitHub: {data}")
+        if not token:
+            logger.error("GITHUB_TOKEN не задан")
+            return
         g = Github(token)
         repo = g.get_repo(repo_name)
         content = json.dumps(data, ensure_ascii=False, indent=4)
@@ -251,12 +257,12 @@ def main():
         filename = f"prices_{game['file_prefix']}.json"
         logger.debug(f"Перед сохранением {filename}: {sellers}")
         save_to_json(sellers, filename)
-        upload_to_github(sellers, filename, "smokerdl/divine_orbs_prices", os.getenv("GITHUB_TOKEN"))
+        # upload_to_github(sellers, filename, "smokerdl/divine_orbs_prices", os.getenv("GITHUB_TOKEN"))
         
         leagues = get_leagues(game["name"])
         if leagues:
             save_to_json(leagues, f"league_ids.json")
-            upload_to_github(leagues, f"league_ids.json", "smokerdl/divine_orbs_prices", os.getenv("GITHUB_TOKEN"))
+            # upload_to_github(leagues, f"league_ids.json", "smokerdl/divine_orbs_prices", os.getenv("GITHUB_TOKEN"))
 
 if __name__ == "__main__":
     main()
