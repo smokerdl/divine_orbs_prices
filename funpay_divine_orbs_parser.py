@@ -1,3 +1,4 @@
+```python
 import os
 import requests
 import re
@@ -20,7 +21,6 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# Консольный вывод
 console_handler = logging.StreamHandler()
 console_handler.setLevel(logging.INFO)
 console_handler.setFormatter(logging.Formatter("%(asctime)s - %(levelname)s - %(message)s"))
@@ -46,9 +46,9 @@ def get_sellers(game, league_id):
     url = POE_URL if game == 'poe' else POE2_URL
     session = requests.Session()
     session.headers.update(headers)
-    SBP_COMMISSION = 1.2118  # +21.18% для СБП
-    CARD_COMMISSION = 1.2526  # +25.26% для карты
-    FUNPAY_EXCHANGE_RATE = 79.89  # Внутренний курс ₽/$
+    SBP_COMMISSION = 1.2118
+    CARD_COMMISSION = 1.2526
+    FUNPAY_EXCHANGE_RATE = 79.89
     
     for attempt in range(3):
         try:
@@ -111,7 +111,6 @@ def get_sellers(game, league_id):
                         logger.debug(f"Пропущен оффер {index}: пустая цена")
                         continue
                     
-                    # Парсим цену в рублях
                     price_text_clean = re.sub(r"[^\d.]", "", price_text).strip()
                     if not re.match(r"^\d*\.\d+$", price_text_clean):
                         logger.debug(f"Пропущен оффер для {username}: неверный формат цены ({price_text_clean})")
@@ -131,7 +130,7 @@ def get_sellers(game, league_id):
                         "Timestamp": datetime.now(pytz.timezone("Europe/Moscow")).strftime("%Y-%m-%d %H:%M:%S"),
                         "Seller": username,
                         "Stock": amount,
-                        "Price": price_rub,  # Цена с комиссией (как на сайте)
+                        "Price": price_usd,  # Сохраняем в USD
                         "Currency": "RUB",
                         "Position": index
                     })
@@ -145,7 +144,6 @@ def get_sellers(game, league_id):
                 logger.warning(f"Нет валидных продавцов для {game} (лига {league_id})")
                 return []
             
-            # Без фильтра для PoE 2
             logger.info(f"Все продавцы для {game}: {len(sellers)}")
             return sellers
         except requests.exceptions.RequestException as e:
@@ -182,14 +180,35 @@ def get_leagues(game):
 
 def save_to_json(data, filename):
     try:
-        logger.debug(f"Попытка сохранить данные в {filename}: {data}")
+        logger.debug(f"Попытка сохранить данные в {filename}: {len(data)} записей")
         if not data:
             logger.warning(f"Нет данных для сохранения в {filename}")
             return
+        
         filepath = os.path.join(log_dir, filename)
+        existing_data = []
+        if os.path.exists(filepath):
+            try:
+                with open(filepath, 'r', encoding='utf-8') as f:
+                    existing_data = json.load(f)
+                logger.debug(f"Загружено существующих записей: {len(existing_data)}")
+            except Exception as e:
+                logger.error(f"Ошибка чтения {filepath}: {e}")
+                existing_data = []
+
+        # Фильтруем новые данные, избегая дубликатов
+        existing_keys = {(item['Timestamp'], item['Seller'], item['Position']) for item in existing_data}
+        new_data = [item for item in data if (item['Timestamp'], item['Seller'], item['Position']) not in existing_keys]
+        logger.debug(f"Новые уникальные записи: {len(new_data)}")
+
+        # Объединяем
+        combined_data = existing_data + new_data
+        logger.debug(f"Всего записей после объединения: {len(combined_data)}")
+
+        # Сохраняем
         with open(filepath, 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=4)
-        logger.info(f"Данные успешно сохранены в {filepath}")
+            json.dump(combined_data, f, ensure_ascii=False, indent=4)
+        logger.info(f"Данные успешно сохранены в {filepath}: {len(combined_data)} записей")
     except Exception as e:
         logger.error(f"Ошибка сохранения в {filepath}: {e}")
         raise
@@ -202,16 +221,33 @@ def upload_to_github(data, filename, repo_name, token):
             return
         g = Github(token)
         repo = g.get_repo(repo_name)
-        content = json.dumps(data, ensure_ascii=False, indent=4)
-        logger.debug(f"Содержимое для {filename}: {content[:100]}...")
+        
+        # Загружаем существующий файл
         try:
             file = repo.get_contents(filename)
+            existing_data = json.loads(file.decoded_content.decode('utf-8'))
+            logger.debug(f"Загружен существующий файл {filename}: {len(existing_data)} записей")
+        except Exception as e:
+            logger.debug(f"Файл {filename} не существует: {e}")
+            existing_data = []
+
+        # Фильтруем новые данные
+        existing_keys = {(item['Timestamp'], item['Seller'], item['Position']) for item in existing_data}
+        new_data = [item for item in data if (item['Timestamp'], item['Seller'], item['Position']) not in existing_keys]
+        logger.debug(f"Новые уникальные записи для GitHub: {len(new_data)}")
+
+        # Объединяем
+        combined_data = existing_data + new_data
+        content = json.dumps(combined_data, ensure_ascii=False, indent=4)
+        logger.debug(f"Содержимое для {filename}: {content[:100]}...")
+
+        # Обновляем или создаём
+        if existing_data:
             repo.update_file(file.path, f"Update {filename}", content, file.sha)
-            logger.info(f"Файл {filename} обновлён в репозитории")
-        except Exception as create_e:
-            logger.debug(f"Файл {filename} не существует, создаём: {create_e}")
+            logger.info(f"Файл {filename} обновлён в репозитории: {len(combined_data)} записей")
+        else:
             repo.create_file(filename, f"Create {filename}", content)
-            logger.info(f"Файл {filename} создан в репозитории")
+            logger.info(f"Файл {filename} создан в репозитории: {len(combined_data)} записей")
     except Exception as e:
         logger.error(f"Ошибка загрузки в GitHub для {filename}: {str(e)}")
         raise
@@ -227,7 +263,7 @@ def main():
         print(f"Обработка игры: {game['name']}")
         sellers = get_sellers(game["name"], game["league_id"])
         filename = f"prices_{game['file_prefix']}.json"
-        logger.debug(f"Перед сохранением {filename}: {sellers}")
+        logger.debug(f"Перед сохранением {filename}: {len(sellers)} записей")
         if not sellers:
             logger.warning(f"Нет данных для сохранения в {filename}")
             print(f"Нет данных для {filename}")
