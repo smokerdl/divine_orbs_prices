@@ -41,20 +41,6 @@ headers = {
     "Upgrade-Insecure-Requests": "1"
 }
 
-def get_exchange_rate():
-    logger.info("Получение курса USD/RUB от ЦБ РФ...")
-    url = "https://www.cbr-xml-daily.ru/daily_json.js"
-    try:
-        response = requests.get(url, timeout=10)
-        response.raise_for_status()
-        data = response.json()
-        rate = data["Valute"]["USD"]["Value"]
-        logger.info(f"Курс USD/RUB: {rate}")
-        return rate
-    except Exception as e:
-        logger.error(f"Ошибка получения курса: {e}")
-        return 80.0  # Fallback
-
 def get_sellers(game, league_id):
     logger.info(f"Сбор данных о продавцах для {game} (лига {league_id})...")
     url = POE_URL if game == 'poe' else POE2_URL
@@ -86,9 +72,11 @@ def get_sellers(game, league_id):
                 return []
             
             sellers = []
-            exchange_rate = get_exchange_rate()
             for index, offer in enumerate(offers, 1):
                 try:
+                    # Сохраняем сырой HTML оффера
+                    logger.debug(f"Сырой HTML оффера {index}: {offer.prettify()}")
+                    
                     username_elem = offer.find("div", class_="media-user-name")
                     username = username_elem.text.strip() if username_elem else None
                     if not username:
@@ -111,7 +99,11 @@ def get_sellers(game, league_id):
                                 orb_type = "Божественные сферы"
                                 logger.debug(f"Найден data-side=106 для {username}, установлено: {orb_type}")
                         desc_elem = offer.find("div", class_="tc-desc")
-                        logger.debug(f"tc-desc для {username}: {desc_elem.text.strip() if desc_elem else 'Пусто'}")
+                        desc_text = desc_elem.text.strip() if desc_elem else "Пусто"
+                        logger.debug(f"tc-desc для {username}: {desc_text}")
+                        if "divine" in desc_text.lower():
+                            orb_type = "Божественные сферы"
+                            logger.debug(f"Установлен orb_type по tc-desc для {username}: {orb_type}")
                     logger.debug(f"Тип сферы для {username} (позиция {index}): {orb_type}")
                     
                     if game == 'poe2' and orb_type != "Божественные сферы":
@@ -132,36 +124,29 @@ def get_sellers(game, league_id):
                     price_text = price_inner.text.strip()
                     logger.debug(f"Сырой текст цены для {username} (позиция {index}): {price_text}")
                     
-                    price_span = price_inner.find("span", class_="unit")
-                    if price_span:
-                        price_text = price_text.replace(price_span.text, "").strip()
+                    currency = "USD"  # Априори доллары
+                    logger.debug(f"Валюта для {username}: {currency}")
                     
                     price_text = price_text.replace(",", ".")
-                    price_match = re.match(r"^\d*\.?\d+$", price_text)
+                    price_match = re.match(r"^\d*\.?\d*$", price_text)
                     if not price_match:
                         logger.debug(f"Пропущен оффер для {username}: неверный формат цены ({price_text})")
                         continue
                     try:
                         price = float(price_text)
-                        logger.debug(f"Исходная цена для {username}: {price} {'$' if '$' in price_elem.text else '₽'}, за 1 сферу")
-                        # Временно убираем фильтр низких цен
-                        # if price < 0.1 and "$" not in price_elem.text:
-                        #     logger.warning(f"Аномально низкая цена для {username}: {price} ₽, пропускаем")
-                        #     continue
-                        if "$" in price_elem.text:
-                            price = price * exchange_rate
-                            logger.debug(f"Конверсия для {username}: {price / exchange_rate} $ -> {price} ₽")
+                        logger.debug(f"Исходная цена для {username}: {price} {currency}, за 1 сферу")
                         price = round(price, 2)
                     except ValueError:
                         logger.debug(f"Пропущен оффер для {username}: не удалось преобразовать цену ({price_text})")
                         continue
                     
-                    logger.debug(f"Обработан продавец: {username} (позиция {index}, {amount} шт., {price} ₽, тип: {orb_type})")
+                    logger.debug(f"Обработан продавец: {username} (позиция {index}, {amount} шт., {price} {currency}, тип: {orb_type})")
                     sellers.append({
                         "Timestamp": datetime.now(pytz.timezone("Europe/Moscow")).strftime("%Y-%m-%d %H:%M:%S"),
                         "Seller": username,
                         "Stock": amount,
                         "Price": price,
+                        "Currency": currency,
                         "Position": index
                     })
                 except Exception as e:
@@ -169,16 +154,15 @@ def get_sellers(game, league_id):
                     continue
             
             logger.debug(f"Сырой список sellers для {game}: {sellers}")
-            # Временно убираем фильтр позиций
-            filtered_sellers = sellers  # [s for s in sellers if 3 < s["Position"] <= 13]
+            filtered_sellers = sellers
             logger.info(f"Отфильтровано продавцов для {game}: {len(filtered_sellers)}")
             
             # Фильтр цен для PoE 2
             if game == 'poe2' and filtered_sellers:
                 min_price = min(s["Price"] for s in filtered_sellers)
-                logger.info(f"Минимальная цена для PoE 2: {min_price} ₽")
+                logger.info(f"Минимальная цена для PoE 2: {min_price} {currency}")
                 filtered_sellers = [s for s in filtered_sellers if s["Price"] <= min_price * 2]
-                logger.info(f"После фильтра цен (<= {min_price * 2} ₽): {len(filtered_sellers)} продавцов")
+                logger.info(f"После фильтра цен (<= {min_price * 2} {currency}): {len(filtered_sellers)} продавцов")
             
             logger.debug(f"Возвращаем filtered_sellers для {game}: {filtered_sellers}")
             return filtered_sellers
@@ -229,27 +213,25 @@ def save_to_json(data, filename):
         raise
 
 def upload_to_github(data, filename, repo_name, token):
+    logger.debug(f"Начало загрузки {filename} в GitHub")
     try:
-        logger.debug(f"Попытка загрузки {filename} в GitHub: {data}")
         if not token:
             logger.error("GITHUB_TOKEN не задан")
             return
         g = Github(token)
         repo = g.get_repo(repo_name)
         content = json.dumps(data, ensure_ascii=False, indent=4)
+        logger.debug(f"Содержимое для {filename}: {content[:100]}...")
         try:
             file = repo.get_contents(filename)
             repo.update_file(file.path, f"Update {filename}", content, file.sha)
             logger.info(f"Файл {filename} обновлён в репозитории")
-        except Exception as e:
-            if hasattr(e, 'response'):
-                logger.error(f"GitHub API error: {e.response.status_code} - {e.response.text}")
+        except Exception as create_e:
+            logger.debug(f"Файл {filename} не существует, создаём: {create_e}")
             repo.create_file(filename, f"Create {filename}", content)
             logger.info(f"Файл {filename} создан в репозитории")
     except Exception as e:
-        logger.error(f"Ошибка загрузки в GitHub для {filename}: {e}")
-        if hasattr(e, 'response'):
-            logger.error(f"GitHub API error: {e.response.status_code} - {e.response.text}")
+        logger.error(f"Ошибка загрузки в GitHub для {filename}: {str(e)}")
         raise
 
 def main():
@@ -270,13 +252,13 @@ def main():
             continue
         save_to_json(sellers, filename)
         print(f"Сохранено в {filename}")
-        # upload_to_github(sellers, filename, "smokerdl/divine_orbs_prices", os.getenv("GITHUB_TOKEN"))
+        upload_to_github(sellers, filename, "smokerdl/divine_orbs_prices", os.getenv("GITHUB_TOKEN"))
         
         leagues = get_leagues(game["name"])
         if leagues:
             save_to_json(leagues, f"league_ids.json")
             print(f"Сохранено в league_ids.json")
-            # upload_to_github(leagues, f"league_ids.json", "smokerdl/divine_orbs_prices", os.getenv("GITHUB_TOKEN"))
+            upload_to_github(leagues, f"league_ids.json", "smokerdl/divine_orbs_prices", os.getenv("GITHUB_TOKEN"))
 
 if __name__ == "__main__":
     main()
