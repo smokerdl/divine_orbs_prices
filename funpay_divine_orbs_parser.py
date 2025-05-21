@@ -10,18 +10,18 @@ from fake_useragent import UserAgent
 from github import Github
 
 # Настройка логирования
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger()
 
 # Константы
 POE_URL = "https://funpay.com/chips/173/"
 POE2_URL = "https://funpay.com/chips/209/"
 RELEVANT_LEAGUES = {
-    'poe': ['_settlers_of_kalguur_(pc)'],
+    'poe': ['settlers_of_kalguur'],  # Убрали _(pc) для гибкости
     'poe2': ['dawn_of_the_hunt']
 }
 KNOWN_LEAGUE_DATES = {
-    '_settlers_of_kalguur_(pc)': '2024-07',
+    'settlers_of_kalguur': '2024-07',
     'dawn_of_the_hunt': '2024-12'
 }
 GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
@@ -57,16 +57,20 @@ def get_leagues(game, url):
             f.write(response.text)
         logger.info(f"HTML страницы лиг для {game} сохранён")
         leagues = []
-        for option in soup.select('select[name="node_id"] option'):
+        options = soup.select('select[name="node_id"] option')
+        logger.debug(f"Найдено {len(options)} опций в select для {game}")
+        for option in options:
             league_id = option['value']
-            league_name = option.text.strip().replace(' ', '_').lower()
+            league_name_raw = option.text.strip()
+            league_name = league_name_raw.replace(' ', '_').lower()
+            logger.debug(f"Лига для {game}: raw='{league_name_raw}', normalized='{league_name}' (ID: {league_id})")
             # Фильтрация лиг
             if game == 'poe':
-                if not league_name.endswith('_(pc)'):
-                    logger.debug(f"Пропущена лига для {game}: {league_name} (нет приставки (PC))")
+                if not ('pc' in league_name or '(pc)' in league_name):
+                    logger.debug(f"Пропущена лига для {game}: {league_name} (нет PC)")
                     continue
             elif game == 'poe2':
-                if '_(pc)' in league_name or '_(ps)' in league_name or '_(xbox)' in league_name:
+                if '(pc)' in league_name or '(ps)' in league_name or '(xbox)' in league_name:
                     logger.debug(f"Пропущена лига для {game}: {league_name} (есть приставка)")
                     continue
             if any(x in league_name for x in ['"лига"', '"hardcore"', '"ruthless"', '"standart"']):
@@ -75,9 +79,12 @@ def get_leagues(game, url):
             if re.search(r'\[(hardcore|ruthless|ruthless_hardcore)\]', league_name):
                 logger.debug(f"Пропущена лига для {game}: {league_name} (есть запрещённое окончание)")
                 continue
-            if league_name in RELEVANT_LEAGUES[game]:
-                logger.info(f"Найдена лига для {game}: {league_name} (ID: {league_id})")
-                leagues.append({'id': league_id, 'name': league_name})
+            # Проверяем, содержит ли название лиги часть из RELEVANT_LEAGUES
+            for relevant_league in RELEVANT_LEAGUES[game]:
+                if relevant_league in league_name:
+                    logger.info(f"Найдена лига для {game}: {league_name} (ID: {league_id})")
+                    leagues.append({'id': league_id, 'name': relevant_league})
+                    break
             else:
                 logger.debug(f"Пропущена лига для {game}: {league_name} (не в RELEVANT_LEAGUES)")
         if not leagues:
