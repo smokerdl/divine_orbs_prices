@@ -110,104 +110,166 @@ def get_leagues(game, url):
         logger.error(f"Ошибка получения лиг для {game}: {e}")
         return []
 
-def get_sellers(game, league_id):
-    """Получить данные о продавцах для лиги (с конвертацией цен PoE 2 из ₽ в $)."""
-    logger.info(f"Сбор данных о продавцах для {game} (лига {league_id})...")
-    url = POE_URL if game == 'poe' else POE2_URL + "?currency=0"
+import logging
+import requests
+from bs4 import BeautifulSoup
+import json
+import datetime
+import re
+
+# Настройка логов
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
+def get_sellers(html_content, league_name, currency_type, usd_rub_rate):
+    """
+    Парсит данные о продавцах из HTML FunPay для указанной лиги и валюты.
+    
+    Args:
+        html_content (str): HTML-код страницы с продавцами.
+        league_name (str): Название лиги (например, "Dawn of the Hunt").
+        currency_type (str): Тип валюты (например, "Божественные сферы").
+        usd_rub_rate (float): Курс USD к RUB.
+    
+    Returns:
+        list: Список словарей с данными продавцов.
+    """
     try:
-        response = requests.get(url, headers=headers, timeout=10)
-        logger.info(f"Статус ответа FunPay для {game} (лига {league_id}): {response.status_code}")
-        if response.status_code != 200:
-            logger.warning(f"Не удалось получить продавцов для {game} (лига {league_id})")
-            return []
-        soup = BeautifulSoup(response.text, 'html.parser')
-        with open(f'funpay_sellers_{game}.html', 'w', encoding='utf-8') as f:
-            f.write(soup.prettify())
-        logger.info(f"HTML продавцов для {game} сохранён")
-        
-        offers = soup.find_all("a", class_="tc-item", attrs={"data-server": league_id})
-        logger.info(f"Найдено продавцов для {game} (лига {league_id}): {len(offers)}")
-        if not offers:
-            logger.warning(f"Селектор a.tc-item с data-server={league_id} не нашёл продавцов")
-            return []
-        
+        soup = BeautifulSoup(html_content, 'html.parser')
         sellers = []
-        exchange_rate = get_exchange_rate()  # Наш курс: 80.3075 ₽/$
-        funpay_usd_rate = 83.066  # Курс FunPay: 83.066 ₽/$
-        for index, offer in enumerate(offers, 1):
-            try:
-                # Логирование классов
-                tc_user = offer.find("div", class_="tc-user")
-                avatar_photo = offer.find("div", class_="avatar-photo")
-                logger.debug(f"Продавец на позиции {index}: tc-user: {tc_user.get('class', [])}, avatar: {avatar_photo.get('class', [])}")
-                
-                # Логирование Divine Orbs (PoE 2)
-                if game == 'poe2':
-                    desc_elem = offer.find("div", class_="tc-desc")
-                    desc_text = desc_elem.text.strip() if desc_elem else "отсутствует"
-                    logger.debug(f"Продавец на позиции {index}: Divine Orbs check (найдено: {desc_text})")
-                
-                # Имя продавца
-                username_elem = offer.find("div", class_="media-user-name")
-                username = username_elem.text.strip() if username_elem else None
-                if not username:
-                    logger.debug(f"Пропущен оффер на позиции {index}: отсутствует имя")
-                    continue
-                
-                # Количество
-                amount_elem = offer.find("div", class_="tc-amount")
-                amount = re.sub(r"[^\d]", "", amount_elem.text.strip()) if amount_elem else "0"
-                
-                # Цена
-                price_elem = offer.find("div", class_="tc-price")
-                if not price_elem:
-                    logger.debug(f"Пропущен оффер для {username}: отсутствует цена")
-                    continue
-                price_inner = price_elem.find("div")
-                if not price_inner:
-                    logger.debug(f"Пропущен оффер для {username}: отсутствует div в tc-price")
-                    continue
-                price_text = price_inner.text
-                price_span = price_inner.find("span", class_="unit")
-                currency = price_span.text.strip() if price_span else "unknown"
-                logger.debug(f"Продавец {username}: price_elem.text={price_elem.text}, currency={currency}")
-                if price_span:
-                    price_text = price_text.replace(price_span.text, "").strip()
-                price = re.sub(r"[^\d.]", "", price_text.replace(",", "."))
-                try:
-                    price = float(price)
-                    # Для PoE 2: конвертируем ₽ в $ по курсу FunPay, затем в ₽ по нашему курсу
-                    if game == 'poe2':
-                        usd_price = price / funpay_usd_rate
-                        price = usd_price * exchange_rate
-                        logger.debug(f"Конверсия для {username}: {price_text} ₽ -> {usd_price:.3f} $ -> {price:.2f} ₽")
-                    elif "$" in currency:
-                        logger.debug(f"Конверсия для {username}: {price} $ -> {price * exchange_rate:.2f} ₽")
-                        price = price * exchange_rate
-                    price = round(price, 2)
-                except ValueError:
-                    logger.debug(f"Пропущен оффер для {username}: неверный формат цены ({price_text})")
-                    continue
-                
-                logger.debug(f"Обработан продавец: {username} (позиция {index}, {amount} шт., {price} ₽)")
-                sellers.append({
-                    "Timestamp": datetime.now(pytz.timezone("Europe/Moscow")).strftime("%Y-%m-%d %H:%M:%S"),
-                    "Seller": username,
-                    "Stock": amount,
-                    "Price": price,
-                    "Position": index
-                })
-            except Exception as e:
-                logger.debug(f"Ошибка обработки продавца на позиции {index}: {e}")
+        position = 1
+
+        # Находим строки таблицы с данными продавцов
+        rows = soup.select('div.tc-item')
+        if not rows:
+            logging.warning("Не найдено строк с продавцами в HTML.")
+            return []
+
+        for row in rows:
+            # Извлекаем лигу
+            league = row.select_one('div.tc-league')
+            if not league or league.text.strip() != league_name:
                 continue
-        
-        # Фильтрация позиций 4–13
-        filtered_sellers = [s for s in sellers if 3 < s["Position"] <= 13]
-        logger.info(f"Отфильтровано продавцов для {game}: {len(filtered_sellers)} (позиции 4–13)")
+
+            # Извлекаем тип валюты
+            currency = row.select_one('div.tc-desc')
+            if not currency or currency.text.strip() != currency_type:
+                continue
+
+            # Извлекаем имя продавца
+            seller = row.select_one('div.tc-user')
+            seller_name = seller.text.strip() if seller else ""
+
+            # Извлекаем сток
+            stock = row.select_one('div.tc-amount')
+            stock_value = stock.text.strip().replace(' ', '') if stock else "0"
+            stock_value = re.sub(r'[^\d]', '', stock_value)  # Удаляем не-цифры
+            stock_value = int(stock_value) if stock_value.isdigit() else 0
+
+            # Извлекаем цену (в рублях)
+            price = row.select_one('div.tc-price div.media')
+            price_value = price.text.strip() if price else "0"
+            price_value = re.sub(r'[^\d.]', '', price_value)  # Оставляем цифры и точку
+            try:
+                price_rub = float(price_value)
+                logging.info(f"Найдена цена для {seller_name}: {price_rub} ₽")
+            except ValueError:
+                logging.warning(f"Неверный формат цены для продавца {seller_name}: {price_value}")
+                price_rub = 0.0
+
+            # Конвертируем цену в доллары
+            price_usd = round(price_rub / usd_rub_rate, 2) if price_rub > 0 else 0.0
+
+            # Добавляем данные продавца
+            sellers.append({
+                "Timestamp": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+                "Seller": seller_name,
+                "Stock": str(stock_value),
+                "Price": price_usd,
+                "Position": position
+            })
+            position += 1
+
+        # Фильтруем топ-10 продавцов (позиции 4–13)
+        filtered_sellers = [s for s in sellers if 4 <= s["Position"] <= 13]
+        logging.info(f"Отфильтровано продавцов для {currency_type}: {len(filtered_sellers)} (позиции 4–13)")
         return filtered_sellers
+
     except Exception as e:
-        logger.error(f"Ошибка получения продавцов для {game} (лига {league_id}): {e}")
+        logging.error(f"Ошибка в get_sellers: {str(e)}")
         return []
+
+def get_leagues(html_content, game):
+    """Парсит доступные лиги из HTML FunPay."""
+    soup = BeautifulSoup(html_content, 'html.parser')
+    leagues = {}
+    for link in soup.select('a[href*="/lots/"]'):
+        href = link.get('href')
+        if '/lots/' in href:
+            league_id = href.split('/')[-2]
+            league_name = link.text.strip().lower().replace(' ', '_')
+            leagues[league_name] = league_id
+    return leagues
+
+def main():
+    games = {
+        'poe': 'https://funpay.com/chips/104/',
+        'poe2': 'https://funpay.com/chips/209/'
+    }
+    currency_type = "Божественные сферы"  # Изменено на Божественные сферы
+    usd_rub_rate = 80.3075  # Курс из твоего лога
+
+    for game, url in games.items():
+        logging.info(f"Получение списка лиг для {game}...")
+        response = requests.get(url)
+        if response.status_code != 200:
+            logging.error(f"Ошибка при получении лиг для {game}: {response.status_code}")
+            continue
+
+        logging.info(f"Статус ответа FunPay для {game}: {response.status_code}")
+        with open(f'leagues_{game}.html', 'w', encoding='utf-8') as f:
+            f.write(response.text)
+        logging.info(f"HTML страницы лиг для {game} сохранён")
+
+        leagues = get_leagues(response.text, game)
+        target_league = 'settlers_of_kalguur' if game == 'poe' else 'dawn_of_the_hunt'
+        league_id = leagues.get(target_league)
+
+        if not league_id:
+            logging.error(f"Лига {target_league} не найдена для {game}")
+            continue
+
+        logging.info(f"Найдена лига для {game}: {target_league} (ID: {league_id})")
+        logging.info(f"Сбор данных о продавцах для {game} (лига {league_id})...")
+
+        sellers_url = f"https://funpay.com/chips/{league_id}/"
+        response = requests.get(sellers_url)
+        if response.status_code != 200:
+            logging.error(f"Ошибка при получении продавцов для {game}: {response.status_code}")
+            continue
+
+        logging.info(f"Статус ответа FunPay для {game} (лига {league_id}): {response.status_code}")
+        with open(f'sellers_{game}.html', 'w', encoding='utf-8') as f:
+            f.write(response.text)
+        logging.info(f"HTML продавцов для {game} сохранён")
+
+        sellers = get_sellers(response.text, target_league.replace('_', ' ').title(), currency_type, usd_rub_rate)
+        logging.info(f"Найдено продавцов для {game} (лига {league_id}): {len(sellers)}")
+
+        # Сохраняем отфильтрованных продавцов в JSON
+        output_file = f"prices_{game}_{target_league}_{datetime.datetime.now().strftime('%Y-%m')}.json"
+        with open(output_file, 'w', encoding='utf-8') as f:
+            json.dump(sellers, f, ensure_ascii=False, indent=2)
+        logging.info(f"Файл {output_file} создан, записей: {len(sellers)}")
+
+    # Обновляем current_leagues.json
+    with open('current_leagues.json', 'w', encoding='utf-8') as f:
+        json.dump({'poe': 'settlers_of_kalguur', 'poe2': 'dawn_of_the_hunt'}, f, ensure_ascii=False, indent=2)
+    logging.info("Файл current_leagues.json обновлён")
+
+    logging.info(f"Завершено: {datetime.datetime.now().isoformat()}")
+
+if __name__ == "__main__":
+    main()
 def save_data(game, league_name, start_date, data):
     """Сохранить данные в JSON."""
     try:
