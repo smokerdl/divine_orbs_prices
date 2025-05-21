@@ -1,994 +1,1018 @@
 [
     {
-        "Timestamp": "2025-05-21 23:13:45",
-        "Seller": "gox1",
-        "Stock": "13",
-        "Price": 0.147,
+        "Timestamp": "2025-05-21 23:39:40",
+        "Seller": "Maculele",
+        "Stock": "130",
+        "Price": 0.15,
         "Currency": "RUB",
-        "Position": 988
+        "Position": 959
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
+        "Seller": "Legionch1",
+        "Stock": "828",
+        "Price": 0.15,
+        "Currency": "RUB",
+        "Position": 960
+    },
+    {
+        "Timestamp": "2025-05-21 23:39:40",
+        "Seller": "andrei71rus",
+        "Stock": "400",
+        "Price": 0.151,
+        "Currency": "RUB",
+        "Position": 961
+    },
+    {
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Wistint",
         "Stock": "600",
-        "Price": 0.149,
+        "Price": 0.151,
         "Currency": "RUB",
-        "Position": 990
+        "Position": 962
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "DreamUnderTheNight",
-        "Stock": "150",
+        "Stock": "10",
         "Price": 0.151,
         "Currency": "RUB",
-        "Position": 994
+        "Position": 963
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
-        "Seller": "DelioN227",
-        "Stock": "157",
-        "Price": 0.151,
-        "Currency": "RUB",
-        "Position": 996
-    },
-    {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Raize",
         "Stock": "100",
         "Price": 0.152,
         "Currency": "RUB",
-        "Position": 1034
+        "Position": 1002
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "DefBr",
         "Stock": "100",
         "Price": 0.152,
         "Currency": "RUB",
-        "Position": 1035
+        "Position": 1003
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Illtrymybest",
-        "Stock": "125",
+        "Stock": "145",
         "Price": 0.152,
         "Currency": "RUB",
-        "Position": 1039
+        "Position": 1007
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
+        "Seller": "Pypy11",
+        "Stock": "240",
+        "Price": 0.152,
+        "Currency": "RUB",
+        "Position": 1008
+    },
+    {
+        "Timestamp": "2025-05-21 23:39:40",
+        "Seller": "megak0lbaska",
+        "Stock": "21",
+        "Price": 0.152,
+        "Currency": "RUB",
+        "Position": 1009
+    },
+    {
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Ivyshka",
         "Stock": "800",
-        "Price": 0.154,
+        "Price": 0.153,
         "Currency": "RUB",
-        "Position": 1041
+        "Position": 1011
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
-        "Seller": "SmtgNeverKnow",
-        "Stock": "30",
-        "Price": 0.154,
-        "Currency": "RUB",
-        "Position": 1042
-    },
-    {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "smalldevil94",
         "Stock": "9999999",
-        "Price": 0.154,
+        "Price": 0.153,
         "Currency": "RUB",
-        "Position": 1043
+        "Position": 1012
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "kryllatyi",
-        "Stock": "200",
+        "Stock": "140",
         "Price": 0.155,
         "Currency": "RUB",
-        "Position": 1044
+        "Position": 1013
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Malista",
         "Stock": "67",
         "Price": 0.164,
         "Currency": "RUB",
-        "Position": 1050
+        "Position": 1019
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "PeopleZzz",
         "Stock": "1252",
         "Price": 0.165,
         "Currency": "RUB",
-        "Position": 1051
+        "Position": 1020
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Aloisdi",
         "Stock": "70",
         "Price": 0.167,
         "Currency": "RUB",
-        "Position": 1053
+        "Position": 1022
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
-        "Seller": "PrefixOnly",
-        "Stock": "70",
-        "Price": 0.167,
-        "Currency": "RUB",
-        "Position": 1060
-    },
-    {
-        "Timestamp": "2025-05-21 23:13:45",
-        "Seller": "Sartamas",
-        "Stock": "86",
-        "Price": 0.167,
-        "Currency": "RUB",
-        "Position": 1061
-    },
-    {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "LaID90",
         "Stock": "100",
         "Price": 0.167,
         "Currency": "RUB",
-        "Position": 1062
+        "Position": 1023
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
+        "Seller": "PrefixOnly",
+        "Stock": "70",
+        "Price": 0.167,
+        "Currency": "RUB",
+        "Position": 1029
+    },
+    {
+        "Timestamp": "2025-05-21 23:39:40",
+        "Seller": "Sartamas",
+        "Stock": "86",
+        "Price": 0.167,
+        "Currency": "RUB",
+        "Position": 1030
+    },
+    {
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "busterwar",
         "Stock": "100",
         "Price": 0.167,
         "Currency": "RUB",
-        "Position": 1063
+        "Position": 1031
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
-        "Seller": "Grid",
-        "Stock": "13",
-        "Price": 0.167,
-        "Currency": "RUB",
-        "Position": 1064
-    },
-    {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "IAmSoTasty",
         "Stock": "1300",
         "Price": 0.167,
         "Currency": "RUB",
-        "Position": 1065
+        "Position": 1032
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
+        "Seller": "Grid",
+        "Stock": "15",
+        "Price": 0.167,
+        "Currency": "RUB",
+        "Position": 1033
+    },
+    {
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "biohan",
         "Stock": "165",
         "Price": 0.167,
         "Currency": "RUB",
-        "Position": 1066
+        "Position": 1034
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Lendermon",
         "Stock": "600",
         "Price": 0.175,
         "Currency": "RUB",
-        "Position": 1071
+        "Position": 1039
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "BlissTOP",
         "Stock": "20",
         "Price": 0.182,
         "Currency": "RUB",
-        "Position": 1090
+        "Position": 1058
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Deseasy",
         "Stock": "46",
         "Price": 0.182,
         "Currency": "RUB",
-        "Position": 1091
+        "Position": 1059
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "IWBB",
         "Stock": "15",
         "Price": 0.188,
         "Currency": "RUB",
-        "Position": 1093
+        "Position": 1061
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "GobShop",
         "Stock": "300",
         "Price": 0.188,
         "Currency": "RUB",
-        "Position": 1094
+        "Position": 1062
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "CBR",
         "Stock": "3",
         "Price": 0.2,
         "Currency": "RUB",
-        "Position": 1103
+        "Position": 1071
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "EnerguR",
         "Stock": "100",
         "Price": 0.21,
         "Currency": "RUB",
-        "Position": 1113
+        "Position": 1081
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "TradeBoB",
         "Stock": "450",
         "Price": 0.22,
         "Currency": "RUB",
-        "Position": 1116
+        "Position": 1084
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "grewen",
         "Stock": "99990",
         "Price": 0.22,
         "Currency": "RUB",
-        "Position": 1118
+        "Position": 1086
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "KevLARpoe",
         "Stock": "49",
         "Price": 0.22,
         "Currency": "RUB",
-        "Position": 1119
+        "Position": 1087
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Leon93",
         "Stock": "19",
         "Price": 0.23,
         "Currency": "RUB",
-        "Position": 1121
+        "Position": 1089
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Zalupenko2283",
         "Stock": "4",
         "Price": 0.23,
         "Currency": "RUB",
-        "Position": 1137
+        "Position": 1105
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Doomsday",
         "Stock": "41",
         "Price": 0.23,
         "Currency": "RUB",
-        "Position": 1145
+        "Position": 1113
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Dr0ng0",
         "Stock": "70",
         "Price": 0.23,
         "Currency": "RUB",
-        "Position": 1147
+        "Position": 1115
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "YAKUZA999",
         "Stock": "5454",
         "Price": 0.24,
         "Currency": "RUB",
-        "Position": 1148
+        "Position": 1116
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Alina312",
         "Stock": "3099",
         "Price": 0.24,
         "Currency": "RUB",
-        "Position": 1149
+        "Position": 1117
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "KaLblBaH227",
         "Stock": "45",
         "Price": 0.24,
         "Currency": "RUB",
-        "Position": 1150
+        "Position": 1118
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "FallenKira",
         "Stock": "1060",
         "Price": 0.24,
         "Currency": "RUB",
-        "Position": 1157
+        "Position": 1125
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "KotLeopold54",
         "Stock": "1300",
         "Price": 0.25,
         "Currency": "RUB",
-        "Position": 1158
+        "Position": 1126
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Cherry0706",
         "Stock": "9884",
         "Price": 0.25,
         "Currency": "RUB",
-        "Position": 1159
+        "Position": 1127
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Inheritor1",
         "Stock": "27",
         "Price": 0.26,
         "Currency": "RUB",
-        "Position": 1163
+        "Position": 1131
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "lexasozdal",
         "Stock": "13",
         "Price": 0.27,
         "Currency": "RUB",
-        "Position": 1172
+        "Position": 1140
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Xcompany",
         "Stock": "19",
         "Price": 0.27,
         "Currency": "RUB",
-        "Position": 1173
+        "Position": 1141
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "fcgames",
         "Stock": "33",
         "Price": 0.29,
         "Currency": "RUB",
+        "Position": 1146
+    },
+    {
+        "Timestamp": "2025-05-21 23:39:40",
+        "Seller": "NaZi4Ka",
+        "Stock": "1200",
+        "Price": 0.3,
+        "Currency": "RUB",
+        "Position": 1148
+    },
+    {
+        "Timestamp": "2025-05-21 23:39:40",
+        "Seller": "Dementador",
+        "Stock": "500",
+        "Price": 0.3,
+        "Currency": "RUB",
+        "Position": 1173
+    },
+    {
+        "Timestamp": "2025-05-21 23:39:40",
+        "Seller": "gazmyasrus",
+        "Stock": "13",
+        "Price": 0.3,
+        "Currency": "RUB",
+        "Position": 1174
+    },
+    {
+        "Timestamp": "2025-05-21 23:39:40",
+        "Seller": "Magnelli",
+        "Stock": "100",
+        "Price": 0.3,
+        "Currency": "RUB",
+        "Position": 1175
+    },
+    {
+        "Timestamp": "2025-05-21 23:39:40",
+        "Seller": "Recreaturepoe",
+        "Stock": "100",
+        "Price": 0.3,
+        "Currency": "RUB",
+        "Position": 1177
+    },
+    {
+        "Timestamp": "2025-05-21 23:39:40",
+        "Seller": "Wanhell1223",
+        "Stock": "10",
+        "Price": 0.3,
+        "Currency": "RUB",
         "Position": 1178
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
-        "Seller": "NaZi4Ka",
-        "Stock": "1200",
+        "Timestamp": "2025-05-21 23:39:40",
+        "Seller": "WUTR",
+        "Stock": "9972",
         "Price": 0.3,
         "Currency": "RUB",
         "Position": 1180
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
-        "Seller": "Dementador",
-        "Stock": "500",
-        "Price": 0.3,
-        "Currency": "RUB",
-        "Position": 1205
-    },
-    {
-        "Timestamp": "2025-05-21 23:13:45",
-        "Seller": "gazmyasrus",
-        "Stock": "13",
-        "Price": 0.3,
-        "Currency": "RUB",
-        "Position": 1206
-    },
-    {
-        "Timestamp": "2025-05-21 23:13:45",
-        "Seller": "Magnelli",
-        "Stock": "100",
-        "Price": 0.3,
-        "Currency": "RUB",
-        "Position": 1207
-    },
-    {
-        "Timestamp": "2025-05-21 23:13:45",
-        "Seller": "Wanhell1223",
-        "Stock": "10",
-        "Price": 0.3,
-        "Currency": "RUB",
-        "Position": 1209
-    },
-    {
-        "Timestamp": "2025-05-21 23:13:45",
-        "Seller": "WUTR",
-        "Stock": "9972",
-        "Price": 0.3,
-        "Currency": "RUB",
-        "Position": 1211
-    },
-    {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Stimkler",
         "Stock": "19",
         "Price": 0.3,
         "Currency": "RUB",
-        "Position": 1214
+        "Position": 1183
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Shocker",
         "Stock": "1",
         "Price": 0.31,
         "Currency": "RUB",
-        "Position": 1216
+        "Position": 1185
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Profirus",
         "Stock": "30",
         "Price": 0.32,
         "Currency": "RUB",
-        "Position": 1223
+        "Position": 1193
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "erakt",
         "Stock": "50",
         "Price": 0.32,
         "Currency": "RUB",
-        "Position": 1224
+        "Position": 1194
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Sholom08",
         "Stock": "50",
         "Price": 0.33,
         "Currency": "RUB",
-        "Position": 1227
+        "Position": 1197
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Gnoomes",
         "Stock": "200",
         "Price": 0.35,
         "Currency": "RUB",
-        "Position": 1231
+        "Position": 1201
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Invalidka",
         "Stock": "5",
         "Price": 0.36,
         "Currency": "RUB",
-        "Position": 1234
+        "Position": 1204
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Morhon",
         "Stock": "48588",
         "Price": 0.36,
         "Currency": "RUB",
-        "Position": 1240
+        "Position": 1210
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "KrAsIvO2018",
         "Stock": "1000000000",
         "Price": 0.38,
         "Currency": "RUB",
-        "Position": 1249
+        "Position": 1219
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "egorbuk223",
         "Stock": "999549",
         "Price": 0.38,
         "Currency": "RUB",
-        "Position": 1258
+        "Position": 1228
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "YourGold",
         "Stock": "40",
         "Price": 0.38,
         "Currency": "RUB",
-        "Position": 1262
+        "Position": 1232
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Kininat",
         "Stock": "500",
         "Price": 0.38,
         "Currency": "RUB",
-        "Position": 1263
+        "Position": 1233
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "gonzer",
         "Stock": "100",
         "Price": 0.45,
         "Currency": "RUB",
-        "Position": 1299
+        "Position": 1269
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "officialxqlusive",
         "Stock": "20",
         "Price": 0.49,
         "Currency": "RUB",
-        "Position": 1308
+        "Position": 1278
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "UZURPATORtm",
         "Stock": "1000000000",
         "Price": 0.5,
         "Currency": "RUB",
-        "Position": 1314
+        "Position": 1284
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Rumo4ka",
         "Stock": "10",
         "Price": 0.52,
         "Currency": "RUB",
-        "Position": 1316
+        "Position": 1286
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "danilaaaaaaa321",
         "Stock": "220",
         "Price": 0.53,
         "Currency": "RUB",
-        "Position": 1324
+        "Position": 1294
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Itscesar",
         "Stock": "3",
         "Price": 0.53,
         "Currency": "RUB",
-        "Position": 1325
+        "Position": 1295
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Dmitry13372",
         "Stock": "2345",
         "Price": 0.61,
         "Currency": "RUB",
-        "Position": 1353
+        "Position": 1322
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "VladislavSergeevich",
         "Stock": "4565",
         "Price": 0.68,
         "Currency": "RUB",
-        "Position": 1375
+        "Position": 1344
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "OldSchoolGaming",
         "Stock": "5452",
         "Price": 0.74,
         "Currency": "RUB",
-        "Position": 1383
+        "Position": 1352
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "artem12322",
         "Stock": "8",
         "Price": 0.76,
         "Currency": "RUB",
-        "Position": 1400
+        "Position": 1369
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
-        "Seller": "LuckyReimundWts",
-        "Stock": "55",
-        "Price": 0.76,
-        "Currency": "RUB",
-        "Position": 1406
-    },
-    {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Lskkk",
         "Stock": "110",
         "Price": 0.77,
         "Currency": "RUB",
-        "Position": 1412
+        "Position": 1380
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Astela",
         "Stock": "10",
         "Price": 0.83,
         "Currency": "RUB",
-        "Position": 1417
+        "Position": 1385
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "PhantomLance",
         "Stock": "105",
         "Price": 0.85,
         "Currency": "RUB",
-        "Position": 1422
+        "Position": 1390
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "GamesSeller2023",
         "Stock": "15",
         "Price": 0.88,
         "Currency": "RUB",
-        "Position": 1428
+        "Position": 1397
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Amkilla",
         "Stock": "28",
         "Price": 0.88,
         "Currency": "RUB",
-        "Position": 1431
+        "Position": 1400
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Allistor",
         "Stock": "55",
         "Price": 0.88,
         "Currency": "RUB",
-        "Position": 1432
+        "Position": 1401
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
+        "Seller": "Clubbuster",
+        "Stock": "10",
+        "Price": 0.91,
+        "Currency": "RUB",
+        "Position": 1411
+    },
+    {
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Holyphoneix",
         "Stock": "45",
         "Price": 0.94,
         "Currency": "RUB",
-        "Position": 1447
+        "Position": 1417
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Mamedov",
         "Stock": "47",
         "Price": 0.99,
         "Currency": "RUB",
-        "Position": 1454
+        "Position": 1424
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Ron1n",
         "Stock": "33",
         "Price": 1.06,
         "Currency": "RUB",
-        "Position": 1465
+        "Position": 1435
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "yalu4shiy",
         "Stock": "550",
         "Price": 1.06,
         "Currency": "RUB",
-        "Position": 1466
+        "Position": 1436
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "dodolk",
         "Stock": "5939",
         "Price": 1.21,
         "Currency": "RUB",
-        "Position": 1494
+        "Position": 1464
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "EasyPlayHome",
         "Stock": "50",
         "Price": 1.25,
         "Currency": "RUB",
-        "Position": 1516
+        "Position": 1486
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "SolarFlare",
         "Stock": "50",
         "Price": 1.35,
         "Currency": "RUB",
-        "Position": 1523
+        "Position": 1493
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "yourcursh",
         "Stock": "10",
         "Price": 1.52,
         "Currency": "RUB",
-        "Position": 1553
+        "Position": 1523
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "kabotski",
         "Stock": "130",
         "Price": 1.52,
         "Currency": "RUB",
-        "Position": 1554
+        "Position": 1524
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "GreenService",
         "Stock": "214",
         "Price": 1.52,
         "Currency": "RUB",
-        "Position": 1556
+        "Position": 1526
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Hokkaid0",
         "Stock": "33",
         "Price": 1.52,
         "Currency": "RUB",
-        "Position": 1565
+        "Position": 1534
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Radx",
         "Stock": "20",
         "Price": 1.56,
         "Currency": "RUB",
-        "Position": 1569
+        "Position": 1538
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Konsi",
         "Stock": "82",
         "Price": 1.82,
         "Currency": "RUB",
-        "Position": 1579
+        "Position": 1548
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "alecksew",
         "Stock": "5",
         "Price": 1.89,
         "Currency": "RUB",
-        "Position": 1583
+        "Position": 1552
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "asdfzxc123",
         "Stock": "3852",
         "Price": 1.97,
         "Currency": "RUB",
-        "Position": 1585
+        "Position": 1554
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Wilgron",
         "Stock": "500",
         "Price": 2.27,
         "Currency": "RUB",
-        "Position": 1596
+        "Position": 1565
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Dimaniss",
         "Stock": "1",
         "Price": 2.42,
         "Currency": "RUB",
-        "Position": 1605
+        "Position": 1574
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "McCly",
         "Stock": "770",
         "Price": 2.5,
         "Currency": "RUB",
-        "Position": 1609
+        "Position": 1578
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "GeForceman",
         "Stock": "7",
         "Price": 3.02,
         "Currency": "RUB",
-        "Position": 1627
+        "Position": 1596
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "serbantell0",
         "Stock": "1",
         "Price": 3.02,
         "Currency": "RUB",
-        "Position": 1628
+        "Position": 1597
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Gannibal",
         "Stock": "229",
         "Price": 3.03,
         "Currency": "RUB",
-        "Position": 1637
+        "Position": 1606
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "pathofexilesallers",
         "Stock": "1",
         "Price": 3.06,
         "Currency": "RUB",
-        "Position": 1638
+        "Position": 1607
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Quarch",
         "Stock": "100",
         "Price": 3.13,
         "Currency": "RUB",
-        "Position": 1639
+        "Position": 1608
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "angleanni",
         "Stock": "100",
         "Price": 3.17,
         "Currency": "RUB",
-        "Position": 1640
+        "Position": 1609
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Shawermahelp",
         "Stock": "1",
         "Price": 3.26,
         "Currency": "RUB",
-        "Position": 1641
+        "Position": 1610
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "bestprlce",
         "Stock": "2568",
         "Price": 3.33,
         "Currency": "RUB",
-        "Position": 1642
+        "Position": 1611
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Greader1",
         "Stock": "10",
         "Price": 3.41,
         "Currency": "RUB",
-        "Position": 1643
+        "Position": 1612
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "DespaiRe333",
         "Stock": "2",
         "Price": 3.64,
         "Currency": "RUB",
-        "Position": 1648
+        "Position": 1617
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Gasbeck",
         "Stock": "1",
         "Price": 3.86,
         "Currency": "RUB",
-        "Position": 1661
+        "Position": 1630
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "reidenshiqq",
         "Stock": "1",
         "Price": 4.55,
         "Currency": "RUB",
-        "Position": 1677
+        "Position": 1646
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "oXyGeN1488",
         "Stock": "70",
         "Price": 4.61,
         "Currency": "RUB",
-        "Position": 1678
+        "Position": 1647
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Calayd",
         "Stock": "1",
         "Price": 6.52,
         "Currency": "RUB",
-        "Position": 1703
+        "Position": 1672
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "drons792",
         "Stock": "1",
         "Price": 6.74,
         "Currency": "RUB",
-        "Position": 1704
+        "Position": 1673
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "YouOLo",
         "Stock": "40",
         "Price": 7.5,
         "Currency": "RUB",
-        "Position": 1711
+        "Position": 1680
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "skrilmakson",
         "Stock": "500",
         "Price": 10.3,
         "Currency": "RUB",
-        "Position": 1733
+        "Position": 1702
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Zirno12",
         "Stock": "1",
         "Price": 11.67,
         "Currency": "RUB",
-        "Position": 1741
+        "Position": 1710
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "JitaMarket",
         "Stock": "100",
         "Price": 11.76,
         "Currency": "RUB",
-        "Position": 1746
+        "Position": 1715
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "AnnyaYO",
         "Stock": "990",
         "Price": 13.64,
         "Currency": "RUB",
-        "Position": 1750
+        "Position": 1719
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Lekksik",
         "Stock": "1600",
         "Price": 15.14,
         "Currency": "RUB",
-        "Position": 1751
+        "Position": 1720
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "andantedx",
         "Stock": "22",
         "Price": 16.84,
         "Currency": "RUB",
-        "Position": 1761
+        "Position": 1730
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "RUT1KEY",
         "Stock": "40",
         "Price": 25.76,
         "Currency": "RUB",
-        "Position": 1772
+        "Position": 1741
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "NikitaVavilon",
         "Stock": "2",
         "Price": 28.04,
         "Currency": "RUB",
-        "Position": 1773
+        "Position": 1742
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "Kronasss",
         "Stock": "5",
         "Price": 87.68,
         "Currency": "RUB",
-        "Position": 1784
+        "Position": 1753
     },
     {
-        "Timestamp": "2025-05-21 23:13:45",
+        "Timestamp": "2025-05-21 23:39:40",
         "Seller": "nikita86rus",
         "Stock": "999999",
         "Price": 151.54,
         "Currency": "RUB",
-        "Position": 1786
+        "Position": 1755
     }
 ]
