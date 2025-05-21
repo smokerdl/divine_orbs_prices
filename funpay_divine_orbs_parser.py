@@ -114,14 +114,23 @@ def get_sellers(game, league_id):
             f.write(response.text)
         logger.info(f"HTML продавцов для {game} сохранён")
         sellers = []
-        offers = soup.select('.tc-item')
+        offers = soup.select('.tc-item.offer-promo')
+        logger.info(f"Найдено офферов для {game} (лига {league_id}): {len(offers)}")
         if not offers:
-            logger.warning(f"Не найдено элементов .tc-item для {game} (лига {league_id})")
+            logger.warning(f"Не найдено элементов .tc-item.offer-promo для {game} (лига {league_id})")
             container = soup.select_one('.showcase') or soup.select_one('.content')
             if container:
                 logger.debug(f"Найден контейнер для {game}: {str(container)[:500]}...")
             return []
         for offer in offers:
+            if offer.get('data-online') != '1':
+                logger.debug(f"Пропущен оффер для {game}: продавец не онлайн")
+                continue
+            if game == 'poe2':
+                orb_type_elem = offer.select_one('.tc-side')
+                if not orb_type_elem or orb_type_elem.text.strip() != 'Божественные сферы':
+                    logger.debug(f"Пропущен оффер для {game}: неверный тип орбы ({orb_type_elem.text if orb_type_elem else 'не найден'})")
+                    continue
             username_elem = offer.select_one('.tc-user .media-user-name span')
             price_elem = offer.select_one('.tc-price > div')
             amount_elem = offer.select_one('.tc-amount')
@@ -129,7 +138,12 @@ def get_sellers(game, league_id):
                 logger.debug(f"Пропущен оффер для {game}: отсутствует имя, цена или количество")
                 continue
             username = username_elem.text.strip()
-            price_rub = float(price_elem.text.split()[0].replace(',', '.'))
+            price_text = price_elem.text.split()[0].replace(',', '.')
+            try:
+                price_rub = float(price_text)
+            except ValueError:
+                logger.debug(f"Пропущен оффер для {game}: неверный формат цены ({price_text})")
+                continue
             amount = int(amount_elem.get('data-s', '0'))
             if amount == 0:
                 logger.debug(f"Пропущен оффер для {game}: количество = 0 (продавец: {username})")
