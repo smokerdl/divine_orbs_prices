@@ -46,6 +46,8 @@ def get_sellers(game, league_id):
     url = POE_URL if game == 'poe' else POE2_URL
     session = requests.Session()
     session.headers.update(headers)
+    SBP_COMMISSION = 1.2118  # +21.18% для СБП
+    CARD_COMMISSION = 1.2526  # +25.26% для карты
     
     for attempt in range(3):
         try:
@@ -68,7 +70,6 @@ def get_sellers(game, league_id):
                 try:
                     logger.debug(f"Обрабатываем оффер {index}: {offer.prettify()[:200]}...")
                     
-                    # Проверка data-server
                     if str(offer.get("data-server")) != str(league_id):
                         logger.debug(f"Пропущен оффер {index}: data-server ({offer.get('data-server')}) не соответствует лиге {league_id}")
                         continue
@@ -79,7 +80,6 @@ def get_sellers(game, league_id):
                         logger.debug(f"Пропущен оффер {index}: отсутствует имя")
                         continue
                     
-                    # Поиск типа сферы
                     orb_type = "Божественные сферы" if game == 'poe' else "Неизвестно"
                     if game == 'poe2':
                         desc_elem = offer.find("div", class_="tc-desc")
@@ -110,33 +110,28 @@ def get_sellers(game, league_id):
                         logger.debug(f"Пропущен оффер {index}: пустая цена")
                         continue
                     
-                    # Определение валюты
-                    currency_elem = price_inner.find("span", class_="unit") if price_inner else None
-                    currency = "RUB"  # По умолчанию рубли
-                    if currency_elem:
-                        currency_text = currency_elem.text.strip()
-                        currency = "USD" if "$" in currency_text else "RUB"
-                    logger.debug(f"Валюта для {username}: {currency}")
-                    
-                    # Очистка цены
+                    # Парсим цену в рублях
                     price_text = re.sub(r"[^\d.]", "", price_text).strip()
                     if not re.match(r"^\d*\.\d+$", price_text):
                         logger.debug(f"Пропущен оффер для {username}: неверный формат цены ({price_text})")
                         continue
                     try:
-                        price = float(price_text)
-                        price = round(price, 2)
+                        price_rub = float(price_text)
+                        price_rub = round(price_rub, 2)
+                        price_sbp = round(price_rub * SBP_COMMISSION, 2)
+                        price_card = round(price_rub * CARD_COMMISSION, 2)
+                        logger.debug(f"Цена для {username}: {price_rub} RUB (СБП: {price_sbp} ₽, Карта: {price_card} ₽)")
                     except ValueError:
                         logger.debug(f"Пропущен оффер для {username}: не удалось преобразовать цену ({price_text})")
                         continue
                     
-                    logger.debug(f"Обработан продавец: {username} (позиция {index}, {amount} шт., {price} {currency}, тип: {orb_type})")
+                    logger.debug(f"Обработан продавец: {username} (позиция {index}, {amount} шт., {price_rub} RUB, тип: {orb_type})")
                     sellers.append({
                         "Timestamp": datetime.now(pytz.timezone("Europe/Moscow")).strftime("%Y-%m-%d %H:%M:%S"),
                         "Seller": username,
                         "Stock": amount,
-                        "Price": price,
-                        "Currency": currency,
+                        "Price": price_rub,  # Цена с комиссией (как на сайте)
+                        "Currency": "RUB",
                         "Position": index
                     })
                 
@@ -149,13 +144,9 @@ def get_sellers(game, league_id):
                 logger.warning(f"Нет валидных продавцов для {game} (лига {league_id})")
                 return []
             
-            # Фильтр цен для PoE 2
+            # Убираем фильтр для PoE 2
             filtered_sellers = sellers
-            if game == 'poe2' and sellers:
-                min_price = min(s["Price"] for s in sellers)
-                logger.info(f"Минимальная цена для PoE 2: {min_price} {sellers[0]['Currency']}")
-                filtered_sellers = [s for s in sellers if s["Price"] <= min_price * 2]
-                logger.info(f"После фильтра цен (<= {min_price * 2} {sellers[0]['Currency']}): {len(filtered_sellers)} продавцов")
+            logger.info(f"Все продавцы для {game}: {len(filtered_sellers)}")
             
             return filtered_sellers
         except requests.exceptions.RequestException as e:
