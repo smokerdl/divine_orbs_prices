@@ -111,7 +111,7 @@ def get_leagues(game, url):
         return []
 
 def get_sellers(game, league_id):
-    """Получить данные о продавцах для лиги (без онлайн-фильтра, с отладкой Divine Orbs)."""
+    """Получить данные о продавцах для лиги (с исправленной конвертацией для PoE 2)."""
     logger.info(f"Сбор данных о продавцах для {game} (лига {league_id})...")
     url = POE_URL if game == 'poe' else POE2_URL + "?currency=0"
     try:
@@ -135,12 +135,12 @@ def get_sellers(game, league_id):
         exchange_rate = get_exchange_rate()
         for index, offer in enumerate(offers, 1):
             try:
-                # Логирование онлайн-статуса (для отладки)
+                # Логирование классов для отладки
                 tc_user = offer.find("div", class_="tc-user")
                 avatar_photo = offer.find("div", class_="avatar-photo")
                 logger.debug(f"Продавец на позиции {index}: tc-user: {tc_user.get('class', [])}, avatar: {avatar_photo.get('class', [])}")
                 
-                # Проверка Divine Orbs (для PoE 2)
+                # Логирование Divine Orbs (PoE 2)
                 if game == 'poe2':
                     desc_elem = offer.find("div", class_="tc-desc")
                     desc_text = desc_elem.text.strip() if desc_elem else "отсутствует"
@@ -173,9 +173,10 @@ def get_sellers(game, league_id):
                 price = re.sub(r"[^\d.]", "", price_text.replace(",", "."))
                 try:
                     price = float(price)
-                    if "$" in price_elem.text:
+                    # Принудительная конвертация для PoE 2
+                    if game == 'poe2' or "$" in price_elem.text:
+                        logger.debug(f"Конверсия для {username}: {price} $ -> {price * exchange_rate} ₽")
                         price = price * exchange_rate
-                        logger.debug(f"Конверсия для {username}: {price / exchange_rate} $ -> {price} ₽")
                     price = round(price, 2)
                 except ValueError:
                     logger.debug(f"Пропущен оффер для {username}: неверный формат цены ({price_text})")
