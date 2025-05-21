@@ -18,6 +18,12 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+# Добавляем консольный вывод
+console_handler = logging.StreamHandler()
+console_handler.setLevel(logging.INFO)
+console_handler.setFormatter(logging.Formatter("%(asctime)s - %(levelname)s - %(message)s"))
+logger.addHandler(console_handler)
+
 POE_URL = "https://funpay.com/chips/173/"
 POE2_URL = "https://funpay.com/chips/209/?side=106"
 ua = UserAgent()
@@ -159,21 +165,17 @@ def get_sellers(game, league_id):
                     logger.debug(f"Ошибка обработки продавца на позиции {index}: {e}")
                     continue
             
+            logger.debug(f"Сырой список sellers для {game}: {sellers}")
             # Фильтр позиций 4–13
             filtered_sellers = [s for s in sellers if 3 < s["Position"] <= 13]
             logger.info(f"Отфильтровано продавцов для {game}: {len(filtered_sellers)} (позиции 4–13)")
             
             # Фильтр цен для PoE 2
             if game == 'poe2' and filtered_sellers:
-                valid_sellers = [s for s in filtered_sellers if s["Price"] < 1000]
-                if not valid_sellers:
-                    logger.warning("Нет валидных цен <1000 ₽, возвращаем пустой список")
-                    filtered_sellers = []
-                else:
-                    min_price = min(s["Price"] for s in valid_sellers)
-                    logger.info(f"Минимальная цена для PoE 2: {min_price} ₽")
-                    filtered_sellers = [s for s in filtered_sellers if s["Price"] <= min_price * 2]
-                    logger.info(f"После фильтра цен (<= {min_price * 2} ₽): {len(filtered_sellers)} продавцов")
+                min_price = min(s["Price"] for s in filtered_sellers)
+                logger.info(f"Минимальная цена для PoE 2: {min_price} ₽")
+                filtered_sellers = [s for s in filtered_sellers if s["Price"] <= min_price * 2]
+                logger.info(f"После фильтра цен (<= {min_price * 2} ₽): {len(filtered_sellers)} продавцов")
             
             logger.debug(f"Возвращаем filtered_sellers для {game}: {filtered_sellers}")
             return filtered_sellers
@@ -217,7 +219,7 @@ def save_to_json(data, filename):
             return
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
-        logger.info(f"Данные успешно сохранены в {filename}: {data}")
+        logger.info(f"Данные успешно сохранены в {filename}")
     except Exception as e:
         logger.error(f"Ошибка сохранения в {filename}: {e}")
         raise
@@ -253,18 +255,23 @@ def main():
     ]
     
     for game in games:
+        logger.info(f"Обработка игры: {game['name']}")
+        print(f"Обработка игры: {game['name']}")
         sellers = get_sellers(game["name"], game["league_id"])
         filename = f"prices_{game['file_prefix']}.json"
         logger.debug(f"Перед сохранением {filename}: {sellers}")
         if not sellers:
             logger.warning(f"Нет данных для сохранения в {filename}")
+            print(f"Нет данных для {filename}")
             continue
         save_to_json(sellers, filename)
+        print(f"Сохранено в {filename}")
         # upload_to_github(sellers, filename, "smokerdl/divine_orbs_prices", os.getenv("GITHUB_TOKEN"))
         
         leagues = get_leagues(game["name"])
         if leagues:
             save_to_json(leagues, f"league_ids.json")
+            print(f"Сохранено в league_ids.json")
             # upload_to_github(leagues, f"league_ids.json", "smokerdl/divine_orbs_prices", os.getenv("GITHUB_TOKEN"))
 
 if __name__ == "__main__":
