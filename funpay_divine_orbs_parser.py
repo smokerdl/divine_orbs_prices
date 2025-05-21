@@ -125,11 +125,11 @@ def get_sellers(game, league_id):
                     
                     price_elem = offer.find("div", class_="tc-price")
                     if not price_elem:
-                        logger.debug(f"Пропущен оффер для {username}: отсутствует цена")
+                        logger.debug(f"Пропущен оффер на позиции {index}: отсутствует цена")
                         continue
                     price_inner = price_elem.find("div")
                     if not price_inner:
-                        logger.debug(f"Пропущен оффер для {username}: отсутствует div в tc-price")
+                        logger.debug(f"Пропущен оффер на позиции {index}: отсутствует div в tc-price")
                         continue
                     price_text = price_inner.text.strip()
                     logger.debug(f"Сырой текст цены для {username} (позиция {index}): {price_text}")
@@ -145,20 +145,13 @@ def get_sellers(game, league_id):
                         continue
                     try:
                         price = float(price_text)
+                        logger.debug(f"Исходная цена для {username}: {price} {'$' if '$' in price_elem.text else '₽'}, за 1 сферу")
                         if price < 0.1 and "$" not in price_elem.text:
                             logger.warning(f"Аномально низкая цена для {username}: {price} ₽, пропускаем")
                             continue
                         if "$" in price_elem.text:
                             price = price * exchange_rate
                             logger.debug(f"Конверсия для {username}: {price / exchange_rate} $ -> {price} ₽")
-                        # Делим цену на 100, если цена > 100 ₽
-                        if price > 100:
-                            price = price / 100
-                            logger.debug(f"Цена для {username} скорректирована: {price * 100} ₽ / 100 шт. = {price} ₽/шт.")
-                        # Фильтруем аномальные цены
-                        if price < 1 or price > 20:
-                            logger.warning(f"Аномальная цена для {username}: {price} ₽, пропускаем")
-                            continue
                         price = round(price, 2)
                     except ValueError:
                         logger.debug(f"Пропущен оффер для {username}: не удалось преобразовать цену ({price_text})")
