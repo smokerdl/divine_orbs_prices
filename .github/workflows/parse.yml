@@ -7,9 +7,9 @@ jobs:
   parse:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4  # Обновлено до v4
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5  # Обновлено до v5
         with:
           python-version: '3.9'
       - name: Install dependencies
@@ -20,7 +20,7 @@ jobs:
         run: python funpay_divine_orbs_parser.py
       - name: Upload artifacts
         if: always()  # Сохранять даже при ошибке
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4  # Обновлено до v4
         with:
           name: parser-artifacts
           path: |
