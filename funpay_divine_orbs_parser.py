@@ -152,6 +152,10 @@ def get_sellers(game, league_id):
                         if "$" in price_elem.text:
                             price = price * exchange_rate
                             logger.debug(f"Конверсия для {username}: {price / exchange_rate} $ -> {price} ₽")
+                        # Фильтр выбросов для PoE 2
+                        if game == 'poe2' and price > 50:
+                            logger.warning(f"Выброс цены для {username}: {price} ₽, пропускаем")
+                            continue
                         price = round(price, 2)
                     except ValueError:
                         logger.debug(f"Пропущен оффер для {username}: не удалось преобразовать цену ({price_text})")
