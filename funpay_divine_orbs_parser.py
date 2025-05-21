@@ -45,9 +45,9 @@ def get_sellers(game, league_id):
     url = POE_URL if game == 'poe' else POE2_URL
     session = requests.Session()
     session.headers.update(headers)
-    SBP_COMMISSION = 1.2118
-    CARD_COMMISSION = 1.2526
-    FUNPAY_EXCHANGE_RATE = 79.89
+    SBP_COMMISSION = 1.2118  # +21.18% для СБП
+    CARD_COMMISSION = 1.2526  # +25.26% для карты
+    FUNPAY_EXCHANGE_RATE = 79.89  # Внутренний курс ₽/$
     
     for attempt in range(3):
         try:
@@ -116,7 +116,7 @@ def get_sellers(game, league_id):
                         continue
                     try:
                         price_rub = float(price_text_clean)
-                        price_usd = round(price_rub / FUNPAY_EXCHANGE_RATE, 2)
+                        price_usd = round(price_rub / FUNPAY_EXCHANGE_RATE, 3)
                         price_sbp = round(price_rub * SBP_COMMISSION, 2)
                         price_card = round(price_rub * CARD_COMMISSION, 2)
                         logger.debug(f"Цена для {username}: {price_rub} RUB (USD: {price_usd} $, СБП: {price_sbp} ₽, Карта: {price_card} ₽)")
@@ -129,7 +129,7 @@ def get_sellers(game, league_id):
                         "Timestamp": datetime.now(pytz.timezone("Europe/Moscow")).strftime("%Y-%m-%d %H:%M:%S"),
                         "Seller": username,
                         "Stock": amount,
-                        "Price": price_usd,  # Сохраняем в USD
+                        "Price": price_usd,
                         "Currency": "RUB",
                         "Position": index
                     })
@@ -195,16 +195,19 @@ def save_to_json(data, filename):
                 logger.error(f"Ошибка чтения {filepath}: {e}")
                 existing_data = []
 
-        # Фильтруем новые данные, избегая дубликатов
-        existing_keys = {(item['Timestamp'], item['Seller'], item['Position']) for item in existing_data}
-        new_data = [item for item in data if (item['Timestamp'], item['Seller'], item['Position']) not in existing_keys]
-        logger.debug(f"Новые уникальные записи: {len(new_data)}")
+        combined_data = data
+        if filename != "league_ids.json":
+            # Фильтруем новые данные для продавцов
+            existing_keys = {(item['Timestamp'], item['Seller'], item['Position']) for item in existing_data}
+            new_data = [item for item in data if (item['Timestamp'], item['Seller'], item['Position']) not in existing_keys]
+            logger.debug(f"Новые уникальные записи: {len(new_data)}")
+            combined_data = existing_data + new_data
+        else:
+            # Для лиг просто перезаписываем
+            logger.debug("Сохранение лиг без фильтрации")
+            combined_data = data
 
-        # Объединяем
-        combined_data = existing_data + new_data
         logger.debug(f"Всего записей после объединения: {len(combined_data)}")
-
-        # Сохраняем
         with open(filepath, 'w', encoding='utf-8') as f:
             json.dump(combined_data, f, ensure_ascii=False, indent=4)
         logger.info(f"Данные успешно сохранены в {filepath}: {len(combined_data)} записей")
@@ -221,7 +224,7 @@ def upload_to_github(data, filename, repo_name, token):
         g = Github(token)
         repo = g.get_repo(repo_name)
         
-        # Загружаем существующий файл
+        existing_data = []
         try:
             file = repo.get_contents(filename)
             existing_data = json.loads(file.decoded_content.decode('utf-8'))
@@ -230,17 +233,21 @@ def upload_to_github(data, filename, repo_name, token):
             logger.debug(f"Файл {filename} не существует: {e}")
             existing_data = []
 
-        # Фильтруем новые данные
-        existing_keys = {(item['Timestamp'], item['Seller'], item['Position']) for item in existing_data}
-        new_data = [item for item in data if (item['Timestamp'], item['Seller'], item['Position']) not in existing_keys]
-        logger.debug(f"Новые уникальные записи для GitHub: {len(new_data)}")
+        combined_data = data
+        if filename != "league_ids.json":
+            # Фильтруем новые данные для продавцов
+            existing_keys = {(item['Timestamp'], item['Seller'], item['Position']) for item in existing_data}
+            new_data = [item for item in data if (item['Timestamp'], item['Seller'], item['Position']) not in existing_keys]
+            logger.debug(f"Новые уникальные записи для GitHub: {len(new_data)}")
+            combined_data = existing_data + new_data
+        else:
+            # Для лиг просто перезаписываем
+            logger.debug("Загрузка лиг без фильтрации")
+            combined_data = data
 
-        # Объединяем
-        combined_data = existing_data + new_data
         content = json.dumps(combined_data, ensure_ascii=False, indent=4)
         logger.debug(f"Содержимое для {filename}: {content[:100]}...")
 
-        # Обновляем или создаём
         if existing_data:
             repo.update_file(file.path, f"Update {filename}", content, file.sha)
             logger.info(f"Файл {filename} обновлён в репозитории: {len(combined_data)} записей")
