@@ -61,14 +61,13 @@ def get_sellers(game, league_id):
                 logger.warning(f"Селектор a.tc-item с data-server={league_id} не нашёл продавцов")
                 return []
             
-            sellers = []
-            target_positions = [4, 5, 6, 7, 8]  # Собираем только 4–8 места
             valid_offers = []
             debug_count = 0  # Для логирования первых 10 офферов
             
             for index, offer in enumerate(offers, 1):
                 try:
                     if str(offer.get("data-server")) != str(league_id):
+                        logger.debug(f"Пропущен оффер {index}: data-server не {league_id}")
                         continue
                     
                     username_elem = offer.find("div", class_="media-user-name")
@@ -99,7 +98,7 @@ def get_sellers(game, league_id):
                     ]
                     has_exclude = any(keyword in desc_text or keyword in side_text for keyword in exclude_keywords)
                     
-                    # Проверка стока для пустых описаний
+                    # Проверка стока
                     amount_elem = offer.find("div", class_="tc-amount")
                     amount = re.sub(r"[^\d]", "", amount_elem.text.strip()) if amount_elem else "0"
                     amount_num = int(amount) if amount.isdigit() else 0
@@ -110,9 +109,6 @@ def get_sellers(game, league_id):
                         continue
                     if has_exclude:
                         logger.debug(f"Пропущен оффер для {username}: содержит нежелательные ключевые слова")
-                        continue
-                    if not has_divine and amount_num < 100:
-                        logger.debug(f"Пропущен оффер для {username}: пустое описание и сток < 100")
                         continue
                     orb_type = "Божественные сферы"
                     
@@ -163,12 +159,17 @@ def get_sellers(game, league_id):
                     continue
             
             logger.info(f"Найдено валидных офферов для {game}: {len(valid_offers)}")
-            valid_offers.sort(key=lambda x: x["Position"])
-            for offer in valid_offers:
-                if len(sellers) < 5 and offer["Position"] in target_positions:
+            
+            # Собираем офферы с позиций 4–8 среди валидных
+            valid_offers.sort(key=lambda x: x["Price"])  # Сортировка по цене, как на FunPay
+            sellers = []
+            for i, offer in enumerate(valid_offers, 1):
+                if 4 <= i <= 8:  # Берем позиции 4–8
+                    offer["DisplayPosition"] = i  # Добавляем визуальную позицию
                     sellers.append(offer)
             
             logger.info(f"Собрано продавцов для {game}: {len(sellers)} (позиции 4–8)")
+            logger.debug(f"Содержимое sellers: {sellers}")
             return sellers
         except requests.exceptions.RequestException as e:
             logger.error(f"Попытка {attempt + 1} не удалась для {url}: {e}")
@@ -191,7 +192,7 @@ def get_leagues(game):
             response.raise_for_status()
             soup = BeautifulSoup(response.text, 'html.parser')
             with open(os.path.join(log_dir, f'funpay_leagues_{game}.html'), 'w', encoding='utf-8') as f:
-                f.write(soup.pretty_print())
+                f.write(soup.prettify())
             logger.info(f"HTML лиг для {game} сохранён")
             
             league_select = soup.find("select", class_="form-control")
