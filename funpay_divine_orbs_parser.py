@@ -50,6 +50,7 @@ def get_leagues(game, url):
         response = requests.get(url, headers=headers)
         logger.info(f"Статус ответа FunPay для {game}: {response.status_code}")
         if response.status_code != 200:
+            logger.warning(f"Не удалось получить лиги для {game}")
             return []
         soup = BeautifulSoup(response.text, 'html.parser')
         with open(f'funpay_leagues_{game}.html', 'w', encoding='utf-8') as f:
@@ -77,6 +78,10 @@ def get_leagues(game, url):
             if league_name in RELEVANT_LEAGUES[game]:
                 logger.info(f"Найдена лига для {game}: {league_name} (ID: {league_id})")
                 leagues.append({'id': league_id, 'name': league_name})
+            else:
+                logger.debug(f"Пропущена лига для {game}: {league_name} (не в RELEVANT_LEAGUES)")
+        if not leagues:
+            logger.warning(f"Не найдено подходящих лиг для {game}")
         return leagues
     except Exception as e:
         logger.error(f"Ошибка получения лиг для {game}: {e}")
@@ -87,7 +92,7 @@ def get_sellers(game, league_id):
     try:
         url = f"https://funpay.com/clips/offer?id={league_id}"
         response = requests.get(url, headers=headers)
-        logger.info(f"Статус ответа FunPay для {game}: {response.status_code}")
+        logger.info(f"Статус ответа FunPay для {game} (лига {league_id}): {response.status_code}")
         if response.status_code != 200:
             return []
         soup = BeautifulSoup(response.text, 'html.parser')
