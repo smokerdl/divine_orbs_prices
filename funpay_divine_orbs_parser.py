@@ -170,18 +170,14 @@ def get_sellers(game, league_id):
                 price_text = price_inner.text
                 price_span = price_inner.find("span", class_="unit")
                 currency = price_span.text.strip() if price_span else "unknown"
+                logger.debug(f"Продавец {username}: price_elem.text={price_elem.text}, currency={currency}")
                 if price_span:
                     price_text = price_text.replace(price_span.text, "").strip()
                 price = re.sub(r"[^\d.]", "", price_text.replace(",", "."))
                 try:
                     price = float(price)
-                    # Проверяем цену в $
-                    usd_price = offer.get("data-usd") or offer.get("data-price-usd")
-                    if usd_price:
-                        price = float(usd_price)
-                        logger.debug(f"Найдена цена в $ для {username}: {price} $")
-                    elif game == 'poe2' and currency == "₽":
-                        # Конвертируем ₽ в $ по курсу FunPay, затем в ₽ по нашему курсу
+                    # Для PoE 2: конвертируем ₽ в $ по курсу FunPay, затем в ₽ по нашему курсу
+                    if game == 'poe2':
                         usd_price = price / funpay_usd_rate
                         price = usd_price * exchange_rate
                         logger.debug(f"Конверсия для {username}: {price_text} ₽ -> {usd_price:.3f} $ -> {price:.2f} ₽")
