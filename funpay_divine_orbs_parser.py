@@ -111,7 +111,7 @@ def get_leagues(game, url):
         return []
 
 def get_sellers(game, league_id):
-    """Получить данные о продавцах для лиги (с исправленной конвертацией для PoE 2)."""
+    """Получить данные о продавцах для лиги (с конвертацией цен PoE 2 из ₽ в $)."""
     logger.info(f"Сбор данных о продавцах для {game} (лига {league_id})...")
     url = POE_URL if game == 'poe' else POE2_URL + "?currency=0"
     try:
@@ -132,10 +132,11 @@ def get_sellers(game, league_id):
             return []
         
         sellers = []
-        exchange_rate = get_exchange_rate()
+        exchange_rate = get_exchange_rate()  # Наш курс: 80.3075 ₽/$
+        funpay_usd_rate = 83.066  # Курс FunPay: 83.066 ₽/$
         for index, offer in enumerate(offers, 1):
             try:
-                # Логирование классов для отладки
+                # Логирование классов
                 tc_user = offer.find("div", class_="tc-user")
                 avatar_photo = offer.find("div", class_="avatar-photo")
                 logger.debug(f"Продавец на позиции {index}: tc-user: {tc_user.get('class', [])}, avatar: {avatar_photo.get('class', [])}")
@@ -168,14 +169,24 @@ def get_sellers(game, league_id):
                     continue
                 price_text = price_inner.text
                 price_span = price_inner.find("span", class_="unit")
+                currency = price_span.text.strip() if price_span else "unknown"
                 if price_span:
                     price_text = price_text.replace(price_span.text, "").strip()
                 price = re.sub(r"[^\d.]", "", price_text.replace(",", "."))
                 try:
                     price = float(price)
-                    # Принудительная конвертация для PoE 2
-                    if game == 'poe2' or "$" in price_elem.text:
-                        logger.debug(f"Конверсия для {username}: {price} $ -> {price * exchange_rate} ₽")
+                    # Проверяем цену в $
+                    usd_price = offer.get("data-usd") or offer.get("data-price-usd")
+                    if usd_price:
+                        price = float(usd_price)
+                        logger.debug(f"Найдена цена в $ для {username}: {price} $")
+                    elif game == 'poe2' and currency == "₽":
+                        # Конвертируем ₽ в $ по курсу FunPay, затем в ₽ по нашему курсу
+                        usd_price = price / funpay_usd_rate
+                        price = usd_price * exchange_rate
+                        logger.debug(f"Конверсия для {username}: {price_text} ₽ -> {usd_price:.3f} $ -> {price:.2f} ₽")
+                    elif "$" in currency:
+                        logger.debug(f"Конверсия для {username}: {price} $ -> {price * exchange_rate:.2f} ₽")
                         price = price * exchange_rate
                     price = round(price, 2)
                 except ValueError:
