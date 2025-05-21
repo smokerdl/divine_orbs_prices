@@ -22,8 +22,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Константы
-POE_URL = "https://funpay.com/chips/173/"  # Исправлено для PoE 1
-POE2_URL = "https://funpay.com/chips/209/"
+POE_URL = "https://funpay.com/chips/173/"  # PoE 1 Divine Orbs
+POE2_URL = "https://funpay.com/chips/209/"  # PoE 2 Divine Orbs
 log_dir = os.path.dirname(os.path.abspath(__file__))
 ua = UserAgent()
 headers = {
@@ -62,7 +62,7 @@ def get_sellers(game, league_id):
                 return []
             
             sellers = []
-            min_price_rub = 0.5 if game == 'poe' else 5.0
+            min_price_usd = 0.02 if game == 'poe' else 0.1  # Минимальная цена в USD
             target_positions = [4, 5, 6, 7, 8]  # Собираем только 4–8 места
             valid_offers = []
             debug_count = 0  # Для логирования первых 10 офферов
@@ -100,19 +100,19 @@ def get_sellers(game, league_id):
                     ]
                     has_exclude = any(keyword in desc_text or keyword in side_text for keyword in exclude_keywords)
                     
-                    # Дополнительная проверка стока для пустых описаний
+                    # Проверка стока для пустых описаний
                     amount_elem = offer.find("div", class_="tc-amount")
                     amount = re.sub(r"[^\d]", "", amount_elem.text.strip()) if amount_elem else "0"
                     amount_num = int(amount) if amount.isdigit() else 0
                     logger.debug(f"Сток для {username}: {amount}")
                     
-                    if not has_divine and (desc_text or side_text):  # Если есть текст, но нет Divine
+                    if not has_divine and (desc_text or side_text):
                         logger.debug(f"Пропущен оффер для {username}: нет Divine Orbs в описании")
                         continue
                     if has_exclude:
                         logger.debug(f"Пропущен оффер для {username}: содержит нежелательные ключевые слова")
                         continue
-                    if not has_divine and amount_num < 100:  # Пустое описание и низкий сток
+                    if not has_divine and amount_num < 100:
                         logger.debug(f"Пропущен оффер для {username}: пустое описание и сток < 100")
                         continue
                     orb_type = "Божественные сферы"
@@ -136,15 +136,15 @@ def get_sellers(game, league_id):
                         logger.debug(f"Пропущен оффер для {username}: неверный формат цены ({price_text_clean})")
                         continue
                     try:
-                        price_rub = float(price_text_clean)
-                        logger.debug(f"Цена в RUB для {username}: {price_rub}")
-                        if price_rub < min_price_rub:
-                            logger.debug(f"Пропущен оффер для {username}: цена слишком низкая ({price_rub} RUB)")
+                        price_usd = float(price_text_clean)  # Цена в USD
+                        logger.debug(f"Цена в USD для {username}: {price_usd}")
+                        if price_usd < min_price_usd:
+                            logger.debug(f"Пропущен оффер для {username}: цена слишком низкая ({price_usd} USD)")
                             continue
-                        price_usd = round(price_rub / FUNPAY_EXCHANGE_RATE, 3)
+                        price_rub = round(price_usd * FUNPAY_EXCHANGE_RATE, 2)
                         price_sbp = round(price_rub * SBP_COMMISSION, 2)
                         price_card = round(price_rub * CARD_COMMISSION, 2)
-                        logger.debug(f"Цена для {username}: {price_rub} RUB (USD: {price_usd} $, СБП: {price_sbp} ₽, Карта: {price_card} ₽)")
+                        logger.debug(f"Цена для {username}: {price_usd} USD ({price_rub} RUB, СБП: {price_sbp} ₽, Карта: {price_card} ₽)")
                     except ValueError:
                         logger.debug(f"Пропущен оффер для {username}: ошибка преобразования цены ({price_text_clean})")
                         continue
@@ -154,13 +154,13 @@ def get_sellers(game, league_id):
                         "Seller": username,
                         "Stock": amount,
                         "Price": price_usd,
-                        "Currency": "RUB",
+                        "Currency": "USD",
                         "Position": index
                     })
                     
                     # Отладка: логируем первые 10 офферов
                     if debug_count < 10:
-                        logger.debug(f"Отладка оффера {index}: {username}, Цена: {price_rub} RUB, tc-desc: {desc_text}, tc-side: {side_text}")
+                        logger.debug(f"Отладка оффера {index}: {username}, Цена: {price_usd} USD ({price_rub} RUB), tc-desc: {desc_text}, tc-side: {side_text}")
                         debug_count += 1
                 
                 except Exception as e:
