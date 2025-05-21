@@ -68,5 +68,19 @@
         "Stock": "920",
         "Price": 2.73,
         "Position": 13
+    },
+    {
+        "Timestamp": "2025-05-21 10:39:15",
+        "Seller": "Inniku",
+        "Stock": "100",
+        "Price": 24.09,
+        "Position": 4
+    },
+    {
+        "Timestamp": "2025-05-21 10:39:15",
+        "Seller": "KrAsIvO2018",
+        "Stock": "1000000000",
+        "Price": 33.73,
+        "Position": 5
     }
 ]
