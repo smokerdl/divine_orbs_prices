@@ -163,18 +163,17 @@ def get_sellers(game, league_id):
             filtered_sellers = [s for s in sellers if 3 < s["Position"] <= 13]
             logger.info(f"Отфильтровано продавцов для {game}: {len(filtered_sellers)} (позиции 4–13)")
             
-            # Фильтр цен для PoE 2: отсекаем >100% от минимальной цены
+            # Фильтр цен для PoE 2
             if game == 'poe2' and filtered_sellers:
-                # Исключаем явные выбросы (>1000 ₽)
                 valid_sellers = [s for s in filtered_sellers if s["Price"] < 1000]
-                if valid_sellers:
+                if not valid_sellers:
+                    logger.warning("Нет валидных цен <1000 ₽, возвращаем пустой список")
+                    filtered_sellers = []
+                else:
                     min_price = min(s["Price"] for s in valid_sellers)
                     logger.info(f"Минимальная цена для PoE 2: {min_price} ₽")
                     filtered_sellers = [s for s in filtered_sellers if s["Price"] <= min_price * 2]
                     logger.info(f"После фильтра цен (<= {min_price * 2} ₽): {len(filtered_sellers)} продавцов")
-                else:
-                    logger.warning("Все цены >1000 ₽, возвращаем пустой список")
-                    filtered_sellers = []
             
             logger.debug(f"Содержимое filtered_sellers для {game}: {filtered_sellers}")
             return filtered_sellers
@@ -218,6 +217,7 @@ def save_to_json(data, filename):
         logger.info(f"Данные успешно сохранены в {filename}")
     except Exception as e:
         logger.error(f"Ошибка сохранения в {filename}: {e}")
+        raise
 
 def upload_to_github(data, filename, repo_name, token):
     try:
@@ -238,6 +238,7 @@ def upload_to_github(data, filename, repo_name, token):
         logger.error(f"Ошибка загрузки в GitHub для {filename}: {e}")
         if hasattr(e, 'response'):
             logger.error(f"GitHub API error: {e.response.status_code} - {e.response.text}")
+        raise
 
 def main():
     games = [
@@ -248,6 +249,7 @@ def main():
     for game in games:
         sellers = get_sellers(game["name"], game["league_id"])
         filename = f"prices_{game['file_prefix']}.json"
+        logger.debug(f"Перед сохранением {filename}: {sellers}")
         save_to_json(sellers, filename)
         upload_to_github(sellers, filename, "smokerdl/divine_orbs_prices", os.getenv("GITHUB_TOKEN"))
         
