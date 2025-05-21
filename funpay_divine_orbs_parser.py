@@ -11,14 +11,16 @@ from fake_useragent import UserAgent
 from github import Github
 
 # Настройка логирования
+log_dir = "c:/Users/smk79/Documents/Скрипты Pythons/"
+os.makedirs(log_dir, exist_ok=True)
 logging.basicConfig(
-    filename="0_parse.txt",
+    filename=os.path.join(log_dir, "0_parse.txt"),
     level=logging.DEBUG,
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
 logger = logging.getLogger(__name__)
 
-# Добавляем консольный вывод
+# Консольный вывод
 console_handler = logging.StreamHandler()
 console_handler.setLevel(logging.INFO)
 console_handler.setFormatter(logging.Formatter("%(asctime)s - %(levelname)s - %(message)s"))
@@ -67,13 +69,13 @@ def get_sellers(game, league_id):
             logger.info(f"Статус ответа FunPay для {game} (лига {league_id}): {response.status_code}")
             if response.status_code == 404:
                 logger.warning(f"Страница {url} не найдена (404)")
-                with open(f'funpay_sellers_error_{game}.html', 'w', encoding='utf-8') as f:
+                with open(os.path.join(log_dir, f'funpay_sellers_error_{game}.html'), 'w', encoding='utf-8') as f:
                     f.write(response.text)
                 continue
             
             response.raise_for_status()
             soup = BeautifulSoup(response.text, 'html.parser')
-            with open(f'funpay_sellers_{game}.html', 'w', encoding='utf-8') as f:
+            with open(os.path.join(log_dir, f'funpay_sellers_{game}.html'), 'w', encoding='utf-8') as f:
                 f.write(soup.prettify())
             logger.info(f"HTML продавцов для {game} сохранён")
             
@@ -142,9 +144,10 @@ def get_sellers(game, league_id):
                     try:
                         price = float(price_text)
                         logger.debug(f"Исходная цена для {username}: {price} {'$' if '$' in price_elem.text else '₽'}, за 1 сферу")
-                        if price < 0.1 and "$" not in price_elem.text:
-                            logger.warning(f"Аномально низкая цена для {username}: {price} ₽, пропускаем")
-                            continue
+                        # Временно убираем фильтр низких цен
+                        # if price < 0.1 and "$" not in price_elem.text:
+                        #     logger.warning(f"Аномально низкая цена для {username}: {price} ₽, пропускаем")
+                        #     continue
                         if "$" in price_elem.text:
                             price = price * exchange_rate
                             logger.debug(f"Конверсия для {username}: {price / exchange_rate} $ -> {price} ₽")
@@ -166,9 +169,9 @@ def get_sellers(game, league_id):
                     continue
             
             logger.debug(f"Сырой список sellers для {game}: {sellers}")
-            # Фильтр позиций 4–13
-            filtered_sellers = [s for s in sellers if 3 < s["Position"] <= 13]
-            logger.info(f"Отфильтровано продавцов для {game}: {len(filtered_sellers)} (позиции 4–13)")
+            # Временно убираем фильтр позиций
+            filtered_sellers = sellers  # [s for s in sellers if 3 < s["Position"] <= 13]
+            logger.info(f"Отфильтровано продавцов для {game}: {len(filtered_sellers)}")
             
             # Фильтр цен для PoE 2
             if game == 'poe2' and filtered_sellers:
@@ -194,7 +197,7 @@ def get_leagues(game):
         logger.info(f"Статус ответа FunPay для лиг {game}: {response.status_code}")
         response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
-        with open(f'funpay_leagues_{game}.html', 'w', encoding='utf-8') as f:
+        with open(os.path.join(log_dir, f'funpay_leagues_{game}.html'), 'w', encoding='utf-8') as f:
             f.write(soup.prettify())
         logger.info(f"HTML лиг для {game} сохранён")
         
@@ -217,11 +220,12 @@ def save_to_json(data, filename):
         if not data:
             logger.warning(f"Нет данных для сохранения в {filename}")
             return
-        with open(filename, 'w', encoding='utf-8') as f:
+        filepath = os.path.join(log_dir, filename)
+        with open(filepath, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
-        logger.info(f"Данные успешно сохранены в {filename}")
+        logger.info(f"Данные успешно сохранены в {filepath}")
     except Exception as e:
-        logger.error(f"Ошибка сохранения в {filename}: {e}")
+        logger.error(f"Ошибка сохранения в {filepath}: {e}")
         raise
 
 def upload_to_github(data, filename, repo_name, token):
