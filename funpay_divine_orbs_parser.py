@@ -65,6 +65,7 @@ def get_sellers(game, league_id):
             min_price_rub = 0.5 if game == 'poe' else 5.0
             target_positions = [4, 5, 6, 7, 8]  # Собираем только 4–8 места
             valid_offers = []
+            debug_count = 0  # Для логирования первых 10 офферов
             
             for index, offer in enumerate(offers, 1):
                 try:
@@ -84,11 +85,10 @@ def get_sellers(game, league_id):
                         side_text = side_elem.text.strip().lower() if side_elem else ""
                         logger.debug(f"tc-desc для {username}: {desc_text}")
                         logger.debug(f"tc-side для {username}: {side_text}")
-                        if desc_text or side_text:  # Проверяем, если есть текст
-                            if not ("divine" in desc_text or "божественные сферы" in desc_text or 
-                                    "divine" in side_text or "божественные сферы" in side_text):
-                                logger.debug(f"Пропущен оффер для {username}: тип сферы не Divine Orbs")
-                                continue
+                        # Пропускаем явные не-Divine Orbs
+                        if any(keyword in desc_text or keyword in side_text for keyword in ["аккаунт", "услуги", "account", "service"]):
+                            logger.debug(f"Пропущен оффер для {username}: не Divine Orbs (подозрительное описание)")
+                            continue
                         orb_type = "Божественные сферы"
                     
                     amount_elem = offer.find("div", class_="tc-amount")
@@ -131,6 +131,11 @@ def get_sellers(game, league_id):
                         "Currency": "RUB",
                         "Position": index
                     })
+                    
+                    # Отладка: логируем первые 10 офферов
+                    if debug_count < 10:
+                        logger.debug(f"Отладка оффера {index}: {username}, Цена: {price_rub} RUB, tc-desc: {desc_text}, tc-side: {side_text}")
+                        debug_count += 1
                 
                 except Exception as e:
                     logger.debug(f"Ошибка обработки оффера {index}: {e}")
