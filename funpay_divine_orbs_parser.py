@@ -111,9 +111,9 @@ def get_leagues(game, url):
         return []
 
 def get_sellers(game, league_id):
-    """Получить данные о продавцах для лиги."""
+    """Получить данные о продавцах для лиги (только онлайн и Divine Orbs)."""
     logger.info(f"Сбор данных о продавцах для {game} (лига {league_id})...")
-    url = POE_URL if game == 'poe' else POE2_URL
+    url = POE_URL if game == 'poe' else POE2_URL + "?currency=0"  # Фильтр Divine Orbs для PoE 2
     try:
         response = requests.get(url, headers=headers, timeout=10)
         logger.info(f"Статус ответа FunPay для {game} (лига {league_id}): {response.status_code}")
@@ -135,6 +135,19 @@ def get_sellers(game, league_id):
         exchange_rate = get_exchange_rate()
         for index, offer in enumerate(offers, 1):
             try:
+                # Проверка онлайн-статуса
+                status_elem = offer.find("div", class_="media-user-status")
+                if not status_elem or "online" not in status_elem.get("class", []):
+                    logger.debug(f"Пропущен оффер на позиции {index}: продавец оффлайн")
+                    continue
+                
+                # Проверка Divine Orbs (для PoE 2)
+                if game == 'poe2':
+                    desc_elem = offer.find("div", class_="tc-desc")
+                    if not desc_elem or desc_elem.text.strip() != "Divine Orbs":
+                        logger.debug(f"Пропущен оффер на позиции {index}: не Divine Orbs")
+                        continue
+                
                 # Имя продавца
                 username_elem = offer.find("div", class_="media-user-name")
                 username = username_elem.text.strip() if username_elem else None
