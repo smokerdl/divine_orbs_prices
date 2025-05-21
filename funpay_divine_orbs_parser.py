@@ -111,7 +111,7 @@ def get_leagues(game, url):
         return []
 
 def get_sellers(game, league_id):
-    """Получить данные о продавцах для лиги (с отладкой онлайн и Divine Orbs)."""
+    """Получить данные о продавцах для лиги (без онлайн-фильтра, с отладкой Divine Orbs)."""
     logger.info(f"Сбор данных о продавцах для {game} (лига {league_id})...")
     url = POE_URL if game == 'poe' else POE2_URL + "?currency=0"
     try:
@@ -135,27 +135,16 @@ def get_sellers(game, league_id):
         exchange_rate = get_exchange_rate()
         for index, offer in enumerate(offers, 1):
             try:
-                # Проверка онлайн-статуса
+                # Логирование онлайн-статуса (для отладки)
                 tc_user = offer.find("div", class_="tc-user")
                 avatar_photo = offer.find("div", class_="avatar-photo")
-                online_status = False
-                if tc_user and "online" in tc_user.get("class", []):
-                    online_status = True
-                    logger.debug(f"Продавец на позиции {index}: онлайн (tc-user)")
-                elif avatar_photo and "online" in avatar_photo.get("class", []):
-                    online_status = True
-                    logger.debug(f"Продавец на позиции {index}: онлайн (avatar-photo)")
-                else:
-                    logger.debug(f"Продавец на позиции {index}: оффлайн (tc-user: {tc_user.get('class', [])}, avatar: {avatar_photo.get('class', [])})")
+                logger.debug(f"Продавец на позиции {index}: tc-user: {tc_user.get('class', [])}, avatar: {avatar_photo.get('class', [])}")
                 
                 # Проверка Divine Orbs (для PoE 2)
                 if game == 'poe2':
                     desc_elem = offer.find("div", class_="tc-desc")
                     desc_text = desc_elem.text.strip() if desc_elem else "отсутствует"
-                    if desc_text not in ["Divine Orbs", "Divine Orb", "Божественные сферы"]:
-                        logger.debug(f"Пропущен оффер на позиции {index}: не Divine Orbs (найдено: {desc_text})")
-                        continue
-                    logger.debug(f"Продавец на позиции {index}: Divine Orbs (найдено: {desc_text})")
+                    logger.debug(f"Продавец на позиции {index}: Divine Orbs check (найдено: {desc_text})")
                 
                 # Имя продавца
                 username_elem = offer.find("div", class_="media-user-name")
@@ -192,22 +181,21 @@ def get_sellers(game, league_id):
                     logger.debug(f"Пропущен оффер для {username}: неверный формат цены ({price_text})")
                     continue
                 
-                logger.debug(f"Обработан продавец: {username} (позиция {index}, {amount} шт., {price} ₽, онлайн: {online_status})")
+                logger.debug(f"Обработан продавец: {username} (позиция {index}, {amount} шт., {price} ₽)")
                 sellers.append({
                     "Timestamp": datetime.now(pytz.timezone("Europe/Moscow")).strftime("%Y-%m-%d %H:%M:%S"),
                     "Seller": username,
                     "Stock": amount,
                     "Price": price,
-                    "Position": index,
-                    "Online": online_status
+                    "Position": index
                 })
             except Exception as e:
                 logger.debug(f"Ошибка обработки продавца на позиции {index}: {e}")
                 continue
         
-        # Фильтрация позиций 4–13 и онлайн
-        filtered_sellers = [s for s in sellers if 3 < s["Position"] <= 13 and s["Online"]]
-        logger.info(f"Отфильтровано продавцов для {game}: {len(filtered_sellers)} (позиции 4–13, онлайн)")
+        # Фильтрация позиций 4–13
+        filtered_sellers = [s for s in sellers if 3 < s["Position"] <= 13]
+        logger.info(f"Отфильтровано продавцов для {game}: {len(filtered_sellers)} (позиции 4–13)")
         return filtered_sellers
     except Exception as e:
         logger.error(f"Ошибка получения продавцов для {game} (лига {league_id}): {e}")
