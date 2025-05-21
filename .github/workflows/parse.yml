@@ -1,19 +1,29 @@
 name: Parse FunPay Prices
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/30 * * * *'  # Каждые 30 минут
+  workflow_dispatch:
 jobs:
   parse:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4  # Обновлено до v4
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5  # Обновлено до v5
         with:
-          python-version: '3.x'
+          python-version: '3.9'
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install requests beautifulsoup4 pygithub fake-useragent pytz
       - name: Run parser
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python funpay_divine_orbs_parser.py
+      - name: Upload artifacts
+        if: always()  # Сохранять даже при ошибке
+        uses: actions/upload-artifact@v4  # Обновлено до v4
+        with:
+          name: parser-artifacts
+          path: |
+            *.html
+            *.json
+          retention-days: 7
