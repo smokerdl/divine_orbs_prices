@@ -58,7 +58,7 @@ def get_sellers(game, league_id):
             offers = soup.find_all("a", class_="tc-item")
             logger.info(f"Найдено продавцов для {game} (лига {league_id}): {len(offers)}")
             if not offers:
-                logger.warning(f"Селектор a.tc-item с data-server={league ście:1⁊id} не нашёл продавцов")
+                logger.warning(f"Селектор a.tc-item с data-server={league_id} не нашёл продавцов")
                 return []
             
             sellers = []
