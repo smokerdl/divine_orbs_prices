@@ -156,7 +156,7 @@ def get_sellers(game, league_id):
                             price = price / 100
                             logger.debug(f"Цена для {username} скорректирована: {price * 100} ₽ / 100 шт. = {price} ₽/шт.")
                         # Фильтруем аномальные цены
-                        if price < 5 or price > 20:
+                        if price < 1 or price > 20:
                             logger.warning(f"Аномальная цена для {username}: {price} ₽, пропускаем")
                             continue
                         price = round(price, 2)
