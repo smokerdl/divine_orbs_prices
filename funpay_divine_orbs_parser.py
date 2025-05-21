@@ -20,6 +20,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+# Консольный вывод
 console_handler = logging.StreamHandler()
 console_handler.setLevel(logging.INFO)
 console_handler.setFormatter(logging.Formatter("%(asctime)s - %(levelname)s - %(message)s"))
@@ -45,9 +46,9 @@ def get_sellers(game, league_id):
     url = POE_URL if game == 'poe' else POE2_URL
     session = requests.Session()
     session.headers.update(headers)
-    SBP_COMMISSION = 1.2118
-    CARD_COMMISSION = 1.2526
-    FUNPAY_EXCHANGE_RATE = 79.89
+    SBP_COMMISSION = 1.2118  # +21.18% для СБП
+    CARD_COMMISSION = 1.2526  # +25.26% для карты
+    FUNPAY_EXCHANGE_RATE = 79.89  # Внутренний курс ₽/$
     
     for attempt in range(3):
         try:
@@ -68,7 +69,7 @@ def get_sellers(game, league_id):
             sellers = []
             for index, offer in enumerate(offers, 1):
                 try:
-                    logger.debug(f"Обрабатываем оффер {index}: {offer.prettyprint()[:200]}...")
+                    logger.debug(f"Обрабатываем оффер {index}: {offer.prettify()[:200]}...")
                     
                     if str(offer.get("data-server")) != str(league_id):
                         logger.debug(f"Пропущен оффер {index}: data-server ({offer.get('data-server')}) не соответствует лиге {league_id}")
@@ -103,25 +104,21 @@ def get_sellers(game, league_id):
                         logger.debug(f"Пропущен оффер {index}: отсутствует цена")
                         continue
                     price_inner = price_elem.find("div") or price_elem.find("span")
-                    price_text = price_inner.text.strip() if price_inner else price_elem.text.strip()
-                    logger.debug(f"Сырой текст цены для {username}: '{price_text}'")
+                    price_text = price_inner.text.strip() if price_inner else ""
+                    logger.debug(f"Сырой текст цены для {username}: {price_text}")
                     
                     if not price_text:
                         logger.debug(f"Пропущен оффер {index}: пустая цена")
                         continue
                     
+                    # Парсим цену в рублях
                     price_text_clean = re.sub(r"[^\d.]", "", price_text).strip()
-                    logger.debug(f"Очищенный текст цены для {username}: '{price_text_clean}'")
-                    if not re.match(r"^\d+\.\d{1,2}$", price_text_clean):
+                    if not re.match(r"^\d*\.\d+$", price_text_clean):
                         logger.debug(f"Пропущен оффер для {username}: неверный формат цены ({price_text_clean})")
                         continue
                     try:
                         price_rub = float(price_text_clean)
-                        logger.debug(f"Цена в RUB для {username}: {price_rub}")
-                        if price_rub < 1.0:  # Фильтр аномально низких цен
-                            logger.debug(f"Пропущен оффер для {username}: цена слишком низкая ({price_rub} RUB)")
-                            continue
-                        price_usd = round(price_rub / FUNPAY_EXCHANGE_RATE, 3)
+                        price_usd = round(price_rub / FUNPAY_EXCHANGE_RATE, 2)
                         price_sbp = round(price_rub * SBP_COMMISSION, 2)
                         price_card = round(price_rub * CARD_COMMISSION, 2)
                         logger.debug(f"Цена для {username}: {price_rub} RUB (USD: {price_usd} $, СБП: {price_sbp} ₽, Карта: {price_card} ₽)")
@@ -134,7 +131,7 @@ def get_sellers(game, league_id):
                         "Timestamp": datetime.now(pytz.timezone("Europe/Moscow")).strftime("%Y-%m-%d %H:%M:%S"),
                         "Seller": username,
                         "Stock": amount,
-                        "Price": price_usd,
+                        "Price": price_rub,  # Цена с комиссией (как на сайте)
                         "Currency": "RUB",
                         "Position": index
                     })
@@ -148,6 +145,7 @@ def get_sellers(game, league_id):
                 logger.warning(f"Нет валидных продавцов для {game} (лига {league_id})")
                 return []
             
+            # Без фильтра для PoE 2
             logger.info(f"Все продавцы для {game}: {len(sellers)}")
             return sellers
         except requests.exceptions.RequestException as e:
@@ -181,38 +179,17 @@ def get_leagues(game):
     except Exception as e:
         logger.error(f"Ошибка получения лиг для {game}: {e}")
         return []
+
 def save_to_json(data, filename):
     try:
-        logger.debug(f"Попытка сохранить данные в {filename}: {len(data)} записей")
+        logger.debug(f"Попытка сохранить данные в {filename}: {data}")
         if not data:
             logger.warning(f"Нет данных для сохранения в {filename}")
             return
-        
         filepath = os.path.join(log_dir, filename)
-        existing_data = []
-        if os.path.exists(filepath):
-            try:
-                with open(filepath, 'r', encoding='utf-8') as f:
-                    existing_data = json.load(f)
-                logger.debug(f"Загружено существующих записей: {len(existing_data)}")
-            except Exception as e:
-                logger.error(f"Ошибка чтения {filepath}: {e}")
-                existing_data = []
-
-        combined_data = data
-        if filename != "league_ids.json":
-            existing_keys = {(item['Timestamp'], item['Seller'], item['Position']) for item in existing_data}
-            new_data = [item for item in data if (item['Timestamp'], item['Seller'], item['Position']) not in existing_keys]
-            logger.debug(f"Новые уникальные записи: {len(new_data)}")
-            combined_data = existing_data + new_data
-        else:
-            logger.debug("Сохранение лиг без фильтрации")
-            combined_data = data
-
-        logger.debug(f"Всего записей после объединения: {len(combined_data)}")
         with open(filepath, 'w', encoding='utf-8') as f:
-            json.dump(combined_data, f, ensure_ascii=False, indent=4)
-        logger.info(f"Данные успешно сохранены в {filepath}: {len(combined_data)} записей")
+            json.dump(data, f, ensure_ascii=False, indent=4)
+        logger.info(f"Данные успешно сохранены в {filepath}")
     except Exception as e:
         logger.error(f"Ошибка сохранения в {filepath}: {e}")
         raise
@@ -225,34 +202,16 @@ def upload_to_github(data, filename, repo_name, token):
             return
         g = Github(token)
         repo = g.get_repo(repo_name)
-        
-        existing_data = []
+        content = json.dumps(data, ensure_ascii=False, indent=4)
+        logger.debug(f"Содержимое для {filename}: {content[:100]}...")
         try:
             file = repo.get_contents(filename)
-            existing_data = json.loads(file.decoded_content.decode('utf-8'))
-            logger.debug(f"Загружен существующий файл {filename}: {len(existing_data)} записей")
-        except Exception as e:
-            logger.debug(f"Файл {filename} не существует: {e}")
-            existing_data = []
-
-        combined_data = data
-        if filename != "league_ids.json":
-            existing_keys = {(item['Timestamp'], item['Seller'], item['Position']) for item in existing_data}
-            new_data = [item for item in data if (item['Timestamp'], item['Seller'], item['Position']) not in existing_keys]
-            logger.debug(f"Новые уникальные записи для GitHub: {len(new_data)}")
-            combined_data = existing_data + new_data
-        else:
-            logger.debug("Загрузка лиг без фильтрации")
-            combined_data = data
-
-        content = json.dumps(combined_data, ensure_ascii=False, indent=4)
-        logger.debug(f"Содержимое для {filename}: {content[:100]}...")
-        if existing_data:
             repo.update_file(file.path, f"Update {filename}", content, file.sha)
-            logger.info(f"Файл {filename} обновлён в репозитории: {len(combined_data)} записей")
-        else:
+            logger.info(f"Файл {filename} обновлён в репозитории")
+        except Exception as create_e:
+            logger.debug(f"Файл {filename} не существует, создаём: {create_e}")
             repo.create_file(filename, f"Create {filename}", content)
-            logger.info(f"Файл {filename} создан в репозитории: {len(combined_data)} записей")
+            logger.info(f"Файл {filename} создан в репозитории")
     except Exception as e:
         logger.error(f"Ошибка загрузки в GitHub для {filename}: {str(e)}")
         raise
@@ -268,7 +227,7 @@ def main():
         print(f"Обработка игры: {game['name']}")
         sellers = get_sellers(game["name"], game["league_id"])
         filename = f"prices_{game['file_prefix']}.json"
-        logger.debug(f"Перед сохранением {filename}: {len(sellers)} записей")
+        logger.debug(f"Перед сохранением {filename}: {sellers}")
         if not sellers:
             logger.warning(f"Нет данных для сохранения в {filename}")
             print(f"Нет данных для {filename}")
