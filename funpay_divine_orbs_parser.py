@@ -22,7 +22,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Константы
-POE_URL = "https://funpay.com/chips/86/"
+POE_URL = "https://funpay.com/chips/173/"  # Исправлено для PoE 1
 POE2_URL = "https://funpay.com/chips/209/"
 log_dir = os.path.dirname(os.path.abspath(__file__))
 ua = UserAgent()
@@ -79,34 +79,43 @@ def get_sellers(game, league_id):
                         continue
                     
                     orb_type = "Божественные сферы" if game == 'poe' else "Неизвестно"
-                    if game == 'poe2':
-                        desc_elem = offer.find("div", class_="tc-desc")
-                        desc_text = desc_elem.text.strip().lower() if desc_elem else ""
-                        side_elem = offer.find("div", class_="tc-side") or offer.find("div", class_="tc-side-inside")
-                        side_text = side_elem.text.strip().lower() if side_elem else ""
-                        logger.debug(f"tc-desc для {username}: {desc_text}")
-                        logger.debug(f"tc-side для {username}: {side_text}")
-                        # Проверяем наличие Divine Orbs
-                        divine_keywords = ["divine", "божественные сферы", "divine orb", "божественная сфера", "div orb", "divine orbs"]
-                        has_divine = any(keyword in desc_text or keyword in side_text for keyword in divine_keywords)
-                        # Исключаем другие валюты и нежелательные офферы
-                        exclude_keywords = [
-                            "хаос", "ваал", "exalted", "chaos", "vaal", "exalt", "regal", "alch", 
-                            "blessed", "chromatic", "jeweller", "fusing", "scour", "chance", 
-                            "аккаунт", "услуги", "account", "service", "gem", "map", "fragment"
-                        ]
-                        has_exclude = any(keyword in desc_text or keyword in side_text for keyword in exclude_keywords)
-                        if not has_divine and (desc_text or side_text):  # Если есть текст, но нет Divine
-                            logger.debug(f"Пропущен оффер для {username}: нет Divine Orbs в описании")
-                            continue
-                        if has_exclude:
-                            logger.debug(f"Пропущен оффер для {username}: содержит нежелательные ключевые слова")
-                            continue
-                        orb_type = "Божественные сферы"
+                    desc_elem = offer.find("div", class_="tc-desc")
+                    desc_text = desc_elem.text.strip().lower() if desc_elem else ""
+                    side_elem = offer.find("div", class_="tc-side") or offer.find("div", class_="tc-side-inside")
+                    side_text = side_elem.text.strip().lower() if side_elem else ""
+                    logger.debug(f"tc-desc для {username}: {desc_text}")
+                    logger.debug(f"tc-side для {username}: {side_text}")
                     
+                    # Проверяем наличие Divine Orbs
+                    divine_keywords = [
+                        "divine", "божественные сферы", "divine orb", "божественная сфера", 
+                        "div orb", "divine orbs", "div orbs", "божеств сфера"
+                    ]
+                    has_divine = any(keyword in desc_text or keyword in side_text for keyword in divine_keywords)
+                    # Исключаем другие валюты и нежелательные офферы
+                    exclude_keywords = [
+                        "хаос", "ваал", "exalted", "chaos", "vaal", "exalt", "regal", "alch", 
+                        "blessed", "chromatic", "jeweller", "fusing", "scour", "chance", 
+                        "аккаунт", "услуги", "account", "service", "gem", "map", "fragment"
+                    ]
+                    has_exclude = any(keyword in desc_text or keyword in side_text for keyword in exclude_keywords)
+                    
+                    # Дополнительная проверка стока для пустых описаний
                     amount_elem = offer.find("div", class_="tc-amount")
                     amount = re.sub(r"[^\d]", "", amount_elem.text.strip()) if amount_elem else "0"
+                    amount_num = int(amount) if amount.isdigit() else 0
                     logger.debug(f"Сток для {username}: {amount}")
+                    
+                    if not has_divine and (desc_text or side_text):  # Если есть текст, но нет Divine
+                        logger.debug(f"Пропущен оффер для {username}: нет Divine Orbs в описании")
+                        continue
+                    if has_exclude:
+                        logger.debug(f"Пропущен оффер для {username}: содержит нежелательные ключевые слова")
+                        continue
+                    if not has_divine and amount_num < 100:  # Пустое описание и низкий сток
+                        logger.debug(f"Пропущен оффер для {username}: пустое описание и сток < 100")
+                        continue
+                    orb_type = "Божественные сферы"
                     
                     price_elem = offer.find("div", class_="tc-price")
                     if not price_elem:
@@ -254,6 +263,7 @@ def main():
         logger.info(f"Обработка игры: {game['name']}")
         sellers = get_sellers(game["name"], game["league_id"])
         logger.info(f"Результат get_sellers для {game['name']}: {len(sellers)} продавцов")
+        logger.debug(f"Содержимое sellers для {game['name']}: {sellers}")
         if sellers:
             output_file = os.path.join(log_dir, game["output_file"])
             save_data(sellers, output_file)
