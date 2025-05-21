@@ -68,5 +68,33 @@
         "Stock": "560",
         "Price": 2.17,
         "Position": 13
+    },
+    {
+        "Timestamp": "2025-05-21 11:18:08",
+        "Seller": "Antonsimf",
+        "Stock": "13000",
+        "Price": 12.05,
+        "Position": 4
+    },
+    {
+        "Timestamp": "2025-05-21 11:18:08",
+        "Seller": "NikAce1",
+        "Stock": "777777",
+        "Price": 24.09,
+        "Position": 5
+    },
+    {
+        "Timestamp": "2025-05-21 11:18:08",
+        "Seller": "KrAsIvO2018",
+        "Stock": "1000000000",
+        "Price": 25.7,
+        "Position": 6
+    },
+    {
+        "Timestamp": "2025-05-21 11:18:08",
+        "Seller": "WaveAccountsLB",
+        "Stock": "365112",
+        "Price": 40.96,
+        "Position": 7
     }
 ]
