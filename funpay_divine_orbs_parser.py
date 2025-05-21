@@ -58,7 +58,7 @@ def get_sellers(game, league_id):
             offers = soup.find_all("a", class_="tc-item")
             logger.info(f"Найдено продавцов для {game} (лига {league_id}): {len(offers)}")
             if not offers:
-                logger.warning(f"Селектор a.tc-item с data-server={league_id} не нашёл продавцов")
+                logger.warning(f"Селектор a.tc-item с data-server={league ście:1⁊id} не нашёл продавцов")
                 return []
             
             sellers = []
@@ -87,17 +87,19 @@ def get_sellers(game, league_id):
                         logger.debug(f"tc-desc для {username}: {desc_text}")
                         logger.debug(f"tc-side для {username}: {side_text}")
                         # Проверяем наличие Divine Orbs
-                        divine_keywords = ["divine", "божественные сферы", "divine orb", "божественная сфера"]
-                        if not any(keyword in desc_text or keyword in side_text for keyword in divine_keywords):
-                            logger.debug(f"Пропущен оффер для {username}: нет Divine Orbs в описании")
-                            continue
+                        divine_keywords = ["divine", "божественные сферы", "divine orb", "божественная сфера", "div orb", "divine orbs"]
+                        has_divine = any(keyword in desc_text or keyword in side_text for keyword in divine_keywords)
                         # Исключаем другие валюты и нежелательные офферы
                         exclude_keywords = [
                             "хаос", "ваал", "exalted", "chaos", "vaal", "exalt", "regal", "alch", 
                             "blessed", "chromatic", "jeweller", "fusing", "scour", "chance", 
-                            "аккаунт", "услуги", "account", "service"
+                            "аккаунт", "услуги", "account", "service", "gem", "map", "fragment"
                         ]
-                        if any(keyword in desc_text or keyword in side_text for keyword in exclude_keywords):
+                        has_exclude = any(keyword in desc_text or keyword in side_text for keyword in exclude_keywords)
+                        if not has_divine and (desc_text or side_text):  # Если есть текст, но нет Divine
+                            logger.debug(f"Пропущен оффер для {username}: нет Divine Orbs в описании")
+                            continue
+                        if has_exclude:
                             logger.debug(f"Пропущен оффер для {username}: содержит нежелательные ключевые слова")
                             continue
                         orb_type = "Божественные сферы"
@@ -120,8 +122,8 @@ def get_sellers(game, league_id):
                     
                     price_text_clean = re.sub(r"[^\d.]", "", price_text).strip()
                     logger.debug(f"Очищенный текст цены для {username}: '{price_text_clean}'")
-                    # Проверка формата цены (10, 10.0, 10.00)
-                    if not re.match(r"^\d+(\.\d{1,2})?$", price_text_clean):
+                    # Проверка формата цены (любое число с точкой)
+                    if not re.match(r"^\d+(\.\d+)?$", price_text_clean):
                         logger.debug(f"Пропущен оффер для {username}: неверный формат цены ({price_text_clean})")
                         continue
                     try:
@@ -210,23 +212,31 @@ def get_leagues(game):
 
 # Сохранение данных
 def save_data(data, filename):
-    with open(filename, 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
-    logger.info(f"Данные успешно сохранены в {filename}")
+    logger.info(f"Попытка сохранить данные в {filename}: {len(data)} записей")
+    try:
+        with open(filename, 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=4)
+        logger.info(f"Данные успешно сохранены в {filename}")
+    except Exception as e:
+        logger.error(f"Ошибка сохранения данных в {filename}: {e}")
 
 # Обновление репозитория
 def update_repository(filename, commit_message, github_token):
-    g = Github(github_token)
-    repo = g.get_repo("smokerdl/divine_orbs_prices")
-    with open(filename, 'r', encoding='utf-8') as f:
-        content = f.read()
-    file_path = os.path.basename(filename)
+    logger.info(f"Обновление репозитория для {filename}")
     try:
-        contents = repo.get_contents(file_path)
-        repo.update_file(contents.path, commit_message, content, contents.sha)
-    except:
-        repo.create_file(file_path, commit_message, content)
-    logger.info(f"Файл {file_path} обновлён в репозитории")
+        g = Github(github_token)
+        repo = g.get_repo("smokerdl/divine_orbs_prices")
+        with open(filename, 'r', encoding='utf-8') as f:
+            content = f.read()
+        file_path = os.path.basename(filename)
+        try:
+            contents = repo.get_contents(file_path)
+            repo.update_file(contents.path, commit_message, content, contents.sha)
+        except:
+            repo.create_file(file_path, commit_message, content)
+        logger.info(f"Файл {file_path} обновлён в репозитории")
+    except Exception as e:
+        logger.error(f"Ошибка обновления репозитория для {filename}: {e}")
 
 # Основная функция
 def main():
@@ -243,6 +253,7 @@ def main():
     for game in games:
         logger.info(f"Обработка игры: {game['name']}")
         sellers = get_sellers(game["name"], game["league_id"])
+        logger.info(f"Результат get_sellers для {game['name']}: {len(sellers)} продавцов")
         if sellers:
             output_file = os.path.join(log_dir, game["output_file"])
             save_data(sellers, output_file)
