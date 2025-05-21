@@ -90,32 +90,22 @@ def get_sellers(game, league_id):
                     # Поиск типа сферы
                     orb_type = "Божественные сферы" if game == 'poe' else "Неизвестно"
                     if game == 'poe2':
-                        # Проверяем tc-side
                         side_elem = offer.find("div", class_="tc-side")
                         if side_elem and side_elem.text.strip():
                             orb_type = side_elem.text.strip()
                             logger.debug(f"Найден tc-side для {username}: {orb_type}")
-                        # Проверяем tc-side-inside
                         else:
                             side_inside_elem = offer.find("div", class_="tc-side-inside")
                             if side_inside_elem and side_inside_elem.text.strip():
                                 orb_type = side_inside_elem.text.strip()
                                 logger.debug(f"Найден tc-side-inside для {username}: {orb_type}")
-                            # Проверяем data-side
                             elif offer.get("data-side") == "106":
                                 orb_type = "Божественные сферы"
                                 logger.debug(f"Найден data-side=106 для {username}, установлено: {orb_type}")
-                        # Дебаг tc-desc
                         desc_elem = offer.find("div", class_="tc-desc")
                         logger.debug(f"tc-desc для {username}: {desc_elem.text.strip() if desc_elem else 'Пусто'}")
                     logger.debug(f"Тип сферы для {username} (позиция {index}): {orb_type}")
                     
-                    # Сохраняем HTML оффера
-                    with open(f'offer_{game}_{index}.html', 'w', encoding='utf-8') as f:
-                        f.write(str(offer))
-                    logger.debug(f"Сохранён HTML оффера для {username} (позиция {index})")
-                    
-                    # Для PoE 2 фильтруем только Divine Orbs
                     if game == 'poe2' and orb_type != "Божественные сферы":
                         logger.debug(f"Пропущен оффер для {username}: тип сферы не Divine Orbs ({orb_type})")
                         continue
@@ -152,10 +142,6 @@ def get_sellers(game, league_id):
                         if "$" in price_elem.text:
                             price = price * exchange_rate
                             logger.debug(f"Конверсия для {username}: {price / exchange_rate} $ -> {price} ₽")
-                        # Фильтр выбросов для PoE 2
-                        if game == 'poe2' and price > 50:
-                            logger.warning(f"Выброс цены для {username}: {price} ₽, пропускаем")
-                            continue
                         price = round(price, 2)
                     except ValueError:
                         logger.debug(f"Пропущен оффер для {username}: не удалось преобразовать цену ({price_text})")
@@ -173,8 +159,24 @@ def get_sellers(game, league_id):
                     logger.debug(f"Ошибка обработки продавца на позиции {index}: {e}")
                     continue
             
+            # Фильтр позиций 4–13
             filtered_sellers = [s for s in sellers if 3 < s["Position"] <= 13]
             logger.info(f"Отфильтровано продавцов для {game}: {len(filtered_sellers)} (позиции 4–13)")
+            
+            # Фильтр цен для PoE 2: отсекаем >100% от минимальной цены
+            if game == 'poe2' and filtered_sellers:
+                # Исключаем явные выбросы (>1000 ₽)
+                valid_sellers = [s for s in filtered_sellers if s["Price"] < 1000]
+                if valid_sellers:
+                    min_price = min(s["Price"] for s in valid_sellers)
+                    logger.info(f"Минимальная цена для PoE 2: {min_price} ₽")
+                    filtered_sellers = [s for s in filtered_sellers if s["Price"] <= min_price * 2]
+                    logger.info(f"После фильтра цен (<= {min_price * 2} ₽): {len(filtered_sellers)} продавцов")
+                else:
+                    logger.warning("Все цены >1000 ₽, возвращаем пустой список")
+                    filtered_sellers = []
+            
+            logger.debug(f"Содержимое filtered_sellers для {game}: {filtered_sellers}")
             return filtered_sellers
         except requests.exceptions.RequestException as e:
             logger.error(f"Попытка {attempt + 1} не удалась для {url}: {e}")
@@ -210,25 +212,32 @@ def get_leagues(game):
 
 def save_to_json(data, filename):
     try:
+        logger.debug(f"Попытка сохранить данные в {filename}: {data}")
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
-        logger.info(f"Данные сохранены в {filename}")
+        logger.info(f"Данные успешно сохранены в {filename}")
     except Exception as e:
         logger.error(f"Ошибка сохранения в {filename}: {e}")
 
 def upload_to_github(data, filename, repo_name, token):
     try:
+        logger.debug(f"Попытка загрузки {filename} в GitHub: {data}")
         g = Github(token)
         repo = g.get_repo(repo_name)
+        content = json.dumps(data, ensure_ascii=False, indent=4)
         try:
             file = repo.get_contents(filename)
-            repo.update_file(file.path, f"Update {filename}", json.dumps(data, ensure_ascii=False, indent=4), file.sha)
+            repo.update_file(file.path, f"Update {filename}", content, file.sha)
             logger.info(f"Файл {filename} обновлён в репозитории")
-        except:
-            repo.create_file(filename, f"Create {filename}", json.dumps(data, ensure_ascii=False, indent=4))
+        except Exception as e:
+            if hasattr(e, 'response'):
+                logger.error(f"GitHub API error: {e.response.status_code} - {e.response.text}")
+            repo.create_file(filename, f"Create {filename}", content)
             logger.info(f"Файл {filename} создан в репозитории")
     except Exception as e:
         logger.error(f"Ошибка загрузки в GitHub для {filename}: {e}")
+        if hasattr(e, 'response'):
+            logger.error(f"GitHub API error: {e.response.status_code} - {e.response.text}")
 
 def main():
     games = [
@@ -238,10 +247,9 @@ def main():
     
     for game in games:
         sellers = get_sellers(game["name"], game["league_id"])
-        if sellers:
-            filename = f"prices_{game['file_prefix']}.json"
-            save_to_json(sellers, filename)
-            upload_to_github(sellers, filename, "smokerdl/divine_orbs_prices", os.getenv("GITHUB_TOKEN"))
+        filename = f"prices_{game['file_prefix']}.json"
+        save_to_json(sellers, filename)
+        upload_to_github(sellers, filename, "smokerdl/divine_orbs_prices", os.getenv("GITHUB_TOKEN"))
         
         leagues = get_leagues(game["name"])
         if leagues:
