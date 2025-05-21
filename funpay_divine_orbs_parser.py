@@ -62,7 +62,6 @@ def get_sellers(game, league_id):
                 return []
             
             sellers = []
-            min_price_usd = 0.02 if game == 'poe' else 0.1  # Минимальная цена в USD
             target_positions = [4, 5, 6, 7, 8]  # Собираем только 4–8 места
             valid_offers = []
             debug_count = 0  # Для логирования первых 10 офферов
@@ -137,10 +136,6 @@ def get_sellers(game, league_id):
                         continue
                     try:
                         price_usd = float(price_text_clean)  # Цена в USD
-                        logger.debug(f"Цена в USD для {username}: {price_usd}")
-                        if price_usd < min_price_usd:
-                            logger.debug(f"Пропущен оффер для {username}: цена слишком низкая ({price_usd} USD)")
-                            continue
                         price_rub = round(price_usd * FUNPAY_EXCHANGE_RATE, 2)
                         price_sbp = round(price_rub * SBP_COMMISSION, 2)
                         price_card = round(price_rub * CARD_COMMISSION, 2)
@@ -196,7 +191,7 @@ def get_leagues(game):
             response.raise_for_status()
             soup = BeautifulSoup(response.text, 'html.parser')
             with open(os.path.join(log_dir, f'funpay_leagues_{game}.html'), 'w', encoding='utf-8') as f:
-                f.write(soup.prettify())
+                f.write(soup.pretty_print())
             logger.info(f"HTML лиг для {game} сохранён")
             
             league_select = soup.find("select", class_="form-control")
