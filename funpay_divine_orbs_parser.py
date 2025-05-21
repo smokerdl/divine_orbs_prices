@@ -45,9 +45,9 @@ def get_sellers(game, league_id):
     url = POE_URL if game == 'poe' else POE2_URL
     session = requests.Session()
     session.headers.update(headers)
-    SBP_COMMISSION = 1.2118  # +21.18% для СБП
-    CARD_COMMISSION = 1.2526  # +25.26% для карты
-    FUNPAY_EXCHANGE_RATE = 79.89  # Внутренний курс ₽/$
+    SBP_COMMISSION = 1.2118
+    CARD_COMMISSION = 1.2526
+    FUNPAY_EXCHANGE_RATE = 79.89
     
     for attempt in range(3):
         try:
@@ -104,18 +104,23 @@ def get_sellers(game, league_id):
                         continue
                     price_inner = price_elem.find("div") or price_elem.find("span")
                     price_text = price_inner.text.strip() if price_inner else ""
-                    logger.debug(f"Сырой текст цены для {username}: {price_text}")
+                    logger.debug(f"Сырой текст цены для {username}: '{price_text}'")
                     
                     if not price_text:
                         logger.debug(f"Пропущен оффер {index}: пустая цена")
                         continue
                     
                     price_text_clean = re.sub(r"[^\d.]", "", price_text).strip()
+                    logger.debug(f"Очищенный текст цены для {username}: '{price_text_clean}'")
                     if not re.match(r"^\d*\.\d+$", price_text_clean):
                         logger.debug(f"Пропущен оффер для {username}: неверный формат цены ({price_text_clean})")
                         continue
                     try:
                         price_rub = float(price_text_clean)
+                        logger.debug(f"Цена в RUB для {username}: {price_rub}")
+                        if price_rub < 0.1:  # Фильтр аномально низких цен
+                            logger.debug(f"Пропущен оффер для {username}: цена слишком низкая ({price_rub} RUB)")
+                            continue
                         price_usd = round(price_rub / FUNPAY_EXCHANGE_RATE, 3)
                         price_sbp = round(price_rub * SBP_COMMISSION, 2)
                         price_card = round(price_rub * CARD_COMMISSION, 2)
@@ -197,13 +202,11 @@ def save_to_json(data, filename):
 
         combined_data = data
         if filename != "league_ids.json":
-            # Фильтруем новые данные для продавцов
             existing_keys = {(item['Timestamp'], item['Seller'], item['Position']) for item in existing_data}
             new_data = [item for item in data if (item['Timestamp'], item['Seller'], item['Position']) not in existing_keys]
             logger.debug(f"Новые уникальные записи: {len(new_data)}")
             combined_data = existing_data + new_data
         else:
-            # Для лиг просто перезаписываем
             logger.debug("Сохранение лиг без фильтрации")
             combined_data = data
 
@@ -235,19 +238,16 @@ def upload_to_github(data, filename, repo_name, token):
 
         combined_data = data
         if filename != "league_ids.json":
-            # Фильтруем новые данные для продавцов
             existing_keys = {(item['Timestamp'], item['Seller'], item['Position']) for item in existing_data}
             new_data = [item for item in data if (item['Timestamp'], item['Seller'], item['Position']) not in existing_keys]
             logger.debug(f"Новые уникальные записи для GitHub: {len(new_data)}")
             combined_data = existing_data + new_data
         else:
-            # Для лиг просто перезаписываем
             logger.debug("Загрузка лиг без фильтрации")
             combined_data = data
 
         content = json.dumps(combined_data, ensure_ascii=False, indent=4)
         logger.debug(f"Содержимое для {filename}: {content[:100]}...")
-
         if existing_data:
             repo.update_file(file.path, f"Update {filename}", content, file.sha)
             logger.info(f"Файл {filename} обновлён в репозитории: {len(combined_data)} записей")
