@@ -75,6 +75,7 @@ def get_sellers(game, league_id):
                     username_elem = offer.find("div", class_="media-user-name")
                     username = username_elem.text.strip() if username_elem else None
                     if not username:
+                        logger.debug(f"Пропущен оффер {index}: нет имени пользователя")
                         continue
                     
                     orb_type = "Божественные сферы" if game == 'poe' else "Неизвестно"
@@ -86,15 +87,17 @@ def get_sellers(game, league_id):
                         logger.debug(f"tc-desc для {username}: {desc_text}")
                         logger.debug(f"tc-side для {username}: {side_text}")
                         # Проверяем наличие Divine Orbs
-                        if not ("divine" in desc_text or "божественные сферы" in desc_text or 
-                                "divine" in side_text or "божественные сферы" in side_text):
+                        divine_keywords = ["divine", "божественные сферы", "divine orb", "божественная сфера"]
+                        if not any(keyword in desc_text or keyword in side_text for keyword in divine_keywords):
                             logger.debug(f"Пропущен оффер для {username}: нет Divine Orbs в описании")
                             continue
                         # Исключаем другие валюты и нежелательные офферы
-                        if any(keyword in desc_text or keyword in side_text for keyword in [
-                            "хаос", "ваал", "exalted", "chaos", "vaal", "exalt", 
+                        exclude_keywords = [
+                            "хаос", "ваал", "exalted", "chaos", "vaal", "exalt", "regal", "alch", 
+                            "blessed", "chromatic", "jeweller", "fusing", "scour", "chance", 
                             "аккаунт", "услуги", "account", "service"
-                        ]):
+                        ]
+                        if any(keyword in desc_text or keyword in side_text for keyword in exclude_keywords):
                             logger.debug(f"Пропущен оффер для {username}: содержит нежелательные ключевые слова")
                             continue
                         orb_type = "Божественные сферы"
@@ -105,18 +108,20 @@ def get_sellers(game, league_id):
                     
                     price_elem = offer.find("div", class_="tc-price")
                     if not price_elem:
+                        logger.debug(f"Пропущен оффер для {username}: нет элемента цены")
                         continue
                     price_inner = price_elem.find("div") or price_elem.find("span")
                     price_text = price_inner.text.strip() if price_inner else price_elem.text.strip()
                     logger.debug(f"Сырой текст цены для {username}: '{price_text}'")
                     
                     if not price_text:
+                        logger.debug(f"Пропущен оффер для {username}: пустой текст цены")
                         continue
                     
                     price_text_clean = re.sub(r"[^\d.]", "", price_text).strip()
                     logger.debug(f"Очищенный текст цены для {username}: '{price_text_clean}'")
-                    # Проверка формата цены (например, 10.00)
-                    if not re.match(r"^\d+\.\d{1,2}$", price_text_clean):
+                    # Проверка формата цены (10, 10.0, 10.00)
+                    if not re.match(r"^\d+(\.\d{1,2})?$", price_text_clean):
                         logger.debug(f"Пропущен оффер для {username}: неверный формат цены ({price_text_clean})")
                         continue
                     try:
