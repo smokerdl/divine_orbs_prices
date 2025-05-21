@@ -14,8 +14,8 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger()
 
 # Константы
-POE_URL = "https://funpay.com/chips/173/"
-POE2_URL = "https://funpay.com/chips/209/"
+POE_URL = "https://funpay.com/clips/173/"  # PoE: Divine Orbs по умолчанию
+POE2_URL = "https://funpay.com/clips/209/?side=106"  # PoE 2: только Divine Orbs
 RELEVANT_LEAGUES = {
     'poe': ['settlers_of_kalguur'],
     'poe2': ['dawn_of_the_hunt']
@@ -142,6 +142,14 @@ def get_sellers(game, league_id):
                     logger.debug(f"Пропущен оффер на позиции {index}: отсутствует имя")
                     continue
                 
+                # Тип сферы (для PoE 2)
+                desc_elem = offer.find("div", class_="tc-desc")
+                orb_type = desc_elem.text.strip() if desc_elem else "Неизвестно"
+                logger.debug(f"Тип сферы для {username} (позиция {index}): {orb_type}")
+                if game == 'poe2' and orb_type != "Божественные сферы":
+                    logger.debug(f"Пропущен оффер для {username}: тип сферы не Divine Orbs ({orb_type})")
+                    continue
+                
                 # Количество
                 amount_elem = offer.find("div", class_="tc-amount")
                 amount = re.sub(r"[^\d]", "", amount_elem.text.strip()) if amount_elem else "0"
@@ -155,23 +163,36 @@ def get_sellers(game, league_id):
                 if not price_inner:
                     logger.debug(f"Пропущен оффер для {username}: отсутствует div в tc-price")
                     continue
-                price_text = price_inner.text
+                price_text = price_inner.text.strip()
+                logger.debug(f"Сырой текст цены для {username} (позиция {index}): {price_text}")
+                
+                # Удаляем валюту
                 price_span = price_inner.find("span", class_="unit")
                 if price_span:
                     price_text = price_text.replace(price_span.text, "").strip()
-                price = re.sub(r"[^\d.]", "", price_text.replace(",", "."))
+                
+                # Очищаем цену
+                price_text = price_text.replace(",", ".")
+                price_match = re.match(r"^\d*\.?\d+$", price_text)
+                if not price_match:
+                    logger.debug(f"Пропущен оффер для {username}: неверный формат цены ({price_text})")
+                    continue
                 try:
-                    price = float(price)
-                    # Если валюта USD
+                    price = float(price_text)
+                    # Проверка на аномально низкую цену
+                    if price < 0.1 and "$" not in price_elem.text:
+                        logger.warning(f"Аномально низкая цена для {username}: {price} ₽, пропускаем")
+                        continue
+                    # Конверсия, если USD
                     if "$" in price_elem.text:
                         price = price * exchange_rate
                         logger.debug(f"Конверсия для {username}: {price / exchange_rate} $ -> {price} ₽")
                     price = round(price, 2)
                 except ValueError:
-                    logger.debug(f"Пропущен оффер для {username}: неверный формат цены ({price_text})")
+                    logger.debug(f"Пропущен оффер для {username}: не удалось преобразовать цену ({price_text})")
                     continue
                 
-                logger.debug(f"Обработан продавец: {username} (позиция {index}, {amount} шт., {price} ₽)")
+                logger.debug(f"Обработан продавец: {username} (позиция {index}, {amount} шт., {price} ₽, тип: {orb_type})")
                 sellers.append({
                     "Timestamp": datetime.now(pytz.timezone("Europe/Moscow")).strftime("%Y-%m-%d %H:%M:%S"),
                     "Seller": username,
