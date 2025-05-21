@@ -25,11 +25,11 @@ def get_sellers(game, league_id):
             
             sellers = []
             min_price_rub = 0.5 if game == 'poe' else 5.0
-            max_price_rub = 50.0  # Фильтр выбросов
+            target_positions = [4, 5, 6, 7, 8]  # Собираем только 4–8 места
+            valid_offers = []
+            
             for index, offer in enumerate(offers, 1):
                 try:
-                    logger.debug(f"Обрабатываем оффер {index}: {offer.prettify()[:200]}...")
-                    
                     if str(offer.get("data-server")) != str(league_id):
                         continue
                     
@@ -46,13 +46,14 @@ def get_sellers(game, league_id):
                         side_text = side_elem.text.strip().lower() if side_elem else ""
                         logger.debug(f"tc-desc для {username}: {desc_text}")
                         logger.debug(f"tc-side для {username}: {side_text}")
-                        if ("divine" in desc_text or "божественные сферы" in desc_text or 
-                            "divine" in side_text or "божественные сферы" in side_text or 
-                            offer.get("data-side") == "106"):
-                            orb_type = "Божественные сферы"
-                        if orb_type != "Божественные сферы":
-                            logger.debug(f"Пропущен оффер для {username}: тип сферы не Divine Orbs ({orb_type})")
+                        if not ("divine" in desc_text or "божественные сферы" in desc_text or 
+                                "divine" in side_text or "божественные сферы" in side_text):
+                            logger.debug(f"Пропущен оффер для {username}: тип сферы не Divine Orbs")
                             continue
+                        if offer.get("data-side") != "106":
+                            logger.debug(f"Пропущен оффер для {username}: data-side не 106")
+                            continue
+                        orb_type = "Божественные сферы"
                     
                     amount_elem = offer.find("div", class_="tc-amount")
                     amount = re.sub(r"[^\d]", "", amount_elem.text.strip()) if amount_elem else "0"
@@ -76,8 +77,8 @@ def get_sellers(game, league_id):
                     try:
                         price_rub = float(price_text_clean)
                         logger.debug(f"Цена в RUB для {username}: {price_rub}")
-                        if price_rub < min_price_rub or price_rub > max_price_rub:
-                            logger.debug(f"Пропущен оффер для {username}: цена вне диапазона ({price_rub} RUB)")
+                        if price_rub < min_price_rub:
+                            logger.debug(f"Пропущен оффер для {username}: цена слишком низкая ({price_rub} RUB)")
                             continue
                         price_usd = round(price_rub / FUNPAY_EXCHANGE_RATE, 3)
                         price_sbp = round(price_rub * SBP_COMMISSION, 2)
@@ -86,7 +87,7 @@ def get_sellers(game, league_id):
                     except ValueError:
                         continue
                     
-                    sellers.append({
+                    valid_offers.append({
                         "Timestamp": datetime.now(pytz.timezone("Europe/Moscow")).strftime("%Y-%m-%d %H:%M:%S"),
                         "Seller": username,
                         "Stock": amount,
@@ -99,8 +100,13 @@ def get_sellers(game, league_id):
                     logger.debug(f"Ошибка обработки оффера {index}: {e}")
                     continue
             
-            logger.info(f"Собрано продавцов для {game}: {len(sellers)}")
-            logger.info(f"Все продавцы для {game}: {len(sellers)}")
+            # Сортируем по позиции и берём 4–8
+            valid_offers.sort(key=lambda x: x["Position"])
+            for offer in valid_offers:
+                if len(sellers) < 5 and offer["Position"] in target_positions:
+                    sellers.append(offer)
+            
+            logger.info(f"Собрано продавцов для {game}: {len(sellers)} (позиции 4–8)")
             return sellers
         except requests.exceptions.RequestException as e:
             logger.error(f"Попытка {attempt + 1} не удалась для {url}: {e}")
