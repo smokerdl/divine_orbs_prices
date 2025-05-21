@@ -50,22 +50,14 @@ def get_sellers(game, league_id):
     for attempt in range(3):
         try:
             response = session.get(url, timeout=15)
-            logger.debug(f"Заголовки запроса: {response.request.headers}")
-            logger.debug(f"Куки: {session.cookies.get_dict()}")
             logger.info(f"Статус ответа FunPay для {game} (лига {league_id}): {response.status_code}")
-            if response.status_code == 404:
-                logger.warning(f"Страница {url} не найдена (404)")
-                with open(os.path.join(log_dir, f'funpay_sellers_error_{game}.html'), 'w', encoding='utf-8') as f:
-                    f.write(response.text)
-                continue
-            
             response.raise_for_status()
             soup = BeautifulSoup(response.text, 'html.parser')
             with open(os.path.join(log_dir, f'funpay_sellers_{game}.html'), 'w', encoding='utf-8') as f:
                 f.write(soup.prettify())
             logger.info(f"HTML продавцов для {game} сохранён")
             
-            offers = soup.find_all("a", class_="tc-item", attrs={"data-server": league_id})
+            offers = soup.find_all("a", class_="tc-item")
             logger.info(f"Найдено продавцов для {game} (лига {league_id}): {len(offers)}")
             if not offers:
                 logger.warning(f"Селектор a.tc-item с data-server={league_id} не нашёл продавцов")
@@ -74,67 +66,65 @@ def get_sellers(game, league_id):
             sellers = []
             for index, offer in enumerate(offers, 1):
                 try:
-                    # Сохраняем сырой HTML оффера
-                    logger.debug(f"Сырой HTML оффера {index}: {offer.prettify()}")
+                    logger.debug(f"Обрабатываем оффер {index}: {offer.prettify()[:200]}...")
+                    
+                    # Проверка data-server
+                    if str(offer.get("data-server")) != str(league_id):
+                        logger.debug(f"Пропущен оффер {index}: data-server ({offer.get('data-server')}) не соответствует лиге {league_id}")
+                        continue
                     
                     username_elem = offer.find("div", class_="media-user-name")
                     username = username_elem.text.strip() if username_elem else None
                     if not username:
-                        logger.debug(f"Пропущен оффер на позиции {index}: отсутствует имя")
+                        logger.debug(f"Пропущен оффер {index}: отсутствует имя")
                         continue
                     
                     # Поиск типа сферы
                     orb_type = "Божественные сферы" if game == 'poe' else "Неизвестно"
                     if game == 'poe2':
-                        side_elem = offer.find("div", class_="tc-side")
-                        if side_elem and side_elem.text.strip():
-                            orb_type = side_elem.text.strip()
-                            logger.debug(f"Найден tc-side для {username}: {orb_type}")
-                        else:
-                            side_inside_elem = offer.find("div", class_="tc-side-inside")
-                            if side_inside_elem and side_inside_elem.text.strip():
-                                orb_type = side_inside_elem.text.strip()
-                                logger.debug(f"Найден tc-side-inside для {username}: {orb_type}")
-                            elif offer.get("data-side") == "106":
-                                orb_type = "Божественные сферы"
-                                logger.debug(f"Найден data-side=106 для {username}, установлено: {orb_type}")
                         desc_elem = offer.find("div", class_="tc-desc")
-                        desc_text = desc_elem.text.strip() if desc_elem else "Пусто"
+                        desc_text = desc_elem.text.strip().lower() if desc_elem else ""
                         logger.debug(f"tc-desc для {username}: {desc_text}")
-                        if "divine" in desc_text.lower():
+                        side_elem = offer.find("div", class_="tc-side") or offer.find("div", class_="tc-side-inside")
+                        side_text = side_elem.text.strip().lower() if side_elem else ""
+                        logger.debug(f"tc-side или tc-side-inside для {username}: {side_text}")
+                        if ("divine" in desc_text or "божественные сферы" in side_text.lower() or offer.get("data-side") == "106"):
                             orb_type = "Божественные сферы"
-                            logger.debug(f"Установлен orb_type по tc-desc для {username}: {orb_type}")
-                    logger.debug(f"Тип сферы для {username} (позиция {index}): {orb_type}")
-                    
-                    if game == 'poe2' and orb_type != "Божественные сферы":
-                        logger.debug(f"Пропущен оффер для {username}: тип сферы не Divine Orbs ({orb_type})")
-                        continue
+                        if orb_type != "Божественные сферы":
+                            logger.debug(f"Пропущен оффер для {username}: тип сферы не Divine Orbs ({orb_type})")
+                            continue
                     
                     amount_elem = offer.find("div", class_="tc-amount")
                     amount = re.sub(r"[^\d]", "", amount_elem.text.strip()) if amount_elem else "0"
+                    logger.debug(f"Сток для {username}: {amount}")
                     
                     price_elem = offer.find("div", class_="tc-price")
                     if not price_elem:
-                        logger.debug(f"Пропущен оффер на позиции {index}: отсутствует цена")
+                        logger.debug(f"Пропущен оффер {index}: отсутствует цена")
                         continue
-                    price_inner = price_elem.find("div")
-                    if not price_inner:
-                        logger.debug(f"Пропущен оффер на позиции {index}: отсутствует div в tc-price")
-                        continue
-                    price_text = price_inner.text.strip()
-                    logger.debug(f"Сырой текст цены для {username} (позиция {index}): {price_text}")
+                    price_inner = price_elem.find("div") or price_elem.find("span")
+                    price_text = price_inner.text.strip() if price_inner else ""
+                    logger.debug(f"Сырой текст цены для {username}: {price_text}")
                     
-                    currency = "USD"  # Априори доллары
+                    if not price_text:
+                        logger.debug(f"Пропущен оффер {index}: пустая цена")
+                        continue
+                    
+                    # Определение валюты
+                    currency_elem = price_inner.find("span", class_="unit") if price_inner else None
+                    currency = "RUB"  # По умолчанию рубли
+                    if currency_elem:
+                        currency_text = currency_elem.text.strip()
+                        currency = "USD" if "$" in currency_text else "RUB"
                     logger.debug(f"Валюта для {username}: {currency}")
                     
-                    price_text = price_text.replace(",", ".")
-                    price_match = re.match(r"^\d*\.?\d*$", price_text)
-                    if not price_match:
+                    # Очистка цены
+                    price_text = re.sub(r"[^\d.]", "", price_text).strip()
+                    if not re.match(r"^\d*\.\d+$", price_text):
                         logger.debug(f"Пропущен оффер для {username}: неверный формат цены ({price_text})")
                         continue
                     try:
                         price = float(price_text)
-                        logger.debug(f"Исходная цена для {username}: {price} {currency}, за 1 сферу")
                         price = round(price, 2)
                     except ValueError:
                         logger.debug(f"Пропущен оффер для {username}: не удалось преобразовать цену ({price_text})")
@@ -149,22 +139,24 @@ def get_sellers(game, league_id):
                         "Currency": currency,
                         "Position": index
                     })
+                
                 except Exception as e:
-                    logger.debug(f"Ошибка обработки продавца на позиции {index}: {e}")
+                    logger.debug(f"Ошибка обработки оффера {index}: {e}")
                     continue
             
-            logger.debug(f"Сырой список sellers для {game}: {sellers}")
-            filtered_sellers = sellers
-            logger.info(f"Отфильтровано продавцов для {game}: {len(filtered_sellers)}")
+            logger.info(f"Собрано продавцов для {game}: {len(sellers)}")
+            if not sellers:
+                logger.warning(f"Нет валидных продавцов для {game} (лига {league_id})")
+                return []
             
             # Фильтр цен для PoE 2
-            if game == 'poe2' and filtered_sellers:
-                min_price = min(s["Price"] for s in filtered_sellers)
-                logger.info(f"Минимальная цена для PoE 2: {min_price} {currency}")
-                filtered_sellers = [s for s in filtered_sellers if s["Price"] <= min_price * 2]
-                logger.info(f"После фильтра цен (<= {min_price * 2} {currency}): {len(filtered_sellers)} продавцов")
+            filtered_sellers = sellers
+            if game == 'poe2' and sellers:
+                min_price = min(s["Price"] for s in sellers)
+                logger.info(f"Минимальная цена для PoE 2: {min_price} {sellers[0]['Currency']}")
+                filtered_sellers = [s for s in sellers if s["Price"] <= min_price * 2]
+                logger.info(f"После фильтра цен (<= {min_price * 2} {sellers[0]['Currency']}): {len(filtered_sellers)} продавцов")
             
-            logger.debug(f"Возвращаем filtered_sellers для {game}: {filtered_sellers}")
             return filtered_sellers
         except requests.exceptions.RequestException as e:
             logger.error(f"Попытка {attempt + 1} не удалась для {url}: {e}")
