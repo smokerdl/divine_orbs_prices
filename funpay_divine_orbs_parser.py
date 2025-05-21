@@ -111,9 +111,9 @@ def get_leagues(game, url):
         return []
 
 def get_sellers(game, league_id):
-    """Получить данные о продавцах для лиги (только онлайн и Divine Orbs)."""
+    """Получить данные о продавцах для лиги (с подробным логированием)."""
     logger.info(f"Сбор данных о продавцах для {game} (лига {league_id})...")
-    url = POE_URL if game == 'poe' else POE2_URL + "?currency=0"  # Фильтр Divine Orbs для PoE 2
+    url = POE_URL if game == 'poe' else POE2_URL + "?currency=0"
     try:
         response = requests.get(url, headers=headers, timeout=10)
         logger.info(f"Статус ответа FunPay для {game} (лига {league_id}): {response.status_code}")
@@ -135,18 +135,24 @@ def get_sellers(game, league_id):
         exchange_rate = get_exchange_rate()
         for index, offer in enumerate(offers, 1):
             try:
-                # Проверка онлайн-статуса
+                # Проверка онлайн-статуса (временно отключена)
                 status_elem = offer.find("div", class_="media-user-status")
-                if not status_elem or "online" not in status_elem.get("class", []):
-                    logger.debug(f"Пропущен оффер на позиции {index}: продавец оффлайн")
-                    continue
+                if status_elem and "online" in status_elem.get("class", []):
+                    logger.debug(f"Продавец на позиции {index}: онлайн")
+                else:
+                    logger.debug(f"Продавец на позиции {index}: оффлайн или статус не найден")
                 
                 # Проверка Divine Orbs (для PoE 2)
                 if game == 'poe2':
                     desc_elem = offer.find("div", class_="tc-desc")
-                    if not desc_elem or desc_elem.text.strip() != "Divine Orbs":
-                        logger.debug(f"Пропущен оффер на позиции {index}: не Divine Orbs")
+                    if not desc_elem:
+                        logger.debug(f"Пропущен оффер на позиции {index}: отсутствует tc-desc")
                         continue
+                    desc_text = desc_elem.text.strip()
+                    if desc_text != "Divine Orbs":
+                        logger.debug(f"Пропущен оффер на позиции {index}: не Divine Orbs (найдено: {desc_text})")
+                        continue
+                    logger.debug(f"Продавец на позиции {index}: Divine Orbs подтверждены")
                 
                 # Имя продавца
                 username_elem = offer.find("div", class_="media-user-name")
@@ -175,7 +181,6 @@ def get_sellers(game, league_id):
                 price = re.sub(r"[^\d.]", "", price_text.replace(",", "."))
                 try:
                     price = float(price)
-                    # Если валюта USD
                     if "$" in price_elem.text:
                         price = price * exchange_rate
                         logger.debug(f"Конверсия для {username}: {price / exchange_rate} $ -> {price} ₽")
