@@ -222,18 +222,28 @@ def get_sellers(game, league_id):
                     if not price_match:
                         logger.debug(f"Пропущен оффер для {username}: неверный формат цены ({price_text})")
                         continue
-                    try:
-                        price = float(price_text)
-                        if price < 0.1 and "$" not in price_elem.text:
-                            logger.warning(f"Аномально низкая цена для {username}: {price} ₽, пропускаем")
-                            continue
-                        if "$" in price_elem.text:
-                            price = price * exchange_rate
-                            logger.debug(f"Конверсия для {username}: {price / exchange_rate} $ -> {price} ₽")
-                        price = round(price, 2)
-                    except ValueError:
-                        logger.debug(f"Пропущен оффер для {username}: не удалось преобразовать цену ({price_text})")
-                        continue
+                    # ... начало get_sellers ...
+try:
+    price = float(price_text)
+    if price < 0.1 and "$" not in price_elem.text:
+        logger.warning(f"Аномально низкая цена для {username}: {price} ₽, пропускаем")
+        continue
+    if "$" in price_elem.text:
+        price = price * exchange_rate
+        logger.debug(f"Конверсия для {username}: {price / exchange_rate} $ -> {price} ₽")
+    # Делим цену на 100, если цена > 100 ₽
+    if price > 100:
+        price = price / 100
+        logger.debug(f"Цена для {username} скорректирована: {price * 100} ₽ / 100 шт. = {price} ₽/шт.")
+    # Фильтруем аномальные цены
+    if price < 5 or price > 20:
+        logger.warning(f"Аномальная цена для {username}: {price} ₽, пропускаем")
+        continue
+    price = round(price, 2)
+except ValueError:
+    logger.debug(f"Пропущен оффер для {username}: не удалось преобразовать цену ({price_text})")
+    continue
+# ... остальной код ...
                     
                     logger.debug(f"Обработан продавец: {username} (позиция {index}, {amount} шт., {price} ₽, тип: {orb_type})")
                     sellers.append({
