@@ -175,7 +175,7 @@ def get_sellers(game, league_id):
                     filtered_sellers = [s for s in filtered_sellers if s["Price"] <= min_price * 2]
                     logger.info(f"После фильтра цен (<= {min_price * 2} ₽): {len(filtered_sellers)} продавцов")
             
-            logger.debug(f"Содержимое filtered_sellers для {game}: {filtered_sellers}")
+            logger.debug(f"Возвращаем filtered_sellers для {game}: {filtered_sellers}")
             return filtered_sellers
         except requests.exceptions.RequestException as e:
             logger.error(f"Попытка {attempt + 1} не удалась для {url}: {e}")
@@ -256,6 +256,9 @@ def main():
         sellers = get_sellers(game["name"], game["league_id"])
         filename = f"prices_{game['file_prefix']}.json"
         logger.debug(f"Перед сохранением {filename}: {sellers}")
+        if not sellers:
+            logger.warning(f"Нет данных для сохранения в {filename}")
+            continue
         save_to_json(sellers, filename)
         # upload_to_github(sellers, filename, "smokerdl/divine_orbs_prices", os.getenv("GITHUB_TOKEN"))
         
