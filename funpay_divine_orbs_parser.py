@@ -169,18 +169,24 @@ def get_sellers(game, league_id):
                     # Поиск типа сферы
                     orb_type = "Божественные сферы" if game == 'poe' else "Неизвестно"
                     if game == 'poe2':
-                        desc_elem = offer.find("div", class_="tc-desc")
-                        if desc_elem and desc_elem.text.strip():
-                            orb_type = desc_elem.text.strip()
-                            logger.debug(f"Найден tc-desc для {username}: {orb_type}")
+                        # Проверяем tc-side
+                        side_elem = offer.find("div", class_="tc-side")
+                        if side_elem and side_elem.text.strip():
+                            orb_type = side_elem.text.strip()
+                            logger.debug(f"Найден tc-side для {username}: {orb_type}")
+                        # Проверяем tc-side-inside
                         else:
-                            # Альтернативный поиск по всем div
-                            for elem in offer.find_all("div"):
-                                text = elem.text.strip().lower()
-                                if "божественные сферы" in text or "divine orbs" in text:
-                                    orb_type = "Божественные сферы"
-                                    logger.debug(f"Найден тип сферы в div для {username}: {text}")
-                                    break
+                            side_inside_elem = offer.find("div", class_="tc-side-inside")
+                            if side_inside_elem and side_inside_elem.text.strip():
+                                orb_type = side_inside_elem.text.strip()
+                                logger.debug(f"Найден tc-side-inside для {username}: {orb_type}")
+                            # Проверяем data-side
+                            elif offer.get("data-side") == "106":
+                                orb_type = "Божественные сферы"
+                                logger.debug(f"Найден data-side=106 для {username}, установлено: {orb_type}")
+                        # Дебаг tc-desc (на всякий случай)
+                        desc_elem = offer.find("div", class_="tc-desc")
+                        logger.debug(f"tc-desc для {username}: {desc_elem.text.strip() if desc_elem else 'Пусто'}")
                     logger.debug(f"Тип сферы для {username} (позиция {index}): {orb_type}")
                     
                     # Сохраняем HTML оффера
