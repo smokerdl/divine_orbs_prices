@@ -17,7 +17,7 @@ logger = logging.getLogger()
 POE_URL = "https://funpay.com/chips/173/"
 POE2_URL = "https://funpay.com/chips/209/"
 RELEVANT_LEAGUES = {
-    'poe': ['settlers_of_kalguur'],  # Убрали _(pc) для гибкости
+    'poe': ['settlers_of_kalguur'],
     'poe2': ['dawn_of_the_hunt']
 }
 KNOWN_LEAGUE_DATES = {
@@ -56,11 +56,18 @@ def get_leagues(game, url):
         with open(f'funpay_leagues_{game}.html', 'w', encoding='utf-8') as f:
             f.write(response.text)
         logger.info(f"HTML страницы лиг для {game} сохранён")
+        
         leagues = []
-        options = soup.select('select[name="node_id"] option')
+        select = soup.select_one('select[name="server"]')
+        if not select:
+            logger.warning(f"Не найден select[name='server'] для {game}")
+            return []
+        options = select.find_all('option')
         logger.debug(f"Найдено {len(options)} опций в select для {game}")
         for option in options:
-            league_id = option['value']
+            league_id = option.get('value', '')
+            if not league_id:  # Пропустить пустую опцию (<option value="">Лига</option>)
+                continue
             league_name_raw = option.text.strip()
             league_name = league_name_raw.replace(' ', '_').lower()
             logger.debug(f"Лига для {game}: raw='{league_name_raw}', normalized='{league_name}' (ID: {league_id})")
@@ -73,16 +80,15 @@ def get_leagues(game, url):
                 if '(pc)' in league_name or '(ps)' in league_name or '(xbox)' in league_name:
                     logger.debug(f"Пропущена лига для {game}: {league_name} (есть приставка)")
                     continue
-            if any(x in league_name for x in ['"лига"', '"hardcore"', '"ruthless"', '"standart"']):
+            if any(x in league_name for x in ['"лига"', '"hardcore"', '"ruthless"', '"standart"', 'standard']):
                 logger.debug(f"Пропущена лига для {game}: {league_name} (запрещённое название)")
                 continue
             if re.search(r'\[(hardcore|ruthless|ruthless_hardcore)\]', league_name):
                 logger.debug(f"Пропущена лига для {game}: {league_name} (есть запрещённое окончание)")
                 continue
-            # Проверяем, содержит ли название лиги часть из RELEVANT_LEAGUES
             for relevant_league in RELEVANT_LEAGUES[game]:
                 if relevant_league in league_name:
-                    logger.info(f"Найдена лига для {game}: {league_name} (ID: {league_id})")
+                    logger.info(f"Найдена лига для {game}: {relevant_league} (ID: {league_id})")
                     leagues.append({'id': league_id, 'name': relevant_league})
                     break
             else:
@@ -139,7 +145,6 @@ def save_data(game, league_name, start_date, data):
 def update_current_leagues(current_leagues):
     """Обновить current_leagues.json."""
     try:
-        # Проверка наличия файла
         if not os.path.exists('current_leagues.json'):
             logger.warning("Файл current_leagues.json не найден, создаю новый")
             with open('current_leagues.json', 'w', encoding='utf-8') as f:
