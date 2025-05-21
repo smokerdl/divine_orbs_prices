@@ -3,7 +3,7 @@ import logging
 import os
 import re
 import time
-from datetime import datetime
+from datetime import datetime, timedelta
 import pytz
 import requests
 from bs4 import BeautifulSoup
@@ -62,7 +62,7 @@ def get_sellers(game, league_id):
                 return []
             
             valid_offers = []
-            debug_count = 0  # Для логирования первых 10 офферов
+            debug_count = 0
             
             for index, offer in enumerate(offers, 1):
                 try:
@@ -84,13 +84,11 @@ def get_sellers(game, league_id):
                     logger.debug(f"tc-desc для {username}: {desc_text}")
                     logger.debug(f"tc-side для {username}: {side_text}")
                     
-                    # Проверяем наличие Divine Orbs
                     divine_keywords = [
                         "divine", "божественные сферы", "divine orb", "божественная сфера", 
                         "div orb", "divine orbs", "div orbs", "божеств сфера"
                     ]
                     has_divine = any(keyword in desc_text or keyword in side_text for keyword in divine_keywords)
-                    # Исключаем другие валюты и нежелательные офферы
                     exclude_keywords = [
                         "хаос", "ваал", "exalted", "chaos", "vaal", "exalt", "regal", "alch", 
                         "blessed", "chromatic", "jeweller", "fusing", "scour", "chance", 
@@ -98,7 +96,6 @@ def get_sellers(game, league_id):
                     ]
                     has_exclude = any(keyword in desc_text or keyword in side_text for keyword in exclude_keywords)
                     
-                    # Проверка стока
                     amount_elem = offer.find("div", class_="tc-amount")
                     amount = re.sub(r"[^\d]", "", amount_elem.text.strip()) if amount_elem else "0"
                     amount_num = int(amount) if amount.isdigit() else 0
@@ -126,12 +123,11 @@ def get_sellers(game, league_id):
                     
                     price_text_clean = re.sub(r"[^\d.]", "", price_text).strip()
                     logger.debug(f"Очищенный текст цены для {username}: '{price_text_clean}'")
-                    # Проверка формата цены (любое число с точкой)
                     if not re.match(r"^\d+(\.\d+)?$", price_text_clean):
                         logger.debug(f"Пропущен оффер для {username}: неверный формат цены ({price_text_clean})")
                         continue
                     try:
-                        price_usd = float(price_text_clean)  # Цена в USD
+                        price_usd = float(price_text_clean)
                         price_rub = round(price_usd * FUNPAY_EXCHANGE_RATE, 2)
                         price_sbp = round(price_rub * SBP_COMMISSION, 2)
                         price_card = round(price_rub * CARD_COMMISSION, 2)
@@ -146,10 +142,10 @@ def get_sellers(game, league_id):
                         "Stock": amount,
                         "Price": price_usd,
                         "Currency": "USD",
-                        "Position": index
+                        "Position": index,
+                        "DisplayPosition": 0  # Заполнится позже
                     })
                     
-                    # Отладка: логируем первые 10 офферов
                     if debug_count < 10:
                         logger.debug(f"Отладка оффера {index}: {username}, Цена: {price_usd} USD ({price_rub} RUB), tc-desc: {desc_text}, tc-side: {side_text}")
                         debug_count += 1
@@ -160,12 +156,11 @@ def get_sellers(game, league_id):
             
             logger.info(f"Найдено валидных офферов для {game}: {len(valid_offers)}")
             
-            # Собираем офферы с позиций 4–8 среди валидных
-            valid_offers.sort(key=lambda x: x["Price"])  # Сортировка по цене, как на FunPay
+            valid_offers.sort(key=lambda x: x["Price"])
             sellers = []
             for i, offer in enumerate(valid_offers, 1):
-                if 4 <= i <= 8:  # Берем позиции 4–8
-                    offer["DisplayPosition"] = i  # Добавляем визуальную позицию
+                if 4 <= i <= 8:
+                    offer["DisplayPosition"] = i
                     sellers.append(offer)
             
             logger.info(f"Собрано продавцов для {game}: {len(sellers)} (позиции 4–8)")
@@ -219,9 +214,29 @@ def get_leagues(game):
 def save_data(data, filename):
     logger.info(f"Попытка сохранить данные в {filename}: {len(data)} записей")
     try:
+        # Читаем существующий JSON
+        existing_data = []
+        if os.path.exists(filename):
+            try:
+                with open(filename, 'r', encoding='utf-8') as f:
+                    existing_data = json.load(f)
+                if not isinstance(existing_data, list):
+                    existing_data = []
+            except json.JSONDecodeError:
+                logger.warning(f"Файл {filename} повреждён, создаём новый")
+                existing_data = []
+        
+        # Удаляем данные старше 7 дней
+        cutoff = (datetime.now(pytz.timezone("Europe/Moscow")) - timedelta(days=7)).strftime("%Y-%m-%d %H:%M:%S")
+        existing_data = [d for d in existing_data if d["Timestamp"] >= cutoff]
+        
+        # Добавляем новые данные
+        existing_data.extend(data)
+        
+        # Сохраняем обновлённый JSON
         with open(filename, 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=4)
-        logger.info(f"Данные успешно сохранены в {filename}")
+            json.dump(existing_data, f, ensure_ascii=False, indent=4)
+        logger.info(f"Данные успешно сохранены в {filename}: {len(existing_data)} записей")
     except Exception as e:
         logger.error(f"Ошибка сохранения данных в {filename}: {e}")
 
