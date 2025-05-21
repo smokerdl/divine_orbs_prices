@@ -18,3 +18,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python funpay_divine_orbs_parser.py
+      - name: Upload artifacts
+        if: always()  # Сохранять даже при ошибке
+        uses: actions/upload-artifact@v3
+        with:
+          name: parser-artifacts
+          path: |
+            *.html
+            *.json
+          retention-days: 7
