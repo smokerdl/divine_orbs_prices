@@ -113,46 +113,78 @@ def get_sellers(game, league_id):
         with open(f'funpay_sellers_{game}.html', 'w', encoding='utf-8') as f:
             f.write(response.text)
         logger.info(f"HTML продавцов для {game} сохранён")
+
         sellers = []
-        offers = soup.select('.tc-item.offer-promo')
+        # Попытка найти офферы через стандартный селектор для PoE
+        offers = soup.select('.tc-item.offer-promo') if game == 'poe' else soup.select('.tc-item')
         logger.info(f"Найдено офферов для {game} (лига {league_id}): {len(offers)}")
-        if not offers:
-            logger.warning(f"Не найдено элементов .tc-item.offer-promo для {game} (лига {league_id})")
-            container = soup.select_one('.showcase') or soup.select_one('.content')
-            if container:
-                logger.debug(f"Найден контейнер для {game}: {str(container)[:500]}...")
-            return []
-        for offer in offers:
-            if offer.get('data-online') != '1':
-                logger.debug(f"Пропущен оффер для {game}: продавец не онлайн")
-                continue
-            if game == 'poe2':
-                orb_type_elem = offer.select_one('.tc-side')
-                if not orb_type_elem or orb_type_elem.text.strip() != 'Божественные сферы':
-                    logger.debug(f"Пропущен оффер для {game}: неверный тип орбы ({orb_type_elem.text if orb_type_elem else 'не найден'})")
+
+        if not offers and game == 'poe2':
+            # Альтернативный способ для PoE2: парсинг текстовой структуры
+            showcase = soup.select_one('.showcase')
+            if not showcase:
+                logger.warning(f"Не найден контейнер .showcase для {game} (лига {league_id})")
+                return []
+            text = showcase.text
+            lines = text.splitlines()
+            i = 0
+            while i < len(lines):
+                line = lines[i].strip()
+                if line == 'Dawn of the Hunt' and i + 4 < len(lines):
+                    orb_type = lines[i + 1].strip()
+                    if orb_type != 'Божественные сферы':
+                        i += 5
+                        continue
+                    username = lines[i + 2].strip()
+                    amount = lines[i + 3].strip().replace(' ', '')
+                    price_text = lines[i + 4].strip().split()[0].replace(',', '.')
+                    try:
+                        amount = int(amount)
+                        price_rub = float(price_text)
+                        # Проверка онлайн-статуса недоступна в текстовом формате, предполагаем онлайн
+                        sellers.append({
+                            'username': username,
+                            'price_rub': price_rub,
+                            'amount': amount
+                        })
+                        logger.debug(f"Добавлен продавец для {game}: {username}, цена: {price_rub} ₽, количество: {amount}")
+                    except ValueError as e:
+                        logger.debug(f"Пропущен оффер для {game}: неверный формат данных (цена: {price_text}, количество: {amount}, ошибка: {e})")
+                    i += 5
+                else:
+                    i += 1
+        else:
+            for offer in offers:
+                if offer.get('data-online') != '1':
+                    logger.debug(f"Пропущен оффер для {game}: продавец не онлайн")
                     continue
-            username_elem = offer.select_one('.tc-user .media-user-name span')
-            price_elem = offer.select_one('.tc-price > div')
-            amount_elem = offer.select_one('.tc-amount')
-            if not (username_elem and price_elem and amount_elem):
-                logger.debug(f"Пропущен оффер для {game}: отсутствует имя, цена или количество")
-                continue
-            username = username_elem.text.strip()
-            price_text = price_elem.text.split()[0].replace(',', '.')
-            try:
-                price_rub = float(price_text)
-            except ValueError:
-                logger.debug(f"Пропущен оффер для {game}: неверный формат цены ({price_text})")
-                continue
-            amount = int(amount_elem.get('data-s', '0'))
-            if amount == 0:
-                logger.debug(f"Пропущен оффер для {game}: количество = 0 (продавец: {username})")
-                continue
-            sellers.append({
-                'username': username,
-                'price_rub': price_rub,
-                'amount': amount
-            })
+                if game == 'poe2':
+                    orb_type_elem = offer.select_one('.tc-side')
+                    if not orb_type_elem or orb_type_elem.text.strip() != 'Божественные сферы':
+                        logger.debug(f"Пропущен оффер для {game}: неверный тип орбы ({orb_type_elem.text if orb_type_elem else 'не найден'})")
+                        continue
+                username_elem = offer.select_one('.tc-user .media-user-name span')
+                price_elem = offer.select_one('.tc-price > div')
+                amount_elem = offer.select_one('.tc-amount')
+                if not (username_elem and price_elem and amount_elem):
+                    logger.debug(f"Пропущен оффер для {game}: отсутствует имя, цена или количество")
+                    continue
+                username = username_elem.text.strip()
+                price_text = price_elem.text.split()[0].replace(',', '.')
+                try:
+                    price_rub = float(price_text)
+                except ValueError:
+                    logger.debug(f"Пропущен оффер для {game}: неверный формат цены ({price_text})")
+                    continue
+                amount = int(amount_elem.get('data-s', '0'))
+                if amount == 0:
+                    logger.debug(f"Пропущен оффер для {game}: количество = 0 (продавец: {username})")
+                    continue
+                sellers.append({
+                    'username': username,
+                    'price_rub': price_rub,
+                    'amount': amount
+                })
         logger.info(f"Найдено продавцов для {game} (лига {league_id}): {len(sellers)}")
         return sellers
     except Exception as e:
