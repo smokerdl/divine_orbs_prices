@@ -48,6 +48,7 @@ def get_sellers(game, league_id):
     session.headers.update(headers)
     SBP_COMMISSION = 1.2118  # +21.18% для СБП
     CARD_COMMISSION = 1.2526  # +25.26% для карты
+    FUNPAY_EXCHANGE_RATE = 79.89  # Внутренний курс ₽/$
     
     for attempt in range(3):
         try:
@@ -111,18 +112,18 @@ def get_sellers(game, league_id):
                         continue
                     
                     # Парсим цену в рублях
-                    price_text = re.sub(r"[^\d.]", "", price_text).strip()
-                    if not re.match(r"^\d*\.\d+$", price_text):
-                        logger.debug(f"Пропущен оффер для {username}: неверный формат цены ({price_text})")
+                    price_text_clean = re.sub(r"[^\d.]", "", price_text).strip()
+                    if not re.match(r"^\d*\.\d+$", price_text_clean):
+                        logger.debug(f"Пропущен оффер для {username}: неверный формат цены ({price_text_clean})")
                         continue
                     try:
-                        price_rub = float(price_text)
-                        price_rub = round(price_rub, 2)
+                        price_rub = float(price_text_clean)
+                        price_usd = round(price_rub / FUNPAY_EXCHANGE_RATE, 2)
                         price_sbp = round(price_rub * SBP_COMMISSION, 2)
                         price_card = round(price_rub * CARD_COMMISSION, 2)
-                        logger.debug(f"Цена для {username}: {price_rub} RUB (СБП: {price_sbp} ₽, Карта: {price_card} ₽)")
+                        logger.debug(f"Цена для {username}: {price_rub} RUB (USD: {price_usd} $, СБП: {price_sbp} ₽, Карта: {price_card} ₽)")
                     except ValueError:
-                        logger.debug(f"Пропущен оффер для {username}: не удалось преобразовать цену ({price_text})")
+                        logger.debug(f"Пропущен оффер для {username}: не удалось преобразовать цену ({price_text_clean})")
                         continue
                     
                     logger.debug(f"Обработан продавец: {username} (позиция {index}, {amount} шт., {price_rub} RUB, тип: {orb_type})")
@@ -144,11 +145,9 @@ def get_sellers(game, league_id):
                 logger.warning(f"Нет валидных продавцов для {game} (лига {league_id})")
                 return []
             
-            # Убираем фильтр для PoE 2
-            filtered_sellers = sellers
-            logger.info(f"Все продавцы для {game}: {len(filtered_sellers)}")
-            
-            return filtered_sellers
+            # Без фильтра для PoE 2
+            logger.info(f"Все продавцы для {game}: {len(sellers)}")
+            return sellers
         except requests.exceptions.RequestException as e:
             logger.error(f"Попытка {attempt + 1} не удалась для {url}: {e}")
             if attempt == 2:
