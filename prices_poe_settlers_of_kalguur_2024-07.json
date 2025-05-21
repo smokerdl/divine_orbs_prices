@@ -1,72 +1,303 @@
 [
     {
-        "Timestamp": "2025-05-21 19:46:34",
+        "Timestamp": "2025-05-21 20:37:47",
         "Seller": "tarkovFunProvider137",
         "Stock": "2006",
-        "Price": 2.23,
+        "Price": 1.99,
+        "Position": 1
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "Shark2792",
+        "Stock": "2",
+        "Price": 1.83,
+        "Position": 2
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "Heathens22",
+        "Stock": "1200",
+        "Price": 1.91,
+        "Position": 3
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "muzchina333",
+        "Stock": "608",
+        "Price": 1.91,
         "Position": 4
     },
     {
-        "Timestamp": "2025-05-21 19:46:34",
-        "Seller": "dodik22898",
-        "Stock": "1449",
-        "Price": 2.23,
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "ArmagedDoNMeG",
+        "Stock": "100",
+        "Price": 1.91,
         "Position": 5
     },
     {
-        "Timestamp": "2025-05-21 19:46:34",
-        "Seller": "Heathens22",
-        "Stock": "1200",
-        "Price": 2.31,
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "tarkovFunProvider137",
+        "Stock": "2006",
+        "Price": 1.99,
         "Position": 6
     },
     {
-        "Timestamp": "2025-05-21 19:46:34",
-        "Seller": "windigoy",
-        "Stock": "1388",
-        "Price": 2.39,
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "dodik22898",
+        "Stock": "1449",
+        "Price": 1.99,
         "Position": 7
     },
     {
-        "Timestamp": "2025-05-21 19:46:34",
-        "Seller": "DarkEffekt",
-        "Stock": "685",
-        "Price": 2.39,
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "windigoy",
+        "Stock": "1388",
+        "Price": 2.15,
         "Position": 8
     },
     {
-        "Timestamp": "2025-05-21 19:46:34",
-        "Seller": "xyligannn",
-        "Stock": "2200",
-        "Price": 2.63,
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "DarkEffekt",
+        "Stock": "685",
+        "Price": 2.15,
         "Position": 9
     },
     {
-        "Timestamp": "2025-05-21 19:46:34",
-        "Seller": "Tetsyo",
-        "Stock": "2900",
-        "Price": 2.71,
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "xyligannn",
+        "Stock": "2200",
+        "Price": 2.31,
         "Position": 10
     },
     {
-        "Timestamp": "2025-05-21 19:46:34",
+        "Timestamp": "2025-05-21 20:37:47",
         "Seller": "Medo773",
         "Stock": "870",
-        "Price": 2.71,
+        "Price": 2.39,
         "Position": 11
     },
     {
-        "Timestamp": "2025-05-21 19:46:34",
-        "Seller": "Joka30",
-        "Stock": "2000",
-        "Price": 2.71,
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "Tetsyo",
+        "Stock": "2900",
+        "Price": 2.39,
         "Position": 12
     },
     {
-        "Timestamp": "2025-05-21 19:46:34",
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "Joka30",
+        "Stock": "2000",
+        "Price": 2.39,
+        "Position": 13
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
         "Seller": "LoAZuko",
         "Stock": "21632",
+        "Price": 2.47,
+        "Position": 14
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "Haganite",
+        "Stock": "3300",
+        "Price": 2.47,
+        "Position": 15
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "NimisPoe",
+        "Stock": "2988",
+        "Price": 2.47,
+        "Position": 16
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "oldHruchel",
+        "Stock": "10000",
+        "Price": 2.47,
+        "Position": 17
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "smalldevil94",
+        "Stock": "9999999",
+        "Price": 2.55,
+        "Position": 18
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "Proba11",
+        "Stock": "1200",
+        "Price": 2.63,
+        "Position": 19
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "egorbuk223",
+        "Stock": "99999",
         "Price": 2.79,
-        "Position": 13
+        "Position": 20
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "shtefko",
+        "Stock": "1526",
+        "Price": 3.19,
+        "Position": 21
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "mbfor",
+        "Stock": "155",
+        "Price": 3.19,
+        "Position": 22
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "Kronasss",
+        "Stock": "5386",
+        "Price": 3.67,
+        "Position": 23
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "Tasoky",
+        "Stock": "226",
+        "Price": 3.75,
+        "Position": 24
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "Darji",
+        "Stock": "2097",
+        "Price": 3.83,
+        "Position": 25
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "BogOdin",
+        "Stock": "1195",
+        "Price": 5.26,
+        "Position": 26
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "NikAce1",
+        "Stock": "777777",
+        "Price": 5.34,
+        "Position": 27
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "UZURPATORtm",
+        "Stock": "1000000000",
+        "Price": 6.06,
+        "Position": 28
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "KrAsIvO2018",
+        "Stock": "1000000000",
+        "Price": 6.38,
+        "Position": 29
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "VladislavSergeevich",
+        "Stock": "18925",
+        "Price": 6.38,
+        "Position": 30
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "grewen",
+        "Stock": "20646",
+        "Price": 6.94,
+        "Position": 31
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "asdfzxc123",
+        "Stock": "18848",
+        "Price": 7.5,
+        "Position": 32
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "YAKUZA999",
+        "Stock": "6000",
+        "Price": 7.74,
+        "Position": 33
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "SHANNNISH",
+        "Stock": "300",
+        "Price": 8.53,
+        "Position": 34
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "lian1995",
+        "Stock": "597",
+        "Price": 10.61,
+        "Position": 35
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "Ho0p6uT",
+        "Stock": "4",
+        "Price": 10.69,
+        "Position": 36
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "Grado8582",
+        "Stock": "9",
+        "Price": 14.91,
+        "Position": 37
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "gazmyasrus",
+        "Stock": "67",
+        "Price": 21.53,
+        "Position": 38
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "T4sel",
+        "Stock": "18",
+        "Price": 32.7,
+        "Position": 39
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "SUGARush",
+        "Stock": "530",
+        "Price": 0.55,
+        "Position": 40
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "KotLeopold54",
+        "Stock": "4",
+        "Price": 2.98,
+        "Position": 41
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "yalu4shiy",
+        "Stock": "30",
+        "Price": 4.01,
+        "Position": 42
+    },
+    {
+        "Timestamp": "2025-05-21 20:37:47",
+        "Seller": "DEMTORK12",
+        "Stock": "1",
+        "Price": 13.36,
+        "Position": 43
     }
 ]
