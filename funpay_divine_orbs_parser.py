@@ -66,12 +66,11 @@ def get_leagues(game, url):
         logger.debug(f"Найдено {len(options)} опций в select для {game}")
         for option in options:
             league_id = option.get('value', '')
-            if not league_id:  # Пропустить пустую опцию (<option value="">Лига</option>)
+            if not league_id:
                 continue
             league_name_raw = option.text.strip()
             league_name = league_name_raw.replace(' ', '_').lower()
             logger.debug(f"Лига для {game}: raw='{league_name_raw}', normalized='{league_name}' (ID: {league_id})")
-            # Фильтрация лиг
             if game == 'poe':
                 if not ('pc' in league_name or '(pc)' in league_name):
                     logger.debug(f"Пропущена лига для {game}: {league_name} (нет PC)")
@@ -103,20 +102,43 @@ def get_leagues(game, url):
 def get_sellers(game, league_id):
     """Получить данные о продавцах для лиги."""
     try:
-        url = f"https://funpay.com/clips/offer?id={league_id}"
+        base_url = POE_URL if game == 'poe' else POE2_URL
+        url = f"{base_url}?server={league_id}"
         response = requests.get(url, headers=headers)
         logger.info(f"Статус ответа FunPay для {game} (лига {league_id}): {response.status_code}")
         if response.status_code != 200:
+            logger.warning(f"Не удалось получить продавцов для {game} (лига {league_id})")
             return []
         soup = BeautifulSoup(response.text, 'html.parser')
         with open(f'funpay_sellers_{game}.html', 'w', encoding='utf-8') as f:
             f.write(response.text)
         logger.info(f"HTML продавцов для {game} сохранён")
         sellers = []
-        for offer in soup.select('.tc-item'):
-            username = offer.select_one('.tc-user').text.strip()
-            price_usd = float(offer.select_one('.tc-price')['data-sort'].replace(',', '.'))
-            sellers.append({'username': username, 'price_usd': price_usd})
+        offers = soup.select('.tc-item')
+        if not offers:
+            logger.warning(f"Не найдено элементов .tc-item для {game} (лига {league_id})")
+            container = soup.select_one('.showcase') or soup.select_one('.content')
+            if container:
+                logger.debug(f"Найден контейнер для {game}: {str(container)[:500]}...")
+            return []
+        for offer in offers:
+            username_elem = offer.select_one('.tc-user .media-user-name span')
+            price_elem = offer.select_one('.tc-price > div')
+            amount_elem = offer.select_one('.tc-amount')
+            if not (username_elem and price_elem and amount_elem):
+                logger.debug(f"Пропущен оффер для {game}: отсутствует имя, цена или количество")
+                continue
+            username = username_elem.text.strip()
+            price_rub = float(price_elem.text.split()[0].replace(',', '.'))
+            amount = int(amount_elem.get('data-s', '0'))
+            if amount == 0:
+                logger.debug(f"Пропущен оффер для {game}: количество = 0 (продавец: {username})")
+                continue
+            sellers.append({
+                'username': username,
+                'price_rub': price_rub,
+                'amount': amount
+            })
         logger.info(f"Найдено продавцов для {game} (лига {league_id}): {len(sellers)}")
         return sellers
     except Exception as e:
@@ -176,25 +198,26 @@ def process_league(game, league_id, league_name, start_date, exchange_rate):
 
     # Конверсия цен
     data = []
-    prices_usd = []
+    prices_rub = []
     for seller in sellers:
-        price_usd = seller['price_usd']
-        price_rub = price_usd * exchange_rate
-        logger.debug(f"Конверсия для {seller['username']}: {price_usd} $ -> {price_rub} ₽")
+        price_rub = seller['price_rub']
+        price_usd = price_rub / exchange_rate
+        prices_rub.append(price_rub)
+        logger.debug(f"Конверсия для {seller['username']}: {price_rub} ₽ -> {price_usd:.4f} $")
         data.append({
             'username': seller['username'],
             'price_usd': price_usd,
             'price_rub': price_rub,
+            'amount': seller['amount'],
             'timestamp': datetime.now(pytz.timezone('Europe/Moscow')).isoformat()
         })
-        prices_usd.append(price_usd)
 
     # Итоговая статистика
-    if prices_usd:
-        min_price_usd, max_price_usd = min(prices_usd), max(prices_usd)
-        min_price_rub = min_price_usd * exchange_rate
-        max_price_rub = max_price_usd * exchange_rate
-        logger.info(f"Лига {league_name}: {len(sellers)} продавцов, цены от {min_price_usd:.4f} $ ({min_price_rub:.2f} ₽) до {max_price_usd:.4f} $ ({max_price_rub:.2f} ₽)")
+    if prices_rub:
+        min_price_rub, max_price_rub = min(prices_rub), max(prices_rub)
+        min_price_usd = min_price_rub / exchange_rate
+        max_price_usd = max_price_rub / exchange_rate
+        logger.info(f"Лига {league_name}: {len(sellers)} продавцов, цены от {min_price_rub:.2f} ₽ ({min_price_usd:.4f} $) до {max_price_rub:.2f} ₽ ({max_price_usd:.4f} $)")
 
     # Фильтрация продавцов (позиции 4–13)
     filtered_data = data[3:13] if len(data) > 3 else data
