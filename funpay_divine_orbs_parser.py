@@ -68,7 +68,7 @@ def get_sellers(game, league_id):
             sellers = []
             for index, offer in enumerate(offers, 1):
                 try:
-                    logger.debug(f"Обрабатываем оффер {index}: {offer.prettify()[:200]}...")
+                    logger.debug(f"Обрабатываем оффер {index}: {offer.prettyprint()[:200]}...")
                     
                     if str(offer.get("data-server")) != str(league_id):
                         logger.debug(f"Пропущен оффер {index}: data-server ({offer.get('data-server')}) не соответствует лиге {league_id}")
@@ -103,7 +103,7 @@ def get_sellers(game, league_id):
                         logger.debug(f"Пропущен оффер {index}: отсутствует цена")
                         continue
                     price_inner = price_elem.find("div") or price_elem.find("span")
-                    price_text = price_inner.text.strip() if price_inner else ""
+                    price_text = price_inner.text.strip() if price_inner else price_elem.text.strip()
                     logger.debug(f"Сырой текст цены для {username}: '{price_text}'")
                     
                     if not price_text:
@@ -112,13 +112,13 @@ def get_sellers(game, league_id):
                     
                     price_text_clean = re.sub(r"[^\d.]", "", price_text).strip()
                     logger.debug(f"Очищенный текст цены для {username}: '{price_text_clean}'")
-                    if not re.match(r"^\d*\.\d+$", price_text_clean):
+                    if not re.match(r"^\d+\.\d{1,2}$", price_text_clean):
                         logger.debug(f"Пропущен оффер для {username}: неверный формат цены ({price_text_clean})")
                         continue
                     try:
                         price_rub = float(price_text_clean)
                         logger.debug(f"Цена в RUB для {username}: {price_rub}")
-                        if price_rub < 0.1:  # Фильтр аномально низких цен
+                        if price_rub < 1.0:  # Фильтр аномально низких цен
                             logger.debug(f"Пропущен оффер для {username}: цена слишком низкая ({price_rub} RUB)")
                             continue
                         price_usd = round(price_rub / FUNPAY_EXCHANGE_RATE, 3)
@@ -181,7 +181,6 @@ def get_leagues(game):
     except Exception as e:
         logger.error(f"Ошибка получения лиг для {game}: {e}")
         return []
-
 def save_to_json(data, filename):
     try:
         logger.debug(f"Попытка сохранить данные в {filename}: {len(data)} записей")
