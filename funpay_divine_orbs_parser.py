@@ -16,7 +16,7 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
         logging.FileHandler('0_parse.txt', encoding='utf-8'),
-        loggingStreamHandler()
+        logging.StreamHandler()  # Исправлено: loggingStreamHandler -> StreamHandler
     ]
 )
 logger = logging.getLogger(__name__)
@@ -188,7 +188,6 @@ def get_sellers(game, league_id):
     
     valid_offers.sort(key=lambda x: x["Price"])
     sellers = []
-    # Если офферов < 8, берем все с 1-й позиции
     start_position = 4 if len(valid_offers) >= 8 else 1
     end_position = min(len(valid_offers), 8 if len(valid_offers) >= 8 else len(valid_offers))
     for i, offer in enumerate(valid_offers, 1):
@@ -214,7 +213,7 @@ def get_leagues(game):
             response.raise_for_status()
             soup = BeautifulSoup(response.text, 'html.parser')
             with open(os.path.join(log_dir, f'funpay_leagues_{game}.html'), 'w', encoding='utf-8') as f:
-                f.write(soup.prettify())
+                f.write(soup.pretty_print())
             logger.info(f"HTML лиг для {game} сохранён")
             
             league_select = soup.find("select", class_="form-control")
