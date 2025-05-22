@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 from fake_useragent import UserAgent
 import re
 
-# Создаём папку parser-artifacts перед настройкой логирования
+# Создаём папку parser-artifacts
 os.makedirs('parser-artifacts', exist_ok=True)
 
 # Настройка логирования
@@ -18,7 +18,7 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
         logging.FileHandler('parser-artifacts/0_parse.txt', encoding='utf-8'),
-        logging.StreamHandler()  # Вывод в консоль
+        logging.StreamHandler()
     ]
 )
 
@@ -28,7 +28,6 @@ def save_to_json(offers, game, league_name, output_dir="parser-artifacts"):
     timestamp = datetime.now().strftime("%Y-%m")
     filename = f"{output_dir}/prices_{game}_{league_name.lower().replace(' ', '_')}_{timestamp}.json"
     
-    # Читаем существующий JSON
     existing_offers = []
     if os.path.exists(filename):
         try:
@@ -38,11 +37,9 @@ def save_to_json(offers, game, league_name, output_dir="parser-artifacts"):
         except json.JSONDecodeError as e:
             logger.error(f"Ошибка при чтении {filename}: {e}")
     
-    # Добавляем новые офферы
     all_offers = existing_offers + offers
     logger.debug(f"После добавления новых офферов: {len(all_offers)} записей")
     
-    # Сохраняем объединённый список
     try:
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump(all_offers, f, indent=2, ensure_ascii=False)
@@ -60,7 +57,6 @@ def upload_to_github(filename, github_token, repo_name):
         repo = g.get_repo(repo_name)
         file_path = os.path.basename(filename)
         
-        # Читаем существующий файл из репозитория
         try:
             contents = repo.get_contents(file_path)
             existing_content = contents.decoded_content.decode('utf-8')
@@ -68,14 +64,11 @@ def upload_to_github(filename, github_token, repo_name):
         except:
             existing_offers = []
         
-        # Читаем локальный файл
         with open(filename, 'r', encoding='utf-8') as f:
             local_offers = json.load(f)
         
-        # Объединяем данные
         all_offers = existing_offers + local_offers
         
-        # Обновляем файл в репозитории
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump(all_offers, f, indent=2, ensure_ascii=False)
         
@@ -110,7 +103,6 @@ def parse_offers(html_content, game, league_name):
                 
                 logger.debug(f"Обработка оффера: валюта={currency}, data-side={data_side}")
                 
-                # Проверяем, что это divine orbs
                 if data_side != '106' or 'divine orb' not in currency.lower():
                     logger.debug(f"Пропущен оффер: валюта={currency}, data-side={data_side}")
                     skipped_count += 1
@@ -152,11 +144,9 @@ def parse_offers(html_content, game, league_name):
         logger.info(f"Найдено офферов divine orbs: {divine_orbs_count}")
         logger.info(f"Найдено валидных офферов для {game}: {len(valid_offers)}")
         
-        # Сортируем по позиции и берём позиции 4–8
         valid_offers.sort(key=lambda x: x['Position'])
         selected_offers = valid_offers[3:8] if len(valid_offers) >= 8 else valid_offers
         
-        # Исправляем DisplayPosition
         for i, offer in enumerate(selected_offers, 4):
             offer['DisplayPosition'] = i
         
@@ -179,18 +169,47 @@ def main():
         }
         
         ua = UserAgent()
-        headers = {'User-Agent': ua.random}
+        headers = {
+            'User-Agent': ua.random,
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+            'Accept-Language': 'en-US,en;q=0.5',
+            'Referer': 'https://funpay.com/'
+        }
         
         for game, url in games.items():
             logger.info(f"Обработка игры: {game}")
             try:
-                response = requests.get(url, headers=headers)
+                response = requests.get(url, headers=headers, allow_redirects=True)
                 response.raise_for_status()
+                
+                # Сохраняем HTML для отладки
+                with open(f'parser-artifacts/{game}_response.html', 'w', encoding='utf-8') as f:
+                    f.write(response.text)
+                
                 soup = BeautifulSoup(response.text, 'html.parser')
                 
-                leagues = soup.select('.server-list a')
+                # Пробуем разные селекторы для лиг
+                selectors = [
+                    '.server-list a',
+                    '.server-list .btn',
+                    '.server-selector a',
+                    '.dropdown-item a'
+                ]
+                leagues = []
+                for selector in selectors:
+                    leagues = soup.select(selector)
+                    if leagues:
+                        logger.info(f"Найдены лиги с селектором: {selector}")
+                        break
+                
                 if not leagues:
-                    logger.warning(f"Не найдены лиги для {game} на {url}")
+                    logger.warning(f"Не найдены лиги для {game} на {url}. Парсим офферы напрямую.")
+                    # Парсим офферы без лиги
+                    default_league = 'settlers_of_kalguur' if game == 'poe' else 'dawn_of_the_hunt'
+                    offers, skipped = parse_offers(response.text, game, default_league)
+                    if offers:
+                        filename = save_to_json(offers, game, default_league)
+                        upload_to_github(filename, github_token, repo_name)
                     continue
                 
                 for league in leagues:
@@ -199,7 +218,6 @@ def main():
                         league_url = league['href']
                         logger.debug(f"Фильтрация лиги: {league_name} для игры {game}")
                         
-                        # Фильтрация лиг
                         if not league_name.startswith('(PC)') or any(x in league_name.lower() for x in ['hardcore', 'ruthless', 'standard']):
                             logger.debug(f"Лига исключена: {league_name}")
                             continue
@@ -207,16 +225,18 @@ def main():
                         cleaned_league_name = league_name.replace('(PC)', '').strip()
                         logger.debug(f"Лига принята: {cleaned_league_name}")
                         
-                        # Парсинг офферов
-                        response = requests.get(league_url, headers=headers)
+                        response = requests.get(league_url, headers=headers, allow_redirects=True)
                         response.raise_for_status()
+                        
+                        # Сохраняем HTML лиги
+                        with open(f'parser-artifacts/{game}_{cleaned_league_name}_league.html', 'w', encoding='utf-8') as f:
+                            f.write(response.text)
+                        
                         offers, skipped = parse_offers(response.text, game, cleaned_league_name)
                         
-                        # Сохранение в JSON
-                        filename = save_to_json(offers, game, cleaned_league_name)
-                        
-                        # Загрузка в GitHub
-                        upload_to_github(filename, github_token, repo_name)
+                        if offers:
+                            filename = save_to_json(offers, game, cleaned_league_name)
+                            upload_to_github(filename, github_token, repo_name)
                     
                     except Exception as e:
                         logger.error(f"Ошибка при обработке лиги {league_name} для {game}: {e}")
