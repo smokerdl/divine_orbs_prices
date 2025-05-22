@@ -1,0 +1,52 @@
+[
+  {
+    "Timestamp": "2025-05-22 18:24:59",
+    "Seller": "VashTS",
+    "Stock": 30,
+    "Price": 0.37,
+    "Currency": "USD",
+    "Position": 74,
+    "DisplayPosition": 1,
+    "Online": null
+  },
+  {
+    "Timestamp": "2025-05-22 18:24:59",
+    "Seller": "PeopleZzz",
+    "Stock": 506,
+    "Price": 0.38,
+    "Currency": "USD",
+    "Position": 75,
+    "DisplayPosition": 2,
+    "Online": null
+  },
+  {
+    "Timestamp": "2025-05-22 18:24:59",
+    "Seller": "QQHavy",
+    "Stock": 8,
+    "Price": 0.43,
+    "Currency": "USD",
+    "Position": 77,
+    "DisplayPosition": 3,
+    "Online": null
+  },
+  {
+    "Timestamp": "2025-05-22 18:24:59",
+    "Seller": "Glebon2014",
+    "Stock": 120,
+    "Price": 0.43,
+    "Currency": "USD",
+    "Position": 79,
+    "DisplayPosition": 4,
+    "Online": null
+  },
+  {
+    "Timestamp": "2025-05-22 18:24:59",
+    "Seller": "chebupelio",
+    "Stock": 30,
+    "Price": 0.44,
+    "Currency": "USD",
+    "Position": 80,
+    "DisplayPosition": 5,
+    "Online": null
+  }
+]
