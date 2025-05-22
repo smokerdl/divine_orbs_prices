@@ -91,24 +91,23 @@ def get_sellers(game, league_id, league_name, session):
     logger.info(f"Найдено офферов для {game} (лига {league_name}): {len(offers)}")
     run_timestamp = datetime.now(pytz.UTC).strftime("%Y-%m-%d %H:%M:%S")
     for index, offer in enumerate(offers, 1):
-        # Проверяем тип валюты
-        currency_elem = offer.find("div", class_="tc-side") or offer.find("div", class_="tc-side-inside")
-        currency = currency_elem.text.strip().lower() if currency_elem else ""
-        data_side = offer.get("data-side")
-        logger.debug(f"Обработка оффера: валюта={currency}, data-side={data_side}, html={str(offer)[:200]}")
-        
-        # Проверяем Divine Orbs
-        is_divine_orb = False
-        if data_side == "106":  # Divine Orbs для PoE и PoE 2
-            is_divine_orb = True
-        elif "divine orb" in currency or "божественные сферы" in currency:
-            is_divine_orb = True
-        
-        if not is_divine_orb:
-            logger.debug(f"Пропущен оффер: валюта={currency}, data-side={data_side}")
-            with open(f"skipped_offer_{game}_{index}.html", "w", encoding="utf-8") as f:
-                f.write(str(offer))
-            continue
+        # Проверяем валюту только для PoE 2
+        is_divine_orb = True  # По умолчанию для PoE все офферы — Divine Orbs
+        if game == "poe2":
+            currency_elem = offer.find("div", class_="tc-side") or offer.find("div", class_="tc-side-inside") or offer.find("div", class_="tc-item-name")
+            currency = currency_elem.text.strip().lower() if currency_elem else ""
+            data_side = offer.get("data-side", None)
+            logger.debug(f"Обработка оффера: валюта={currency}, data-side={data_side}, html={str(offer)}")
+            is_divine_orb = False
+            if data_side == "106" or "divine orb" in currency or "божественные сферы" in currency:
+                is_divine_orb = True
+            if not is_divine_orb:
+                logger.debug(f"Пропущен оффер: валюта={currency}, data-side={data_side}")
+                with open(f"skipped_offer_{game}_{index}.html", "w", encoding="utf-8") as f:
+                    f.write(str(offer))
+                continue
+        else:
+            logger.debug(f"Обработка оффера для PoE: html={str(offer)}")
         
         # Извлекаем цену
         price_elem = offer.find("div", class_="tc-price")
