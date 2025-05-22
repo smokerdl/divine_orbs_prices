@@ -7,9 +7,9 @@ jobs:
   parse:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4  # Обновлено до v4
+      - uses: actions/checkout@v4
       - name: Set up Python
-        uses: actions/setup-python@v5  # Обновлено до v5
+        uses: actions/setup-python@v5
         with:
           python-version: '3.9'
       - name: Install dependencies
@@ -18,12 +18,29 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python funpay_divine_orbs_parser.py
+      - name: Compress JSON artifacts
+        run: |
+          for file in *.json; do
+            if [ -f "$file" ]; then
+              gzip "$file"
+              echo "Compressed $file to $file.gz"
+            fi
+          done
+      - name: Check artifact size
+        run: |
+          total_size=$(du -sb *.json.gz *.html *.txt 2>/dev/null | awk '{sum+=$1} END {print sum}')
+          if [ $total_size -gt 10485760 ]; then
+            echo "Warning: Total artifact size ($total_size bytes) exceeds 10 MB"
+          else
+            echo "Total artifact size: $total_size bytes"
+          fi
       - name: Upload artifacts
-        if: always()  # Сохранять даже при ошибке
-        uses: actions/upload-artifact@v4  # Обновлено до v4
+        if: always()
+        uses: actions/upload-artifact@v4
         with:
           name: parser-artifacts
           path: |
+            *.json.gz
             *.html
-            *.json
-          retention-days: 7
+            *.txt
+          retention-days: 30  # Увеличено до 30 дней
