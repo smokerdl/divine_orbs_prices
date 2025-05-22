@@ -47,8 +47,8 @@ def filter_league_name(league_name, game):
     if league_name.lower() == "лига":
         return None
     
-    # Исключаем лиги, содержащие standart, hardcore, ruthless
-    forbidden_words = ['standart', 'hardcore', 'ruthless']
+    # Исключаем лиги, содержащие standard, hardcore, ruthless
+    forbidden_words = ['standard', 'hardcore', 'ruthless']
     if any(word in league_name.lower() for word in forbidden_words):
         return None
     
@@ -130,7 +130,7 @@ def get_sellers(game, league_id, league_name, session):
             "Online": None
         })
     logger.info(f"Найдено валидных офферов для {game}: {len(valid_offers)}")
-    selected_offers = sorted(valid_offers, key=lambda x: x["Price"])[:8]
+    selected_offers = sorted(valid_offers, key=lambda x: x["Price"])[:5]  # Ограничиваем до 5 позиций
     for idx, offer in enumerate(selected_offers, 1):
         offer["DisplayPosition"] = idx
     logger.info(f"Собрано продавцов для {game}: {len(selected_offers)} (позиции 1–{len(selected_offers)})")
