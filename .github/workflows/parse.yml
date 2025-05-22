@@ -1,28 +1,24 @@
-name: Parse FunPay Divine Orbs
+name: Parse FunPay Prices
 on:
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: '*/30 * * * *'  # Каждые 30 минут
   workflow_dispatch:
 jobs:
   parse:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.9'
       - name: Install dependencies
-        run: |
-          pip install --upgrade pip
-          pip install requests beautifulsoup4 pygithub fake-useragent pytz lxml playwright
-          pip list | grep playwright
-      - name: Install Playwright browsers
-        run: python -m playwright install --with-deps
+        run: pip install requests beautifulsoup4 pygithub fake-useragent pytz lxml
       - name: Run parser
-        run: python funpay_divine_orbs_parser.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Compress JSON files
+        run: python funpay_divine_orbs_parser.py
+      - name: Compress JSON artifacts
         run: |
           for file in *.json; do
             if [ -f "$file" ]; then
@@ -38,7 +34,9 @@ jobs:
           else
             echo "Total artifact size: $total_size bytes"
           fi
-      - uses: actions/upload-artifact@v4
+      - name: Upload artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
         with:
           name: parser-artifacts
           path: |
