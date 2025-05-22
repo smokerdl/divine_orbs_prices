@@ -1,8 +1,8 @@
 [
   {
-    "Timestamp": "2025-05-22 19:48:49",
-    "Seller": "IAmSoTasty",
-    "Stock": 300,
+    "Timestamp": "2025-05-22 20:13:55",
+    "Seller": "dodik22898",
+    "Stock": 700,
     "Price": 0.029,
     "Currency": "USD",
     "Position": 4,
@@ -10,9 +10,9 @@
     "Online": null
   },
   {
-    "Timestamp": "2025-05-22 19:48:49",
-    "Seller": "xyligannn",
-    "Stock": 2300,
+    "Timestamp": "2025-05-22 20:13:55",
+    "Seller": "IAmSoTasty",
+    "Stock": 125,
     "Price": 0.029,
     "Currency": "USD",
     "Position": 5,
@@ -20,9 +20,9 @@
     "Online": null
   },
   {
-    "Timestamp": "2025-05-22 19:48:49",
-    "Seller": "Denis2640",
-    "Stock": 1800,
+    "Timestamp": "2025-05-22 20:13:55",
+    "Seller": "xyligannn",
+    "Stock": 2300,
     "Price": 0.029,
     "Currency": "USD",
     "Position": 6,
@@ -30,19 +30,19 @@
     "Online": null
   },
   {
-    "Timestamp": "2025-05-22 19:48:49",
-    "Seller": "smalldevil94",
-    "Stock": 9999999,
-    "Price": 0.03,
+    "Timestamp": "2025-05-22 20:13:55",
+    "Seller": "Denis2640",
+    "Stock": 1800,
+    "Price": 0.029,
     "Currency": "USD",
     "Position": 7,
     "DisplayPosition": 7,
     "Online": null
   },
   {
-    "Timestamp": "2025-05-22 19:48:49",
-    "Seller": "DarkEffekt",
-    "Stock": 685,
+    "Timestamp": "2025-05-22 20:13:55",
+    "Seller": "smalldevil94",
+    "Stock": 9999999,
     "Price": 0.03,
     "Currency": "USD",
     "Position": 8,
