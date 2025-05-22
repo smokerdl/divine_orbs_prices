@@ -1,6 +1,6 @@
 [
   {
-    "Timestamp": "2025-05-22 18:00:44",
+    "Timestamp": "2025-05-22 18:17:12",
     "Seller": "VashTS",
     "Stock": 30,
     "Price": 0.37,
@@ -10,39 +10,39 @@
     "Online": null
   },
   {
-    "Timestamp": "2025-05-22 18:00:44",
-    "Seller": "Glebon2014",
-    "Stock": 120,
-    "Price": 0.37,
+    "Timestamp": "2025-05-22 18:17:12",
+    "Seller": "PeopleZzz",
+    "Stock": 506,
+    "Price": 0.38,
     "Currency": "USD",
     "Position": 75,
     "DisplayPosition": 2,
     "Online": null
   },
   {
-    "Timestamp": "2025-05-22 18:00:44",
-    "Seller": "PeopleZzz",
-    "Stock": 506,
-    "Price": 0.38,
-    "Currency": "USD",
-    "Position": 76,
-    "DisplayPosition": 3,
-    "Online": null
-  },
-  {
-    "Timestamp": "2025-05-22 18:00:44",
+    "Timestamp": "2025-05-22 18:17:12",
     "Seller": "QQHavy",
     "Stock": 8,
     "Price": 0.43,
     "Currency": "USD",
-    "Position": 78,
+    "Position": 77,
+    "DisplayPosition": 3,
+    "Online": null
+  },
+  {
+    "Timestamp": "2025-05-22 18:17:12",
+    "Seller": "Glebon2014",
+    "Stock": 120,
+    "Price": 0.43,
+    "Currency": "USD",
+    "Position": 79,
     "DisplayPosition": 4,
     "Online": null
   },
   {
-    "Timestamp": "2025-05-22 18:00:44",
-    "Seller": "Kronasss",
-    "Stock": 358,
+    "Timestamp": "2025-05-22 18:17:12",
+    "Seller": "chebupelio",
+    "Stock": 30,
     "Price": 0.44,
     "Currency": "USD",
     "Position": 80,
