@@ -1,0 +1,57 @@
+[
+    {
+        "Timestamp": "2025-05-23 00:31:37",
+        "Seller": "Sadgarrion",
+        "Stock": "85",
+        "Price": 0.141,
+        "Currency": "USD",
+        "Position": 875,
+        "DisplayPosition": 4,
+        "Online": true,
+        "League": "11287"
+    },
+    {
+        "Timestamp": "2025-05-23 00:31:37",
+        "Seller": "Withahonor",
+        "Stock": "97",
+        "Price": 0.141,
+        "Currency": "USD",
+        "Position": 876,
+        "DisplayPosition": 5,
+        "Online": true,
+        "League": "11287"
+    },
+    {
+        "Timestamp": "2025-05-23 00:31:37",
+        "Seller": "SheriDans",
+        "Stock": "133",
+        "Price": 0.141,
+        "Currency": "USD",
+        "Position": 877,
+        "DisplayPosition": 6,
+        "Online": true,
+        "League": "11287"
+    },
+    {
+        "Timestamp": "2025-05-23 00:31:37",
+        "Seller": "Fastogoody",
+        "Stock": "10",
+        "Price": 0.141,
+        "Currency": "USD",
+        "Position": 879,
+        "DisplayPosition": 7,
+        "Online": true,
+        "League": "11287"
+    },
+    {
+        "Timestamp": "2025-05-23 00:31:37",
+        "Seller": "megak0lbaska",
+        "Stock": "16",
+        "Price": 0.143,
+        "Currency": "USD",
+        "Position": 880,
+        "DisplayPosition": 8,
+        "Online": true,
+        "League": "11287"
+    }
+]
