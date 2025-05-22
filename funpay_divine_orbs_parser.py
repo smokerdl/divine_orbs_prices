@@ -28,6 +28,32 @@ def setup_logging():
         ]
     )
 
+def filter_league_name(league_name, game):
+    """Фильтрует название лиги согласно заданным правилам."""
+    # Удаляем кавычки
+    league_name = re.sub(r'[\'"]', '', league_name)
+    # Удаляем окончания в квадратных скобках
+    league_name = re.sub(r'\[.*?\]', '', league_name).strip()
+    # Удаляем окончания в круглых скобках (кроме (PC) для poe)
+    if game == "poe":
+        if not league_name.startswith('(PC)'):
+            return None  # Исключаем лиги без (PC)
+        league_name = re.sub(r'\([^)]*\)', '', league_name).strip()
+        league_name = league_name.replace('(PC)', '').strip()
+    else:  # poe2
+        league_name = re.sub(r'\([^)]*\)', '', league_name).strip()
+    
+    # Исключаем лиги с одним словом "Лига"
+    if league_name.lower() == "лига":
+        return None
+    
+    # Исключаем лиги, содержащие standart, hardcore, ruthless
+    forbidden_words = ['standart', 'hardcore', 'ruthless']
+    if any(word in league_name.lower() for word in forbidden_words):
+        return None
+    
+    return league_name
+
 def get_leagues(game, session):
     logger.info(f"Обработка игры: {game}")
     response = session.get(GAMES[game]["url"])
@@ -45,8 +71,13 @@ def get_leagues(game, session):
     for option in select.find_all("option"):
         league_id = option.get("value")
         league_name = option.text.strip()
-        if league_id and league_name:
-            leagues.append({"id": league_id, "name": league_name})
+        if not (league_id and league_name):
+            continue
+        filtered_name = filter_league_name(league_name, game)
+        if filtered_name:
+            leagues.append({"id": league_id, "name": filtered_name})
+        else:
+            logger.debug(f"Лига исключена: {league_name}")
     logger.info(f"Найдено лиг для {game}: {len(leagues)}")
     return leagues
 
@@ -106,8 +137,10 @@ def get_sellers(game, league_id, league_name, session):
     return selected_offers
 
 def save_to_json(data, game, league_name, timestamp):
+    # Очистка league_name для безопасного имени файла
+    safe_league_name = re.sub(r'[^\w\-]', '_', league_name.lower())
     year, month = timestamp.strftime("%Y-%m").split("-")
-    filename = f"prices_{game}_{league_name.lower().replace(' ', '_')}_{year}-{month}.json"
+    filename = f"prices_{game}_{safe_league_name}_{year}-{month}.json"
     if os.path.exists(filename):
         with open(filename, "r", encoding="utf-8") as f:
             existing_data = json.load(f)
