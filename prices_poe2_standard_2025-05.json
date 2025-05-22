@@ -1,0 +1,82 @@
+[
+  {
+    "Timestamp": "2025-05-22 12:33:27",
+    "Seller": "Ho0p6uT",
+    "Stock": 1301,
+    "Price": 0.00061,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 1,
+    "Online": null
+  },
+  {
+    "Timestamp": "2025-05-22 12:33:27",
+    "Seller": "valrusm",
+    "Stock": 2000,
+    "Price": 0.00068,
+    "Currency": "USD",
+    "Position": 2,
+    "DisplayPosition": 2,
+    "Online": null
+  },
+  {
+    "Timestamp": "2025-05-22 12:33:27",
+    "Seller": "DrunkenMarksman",
+    "Stock": 17844,
+    "Price": 0.00076,
+    "Currency": "USD",
+    "Position": 3,
+    "DisplayPosition": 3,
+    "Online": null
+  },
+  {
+    "Timestamp": "2025-05-22 12:33:27",
+    "Seller": "Andrey02",
+    "Stock": 13000,
+    "Price": 0.001,
+    "Currency": "USD",
+    "Position": 4,
+    "DisplayPosition": 4,
+    "Online": null
+  },
+  {
+    "Timestamp": "2025-05-22 12:33:27",
+    "Seller": "Jmajik",
+    "Stock": 900,
+    "Price": 0.00105,
+    "Currency": "USD",
+    "Position": 5,
+    "DisplayPosition": 5,
+    "Online": null
+  },
+  {
+    "Timestamp": "2025-05-22 12:33:27",
+    "Seller": "valrusm",
+    "Stock": 1700,
+    "Price": 0.00114,
+    "Currency": "USD",
+    "Position": 6,
+    "DisplayPosition": 6,
+    "Online": null
+  },
+  {
+    "Timestamp": "2025-05-22 12:33:27",
+    "Seller": "Helcefinde",
+    "Stock": 7579,
+    "Price": 0.00117,
+    "Currency": "USD",
+    "Position": 7,
+    "DisplayPosition": 7,
+    "Online": null
+  },
+  {
+    "Timestamp": "2025-05-22 12:33:27",
+    "Seller": "Isengardwow",
+    "Stock": 3930,
+    "Price": 0.0012,
+    "Currency": "USD",
+    "Position": 8,
+    "DisplayPosition": 8,
+    "Online": null
+  }
+]
