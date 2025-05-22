@@ -1,0 +1,52 @@
+[
+  {
+    "Timestamp": "2025-05-22 19:48:54",
+    "Seller": "SunHeat",
+    "Stock": 235,
+    "Price": 0.14,
+    "Currency": "USD",
+    "Position": 502,
+    "DisplayPosition": 4,
+    "Online": null
+  },
+  {
+    "Timestamp": "2025-05-22 19:48:54",
+    "Seller": "Fastogoody",
+    "Stock": 10,
+    "Price": 0.141,
+    "Currency": "USD",
+    "Position": 505,
+    "DisplayPosition": 5,
+    "Online": null
+  },
+  {
+    "Timestamp": "2025-05-22 19:48:54",
+    "Seller": "Wistint",
+    "Stock": 340,
+    "Price": 0.141,
+    "Currency": "USD",
+    "Position": 506,
+    "DisplayPosition": 6,
+    "Online": null
+  },
+  {
+    "Timestamp": "2025-05-22 19:48:54",
+    "Seller": "Saendin",
+    "Stock": 50,
+    "Price": 0.143,
+    "Currency": "USD",
+    "Position": 507,
+    "DisplayPosition": 7,
+    "Online": null
+  },
+  {
+    "Timestamp": "2025-05-22 19:48:54",
+    "Seller": "DreamUnderTheNight",
+    "Stock": 350,
+    "Price": 0.144,
+    "Currency": "USD",
+    "Position": 508,
+    "DisplayPosition": 8,
+    "Online": null
+  }
+]
