@@ -158,16 +158,31 @@ def save_to_json(data, game, league_name, timestamp):
     if not data:
         logger.warning(f"Нет данных для сохранения в JSON для {game} (лига {league_name})")
         return None
+    # Логируем содержимое data перед обработкой
+    logger.debug(f"Перед сохранением в JSON для {game} (лига {league_name}): {len(data)} записей: {data}")
     # Ограничиваем до 5 записей
     data = data[:5]
+    # Проверяем, что все записи валидны
+    valid_data = []
+    required_fields = ["Timestamp", "Seller", "Stock", "Price", "Currency", "Position", "DisplayPosition", "Online"]
+    for item in data:
+        if all(field in item for field in required_fields):
+            valid_data.append(item)
+        else:
+            logger.warning(f"Пропущена запись с невалидными полями для {game}: {item}")
+    if not valid_data:
+        logger.warning(f"Нет валидных записей для сохранения в JSON для {game} (лига {league_name})")
+        return None
+    # Логируем финальное количество записей
+    logger.debug(f"После валидации для {game} (лига {league_name}): {len(valid_data)} записей")
     safe_league_name = re.sub(r'[^\w\-]', '_', league_name.lower())
     year, month = timestamp.strftime("%Y-%m").split("-")
     filename = f"prices_{game}_{safe_league_name}_{year}-{month}.json"
-    # Перезаписываем файл, а не добавляем, чтобы избежать дублирования
+    # Перезаписываем файл
     with open(filename, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+        json.dump(valid_data, f, ensure_ascii=False, indent=2)
     file_size = os.path.getsize(filename)
-    logger.info(f"Сохранено {len(data)} записей в {filename} (размер: {file_size} байт)")
+    logger.info(f"Сохранено {len(valid_data)} записей в {filename} (размер: {file_size} байт)")
     if file_size > 20 * 1024 * 1024:
         logger.warning(f"Размер файла {filename} превысил 20 Мб: {file_size} байт")
     return filename
@@ -216,6 +231,7 @@ def main():
         for league in leagues:
             logger.info(f"Парсинг продавцов для {game} (лига {league['name']})")
             selected_sellers = get_sellers(game, league["id"], league["name"], session)
+            logger.debug(f"Получено {len(selected_sellers)} продавцов для {game} (лига {league['name']}): {selected_sellers}")
             if selected_sellers:
                 timestamp = datetime.now(pytz.UTC)
                 filename = save_to_json(selected_sellers, game, league["name"], timestamp)
