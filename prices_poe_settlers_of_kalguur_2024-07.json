@@ -673,5 +673,50 @@
         "Currency": "USD",
         "Position": 29,
         "DisplayPosition": 8
+    },
+    {
+        "Timestamp": "2025-05-22 11:45:05",
+        "Seller": "tarkovFunProvider137",
+        "Stock": "6",
+        "Price": 0.028,
+        "Currency": "USD",
+        "Position": 21,
+        "DisplayPosition": 4
+    },
+    {
+        "Timestamp": "2025-05-22 11:45:05",
+        "Seller": "dodik22898",
+        "Stock": "700",
+        "Price": 0.028,
+        "Currency": "USD",
+        "Position": 22,
+        "DisplayPosition": 5
+    },
+    {
+        "Timestamp": "2025-05-22 11:45:05",
+        "Seller": "FREDDYTG",
+        "Stock": "300",
+        "Price": 0.029,
+        "Currency": "USD",
+        "Position": 1,
+        "DisplayPosition": 6
+    },
+    {
+        "Timestamp": "2025-05-22 11:45:05",
+        "Seller": "Rico1298",
+        "Stock": "4694",
+        "Price": 0.029,
+        "Currency": "USD",
+        "Position": 25,
+        "DisplayPosition": 7
+    },
+    {
+        "Timestamp": "2025-05-22 11:45:05",
+        "Seller": "IAmSoTasty",
+        "Stock": "40",
+        "Price": 0.029,
+        "Currency": "USD",
+        "Position": 26,
+        "DisplayPosition": 8
     }
 ]
