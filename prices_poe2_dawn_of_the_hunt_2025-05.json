@@ -1,18 +1,18 @@
 [
   {
-    "Timestamp": "2025-05-22 19:48:54",
-    "Seller": "SunHeat",
-    "Stock": 235,
-    "Price": 0.14,
+    "Timestamp": "2025-05-22 20:14:01",
+    "Seller": "evilvaet",
+    "Stock": 180,
+    "Price": 0.141,
     "Currency": "USD",
-    "Position": 502,
+    "Position": 504,
     "DisplayPosition": 4,
     "Online": null
   },
   {
-    "Timestamp": "2025-05-22 19:48:54",
-    "Seller": "Fastogoody",
-    "Stock": 10,
+    "Timestamp": "2025-05-22 20:14:01",
+    "Seller": "Wistint",
+    "Stock": 430,
     "Price": 0.141,
     "Currency": "USD",
     "Position": 505,
@@ -20,17 +20,17 @@
     "Online": null
   },
   {
-    "Timestamp": "2025-05-22 19:48:54",
-    "Seller": "Wistint",
-    "Stock": 340,
-    "Price": 0.141,
+    "Timestamp": "2025-05-22 20:14:01",
+    "Seller": "GoldSelling",
+    "Stock": 30,
+    "Price": 0.143,
     "Currency": "USD",
     "Position": 506,
     "DisplayPosition": 6,
     "Online": null
   },
   {
-    "Timestamp": "2025-05-22 19:48:54",
+    "Timestamp": "2025-05-22 20:14:01",
     "Seller": "Saendin",
     "Stock": 50,
     "Price": 0.143,
@@ -40,9 +40,9 @@
     "Online": null
   },
   {
-    "Timestamp": "2025-05-22 19:48:54",
+    "Timestamp": "2025-05-22 20:14:01",
     "Seller": "DreamUnderTheNight",
-    "Stock": 350,
+    "Stock": 320,
     "Price": 0.144,
     "Currency": "USD",
     "Position": 508,
