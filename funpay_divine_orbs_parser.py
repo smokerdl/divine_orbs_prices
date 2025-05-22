@@ -148,10 +148,12 @@ def get_sellers(game, league_id, league_name, session):
             "Online": None
         })
     logger.info(f"Найдено валидных офферов для {game}: {len(valid_offers)}")
-    selected_offers = sorted(valid_offers, key=lambda x: x["Price"])[:5]
-    for idx, offer in enumerate(selected_offers, 1):
+    # Выбираем офферы с позиций 4–8 по цене
+    sorted_offers = sorted(valid_offers, key=lambda x: x["Price"])
+    selected_offers = sorted_offers[3:8]  # Позиции 4, 5, 6, 7, 8 (индексы 3–7)
+    for idx, offer in enumerate(selected_offers, 4):  # Начинаем DisplayPosition с 4
         offer["DisplayPosition"] = idx
-    logger.info(f"Собрано продавцов для {game}: {len(selected_offers)} (позиции 1–{len(selected_offers)})")
+    logger.info(f"Собрано продавцов для {game}: {len(selected_offers)} (позиции 4–{len(selected_offers)+3})")
     return selected_offers
 
 def save_to_json(data, game, league_name, timestamp):
@@ -160,7 +162,7 @@ def save_to_json(data, game, league_name, timestamp):
         return None
     # Логируем содержимое data перед обработкой
     logger.debug(f"Перед сохранением в JSON для {game} (лига {league_name}): {len(data)} записей: {data}")
-    # Ограничиваем до 5 записей
+    # Ограничиваем до 5 записей (на случай, если данных больше)
     data = data[:5]
     # Проверяем, что все записи валидны
     valid_data = []
