@@ -15,7 +15,7 @@ logger = logging.getLogger(__name__)
 
 GAMES = {
     "poe": {"url": "https://funpay.com/chips/173/", "section_id": 173},
-    "poe2": {"url": "https://funpay.com/chips/209/", "section_id": 209}
+    "poe2": {"url": "https://funpay.com/chips/209/?side=106", "section_id": 209}
 }
 
 def setup_logging():
@@ -30,24 +30,19 @@ def setup_logging():
 
 def filter_league_name(league_name, game):
     """Фильтрует название лиги согласно заданным правилам."""
-    # Удаляем кавычки
     league_name = re.sub(r'[\'"]', '', league_name)
-    # Удаляем окончания в квадратных скобках
     league_name = re.sub(r'\[.*?\]', '', league_name).strip()
-    # Удаляем окончания в круглых скобках (кроме (PC) для poe)
     if game == "poe":
         if not league_name.startswith('(PC)'):
-            return None  # Исключаем лиги без (PC)
+            return None
         league_name = re.sub(r'\([^)]*\)', '', league_name).strip()
         league_name = league_name.replace('(PC)', '').strip()
-    else:  # poe2
+    else:
         league_name = re.sub(r'\([^)]*\)', '', league_name).strip()
     
-    # Исключаем лиги с одним словом "Лига"
     if league_name.lower() == "лига":
         return None
     
-    # Исключаем лиги, содержащие standard, hardcore, ruthless
     forbidden_words = ['standard', 'hardcore', 'ruthless']
     if any(word in league_name.lower() for word in forbidden_words):
         return None
@@ -94,25 +89,37 @@ def get_sellers(game, league_id, league_name, session):
     soup = BeautifulSoup(content, "lxml")
     offers = soup.select(f'a.tc-item[data-server="{league_id}"]')
     logger.info(f"Найдено офферов для {game} (лига {league_name}): {len(offers)}")
+    run_timestamp = datetime.now(pytz.UTC).strftime("%Y-%m-%d %H:%M:%S")
     for index, offer in enumerate(offers, 1):
+        # Проверяем тип валюты
+        currency_elem = offer.find("div", class_="tc-side")
+        currency = currency_elem.text.strip().lower() if currency_elem else ""
+        logger.debug(f"Обработка оффера: валюта={currency}, data-side={offer.get('data-side')}")
+        if "divine orb" not in currency:
+            logger.debug(f"Пропущен оффер: валюта={currency} (не Divine Orb)")
+            continue
+        # Извлекаем цену
         price_elem = offer.find("div", class_="tc-price")
         price_inner = price_elem.find("div") or price_elem.find("span")
         price_text = price_inner.text.strip() if price_inner else price_elem.text.strip()
         logger.debug(f"Сырой текст цены на позиции {index}: '{price_text}'")
+        # Извлекаем количество
         amount_elem = offer.find("div", class_="tc-amount")
         amount_text = amount_elem.text.strip() if amount_elem else "0"
         amount_num = int(re.sub(r"[^\d]", "", amount_text)) if re.sub(r"[^\d]", "", amount_text) else 0
+        # Извлекаем имя продавца
         user_elem = offer.find("div", class_="tc-user")
         username = user_elem.find("div", class_="media-user-name").text.strip() if user_elem else f"Unknown_{index}"
+        # Парсим цену и валюту
         price = 0.0
-        currency = "Unknown"
+        currency_code = "Unknown"
         price_text_clean = re.sub(r"[^\d.]", "", price_text).strip()
         try:
             price = float(price_text_clean)
             if '₽' in price_text or 'RUB' in price_text.lower():
-                currency = "RUB"
+                currency_code = "RUB"
             elif '$' in price_text or 'USD' in price_text.lower():
-                currency = "USD"
+                currency_code = "USD"
             else:
                 logger.warning(f"Неизвестная валюта для {username}: {price_text}")
                 continue
@@ -120,24 +127,23 @@ def get_sellers(game, league_id, league_name, session):
             logger.error(f"Ошибка парсинга цены для {username}: {price_text}")
             continue
         valid_offers.append({
-            "Timestamp": datetime.now(pytz.UTC).strftime("%Y-%m-%d %H:%M:%S"),
+            "Timestamp": run_timestamp,
             "Seller": username,
             "Stock": amount_num,
             "Price": price,
-            "Currency": currency,
+            "Currency": currency_code,
             "Position": index,
             "DisplayPosition": 0,
             "Online": None
         })
     logger.info(f"Найдено валидных офферов для {game}: {len(valid_offers)}")
-    selected_offers = sorted(valid_offers, key=lambda x: x["Price"])[:5]  # Ограничиваем до 5 позиций
+    selected_offers = sorted(valid_offers, key=lambda x: x["Price"])[:5]
     for idx, offer in enumerate(selected_offers, 1):
         offer["DisplayPosition"] = idx
     logger.info(f"Собрано продавцов для {game}: {len(selected_offers)} (позиции 1–{len(selected_offers)})")
     return selected_offers
 
 def save_to_json(data, game, league_name, timestamp):
-    # Очистка league_name для безопасного имени файла
     safe_league_name = re.sub(r'[^\w\-]', '_', league_name.lower())
     year, month = timestamp.strftime("%Y-%m").split("-")
     filename = f"prices_{game}_{safe_league_name}_{year}-{month}.json"
