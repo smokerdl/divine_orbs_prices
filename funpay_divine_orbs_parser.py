@@ -8,6 +8,9 @@ from bs4 import BeautifulSoup
 from fake_useragent import UserAgent
 import re
 
+# Создаём папку parser-artifacts перед настройкой логирования
+os.makedirs('parser-artifacts', exist_ok=True)
+
 # Настройка логирования
 logger = logging.getLogger(__name__)
 logging.basicConfig(
