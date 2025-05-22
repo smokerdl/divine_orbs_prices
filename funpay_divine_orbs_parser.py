@@ -94,10 +94,23 @@ def get_sellers(game, league_id, league_name, session):
         # Проверяем тип валюты
         currency_elem = offer.find("div", class_="tc-side")
         currency = currency_elem.text.strip().lower() if currency_elem else ""
-        logger.debug(f"Обработка оффера: валюта={currency}, data-side={offer.get('data-side')}")
-        if "divine orb" not in currency:
-            logger.debug(f"Пропущен оффер: валюта={currency} (не Divine Orb)")
+        data_side = offer.get("data-side")
+        logger.debug(f"Обработка оффера: валюта={currency}, data-side={data_side}")
+        
+        # Проверяем Divine Orbs
+        is_divine_orb = False
+        if game == "poe2" and data_side == "106":
+            is_divine_orb = True
+        elif "divine orb" in currency or "божественные сферы" in currency:
+            is_divine_orb = True
+        
+        if not is_divine_orb:
+            logger.debug(f"Пропущен оффер: валюта={currency}, data-side={data_side} (не Divine Orb)")
+            # Для отладки сохраняем HTML оффера
+            with open(f"skipped_offer_{game}_{index}.html", "w", encoding="utf-8") as f:
+                f.write(str(offer))
             continue
+        
         # Извлекаем цену
         price_elem = offer.find("div", class_="tc-price")
         price_inner = price_elem.find("div") or price_elem.find("span")
@@ -189,14 +202,14 @@ def main():
     session = requests.Session()
     session.headers.update({
         "User-Agent": ua.random,
-        "Accept-Language": "ru-RU,ru;q=0.9",
+        "Accept-Language": "en-US,en;q=0.9",
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
         "Referer": "https://funpay.com/"
     })
     session.cookies.update({
-        "currency": "RUB",
-        "locale": "ru",
-        "cy": "RUB"
+        "currency": "USD",
+        "locale": "en",
+        "cy": "USD"
     })
     filenames = []
     for game in GAMES:
