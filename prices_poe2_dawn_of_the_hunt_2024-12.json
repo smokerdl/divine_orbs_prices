@@ -1,0 +1,57 @@
+[
+    {
+        "Timestamp": "2025-05-23 01:13:42",
+        "Seller": "youngexile",
+        "Stock": "50",
+        "Price": 0.141,
+        "Currency": "USD",
+        "Position": 900,
+        "DisplayPosition": 4,
+        "Online": true,
+        "League": "11287"
+    },
+    {
+        "Timestamp": "2025-05-23 01:13:42",
+        "Seller": "Fastogoody",
+        "Stock": "10",
+        "Price": 0.141,
+        "Currency": "USD",
+        "Position": 901,
+        "DisplayPosition": 5,
+        "Online": true,
+        "League": "11287"
+    },
+    {
+        "Timestamp": "2025-05-23 01:13:42",
+        "Seller": "GeneraLHarrisoN",
+        "Stock": "85",
+        "Price": 0.142,
+        "Currency": "USD",
+        "Position": 902,
+        "DisplayPosition": 6,
+        "Online": true,
+        "League": "11287"
+    },
+    {
+        "Timestamp": "2025-05-23 01:13:42",
+        "Seller": "megak0lbaska",
+        "Stock": "16",
+        "Price": 0.143,
+        "Currency": "USD",
+        "Position": 903,
+        "DisplayPosition": 7,
+        "Online": true,
+        "League": "11287"
+    },
+    {
+        "Timestamp": "2025-05-23 01:13:42",
+        "Seller": "CharlesRobert",
+        "Stock": "300",
+        "Price": 0.143,
+        "Currency": "USD",
+        "Position": 904,
+        "DisplayPosition": 8,
+        "Online": true,
+        "League": "11287"
+    }
+]
