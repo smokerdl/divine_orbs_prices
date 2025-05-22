@@ -96,7 +96,7 @@ def get_sellers(game, league_id, league_name, session):
             "Currency": currency,
             "Position": index,
             "DisplayPosition": 0,
-            "Online": null
+            "Online": None
         })
     logger.info(f"Найдено валидных офферов для {game}: {len(valid_offers)}")
     selected_offers = sorted(valid_offers, key=lambda x: x["Price"])[:8]
