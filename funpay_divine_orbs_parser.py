@@ -147,7 +147,7 @@ def get_sellers(game, league_id):
                 logger.debug(f"Пропущен оффер для {username}: пустой текст цены")
                 continue
             
-            if '₽' in price_text:
+            if '₽' in price_text or 'RUB' in price_text.lower():
                 price_text_clean = re.sub(r'[^\d,.]', '', price_text).replace(',', '.')
                 price_rub = float(price_text_clean)
                 price_usd = round(price_rub / FUNPAY_EXCHANGE_RATE, 3)
@@ -155,14 +155,20 @@ def get_sellers(game, league_id):
                 price_text_clean = re.sub(r"[^\d.]", "", price_text).strip()
                 price_usd = float(price_text_clean)
                 price_rub = round(price_usd * FUNPAY_EXCHANGE_RATE, 2)
+                logger.warning(f"Цена для {username} парсится как USD: {price_text}. Конвертация в RUB: {price_rub}")
             
-            if not re.match(r"^\d+(\.\d+)?$", str(price_usd)):
+            if not re.match(r"^\d+(\.\d+)?$", str(price_usd)) and not re.match(r"^\d+(\.\d+)?$", str(price_rub)):
                 logger.debug(f"Пропущен оффер для {username}: неверный формат цены ({price_text_clean})")
                 continue
             
             price_sbp = round(price_rub * SBP_COMMISSION, 2)
             price_card = round(price_rub * CARD_COMMISSION, 2)
-            logger.debug(f"Цена для {username}: {price_usd} USD ({price_rub} RUB, СБП: {price_sbp} ₽, Карта: {price_card} ₽)")
+            logger.debug(f"Цена для {username}: {price_rub} RUB ({price_usd} USD, СБП: {price_sbp} ₽, Карта: {price_card} ₽)")
+            
+            # Проверка онлайн-статуса в HTML (для отладки)
+            online_status = offer.find("span", class_="online-status") or offer.find("div", class_=re.compile("user-status"))
+            online_status_text = online_status.text.strip() if online_status else "Не найден"
+            logger.debug(f"Онлайн-статус для {username}: {online_status_text}")
             
             valid_offers.append({
                 "Timestamp": datetime.now(pytz.timezone("Europe/Moscow")).strftime("%Y-%m-%d %H:%M:%S"),
@@ -177,7 +183,7 @@ def get_sellers(game, league_id):
             })
             
             if debug_count < 10:
-                logger.debug(f"Отладка оффера {index}: {username}, Цена: {price_usd} USD ({price_rub} RUB), tc-desc: {desc_text}, tc-side: {side_text}")
+                logger.debug(f"Отладка оффера {index}: {username}, Цена: {price_rub} RUB ({price_usd} USD), tc-desc: {desc_text}, tc-side: {side_text}, raw_price: {price_text}, online_status: {online_status_text}")
                 debug_count += 1
         
         except Exception as e:
@@ -213,7 +219,7 @@ def get_leagues(game):
             response.raise_for_status()
             soup = BeautifulSoup(response.text, 'html.parser')
             with open(os.path.join(log_dir, f'funpay_leagues_{game}.html'), 'w', encoding='utf-8') as f:
-                f.write(soup.prettify())  # Исправлено: pretty_print -> prettify
+                f.write(soup.prettify())
             logger.info(f"HTML лиг для {game} сохранён")
             
             league_select = soup.find("select", class_="form-control")
@@ -254,10 +260,10 @@ def save_data(data, filename):
         existing_data.extend(data)
         
         with open(filename, 'w', encoding='utf-8') as f:
-            json.dump(existing_data, f, ensure_ascii=False)  # Без indent для экономии места
+            json.dump(existing_data, f, ensure_ascii=False, indent=2)
         logger.info(f"Данные успешно сохранены в {filename}: {len(existing_data)} записей")
-        if os.path.getsize(filename) > 10 * 1024 * 1024:
-            logger.warning(f"Размер файла {filename} превысил 10 Мб")
+        if os.path.getsize(filename) > 20 * 1024 * 1024:
+            logger.warning(f"Размер файла {filename} превысил 20 Мб")
     except Exception as e:
         logger.error(f"Ошибка сохранения данных в {filename}: {e}")
 
