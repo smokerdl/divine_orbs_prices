@@ -153,19 +153,21 @@ def get_sellers(game, league_id, league_name, session):
         offer["DisplayPosition"] = idx
     logger.info(f"Собрано продавцов для {game}: {len(selected_offers)} (позиции 1–{len(selected_offers)})")
     return selected_offers
+
 def save_to_json(data, game, league_name, timestamp):
+    if not data:
+        logger.warning(f"Нет данных для сохранения в JSON для {game} (лига {league_name})")
+        return None
+    # Ограничиваем до 5 записей
+    data = data[:5]
     safe_league_name = re.sub(r'[^\w\-]', '_', league_name.lower())
     year, month = timestamp.strftime("%Y-%m").split("-")
     filename = f"prices_{game}_{safe_league_name}_{year}-{month}.json"
-    if os.path.exists(filename):
-        with open(filename, "r", encoding="utf-8") as f:
-            existing_data = json.load(f)
-    else:
-        existing_data = []
-    existing_data.extend(data)
+    # Перезаписываем файл, а не добавляем, чтобы избежать дублирования
     with open(filename, "w", encoding="utf-8") as f:
-        json.dump(existing_data, f, ensure_ascii=False, indent=2)
+        json.dump(data, f, ensure_ascii=False, indent=2)
     file_size = os.path.getsize(filename)
+    logger.info(f"Сохранено {len(data)} записей в {filename} (размер: {file_size} байт)")
     if file_size > 20 * 1024 * 1024:
         logger.warning(f"Размер файла {filename} превысил 20 Мб: {file_size} байт")
     return filename
@@ -212,11 +214,13 @@ def main():
     for game in GAMES:
         leagues = get_leagues(game, session)
         for league in leagues:
-            sellers = get_sellers(game, league["id"], league["name"], session)
-            if sellers:
+            logger.info(f"Парсинг продавцов для {game} (лига {league['name']})")
+            selected_sellers = get_sellers(game, league["id"], league["name"], session)
+            if selected_sellers:
                 timestamp = datetime.now(pytz.UTC)
-                filename = save_to_json(sellers, game, league["name"], timestamp)
-                filenames.append(filename)
+                filename = save_to_json(selected_sellers, game, league["name"], timestamp)
+                if filename:
+                    filenames.append(filename)
     if filenames:
         commit_to_github(filenames)
 
