@@ -29,24 +29,34 @@ def setup_logging():
     )
 
 def filter_league_name(league_name, game):
-    """Фильтрует название лиги согласно заданным правилам."""
-    league_name = re.sub(r'[\'"]', '', league_name)
+    """Фильтрует название лиги, исключая standard, hardcore, ruthless."""
+    logger.debug(f"Фильтрация лиги: {league_name} для игры {game}")
+    # Удаляем кавычки
+    league_name = re.sub(r'[\'"]', '', league_name).strip()
+    
+    # Проверяем запрещённые слова ДО удаления квадратных скобок
+    forbidden_words = ['standard', 'hardcore', 'ruthless']
+    if any(word in league_name.lower() for word in forbidden_words):
+        logger.debug(f"Лига исключена из-за запрещённого слова: {league_name}")
+        return None
+    
+    # Удаляем квадратные скобки и обрабатываем (PC)
     league_name = re.sub(r'\[.*?\]', '', league_name).strip()
     if game == "poe":
         if not league_name.startswith('(PC)'):
+            logger.debug(f"Лига исключена, не начинается с (PC): {league_name}")
             return None
         league_name = re.sub(r'\([^)]*\)', '', league_name).strip()
         league_name = league_name.replace('(PC)', '').strip()
     else:
         league_name = re.sub(r'\([^)]*\)', '', league_name).strip()
     
-    if league_name.lower() == "лига":
+    # Проверяем, не пустое ли название
+    if not league_name or league_name.lower() == "лига":
+        logger.debug(f"Лига исключена, пустое название или 'лига': {league_name}")
         return None
     
-    forbidden_words = ['standard', 'hardcore', 'ruthless']
-    if any(word in league_name.lower() for word in forbidden_words):
-        return None
-    
+    logger.debug(f"Лига принята: {league_name}")
     return league_name
 
 def get_leagues(game, session):
@@ -91,13 +101,13 @@ def get_sellers(game, league_id, league_name, session):
     logger.info(f"Найдено офферов для {game} (лига {league_name}): {len(offers)}")
     run_timestamp = datetime.now(pytz.UTC).strftime("%Y-%m-%d %H:%M:%S")
     for index, offer in enumerate(offers, 1):
-        # Проверяем валюту только для PoE 2
-        is_divine_orb = True  # По умолчанию для PoE все офферы — Divine Orbs
+        # Проверяем валюту для PoE 2
+        is_divine_orb = True
         if game == "poe2":
             currency_elem = offer.find("div", class_="tc-side") or offer.find("div", class_="tc-side-inside") or offer.find("div", class_="tc-item-name")
             currency = currency_elem.text.strip().lower() if currency_elem else ""
             data_side = offer.get("data-side", None)
-            logger.debug(f"Обработка оффера: валюта={currency}, data-side={data_side}, html={str(offer)}")
+            logger.debug(f"Обработка оффера: валюта={currency}, data-side={data_side}")
             is_divine_orb = False
             if data_side == "106" or "divine orb" in currency or "божественные сферы" in currency:
                 is_divine_orb = True
@@ -106,36 +116,36 @@ def get_sellers(game, league_id, league_name, session):
                 with open(f"skipped_offer_{game}_{index}.html", "w", encoding="utf-8") as f:
                     f.write(str(offer))
                 continue
-        else:
-            logger.debug(f"Обработка оффера для PoE: html={str(offer)}")
         
         # Извлекаем цену
         price_elem = offer.find("div", class_="tc-price")
         price_inner = price_elem.find("div") or price_elem.find("span")
         price_text = price_inner.text.strip() if price_inner else price_elem.text.strip()
-        logger.debug(f"Сырой текст цены на позиции {index}: '{price_text}'")
         # Извлекаем количество
         amount_elem = offer.find("div", class_="tc-amount")
         amount_text = amount_elem.text.strip() if amount_elem else "0"
         amount_num = int(re.sub(r"[^\d]", "", amount_text)) if re.sub(r"[^\d]", "", amount_text) else 0
         # Извлекаем имя продавца
         user_elem = offer.find("div", class_="tc-user")
-        username = user_elem.find("div", class_="media-user-name").text.strip() if user_elem else f"Unknown_{index}"
+        username = user_elem.find("div", class_="media-user-name").text.strip() if user_elem and user_elem.find("div", class_="media-user-name") else f"Unknown_{index}"
         # Парсим цену и валюту
         price = 0.0
-        currency_code = "Unknown"
+        currency_code = "USD"  # Устанавливаем USD по умолчанию, так как твои JSON используют USD
         price_text_clean = re.sub(r"[^\d.]", "", price_text).strip()
         try:
             price = float(price_text_clean)
-            if '₽' in price_text or 'RUB' in price_text.lower():
-                currency_code = "RUB"
-            elif '$' in price_text or 'USD' in price_text.lower():
-                currency_code = "USD"
-            else:
-                logger.warning(f"Неизвестная валюта для {username}: {price_text}")
-                continue
         except ValueError:
             logger.error(f"Ошибка парсинга цены для {username}: {price_text}")
+            continue
+        # Проверяем валидность
+        if not username or username.startswith("Unknown_"):
+            logger.warning(f"Пропущен оффер: отсутствует имя продавца, index={index}")
+            continue
+        if amount_num <= 0:
+            logger.warning(f"Пропущен оффер: неверное количество={amount_num}, index={index}")
+            continue
+        if price <= 0:
+            logger.warning(f"Пропущен оффер: неверная цена={price}, index={index}")
             continue
         valid_offers.append({
             "Timestamp": run_timestamp,
@@ -148,45 +158,47 @@ def get_sellers(game, league_id, league_name, session):
             "Online": None
         })
     logger.info(f"Найдено валидных офферов для {game}: {len(valid_offers)}")
-    # Выбираем офферы с позиций 4–8 по цене
+    # Выбираем позиции 4–8
     sorted_offers = sorted(valid_offers, key=lambda x: x["Price"])
-    selected_offers = sorted_offers[3:8]  # Позиции 4, 5, 6, 7, 8 (индексы 3–7)
-    for idx, offer in enumerate(selected_offers, 4):  # Начинаем DisplayPosition с 4
+    selected_offers = sorted_offers[3:8]  # Позиции 4–8
+    for idx, offer in enumerate(selected_offers, 4):
         offer["DisplayPosition"] = idx
     logger.info(f"Собрано продавцов для {game}: {len(selected_offers)} (позиции 4–{len(selected_offers)+3})")
+    logger.debug(f"Выбранные офферы для {game}: {selected_offers}")
     return selected_offers
 
 def save_to_json(data, game, league_name, timestamp):
     if not data:
         logger.warning(f"Нет данных для сохранения в JSON для {game} (лига {league_name})")
         return None
-    # Логируем содержимое data перед обработкой
     logger.debug(f"Перед сохранением в JSON для {game} (лига {league_name}): {len(data)} записей: {data}")
-    # Ограничиваем до 5 записей (на случай, если данных больше)
-    data = data[:5]
-    # Проверяем, что все записи валидны
     valid_data = []
     required_fields = ["Timestamp", "Seller", "Stock", "Price", "Currency", "Position", "DisplayPosition", "Online"]
     for item in data:
-        if all(field in item for field in required_fields):
-            valid_data.append(item)
-        else:
-            logger.warning(f"Пропущена запись с невалидными полями для {game}: {item}")
+        if not all(field in item for field in required_fields):
+            logger.warning(f"Пропущена запись с отсутствующими полями для {game}: {item}")
+            continue
+        if not item["Seller"] or item["Seller"].startswith("Unknown_"):
+            logger.warning(f"Пропущена запись с невалидным Seller для {game}: {item}")
+            continue
+        if item["Stock"] <= 0:
+            logger.warning(f"Пропущена запись с невалидным Stock для {game}: {item}")
+            continue
+        if item["Price"] <= 0:
+            logger.warning(f"Пропущена запись с невалидным Price для {game}: {item}")
+            continue
+        valid_data.append(item)
     if not valid_data:
         logger.warning(f"Нет валидных записей для сохранения в JSON для {game} (лига {league_name})")
         return None
-    # Логируем финальное количество записей
-    logger.debug(f"После валидации для {game} (лига {league_name}): {len(valid_data)} записей")
+    logger.debug(f"После валидации для {game} (лига {league_name}): {len(valid_data)} записей: {valid_data}")
     safe_league_name = re.sub(r'[^\w\-]', '_', league_name.lower())
     year, month = timestamp.strftime("%Y-%m").split("-")
     filename = f"prices_{game}_{safe_league_name}_{year}-{month}.json"
-    # Перезаписываем файл
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(valid_data, f, ensure_ascii=False, indent=2)
     file_size = os.path.getsize(filename)
     logger.info(f"Сохранено {len(valid_data)} записей в {filename} (размер: {file_size} байт)")
-    if file_size > 20 * 1024 * 1024:
-        logger.warning(f"Размер файла {filename} превысил 20 Мб: {file_size} байт")
     return filename
 
 def commit_to_github(filenames):
