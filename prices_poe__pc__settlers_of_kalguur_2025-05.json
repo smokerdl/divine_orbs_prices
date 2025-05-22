@@ -1,0 +1,57 @@
+[
+  {
+    "Timestamp": "2025-05-22 14:57:27",
+    "Seller": "ArmagedDoNMeG",
+    "Stock": 100,
+    "Price": 0.027,
+    "Price_rub": 2.16,
+    "Currency": "USD",
+    "Position": 15,
+    "DisplayPosition": 1,
+    "Online": true
+  },
+  {
+    "Timestamp": "2025-05-22 14:57:27",
+    "Seller": "Kontroler21",
+    "Stock": 80,
+    "Price": 0.027,
+    "Price_rub": 2.16,
+    "Currency": "USD",
+    "Position": 18,
+    "DisplayPosition": 2,
+    "Online": true
+  },
+  {
+    "Timestamp": "2025-05-22 14:57:27",
+    "Seller": "whywhywhywhywhywhy",
+    "Stock": 16,
+    "Price": 0.027,
+    "Price_rub": 2.16,
+    "Currency": "USD",
+    "Position": 19,
+    "DisplayPosition": 3,
+    "Online": true
+  },
+  {
+    "Timestamp": "2025-05-22 14:57:27",
+    "Seller": "Rico1298",
+    "Stock": 4694,
+    "Price": 0.027,
+    "Price_rub": 2.16,
+    "Currency": "USD",
+    "Position": 20,
+    "DisplayPosition": 4,
+    "Online": true
+  },
+  {
+    "Timestamp": "2025-05-22 14:57:27",
+    "Seller": "Satturi",
+    "Stock": 230,
+    "Price": 0.028,
+    "Price_rub": 2.24,
+    "Currency": "USD",
+    "Position": 21,
+    "DisplayPosition": 5,
+    "Online": true
+  }
+]
