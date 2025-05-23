@@ -1,11 +1,11 @@
 name: Parse FunPay Prices
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Каждые 30 минут
+    - cron: '0,30 * * * *'  # В 00 и 30 минуты каждого часа
   workflow_dispatch:
 jobs:
   parse:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
       - name: Set up Python
@@ -24,6 +24,14 @@ jobs:
             if [ -f "$file" ]; then
               gzip "$file"
               echo "Compressed $file to $file.gz"
+            fi
+          done
+      - name: Clean up outdated JSON files
+        run: |
+          for file in prices_poe_*_2025-05.json.gz prices_poe2_*_2025-05.json.gz; do
+            if [ -f "$file" ]; then
+              rm "$file"
+              echo "Removed outdated file: $file"
             fi
           done
       - name: Check artifact size
