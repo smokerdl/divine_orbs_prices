@@ -199,8 +199,14 @@ def filter_relevant_leagues(leagues, game):
             "hardcore", "ruthless", "hc", "standard", 
             "ps", "xbox", "playstation", "лига", "private"
         ]
-        if any(keyword in league_name for keyword in exclude_keywords):
-            logger.debug(f"Лига исключена: {league['name']} (причина: содержит {keyword})")
+        # Проверяем каждое ключевое слово явно, чтобы логировать его
+        excluded = False
+        for keyword in exclude_keywords:
+            if keyword in league_name:
+                logger.debug(f"Лига исключена: {league['name']} (причина: содержит '{keyword}')")
+                excluded = True
+                break
+        if excluded:
             continue
             
         # Для PoE 1 исключаем лиги с префиксом PL (специальные события)
@@ -230,7 +236,7 @@ def get_leagues(game):
             response.raise_for_status()
             soup = BeautifulSoup(response.text, 'html.parser')
             with open(os.path.join(log_dir, f'funpay_leagues_{game}.html'), 'w', encoding='utf-8') as f:
-                f.write(soup.prettify())
+                f.write(soup.pretty_print())
             logger.info(f"HTML лиг для {game} сохранён")
             
             league_select = soup.find("select", class_="form-control")
