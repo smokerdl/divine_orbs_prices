@@ -140,7 +140,7 @@ def get_sellers(game, league_id):
                 response.raise_for_status()
                 soup = BeautifulSoup(response.text, 'html.parser')
                 with open(os.path.join(log_dir, f'funpay_sellers_{game}_page{page_num}.html'), 'w', encoding='utf-8') as f:
-                    f.write(soup.pretty_print())
+                    f.write(soup.prettify())
                 logger.info(f"HTML продавцов для {game} (страница {page_num}) сохранён")
                 
                 page_offers = soup.find_all("a", class_="tc-item")
