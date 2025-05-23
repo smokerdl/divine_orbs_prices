@@ -120,8 +120,6 @@ def archive_old_data(file_path, github_token):
         update_repository(archive_file, f"Archive {os.path.basename(archive_file)}", github_token)
         logger.info(f"Данные архивированы: {archive_file}")
 
-# ... (остальные функции get_sellers, save_data, update_repository остаются без изменений)
-
 def get_sellers(game, league_id):
     logger.info(f"Сбор данных о продавцах для {game} (лига {league_id})...")
     url = POE_URL if game == 'poe' else POE2_URL
@@ -270,6 +268,17 @@ def get_sellers(game, league_id):
     logger.info(f"Собрано продавцов для {game}: {len(sellers)} (позиции 4–8)")
     logger.debug(f"Содержимое sellers: {sellers}")
     return sellers
+
+def save_data(data, output_file):
+    """Сохранение данных в JSON файл"""
+    try:
+        os.makedirs(os.path.dirname(output_file), exist_ok=True)
+        with open(output_file, 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+        logger.info(f"Данные сохранены в {output_file}")
+    except Exception as e:
+        logger.error(f"Ошибка при сохранении данных в {output_file}: {e}")
+        raise
 
 def main():
     github_token = os.getenv("GITHUB_TOKEN")
