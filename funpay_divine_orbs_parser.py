@@ -140,7 +140,7 @@ def get_sellers(game, league_id):
                 response.raise_for_status()
                 soup = BeautifulSoup(response.text, 'html.parser')
                 with open(os.path.join(log_dir, f'funpay_sellers_{game}_page{page_num}.html'), 'w', encoding='utf-8') as f:
-                    f.write(soup.prettify())
+                    f.write(soup.pretty_print())
                 logger.info(f"HTML продавцов для {game} (страница {page_num}) сохранён")
                 
                 page_offers = soup.find_all("a", class_="tc-item")
@@ -278,6 +278,27 @@ def save_data(data, output_file):
         logger.info(f"Данные сохранены в {output_file}")
     except Exception as e:
         logger.error(f"Ошибка при сохранении данных в {output_file}: {e}")
+        raise
+
+def update_repository(file_path, commit_message, github_token):
+    """Обновление файла в репозитории GitHub"""
+    try:
+        g = Github(github_token)
+        repo = g.get_repo("smokerdl/divine_orbs_prices")
+        with open(file_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+        file_name = os.path.basename(file_path)
+        try:
+            # Проверяем, существует ли файл
+            contents = repo.get_contents(file_name)
+            repo.update_file(file_name, commit_message, content, contents.sha)
+            logger.info(f"Файл {file_name} обновлен в репозитории")
+        except:
+            # Если файла нет, создаем новый
+            repo.create_file(file_name, commit_message, content)
+            logger.info(f"Файл {file_name} создан в репозитории")
+    except Exception as e:
+        logger.error(f"Ошибка при обновлении репозитория для {file_path}: {e}")
         raise
 
 def main():
