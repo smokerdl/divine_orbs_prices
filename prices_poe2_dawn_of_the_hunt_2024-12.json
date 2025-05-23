@@ -2418,5 +2418,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-05-24 02:34:39",
+    "Seller": "fkkx",
+    "Stock": "100",
+    "Price": 0.14,
+    "Currency": "USD",
+    "Position": 919,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-05-24 02:34:39",
+    "Seller": "SaniaBog",
+    "Stock": "100",
+    "Price": 0.142,
+    "Currency": "USD",
+    "Position": 922,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-05-24 02:34:39",
+    "Seller": "onebuyforwin",
+    "Stock": "100",
+    "Price": 0.142,
+    "Currency": "USD",
+    "Position": 923,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-05-24 02:34:39",
+    "Seller": "Pathofexalt",
+    "Stock": "248",
+    "Price": 0.143,
+    "Currency": "USD",
+    "Position": 924,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-05-24 02:34:39",
+    "Seller": "CherryVish",
+    "Stock": "300",
+    "Price": 0.144,
+    "Currency": "USD",
+    "Position": 926,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
