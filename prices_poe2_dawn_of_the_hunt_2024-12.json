@@ -6323,5 +6323,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-05-25 18:33:53",
+    "Seller": "EasyTrade",
+    "Stock": "210",
+    "Price": 0.139,
+    "Currency": "USD",
+    "Position": 980,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-05-25 18:33:53",
+    "Seller": "Lendermon",
+    "Stock": "590",
+    "Price": 0.139,
+    "Currency": "USD",
+    "Position": 981,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-05-25 18:33:53",
+    "Seller": "DuskGrotesque",
+    "Stock": "72",
+    "Price": 0.14,
+    "Currency": "USD",
+    "Position": 983,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-05-25 18:33:53",
+    "Seller": "Jack1Thorns",
+    "Stock": "1560",
+    "Price": 0.14,
+    "Currency": "USD",
+    "Position": 984,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-05-25 18:33:53",
+    "Seller": "sanjas",
+    "Stock": "53",
+    "Price": 0.141,
+    "Currency": "USD",
+    "Position": 986,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
