@@ -10833,5 +10833,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-05-27 18:40:28",
+    "Seller": "Listi",
+    "Stock": "319",
+    "Price": 0.111,
+    "Currency": "USD",
+    "Position": 872,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-05-27 18:40:28",
+    "Seller": "Dieforlife",
+    "Stock": "84",
+    "Price": 0.111,
+    "Currency": "USD",
+    "Position": 873,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-05-27 18:40:28",
+    "Seller": "RMTHUB",
+    "Stock": "15",
+    "Price": 0.112,
+    "Currency": "USD",
+    "Position": 875,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-05-27 18:40:28",
+    "Seller": "artureo",
+    "Stock": "50",
+    "Price": 0.112,
+    "Currency": "USD",
+    "Position": 876,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-05-27 18:40:28",
+    "Seller": "StrokerKIT",
+    "Stock": "189",
+    "Price": 0.112,
+    "Currency": "USD",
+    "Position": 877,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
