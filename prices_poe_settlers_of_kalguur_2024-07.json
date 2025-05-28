@@ -12373,5 +12373,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "10480"
+  },
+  {
+    "Timestamp": "2025-05-28 10:59:16",
+    "Seller": "Kontroler21",
+    "Stock": "560",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 6,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "10480"
+  },
+  {
+    "Timestamp": "2025-05-28 10:59:16",
+    "Seller": "Cynric",
+    "Stock": "900",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 7,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "10480"
+  },
+  {
+    "Timestamp": "2025-05-28 10:59:16",
+    "Seller": "Sonic70",
+    "Stock": "42",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 10,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "10480"
+  },
+  {
+    "Timestamp": "2025-05-28 10:59:16",
+    "Seller": "windigoy",
+    "Stock": "2121",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 12,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "10480"
+  },
+  {
+    "Timestamp": "2025-05-28 10:59:16",
+    "Seller": "RaptorAleks",
+    "Stock": "240",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 13,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "10480"
   }
 ]
