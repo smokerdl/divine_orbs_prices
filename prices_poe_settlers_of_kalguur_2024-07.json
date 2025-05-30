@@ -17983,5 +17983,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "10480"
+  },
+  {
+    "Timestamp": "2025-05-30 22:12:20",
+    "Seller": "filipkagoose",
+    "Stock": "375",
+    "Price": 0.0186,
+    "Currency": "USD",
+    "Position": 5,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "10480"
+  },
+  {
+    "Timestamp": "2025-05-30 22:12:20",
+    "Seller": "mbfor",
+    "Stock": "275",
+    "Price": 0.0187,
+    "Currency": "USD",
+    "Position": 6,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "10480"
+  },
+  {
+    "Timestamp": "2025-05-30 22:12:20",
+    "Seller": "acolade",
+    "Stock": "107",
+    "Price": 0.0187,
+    "Currency": "USD",
+    "Position": 7,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "10480"
+  },
+  {
+    "Timestamp": "2025-05-30 22:12:20",
+    "Seller": "act1onn",
+    "Stock": "850",
+    "Price": 0.0187,
+    "Currency": "USD",
+    "Position": 8,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "10480"
+  },
+  {
+    "Timestamp": "2025-05-30 22:12:20",
+    "Seller": "BorisBobs",
+    "Stock": "19",
+    "Price": 0.0187,
+    "Currency": "USD",
+    "Position": 9,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "10480"
   }
 ]
