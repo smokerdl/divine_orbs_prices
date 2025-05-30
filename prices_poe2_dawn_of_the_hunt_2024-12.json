@@ -17488,5 +17488,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-05-30 16:02:41",
+    "Seller": "Angair",
+    "Stock": "120",
+    "Price": 0.125,
+    "Currency": "USD",
+    "Position": 856,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-05-30 16:02:41",
+    "Seller": "LanselLannister",
+    "Stock": "40",
+    "Price": 0.125,
+    "Currency": "USD",
+    "Position": 857,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-05-30 16:02:41",
+    "Seller": "qwertyfor",
+    "Stock": "3500",
+    "Price": 0.126,
+    "Currency": "USD",
+    "Position": 862,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-05-30 16:02:41",
+    "Seller": "Jerdyai",
+    "Stock": "58",
+    "Price": 0.126,
+    "Currency": "USD",
+    "Position": 863,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-05-30 16:02:41",
+    "Seller": "DelioN227",
+    "Stock": "2100",
+    "Price": 0.126,
+    "Currency": "USD",
+    "Position": 864,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
