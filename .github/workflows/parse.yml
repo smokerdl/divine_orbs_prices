@@ -1,7 +1,7 @@
 name: Parse FunPay Prices
 on:
   schedule:
-    - cron: '0 * * * *'  # В начале каждого часа (00:00 UTC = 03:00 MSK)
+    - cron: '55 * * * *'  # В начале каждого часа (00:00 UTC = 03:00 MSK)
   workflow_dispatch:  # Ручной запуск через интерфейс GitHub
 
 jobs:
