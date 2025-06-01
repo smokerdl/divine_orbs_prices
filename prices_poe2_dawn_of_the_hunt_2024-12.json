@@ -19908,5 +19908,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-01 09:57:50",
+    "Seller": "Tigrics",
+    "Stock": "6",
+    "Price": 0.133,
+    "Currency": "USD",
+    "Position": 912,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-01 09:57:50",
+    "Seller": "Batas",
+    "Stock": "1",
+    "Price": 0.136,
+    "Currency": "USD",
+    "Position": 917,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-01 09:57:50",
+    "Seller": "Exciterqq",
+    "Stock": "60",
+    "Price": 0.14,
+    "Currency": "USD",
+    "Position": 920,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-01 09:57:50",
+    "Seller": "Listi",
+    "Stock": "122",
+    "Price": 0.14,
+    "Currency": "USD",
+    "Position": 921,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-01 09:57:50",
+    "Seller": "L2EDelivery",
+    "Stock": "400",
+    "Price": 0.141,
+    "Currency": "USD",
+    "Position": 925,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
