@@ -20568,5 +20568,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-01 21:57:45",
+    "Seller": "Saendin",
+    "Stock": "135",
+    "Price": 0.13,
+    "Currency": "USD",
+    "Position": 936,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-01 21:57:45",
+    "Seller": "Imbakretin",
+    "Stock": "150",
+    "Price": 0.13,
+    "Currency": "USD",
+    "Position": 937,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-01 21:57:45",
+    "Seller": "solitte",
+    "Stock": "250",
+    "Price": 0.131,
+    "Currency": "USD",
+    "Position": 938,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-01 21:57:45",
+    "Seller": "Ivyshka",
+    "Stock": "300",
+    "Price": 0.132,
+    "Currency": "USD",
+    "Position": 939,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-01 21:57:45",
+    "Seller": "sanjas",
+    "Stock": "144",
+    "Price": 0.132,
+    "Currency": "USD",
+    "Position": 940,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
