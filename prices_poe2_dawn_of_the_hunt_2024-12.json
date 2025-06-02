@@ -21118,5 +21118,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-02 08:57:46",
+    "Seller": "Toriodor25",
+    "Stock": "1000",
+    "Price": 0.131,
+    "Currency": "USD",
+    "Position": 931,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-02 08:57:46",
+    "Seller": "L2EDelivery",
+    "Stock": "600",
+    "Price": 0.132,
+    "Currency": "USD",
+    "Position": 932,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-02 08:57:46",
+    "Seller": "smalldevil94",
+    "Stock": "9999999",
+    "Price": 0.133,
+    "Currency": "USD",
+    "Position": 935,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-02 08:57:46",
+    "Seller": "Wistint",
+    "Stock": "280",
+    "Price": 0.134,
+    "Currency": "USD",
+    "Position": 936,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-02 08:57:46",
+    "Seller": "Zilberdouch",
+    "Stock": "28",
+    "Price": 0.134,
+    "Currency": "USD",
+    "Position": 938,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
