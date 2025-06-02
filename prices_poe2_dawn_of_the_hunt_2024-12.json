@@ -21228,5 +21228,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-02 10:57:48",
+    "Seller": "Wistint",
+    "Stock": "280",
+    "Price": 0.129,
+    "Currency": "USD",
+    "Position": 923,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-02 10:57:48",
+    "Seller": "Belorus",
+    "Stock": "600",
+    "Price": 0.13,
+    "Currency": "USD",
+    "Position": 924,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-02 10:57:48",
+    "Seller": "L2EDelivery",
+    "Stock": "305",
+    "Price": 0.13,
+    "Currency": "USD",
+    "Position": 925,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-02 10:57:48",
+    "Seller": "onebuyforwin",
+    "Stock": "900",
+    "Price": 0.13,
+    "Currency": "USD",
+    "Position": 926,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-02 10:57:48",
+    "Seller": "Toriodor25",
+    "Stock": "1000",
+    "Price": 0.13,
+    "Currency": "USD",
+    "Position": 932,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
