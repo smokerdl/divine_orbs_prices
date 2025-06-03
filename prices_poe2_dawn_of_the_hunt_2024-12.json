@@ -22603,5 +22603,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-03 12:58:05",
+    "Seller": "Brexit",
+    "Stock": "1700",
+    "Price": 0.115,
+    "Currency": "USD",
+    "Position": 878,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-03 12:58:05",
+    "Seller": "onebuyforwin",
+    "Stock": "1000",
+    "Price": 0.116,
+    "Currency": "USD",
+    "Position": 879,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-03 12:58:05",
+    "Seller": "Sartamas",
+    "Stock": "149",
+    "Price": 0.116,
+    "Currency": "USD",
+    "Position": 880,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-03 12:58:05",
+    "Seller": "DelioN227",
+    "Stock": "845",
+    "Price": 0.118,
+    "Currency": "USD",
+    "Position": 885,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-03 12:58:05",
+    "Seller": "DKondor",
+    "Stock": "120",
+    "Price": 0.118,
+    "Currency": "USD",
+    "Position": 886,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
