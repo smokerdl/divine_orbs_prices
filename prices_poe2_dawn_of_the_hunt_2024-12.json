@@ -23593,5 +23593,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-04 07:58:50",
+    "Seller": "DeadBrainShop",
+    "Stock": "115",
+    "Price": 0.116,
+    "Currency": "USD",
+    "Position": 892,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-04 07:58:50",
+    "Seller": "BigBabyLame",
+    "Stock": "167",
+    "Price": 0.117,
+    "Currency": "USD",
+    "Position": 895,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-04 07:58:50",
+    "Seller": "L2EDelivery",
+    "Stock": "1000",
+    "Price": 0.119,
+    "Currency": "USD",
+    "Position": 896,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-04 07:58:50",
+    "Seller": "soptax",
+    "Stock": "600",
+    "Price": 0.119,
+    "Currency": "USD",
+    "Position": 897,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-04 07:58:50",
+    "Seller": "widowmake",
+    "Stock": "160",
+    "Price": 0.12,
+    "Currency": "USD",
+    "Position": 899,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
