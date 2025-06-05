@@ -24913,5 +24913,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-05 08:57:54",
+    "Seller": "Oldscools",
+    "Stock": "600",
+    "Price": 0.115,
+    "Currency": "USD",
+    "Position": 944,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-05 08:57:54",
+    "Seller": "qwertyfor",
+    "Stock": "1680",
+    "Price": 0.115,
+    "Currency": "USD",
+    "Position": 945,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-05 08:57:54",
+    "Seller": "Lirvit",
+    "Stock": "69",
+    "Price": 0.115,
+    "Currency": "USD",
+    "Position": 946,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-05 08:57:54",
+    "Seller": "L2EDelivery",
+    "Stock": "800",
+    "Price": 0.115,
+    "Currency": "USD",
+    "Position": 947,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-05 08:57:54",
+    "Seller": "DelioN227",
+    "Stock": "1200",
+    "Price": 0.116,
+    "Currency": "USD",
+    "Position": 950,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
