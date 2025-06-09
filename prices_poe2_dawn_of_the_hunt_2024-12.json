@@ -30358,5 +30358,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-09 16:58:05",
+    "Seller": "RagnarLothbrock",
+    "Stock": "200",
+    "Price": 0.098,
+    "Currency": "USD",
+    "Position": 837,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-09 16:58:05",
+    "Seller": "StenyRock",
+    "Stock": "900",
+    "Price": 0.098,
+    "Currency": "USD",
+    "Position": 839,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-09 16:58:05",
+    "Seller": "qwertyfor",
+    "Stock": "1000",
+    "Price": 0.099,
+    "Currency": "USD",
+    "Position": 841,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-09 16:58:05",
+    "Seller": "vctcompany",
+    "Stock": "420",
+    "Price": 0.099,
+    "Currency": "USD",
+    "Position": 842,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-09 16:58:05",
+    "Seller": "DelioN227",
+    "Stock": "1222",
+    "Price": 0.099,
+    "Currency": "USD",
+    "Position": 843,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
