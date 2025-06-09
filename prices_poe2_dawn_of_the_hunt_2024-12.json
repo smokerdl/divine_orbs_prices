@@ -30413,5 +30413,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-09 17:57:52",
+    "Seller": "SunHeat",
+    "Stock": "143",
+    "Price": 0.097,
+    "Currency": "USD",
+    "Position": 837,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-09 17:57:52",
+    "Seller": "qwertyfor",
+    "Stock": "1000",
+    "Price": 0.099,
+    "Currency": "USD",
+    "Position": 841,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-09 17:57:52",
+    "Seller": "vctcompany",
+    "Stock": "420",
+    "Price": 0.099,
+    "Currency": "USD",
+    "Position": 842,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-09 17:57:52",
+    "Seller": "frostzlo",
+    "Stock": "500",
+    "Price": 0.099,
+    "Currency": "USD",
+    "Position": 843,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-09 17:57:52",
+    "Seller": "DelioN227",
+    "Stock": "1222",
+    "Price": 0.099,
+    "Currency": "USD",
+    "Position": 844,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
