@@ -30028,5 +30028,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-09 10:57:42",
+    "Seller": "Ta105",
+    "Stock": "44",
+    "Price": 0.096,
+    "Currency": "USD",
+    "Position": 813,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-09 10:57:42",
+    "Seller": "Flashart247",
+    "Stock": "9999999",
+    "Price": 0.098,
+    "Currency": "USD",
+    "Position": 818,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-09 10:57:42",
+    "Seller": "Dized",
+    "Stock": "604",
+    "Price": 0.099,
+    "Currency": "USD",
+    "Position": 820,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-09 10:57:42",
+    "Seller": "qwertyfor",
+    "Stock": "1300",
+    "Price": 0.099,
+    "Currency": "USD",
+    "Position": 821,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-09 10:57:42",
+    "Seller": "ksarun",
+    "Stock": "130",
+    "Price": 0.099,
+    "Currency": "USD",
+    "Position": 822,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
