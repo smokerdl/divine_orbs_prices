@@ -31128,5 +31128,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-10 07:59:25",
+    "Seller": "Belorus",
+    "Stock": "700",
+    "Price": 0.098,
+    "Currency": "USD",
+    "Position": 861,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-10 07:59:25",
+    "Seller": "Prodavashka424",
+    "Stock": "160",
+    "Price": 0.099,
+    "Currency": "USD",
+    "Position": 862,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-10 07:59:25",
+    "Seller": "LaID90",
+    "Stock": "310",
+    "Price": 0.099,
+    "Currency": "USD",
+    "Position": 863,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-10 07:59:25",
+    "Seller": "Telltaler",
+    "Stock": "200",
+    "Price": 0.101,
+    "Currency": "USD",
+    "Position": 867,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-10 07:59:25",
+    "Seller": "RIsses",
+    "Stock": "180",
+    "Price": 0.101,
+    "Currency": "USD",
+    "Position": 868,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
