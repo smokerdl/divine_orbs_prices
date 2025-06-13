@@ -294,6 +294,17 @@ def save_data(data, output_file):
         logger.error(f"Ошибка при сохранении данных в {output_file}: {e}")
         raise
 
+def save_data_overwrite(data, output_file):
+    """Сохранение данных в JSON файл с полной перезаписью"""
+    try:
+        os.makedirs(os.path.dirname(output_file), exist_ok=True)
+        with open(output_file, 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+        logger.info(f"Данные перезаписаны в {output_file}: {len(data)} записей")
+    except Exception as e:
+        logger.error(f"Ошибка при перезаписи данных в {output_file}: {e}")
+        raise
+
 def update_repository(file_path, commit_message, github_token):
     """Обновление файла в репозитории GitHub"""
     try:
@@ -376,12 +387,12 @@ def main():
         else:
             logger.warning(f"Нет данных для сохранения для {game['name']}")
         
-        # Сохраняем информацию о лигах
+        # Сохраняем информацию о лигах (перезаписываем полностью)
         league_file = os.path.join(log_dir, "league_ids.json")
-        save_data(leagues, league_file)
+        save_data_overwrite(leagues, league_file)
         update_repository(league_file, "Update league_ids.json", github_token)
         logger.info(f"Сохранено в {output_file}")
-        logger.info(f"Сохранено в league_ids.json")
+        logger.info(f"Сохранено в league_ids.json (полная перезапись)")
 
 if __name__ == "__main__":
     main()
