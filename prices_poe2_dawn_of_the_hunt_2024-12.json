@@ -35803,5 +35803,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-13 21:58:32",
+    "Seller": "Brexit",
+    "Stock": "1650",
+    "Price": 0.076,
+    "Currency": "USD",
+    "Position": 783,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-13 21:58:32",
+    "Seller": "StenyRock",
+    "Stock": "2000",
+    "Price": 0.077,
+    "Currency": "USD",
+    "Position": 785,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-13 21:58:32",
+    "Seller": "Wistint",
+    "Stock": "600",
+    "Price": 0.079,
+    "Currency": "USD",
+    "Position": 789,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-13 21:58:32",
+    "Seller": "brokensoul161",
+    "Stock": "150",
+    "Price": 0.079,
+    "Currency": "USD",
+    "Position": 791,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-13 21:58:32",
+    "Seller": "HoopNow",
+    "Stock": "2800",
+    "Price": 0.08,
+    "Currency": "USD",
+    "Position": 795,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
