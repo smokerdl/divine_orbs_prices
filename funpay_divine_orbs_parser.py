@@ -269,27 +269,34 @@ def get_sellers(game, league_id):
     logger.debug(f"Содержимое sellers: {sellers}")
     return sellers
 
-def save_data(data, output_file):
-    """Сохранение данных в JSON файл с добавлением к существующим данным"""
+def save_data(data, output_file, overwrite=False):
+    """Сохранение данных в JSON файл с добавлением или перезаписью"""
     try:
         os.makedirs(os.path.dirname(output_file), exist_ok=True)
-        existing_data = []
-        if os.path.exists(output_file):
-            try:
-                with open(output_file, 'r', encoding='utf-8') as f:
-                    existing_data = json.load(f)
-                if not isinstance(existing_data, list):
-                    logger.warning(f"Файл {output_file} содержит некорректные данные, создаём новый")
+        if overwrite:
+            # Перезаписываем файл новыми данными
+            with open(output_file, 'w', encoding='utf-8') as f:
+                json.dump(data, f, ensure_ascii=False, indent=2)
+            logger.info(f"Файл {output_file} перезаписан: {len(data)} записей")
+        else:
+            # Добавляем данные к существующему файлу
+            existing_data = []
+            if os.path.exists(output_file):
+                try:
+                    with open(output_file, 'r', encoding='utf-8') as f:
+                        existing_data = json.load(f.read())
+                    if not isinstance(existing_data, list):
+                        logger.warning(f"Файл {output_file} содержит некорректные данные, создаём новый")
+                        existing_data = []
+                except json.JSONDecodeError:
+                    logger.warning(f"Файл {output_file} повреждён, создаём новый")
                     existing_data = []
-            except json.JSONDecodeError:
-                logger.warning(f"Файл {output_file} повреждён, создаём новый")
-                existing_data = []
-        
-        existing_data.extend(data)
-        
-        with open(output_file, 'w', encoding='utf-8') as f:
-            json.dump(existing_data, f, ensure_ascii=False, indent=2)
-        logger.info(f"Данные сохранены в {output_file}: {len(existing_data)} записей")
+            
+            existing_data.extend(data)
+            
+            with open(output_file, 'w', encoding='utf-8') as f:
+                json.dump(existing_data, f, ensure_ascii=False, indent=2)
+            logger.info(f"Данные сохранены в {output_file}: {len(existing_data)} записей")
     except Exception as e:
         logger.error(f"Ошибка при сохранении данных в {output_file}: {e}")
         raise
@@ -316,7 +323,7 @@ def update_repository(file_path, commit_message, github_token):
         raise
 
 def main():
-    github_token = os.getenv("GITHUB_TOKEN")
+    github_token = os.environ.get("GITHUB_TOKEN")
     if not github_token:
         logger.error("GITHUB_TOKEN не установлен")
         return
@@ -335,53 +342,57 @@ def main():
     ]
     
     for game in games:
-        logger.info(f"Обработка игры: {game['name']}")
+        try:
+            logger.info(f"Обработка игры: {game['name']}")
         
-        # Получаем и фильтруем лиги
-        leagues = get_leagues(game["name"])
-        if not leagues:
-            logger.warning(f"Не удалось получить лиги для {game['name']}, используем дефолтную лигу {game['default_league_id']}")
-            league_id = game["default_league_id"]
-            output_file = os.path.join(log_dir, game["default_output_file"])
-            league_name = game["default_output_file"].split('_')[2].replace('.json', '')
-        else:
-            # Проверяем, есть ли дефолтная лига в списке
-            current_league = select_current_league(leagues, game["name"], game["default_league_id"])
-            if not current_league:
-                logger.error(f"Не удалось выбрать лигу для {game['name']}")
-                continue
-                
-            league_id = current_league["id"]
-            if league_id == game["default_league_id"]:
-                # Используем дефолтное имя файла для продолжения заполнения
+            # Получаем и фильтруем лиги
+            leagues = get_leagues(game["name"])
+            if not leagues:
+                logger.warning(f"Не удалось получить лиги для {game['name']}, используем дефолтную лигу {game['default_league_id']}")
+                league_id = game["default_league_id"]
                 output_file = os.path.join(log_dir, game["default_output_file"])
-                league_name = re.sub(r'\(pc\)\s*', '', current_league["name"], flags=re.IGNORECASE).lower().replace(' ', '_')
+                league_name = game["default_output_file"].split('_')[2].replace('.json', '')
             else:
-                logger.warning(f"Лига {game['default_league_id']} не найдена для {game['name']}, архивируем старый JSON")
-                # Архивируем старый JSON
-                old_file = os.path.join(log_dir, game["default_output_file"])
-                archive_old_data(old_file, github_token)
+                # Проверяем, есть ли дефолтная лига в списке
+                current_league = select_current_league(leagues, game["name"], game["default_league_id"])
+                if not current_league:
+                    logger.error(f"Не удалось выбрать лигу для {game['name']}")
+                    continue
                 
-                # Формируем новое имя файла
-                league_name = re.sub(r'\(pc\)\s*', '', current_league["name"], flags=re.IGNORECASE).lower().replace(' ', '_')
-                output_file = os.path.join(log_dir, f"prices_{game['name']}_{league_name}_{datetime.now().strftime('%Y-%m')}.json")
+                league_id = current_league["id"]
+                if league_id == game["default_league_id"]:
+                    # Используем дефолтное имя файла для продолжения заполнения
+                    output_file = os.path.join(log_dir, game["default_output_file"])
+                    league_name = re.sub(r'\(pc\)\s*', '', current_league["name"], flags=re.IGNORECASE).lower().replace(' ', '_')
+                else:
+                    logger.warning(f"Лига {game['default_league_id']} не найдена для {game['name']}, архивируем старый JSON")
+                    # Архивируем старый JSON
+                    old_file = os.path.join(log_dir, game["default_output_file"])
+                    archive_old_data(old_file, github_token)
+                
+                    # Формируем новое имя файла
+                    league_name = re.sub(r'\(pc\)\s*', '', current_league["name"], flags=re.IGNORECASE).lower().replace(' ', '_')
+                    output_file = os.path.join(log_dir, f"prices_{game['name']}_{league_name}_{datetime.now().strftime('%Y-%m')}.json")
         
-        logger.info(f"Выбрано имя файла: {output_file}, лига: {league_name}, ID: {league_id}")
+            logger.info(f"Выбрано имя файла: {output_file}, лига: {league_name}, ID: {league_id}")
         
-        # Получаем данные продавцов
-        sellers = get_sellers(game["name"], league_id)
-        if sellers:
-            save_data(sellers, output_file)
-            update_repository(output_file, f"Update {os.path.basename(output_file)}", github_token)
-        else:
-            logger.warning(f"Нет данных для сохранения для {game['name']}")
+            # Получаем данные продавцов
+            sellers = get_sellers(game["name"], league_id)
+            if sellers:
+                save_data(sellers, output_file)  # overwrite=False по умолчанию
+                update_repository(output_file, f"Update {os.path.basename(output_file)}", github_token)
+            else:
+                logger.warning(f"Нет данных для сохранения для {game['name']}")
         
-        # Сохраняем информацию о лигах
-        league_file = os.path.join(log_dir, "league_ids.json")
-        save_data(leagues, league_file)
-        update_repository(league_file, "Update league_ids.json", github_token)
-        logger.info(f"Сохранено в {output_file}")
-        logger.info(f"Сохранено в league_ids.json")
+            # Сохраняем информацию о лигах, перезаписывая файл
+            league_file = os.path.join(log_dir, "league_ids.json")
+            save_data(leagues, league_file, overwrite=True)
+            update_repository(league_file, "Update league_ids.json", github_token)
+            logger.info(f"Сохранено в {output_file}")
+            logger.info(f"Перезаписано в league_ids.json")
+        except Exception as e:
+            logger.error(f"Ошибка при обработке {game['name']}: {e}")
+            continue
 
 if __name__ == "__main__":
     main()
