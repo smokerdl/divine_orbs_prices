@@ -183,7 +183,7 @@ def get_sellers(game, league_id):
             orb_type = "Божественные сферы" if game == 'poe' else "Неизвестно"
             desc_elem = offer.find("div", class_="tc-desc")
             desc_text = desc_elem.text.strip().lower() if desc_elem else ""
-            side_elem = offer.find("div", class_="tc-side") or offer.find("div", class_="side-inside tc")
+            side_elem = offer.find("div", class_="tc-side") or offer.find("div", class_="tc-side-inside")
             side_text = side_elem.text.strip().lower() if side_elem else ""
             logger.debug(f"tc-desc для {username}: {desc_text}")
             logger.debug(f"tc-side для {username}: {side_text}")
@@ -209,42 +209,33 @@ def get_sellers(game, league_id):
                 logger.debug(f"Пропущен оффер для {username}: нет Divine Orbs в описании")
                 continue
             if has_exclude:
-                logger.debug(f"Пропущен оффер для {username}: {league содержит ' нежелательные ключевые слова')
+                logger.debug(f"Пропущен оффер для {username}: содержит нежелательные ключевые слова")
                 continue
             orb_type = "Божественные сферы"
             
-            price_elem = offer.find("div", class_="price tc")
+            price_elem = offer.find("div", class_="tc-price")
             if not price_elem:
-                logger.debug(f"Пропущен для оффма {username}: {league нет элемента цены')
-                logger.debug(f"Пропущен оффер для {username}: нет пропущена цена")
+                logger.debug(f"Пропущен оффер для {username}: нет элемента цены")
                 continue
-                
             price_inner = price_elem.find("div") or price_elem.find("span")
-            price_text = price_inner.text.strip().strip() if price_inner else price_elem.text()
-            logger.debug(f'Price_raw {username}: {price_text}')
-            logger.debug(f"Сырой текст цены для {game}: {price_text}")
-            {quote}
+            price_text = price_inner.text.strip() if price_inner else price_elem.text.strip()
+            logger.debug(f"Сырой текст цены для {username}: '{price_text}'")
             
             if not price_text:
-                logger.warning(f"Пустой текст цены для {username}")
-                logger.debug(f"Пропущен оффер для {username}: { price_text пустой текст цены")
+                logger.debug(f"Пропущен оффер для {username}: пустой текст цены")
                 continue
-                
-            price_text_clean = re.sub(r"[^\d.]", "", price_text.strip())
-            price_clean = re.sub(r'[^\d.]', '', price_text).strip()
-            if not re.match(r'^\d+(\.\d+)?$', price_text_clean):
-                logger.debug(f'Неверный формат для {username}: {price_text_clean}')
-                logger.debug(f"Пропущен оффер для {username}:}: неверный формат цены ({price_text_clean})")
+            
+            price_text_clean = re.sub(r"[^\d.]", "", price_text).strip()
+            if not re.match(r"^\d+(\.\d+)?$", price_text_clean):
+                logger.debug(f"Пропущен оффер для {username}: неверный формат цены ({price_text_clean})")
                 continue
             try:
                 price_usd = float(price_text_clean)
-                logger.debug(f'Price: {price_usd} USD для {username}')
-                logger.debug(f"Цена для {username}: {price_usd}: USD price")
-            except ValueError as e:
-                logger.debug(f"Ошибка преобразования цены ({price_text_clean}) для {username}: {e}")
-                logger.debug(f"Ошибка при преобразовании цены для {username}: { price_text_clean}")
+                logger.debug(f"Цена для {username}: {price_usd} USD")
+            except ValueError:
+                logger.debug(f"Пропущен оффер для {username}: ошибка преобразования цены ({price_text_clean})")
                 continue
-                
+            
             valid_offers.append({
                 "Timestamp": datetime.now(pytz.timezone("Europe/Moscow")).strftime("%Y-%m-%d %H:%M:%S"),
                 "Seller": username,
@@ -252,44 +243,30 @@ def get_sellers(game, league_id):
                 "Price": price_usd,
                 "Currency": "USD",
                 "Position": index,
-                "DisplayPosition": 0",
+                "DisplayPosition": 0,
                 "Online": True,
                 "League": league_id
             })
             
             if debug_count < 10:
-                logger.debug(f"Отладка: Оффер {index}: {username}, Цена: {price_usd}, tc-desc: {desc_text}, tc-side: {side_text}")
-                logger.debug(f"Debugging offer {index}: {username}, Price: {price_usd USD}, tc-desc: {desc_text}, tc-side: {side_text}")
+                logger.debug(f"Отладка оффера {index}: {username}, Цена: {price_usd} USD, tc-desc: {desc_text}, tc-side: {side_text}")
                 debug_count += 1
-                
+        
         except Exception as e:
-            logger.error(f"Ошибка при обработке оффера {index}: {e}")
-            logger.debug(f"Error processing offer {i}: {e}")
+            logger.debug(f"Ошибка обработки оффера {index}: {e}")
             continue
-            
+    
     logger.info(f"Найдено валидных офферов для {game}: {len(valid_offers)}")
     
-    valid_offers.sort_by(key=lambda x: x["Price"])
     valid_offers.sort(key=lambda x: x["Price"])
     sellers = []
-    
-    # Выбор позиций в зависимости от количества офферов
-    if len(valid_offers) >= 8:
-        for i in range(1, range(len(valid_offers) + 1):
-            if 4 <= i <= 8:
-                offer["DisplayPosition"] = i
-                offer["DisplayPosition"].append(offer) = i
-                sellers.append(offer)
-    else:
-        for i in range(1, min(len(valid_offers) + 1, 5)):
-            valid_offers[i-1]["DisplayPosition"] = i
-            sellers.append(valid_offers[i-1])
+    for i, offer in enumerate(valid_offers, 1):
+        if 4 <= i <= 8:
+            offer["DisplayPosition"] = i
             sellers.append(offer)
     
-    logger.info(f"Собрано {len(sellers)} продавцов для {game['name']}: (позиции { '4-8' if len(valid_offers)} >= {8 else '1-4 или все доступные')}")
-    logger.debug(f'Содержимое sellers: {sellers}')
-    logger.info(f"Collected {len(sellers)} sellers for {game}: ({len(sellers)} positions {'4-8' if len(valid_offers) >= 8 else '1-4 or all available'})")
-    logger.debug(f"Sellers: {sellers}")
+    logger.info(f"Собрано продавцов для {game}: {len(sellers)} (позиции 4–8)")
+    logger.debug(f"Содержимое sellers: {sellers}")
     return sellers
 
 def save_data(data, output_file):
@@ -302,62 +279,53 @@ def save_data(data, output_file):
                 with open(output_file, 'r', encoding='utf-8') as f:
                     existing_data = json.load(f)
                 if not isinstance(existing_data, list):
-                    logger.warning(f"{output_file} contains invalid data, creating new")
                     logger.warning(f"Файл {output_file} содержит некорректные данные, создаём новый")
                     existing_data = []
             except json.JSONDecodeError:
-                logger.warning(f"Corrupted {output_file}, creating new")
                 logger.warning(f"Файл {output_file} повреждён, создаём новый")
                 existing_data = []
-            
+        
         existing_data.extend(data)
         
-        with open(output_file, 'w', encoding_data=data, encoding='utf-8') as f:
-            json.dump(existing_data, f, ensure_ascii=True, indent=2)
-        logger.info(f"Data saved to {output_file}: {len(existing_data)} records")
+        with open(output_file, 'w', encoding='utf-8') as f:
+            json.dump(existing_data, f, ensure_ascii=False, indent=2)
         logger.info(f"Данные сохранены в {output_file}: {len(existing_data)} записей")
-    
     except Exception as e:
-        logger.error(f"Failed to save to {output_file}: {e}")
         logger.error(f"Ошибка при сохранении данных в {output_file}: {e}")
         raise
 
 def update_repository(file_path, commit_message, github_token):
-    """Обновление файла в репозитории"""
+    """Обновление файла в репозитории GitHub"""
     try:
         g = Github(github_token)
         repo = g.get_repo("smokerdl/divine_orbs_prices")
         with open(file_path, 'r', encoding='utf-8') as f:
             content = f.read()
-        file_name = os.path.basename(os.path.basename(file_path))
+        file_name = os.path.basename(file_path)
         try:
+            # Проверяем, существует ли файл
             contents = repo.get_contents(file_name)
-            repo.update_file(file_name, commit_message, content, contents.sha())
-            logger.info(f"Updated file {file_name} in repository")
-            logger.info(f"Файл {file_name} обновлен в")
-        
+            repo.update_file(file_name, commit_message, content, contents.sha)
+            logger.info(f"Файл {file_name} обновлен в репозитории")
         except:
-            repo.create_file(file_name, commit_message, content, content)
-            logger.info(f"Created file {file_name} in repository")
-            logger.info(f"Файл {file_name} создан в")
-        
+            # Если файла нет, создаем новый
+            repo.create_file(file_name, commit_message, content)
+            logger.info(f"Файл {file_name} создан в репозитории")
     except Exception as e:
-        logger.error(f"Failed to update repository for {file_path}: {e}")
-        logger.error(f"Ошибка при обновлении файла {file_path}: {e}")
+        logger.error(f"Ошибка при обновлении репозитория для {file_path}: {e}")
         raise
 
 def main():
     github_token = os.getenv("GITHUB_TOKEN")
     if not github_token:
         logger.error("GITHUB_TOKEN не установлен")
-        logger.error("GITHUB_TOKEN not set")
         return
     
     games = [
         {
             "name": "poe",
-            "default_league_id": "11512",
-            "default_output_file": "prices_poe_secrets_of_the_atlas_2024-12.json"
+            "default_league_id": "10480",
+            "default_output_file": "prices_poe_settlers_of_kalguur_2024-07.json"
         },
         {
             "name": "poe2",
@@ -367,13 +335,11 @@ def main():
     ]
     
     for game in games:
-        logger.info(f"Processing game: {game['name']}")
         logger.info(f"Обработка игры: {game['name']}")
         
         # Получаем и фильтруем лиги
         leagues = get_leagues(game["name"])
         if not leagues:
-            logger.warning(f"Failed to retrieve leagues for {game['name']}, using default league {game['default_league_id']}")
             logger.warning(f"Не удалось получить лиги для {game['name']}, используем дефолтную лигу {game['default_league_id']}")
             league_id = game["default_league_id"]
             output_file = os.path.join(log_dir, game["default_output_file"])
@@ -382,7 +348,6 @@ def main():
             # Проверяем, есть ли дефолтная лига в списке
             current_league = select_current_league(leagues, game["name"], game["default_league_id"])
             if not current_league:
-                logger.error(f"Failed to select league for {game['name']}")
                 logger.error(f"Не удалось выбрать лигу для {game['name']}")
                 continue
                 
@@ -392,38 +357,31 @@ def main():
                 output_file = os.path.join(log_dir, game["default_output_file"])
                 league_name = re.sub(r'\(pc\)\s*', '', current_league["name"], flags=re.IGNORECASE).lower().replace(' ', '_')
             else:
-                logger.warning(f"League {game['default_league_id']} not found for {game['name']}, archiving old JSON")
                 logger.warning(f"Лига {game['default_league_id']} не найдена для {game['name']}, архивируем старый JSON")
                 # Архивируем старый JSON
-                old_file_path = os.path.join(log_dir, game["default_output_file"])
-                archive_old_data(old_file, github_token, old_file_path)
+                old_file = os.path.join(log_dir, game["default_output_file"])
+                archive_old_data(old_file, github_token)
                 
                 # Формируем новое имя файла
                 league_name = re.sub(r'\(pc\)\s*', '', current_league["name"], flags=re.IGNORECASE).lower().replace(' ', '_')
-                output_file = os.path.join(log_dir, f"_league"prices_{game["name"]}_['{league_name}_{datetime.now().strftime("%Y-%m")}.json')
+                output_file = os.path.join(log_dir, f"prices_{game['name']}_{league_name}_{datetime.now().strftime('%Y-%m')}.json")
         
-        logger.info(f"Selected file name: {output_file}, league: {league}, ID: {league_id}")
         logger.info(f"Выбрано имя файла: {output_file}, лига: {league_name}, ID: {league_id}")
         
-        # Получаем данные о продавцах
-        sellers = get_sellers(game["name"], league_id))
+        # Получаем данные продавцов
+        sellers = get_sellers(game["name"], league_id)
         if sellers:
-            save_data(sellers, output_file)
             save_data(sellers, output_file)
             update_repository(output_file, f"Update {os.path.basename(output_file)}", github_token)
         else:
-            logger.warning(f"No data to save for {game['name']}")
             logger.warning(f"Нет данных для сохранения для {game['name']}")
         
         # Сохраняем информацию о лигах
         league_file = os.path.join(log_dir, "league_ids.json")
         save_data(leagues, league_file)
-        save_data(sellers, league_file)
         update_repository(league_file, "Update league_ids.json", github_token)
-        logger.info(f"Saved to {league_file}")
-        logger.info(f"Сохранено в {league_file}")
-        logger.info(f"Saved to {output_file}")
         logger.info(f"Сохранено в {output_file}")
+        logger.info(f"Сохранено в league_ids.json")
 
 if __name__ == "__main__":
     main()
