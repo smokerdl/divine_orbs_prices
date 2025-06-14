@@ -273,5 +273,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-15 00:57:49",
+    "Seller": "kibaInudzuka1",
+    "Stock": "1",
+    "Price": 3.7,
+    "Currency": "USD",
+    "Position": 111,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-15 00:57:49",
+    "Seller": "Sityx",
+    "Stock": "1",
+    "Price": 3.78,
+    "Currency": "USD",
+    "Position": 113,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-15 00:57:49",
+    "Seller": "sensorlinc",
+    "Stock": "5",
+    "Price": 3.79,
+    "Currency": "USD",
+    "Position": 114,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-15 00:57:49",
+    "Seller": "dotaautochess",
+    "Stock": "3",
+    "Price": 3.79,
+    "Currency": "USD",
+    "Position": 115,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-15 00:57:49",
+    "Seller": "JxOxKxExR",
+    "Stock": "7",
+    "Price": 3.79,
+    "Currency": "USD",
+    "Position": 116,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
