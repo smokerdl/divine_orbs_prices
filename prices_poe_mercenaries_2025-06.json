@@ -1,0 +1,57 @@
+[
+  {
+    "Timestamp": "2025-06-14 19:57:36",
+    "Seller": "Heathens22",
+    "Stock": "17",
+    "Price": 3.52,
+    "Currency": "USD",
+    "Position": 112,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-14 19:57:36",
+    "Seller": "Nikneimy",
+    "Stock": "1",
+    "Price": 3.57,
+    "Currency": "USD",
+    "Position": 113,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-14 19:57:36",
+    "Seller": "Mareion",
+    "Stock": "1",
+    "Price": 3.57,
+    "Currency": "USD",
+    "Position": 114,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-14 19:57:36",
+    "Seller": "SARKI",
+    "Stock": "3",
+    "Price": 3.61,
+    "Currency": "USD",
+    "Position": 115,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-14 19:57:36",
+    "Seller": "havenodream",
+    "Stock": "1",
+    "Price": 3.61,
+    "Currency": "USD",
+    "Position": 116,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
+  }
+]
