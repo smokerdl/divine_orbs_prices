@@ -37233,5 +37233,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-15 00:58:00",
+    "Seller": "Listi",
+    "Stock": "205",
+    "Price": 0.082,
+    "Currency": "USD",
+    "Position": 831,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-15 00:58:00",
+    "Seller": "solitte",
+    "Stock": "1000",
+    "Price": 0.082,
+    "Currency": "USD",
+    "Position": 832,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-15 00:58:00",
+    "Seller": "Toriodor25",
+    "Stock": "2000",
+    "Price": 0.082,
+    "Currency": "USD",
+    "Position": 833,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-15 00:58:00",
+    "Seller": "DelioN227",
+    "Stock": "2500",
+    "Price": 0.082,
+    "Currency": "USD",
+    "Position": 835,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-15 00:58:00",
+    "Seller": "Wistint",
+    "Stock": "200",
+    "Price": 0.083,
+    "Currency": "USD",
+    "Position": 836,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
