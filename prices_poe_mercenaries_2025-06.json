@@ -163,5 +163,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-14 22:57:41",
+    "Seller": "DennyRich",
+    "Stock": "1",
+    "Price": 3.34,
+    "Currency": "USD",
+    "Position": 113,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-14 22:57:41",
+    "Seller": "Vetinari",
+    "Stock": "1",
+    "Price": 3.41,
+    "Currency": "USD",
+    "Position": 114,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-14 22:57:41",
+    "Seller": "BlenderMix",
+    "Stock": "1",
+    "Price": 3.41,
+    "Currency": "USD",
+    "Position": 115,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-14 22:57:41",
+    "Seller": "neket6788",
+    "Stock": "5",
+    "Price": 3.43,
+    "Currency": "USD",
+    "Position": 116,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-14 22:57:41",
+    "Seller": "KILLBORD",
+    "Stock": "1",
+    "Price": 3.44,
+    "Currency": "USD",
+    "Position": 117,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
