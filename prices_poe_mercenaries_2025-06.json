@@ -1098,5 +1098,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-15 16:57:50",
+    "Seller": "oldeleven11",
+    "Stock": "12",
+    "Price": 1.74,
+    "Currency": "USD",
+    "Position": 112,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-15 16:57:50",
+    "Seller": "xxy",
+    "Stock": "10",
+    "Price": 1.79,
+    "Currency": "USD",
+    "Position": 113,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-15 16:57:50",
+    "Seller": "HolidayStore",
+    "Stock": "1",
+    "Price": 1.8,
+    "Currency": "USD",
+    "Position": 114,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-15 16:57:50",
+    "Seller": "ralex",
+    "Stock": "1",
+    "Price": 1.8,
+    "Currency": "USD",
+    "Position": 115,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-15 16:57:50",
+    "Seller": "Vetinari",
+    "Stock": "3",
+    "Price": 1.8,
+    "Currency": "USD",
+    "Position": 116,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
