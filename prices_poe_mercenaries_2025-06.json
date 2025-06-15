@@ -548,5 +548,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-15 07:18:26",
+    "Seller": "wolwerim",
+    "Stock": "3",
+    "Price": 3.19,
+    "Currency": "USD",
+    "Position": 112,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-15 07:18:26",
+    "Seller": "Kadavera",
+    "Stock": "2",
+    "Price": 3.26,
+    "Currency": "USD",
+    "Position": 113,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-15 07:18:26",
+    "Seller": "UniLive",
+    "Stock": "1",
+    "Price": 3.26,
+    "Currency": "USD",
+    "Position": 114,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-15 07:18:26",
+    "Seller": "Ignored",
+    "Stock": "10",
+    "Price": 3.26,
+    "Currency": "USD",
+    "Position": 115,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-15 07:18:26",
+    "Seller": "Lendermon",
+    "Stock": "13",
+    "Price": 3.32,
+    "Currency": "USD",
+    "Position": 116,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
