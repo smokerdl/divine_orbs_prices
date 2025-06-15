@@ -713,5 +713,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-15 09:57:42",
+    "Seller": "krintik",
+    "Stock": "5",
+    "Price": 3.03,
+    "Currency": "USD",
+    "Position": 108,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-15 09:57:42",
+    "Seller": "BlackkkCelebration",
+    "Stock": "5",
+    "Price": 3.03,
+    "Currency": "USD",
+    "Position": 109,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-15 09:57:42",
+    "Seller": "wallup",
+    "Stock": "7",
+    "Price": 3.03,
+    "Currency": "USD",
+    "Position": 110,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-15 09:57:42",
+    "Seller": "Death777",
+    "Stock": "10",
+    "Price": 3.03,
+    "Currency": "USD",
+    "Position": 111,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-15 09:57:42",
+    "Seller": "EaseMyMind",
+    "Stock": "1",
+    "Price": 3.03,
+    "Currency": "USD",
+    "Position": 112,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
