@@ -1978,5 +1978,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-16 10:00:56",
+    "Seller": "AbsoluteHypocrite",
+    "Stock": "13",
+    "Price": 1.29,
+    "Currency": "USD",
+    "Position": 107,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-16 10:00:56",
+    "Seller": "OsuOmka",
+    "Stock": "35",
+    "Price": 1.31,
+    "Currency": "USD",
+    "Position": 108,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-16 10:00:56",
+    "Seller": "KinGGlox",
+    "Stock": "40",
+    "Price": 1.31,
+    "Currency": "USD",
+    "Position": 109,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-16 10:00:56",
+    "Seller": "Jucharishe213",
+    "Stock": "17",
+    "Price": 1.31,
+    "Currency": "USD",
+    "Position": 110,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-16 10:00:56",
+    "Seller": "Kotik4",
+    "Stock": "15",
+    "Price": 1.31,
+    "Currency": "USD",
+    "Position": 111,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
