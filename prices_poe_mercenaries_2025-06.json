@@ -1868,5 +1868,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-16 08:01:29",
+    "Seller": "Rover32",
+    "Stock": "7",
+    "Price": 1.23,
+    "Currency": "USD",
+    "Position": 104,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-16 08:01:29",
+    "Seller": "Eqroq",
+    "Stock": "12",
+    "Price": 1.24,
+    "Currency": "USD",
+    "Position": 105,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-16 08:01:29",
+    "Seller": "justseries",
+    "Stock": "15",
+    "Price": 1.24,
+    "Currency": "USD",
+    "Position": 106,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-16 08:01:29",
+    "Seller": "same3stones",
+    "Stock": "12",
+    "Price": 1.24,
+    "Currency": "USD",
+    "Position": 107,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-16 08:01:29",
+    "Seller": "Akatsuka",
+    "Stock": "8",
+    "Price": 1.25,
+    "Currency": "USD",
+    "Position": 108,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
