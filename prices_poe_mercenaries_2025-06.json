@@ -3958,5 +3958,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-17 22:59:40",
+    "Seller": "Stc76",
+    "Stock": "5",
+    "Price": 0.62,
+    "Currency": "USD",
+    "Position": 88,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-17 22:59:40",
+    "Seller": "olag777",
+    "Stock": "10",
+    "Price": 0.62,
+    "Currency": "USD",
+    "Position": 89,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-17 22:59:40",
+    "Seller": "EnTech",
+    "Stock": "40",
+    "Price": 0.62,
+    "Currency": "USD",
+    "Position": 90,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-17 22:59:40",
+    "Seller": "AllFallen",
+    "Stock": "45",
+    "Price": 0.63,
+    "Currency": "USD",
+    "Position": 91,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-17 22:59:40",
+    "Seller": "TimeBandite",
+    "Stock": "20",
+    "Price": 0.63,
+    "Currency": "USD",
+    "Position": 92,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
