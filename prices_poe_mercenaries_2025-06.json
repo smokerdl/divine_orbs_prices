@@ -3078,5 +3078,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-17 07:17:10",
+    "Seller": "EuroDump",
+    "Stock": "50",
+    "Price": 0.86,
+    "Currency": "USD",
+    "Position": 87,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-17 07:17:10",
+    "Seller": "Rybaka",
+    "Stock": "10",
+    "Price": 0.86,
+    "Currency": "USD",
+    "Position": 88,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-17 07:17:10",
+    "Seller": "BikewayNarrows",
+    "Stock": "9",
+    "Price": 0.87,
+    "Currency": "USD",
+    "Position": 89,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-17 07:17:10",
+    "Seller": "Shakon",
+    "Stock": "3",
+    "Price": 0.87,
+    "Currency": "USD",
+    "Position": 90,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-17 07:17:10",
+    "Seller": "Dezzmak",
+    "Stock": "1",
+    "Price": 0.88,
+    "Currency": "USD",
+    "Position": 91,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
