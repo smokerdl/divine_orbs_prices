@@ -4343,5 +4343,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-18 07:17:11",
+    "Seller": "frencheiz",
+    "Stock": "70",
+    "Price": 0.59,
+    "Currency": "USD",
+    "Position": 85,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-18 07:17:11",
+    "Seller": "Syllodism",
+    "Stock": "3",
+    "Price": 0.59,
+    "Currency": "USD",
+    "Position": 86,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-18 07:17:11",
+    "Seller": "Nayzar",
+    "Stock": "28",
+    "Price": 0.59,
+    "Currency": "USD",
+    "Position": 87,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-18 07:17:11",
+    "Seller": "callofsouth",
+    "Stock": "65",
+    "Price": 0.6,
+    "Currency": "USD",
+    "Position": 88,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-18 07:17:11",
+    "Seller": "Fourenzion",
+    "Stock": "30",
+    "Price": 0.6,
+    "Currency": "USD",
+    "Position": 89,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
