@@ -4673,5 +4673,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-18 12:57:51",
+    "Seller": "rpgcurrency",
+    "Stock": "22",
+    "Price": 0.57,
+    "Currency": "USD",
+    "Position": 85,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-18 12:57:51",
+    "Seller": "ShadowMarshadow",
+    "Stock": "190",
+    "Price": 0.58,
+    "Currency": "USD",
+    "Position": 86,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-18 12:57:51",
+    "Seller": "corvin88",
+    "Stock": "105",
+    "Price": 0.58,
+    "Currency": "USD",
+    "Position": 87,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-18 12:57:51",
+    "Seller": "dovolen",
+    "Stock": "58",
+    "Price": 0.58,
+    "Currency": "USD",
+    "Position": 88,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-18 12:57:51",
+    "Seller": "SadLifeSong",
+    "Stock": "30",
+    "Price": 0.58,
+    "Currency": "USD",
+    "Position": 89,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
