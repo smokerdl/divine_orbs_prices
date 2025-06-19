@@ -269,61 +269,68 @@ def get_sellers(game, league_id):
     logger.debug(f"Содержимое sellers: {sellers}")
     return sellers
 
-def save_data(data, output_file):
-    """Сохранение данных в JSON файл с добавлением к существующим данным"""
+def save_data(data, output_file, append=True):
+    """Сохранение данных в JSON файл"""
     try:
         os.makedirs(os.path.dirname(output_file), exist_ok=True)
-        existing_data = []
-        if os.path.exists(output_file):
-            try:
-                with open(output_file, 'r', encoding='utf-8') as f:
-                    existing_data = json.load(f)
-                if not isinstance(existing_data, list):
-                    logger.warning(f"Файл {output_file} содержит некорректные данные, создаём новый")
+        if append:
+            existing_data = []
+            if os.path.exists(output_file):
+                try:
+                    with open(output_file, 'r', encoding='utf-8') as f:
+                        existing_data = json.load(f)
+                    if not isinstance(existing_data, list):
+                        logger.warning(f"Файл {output_file} содержит некорректные данные, создаём новый")
+                        existing_data = []
+                except json.JSONDecodeError:
+                    logger.warning(f"Файл {output_file} повреждён, создаём новый")
                     existing_data = []
-            except json.JSONDecodeError:
-                logger.warning(f"Файл {output_file} повреждён, создаём новый")
-                existing_data = []
-        
-        existing_data.extend(data)
+            existing_data.extend(data)
+            data_to_save = existing_data
+        else:
+            data_to_save = data
         
         with open(output_file, 'w', encoding='utf-8') as f:
-            json.dump(existing_data, f, ensure_ascii=False, indent=2)
-        logger.info(f"Данные сохранены в {output_file}: {len(existing_data)} записей")
+            json.dump(data_to_save, f, ensure_ascii=False, indent=2)
+        logger.info(f"Данные сохранены в {output_file}: {len(data_to_save)} записей")
     except Exception as e:
         logger.error(f"Ошибка при сохранении данных в {output_file}: {e}")
-        raise
-
-def save_data_overwrite(data, output_file):
-    """Сохранение данных в JSON файл с полной перезаписью"""
-    try:
-        os.makedirs(os.path.dirname(output_file), exist_ok=True)
-        with open(output_file, 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
-        logger.info(f"Данные перезаписаны в {output_file}: {len(data)} записей")
-    except Exception as e:
-        logger.error(f"Ошибка при перезаписи данных в {output_file}: {e}")
         raise
 
 def update_repository(file_path, commit_message, github_token):
     """Обновление файла в репозитории GitHub"""
     try:
-        g = Github(github_token)
-        repo = g.get_repo("smokerdl/divine_orbs_prices")
+        # Проверяем, существует ли файл локально
+        if not os.path.exists(file_path):
+            logger.error(f"Файл {file_path} не существует локально")
+            raise FileNotFoundError(f"Файл {file_path} не найден")
+        
+        # Читаем содержимое файла и логируем его для отладки
         with open(file_path, 'r', encoding='utf-8') as f:
             content = f.read()
+        logger.debug(f"Содержимое файла {file_path} перед отправкой в репозиторий: {content}")
+        
+        g = Github(github_token)
+        repo = g.get_repo("smokerdl/divine_orbs_prices")
         file_name = os.path.basename(file_path)
+        
         try:
-            # Проверяем, существует ли файл
+            # Проверяем, существует ли файл в репозитории
             contents = repo.get_contents(file_name)
+            logger.debug(f"Файл {file_name} существует в репозитории, SHA: {contents.sha}")
             repo.update_file(file_name, commit_message, content, contents.sha)
-            logger.info(f"Файл {file_name} обновлен в репозитории")
-        except:
-            # Если файла нет, создаем новый
-            repo.create_file(file_name, commit_message, content)
-            logger.info(f"Файл {file_name} создан в репозитории")
+            logger.info(f"Файл {file_name} успешно обновлён в репозитории")
+        except Exception as e:
+            if "404" in str(e):
+                # Если файла нет, создаём новый
+                logger.debug(f"Файл {file_name} не существует в репозитории, создаём новый")
+                repo.create_file(file_name, commit_message, content)
+                logger.info(f"Файл {file_name} успешно создан в репозитории")
+            else:
+                logger.error(f"Ошибка при обновлении файла {file_name} в репозитории: {e}")
+                raise
     except Exception as e:
-        logger.error(f"Ошибка при обновлении репозитория для {file_path}: {e}")
+        logger.error(f"Критическая ошибка при обновлении репозитория для {file_path}: {e}")
         raise
 
 def main():
@@ -382,17 +389,17 @@ def main():
         # Получаем данные продавцов
         sellers = get_sellers(game["name"], league_id)
         if sellers:
-            save_data(sellers, output_file)
+            save_data(sellers, output_file, append=True)
             update_repository(output_file, f"Update {os.path.basename(output_file)}", github_token)
         else:
             logger.warning(f"Нет данных для сохранения для {game['name']}")
         
-        # Сохраняем информацию о лигах (перезаписываем полностью)
+        # Сохраняем информацию о лигах, перезаписывая файл
         league_file = os.path.join(log_dir, "league_ids.json")
-        save_data_overwrite(leagues, league_file)
+        save_data(leagues, league_file, append=False)
         update_repository(league_file, "Update league_ids.json", github_token)
         logger.info(f"Сохранено в {output_file}")
-        logger.info(f"Сохранено в league_ids.json (полная перезапись)")
+        logger.info(f"Сохранено в league_ids.json")
 
 if __name__ == "__main__":
     main()
