@@ -9018,5 +9018,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-21 20:57:39",
+    "Seller": "RoflanLeague",
+    "Stock": "300",
+    "Price": 0.37,
+    "Currency": "USD",
+    "Position": 81,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-21 20:57:39",
+    "Seller": "Zuberpo",
+    "Stock": "50",
+    "Price": 0.37,
+    "Currency": "USD",
+    "Position": 82,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-21 20:57:39",
+    "Seller": "Stc76",
+    "Stock": "75",
+    "Price": 0.37,
+    "Currency": "USD",
+    "Position": 83,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-21 20:57:39",
+    "Seller": "ExlRe",
+    "Stock": "50",
+    "Price": 0.37,
+    "Currency": "USD",
+    "Position": 84,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-21 20:57:39",
+    "Seller": "TrinityShop",
+    "Stock": "150",
+    "Price": 0.37,
+    "Currency": "USD",
+    "Position": 85,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
