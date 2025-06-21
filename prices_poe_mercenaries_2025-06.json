@@ -9293,5 +9293,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-22 01:57:38",
+    "Seller": "Tigrics",
+    "Stock": "1",
+    "Price": 0.31,
+    "Currency": "USD",
+    "Position": 75,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-22 01:57:38",
+    "Seller": "Consteleet",
+    "Stock": "100",
+    "Price": 0.31,
+    "Currency": "USD",
+    "Position": 76,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-22 01:57:38",
+    "Seller": "plutoroals",
+    "Stock": "240",
+    "Price": 0.31,
+    "Currency": "USD",
+    "Position": 77,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-22 01:57:38",
+    "Seller": "AmericanNightmare",
+    "Stock": "130",
+    "Price": 0.31,
+    "Currency": "USD",
+    "Position": 78,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-22 01:57:38",
+    "Seller": "CrazyTravor",
+    "Stock": "23",
+    "Price": 0.31,
+    "Currency": "USD",
+    "Position": 79,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
