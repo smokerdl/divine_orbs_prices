@@ -10283,5 +10283,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-22 20:58:05",
+    "Seller": "SonAnarchy",
+    "Stock": "116",
+    "Price": 0.25,
+    "Currency": "USD",
+    "Position": 74,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-22 20:58:05",
+    "Seller": "Elir",
+    "Stock": "250",
+    "Price": 0.25,
+    "Currency": "USD",
+    "Position": 75,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-22 20:58:05",
+    "Seller": "Gebbaaaa",
+    "Stock": "100",
+    "Price": 0.25,
+    "Currency": "USD",
+    "Position": 76,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-22 20:58:05",
+    "Seller": "Donne",
+    "Stock": "35",
+    "Price": 0.25,
+    "Currency": "USD",
+    "Position": 77,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-22 20:58:05",
+    "Seller": "Allzy",
+    "Stock": "150",
+    "Price": 0.25,
+    "Currency": "USD",
+    "Position": 78,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
