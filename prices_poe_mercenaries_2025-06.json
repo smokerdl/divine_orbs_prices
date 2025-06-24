@@ -12648,5 +12648,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-24 17:57:38",
+    "Seller": "CyberVan",
+    "Stock": "260",
+    "Price": 0.21,
+    "Currency": "USD",
+    "Position": 65,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-24 17:57:38",
+    "Seller": "nycless",
+    "Stock": "88",
+    "Price": 0.22,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-24 17:57:38",
+    "Seller": "Lindi",
+    "Stock": "100",
+    "Price": 0.22,
+    "Currency": "USD",
+    "Position": 67,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-24 17:57:38",
+    "Seller": "Dementophobia",
+    "Stock": "120",
+    "Price": 0.22,
+    "Currency": "USD",
+    "Position": 68,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-24 17:57:38",
+    "Seller": "ExpFreez",
+    "Stock": "200",
+    "Price": 0.22,
+    "Currency": "USD",
+    "Position": 69,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
