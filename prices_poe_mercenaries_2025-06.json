@@ -14078,5 +14078,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-25 20:57:51",
+    "Seller": "eks31",
+    "Stock": "200",
+    "Price": 0.191,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-25 20:57:51",
+    "Seller": "ExpFreez",
+    "Stock": "240",
+    "Price": 0.191,
+    "Currency": "USD",
+    "Position": 68,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-25 20:57:51",
+    "Seller": "Th3Drot",
+    "Stock": "70",
+    "Price": 0.191,
+    "Currency": "USD",
+    "Position": 69,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-25 20:57:51",
+    "Seller": "Luciferiya",
+    "Stock": "1",
+    "Price": 0.192,
+    "Currency": "USD",
+    "Position": 70,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-25 20:57:51",
+    "Seller": "Gedrastar",
+    "Stock": "380",
+    "Price": 0.192,
+    "Currency": "USD",
+    "Position": 71,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
