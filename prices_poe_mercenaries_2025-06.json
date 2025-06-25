@@ -14408,5 +14408,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-26 02:57:46",
+    "Seller": "Aleonora",
+    "Stock": "98",
+    "Price": 0.173,
+    "Currency": "USD",
+    "Position": 63,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-26 02:57:46",
+    "Seller": "Game8Money",
+    "Stock": "80",
+    "Price": 0.173,
+    "Currency": "USD",
+    "Position": 64,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-26 02:57:46",
+    "Seller": "Kolyntin",
+    "Stock": "40",
+    "Price": 0.175,
+    "Currency": "USD",
+    "Position": 65,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-26 02:57:46",
+    "Seller": "IdolWar",
+    "Stock": "300",
+    "Price": 0.178,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-26 02:57:46",
+    "Seller": "hum4n",
+    "Stock": "200",
+    "Price": 0.178,
+    "Currency": "USD",
+    "Position": 67,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
