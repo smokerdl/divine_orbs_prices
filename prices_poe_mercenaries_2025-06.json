@@ -13803,5 +13803,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-25 16:25:37",
+    "Seller": "podmax1",
+    "Stock": "1",
+    "Price": 0.193,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-25 16:25:37",
+    "Seller": "nosora",
+    "Stock": "140",
+    "Price": 0.193,
+    "Currency": "USD",
+    "Position": 67,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-25 16:25:37",
+    "Seller": "Visk",
+    "Stock": "100",
+    "Price": 0.193,
+    "Currency": "USD",
+    "Position": 68,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-25 16:25:37",
+    "Seller": "Skr",
+    "Stock": "82",
+    "Price": 0.194,
+    "Currency": "USD",
+    "Position": 69,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-25 16:25:37",
+    "Seller": "JarkiyUgrok",
+    "Stock": "100",
+    "Price": 0.194,
+    "Currency": "USD",
+    "Position": 70,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
