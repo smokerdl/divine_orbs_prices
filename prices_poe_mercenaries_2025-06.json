@@ -14133,5 +14133,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-25 22:00:18",
+    "Seller": "XIMIKat220",
+    "Stock": "100",
+    "Price": 0.158,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-25 22:00:18",
+    "Seller": "purplegaming",
+    "Stock": "200",
+    "Price": 0.158,
+    "Currency": "USD",
+    "Position": 67,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-25 22:00:18",
+    "Seller": "TxToums",
+    "Stock": "232",
+    "Price": 0.159,
+    "Currency": "USD",
+    "Position": 68,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-25 22:00:18",
+    "Seller": "pavel979",
+    "Stock": "160",
+    "Price": 0.159,
+    "Currency": "USD",
+    "Position": 69,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-25 22:00:18",
+    "Seller": "F1yline",
+    "Stock": "200",
+    "Price": 0.159,
+    "Currency": "USD",
+    "Position": 70,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
