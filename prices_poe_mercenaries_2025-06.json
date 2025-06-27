@@ -16168,5 +16168,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-27 12:57:48",
+    "Seller": "Kose32",
+    "Stock": "200",
+    "Price": 0.167,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-27 12:57:48",
+    "Seller": "SorrowStory",
+    "Stock": "230",
+    "Price": 0.168,
+    "Currency": "USD",
+    "Position": 62,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-27 12:57:48",
+    "Seller": "sensorlinc",
+    "Stock": "25",
+    "Price": 0.168,
+    "Currency": "USD",
+    "Position": 63,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-27 12:57:48",
+    "Seller": "herrShooter",
+    "Stock": "160",
+    "Price": 0.168,
+    "Currency": "USD",
+    "Position": 64,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-27 12:57:48",
+    "Seller": "BigCucuLife",
+    "Stock": "10",
+    "Price": 0.169,
+    "Currency": "USD",
+    "Position": 65,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
