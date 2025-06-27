@@ -53568,5 +53568,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-27 20:58:01",
+    "Seller": "Brexit",
+    "Stock": "4193",
+    "Price": 0.05,
+    "Currency": "USD",
+    "Position": 702,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-27 20:58:01",
+    "Seller": "CharlesRobert",
+    "Stock": "1000",
+    "Price": 0.05,
+    "Currency": "USD",
+    "Position": 703,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-27 20:58:01",
+    "Seller": "Nara55",
+    "Stock": "555",
+    "Price": 0.051,
+    "Currency": "USD",
+    "Position": 708,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-27 20:58:01",
+    "Seller": "Flashart247",
+    "Stock": "9000",
+    "Price": 0.051,
+    "Currency": "USD",
+    "Position": 709,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-27 20:58:01",
+    "Seller": "Dilemmafixer",
+    "Stock": "282",
+    "Price": 0.052,
+    "Currency": "USD",
+    "Position": 712,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
