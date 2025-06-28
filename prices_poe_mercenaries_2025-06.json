@@ -18203,5 +18203,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-29 02:57:50",
+    "Seller": "Prestije",
+    "Stock": "80",
+    "Price": 0.159,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-29 02:57:50",
+    "Seller": "ArmagedDoNMeG",
+    "Stock": "100",
+    "Price": 0.16,
+    "Currency": "USD",
+    "Position": 67,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-29 02:57:50",
+    "Seller": "Glinomesiik",
+    "Stock": "1100",
+    "Price": 0.162,
+    "Currency": "USD",
+    "Position": 68,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-29 02:57:50",
+    "Seller": "Advokat111",
+    "Stock": "300",
+    "Price": 0.162,
+    "Currency": "USD",
+    "Position": 69,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-29 02:57:50",
+    "Seller": "EnTech",
+    "Stock": "102",
+    "Price": 0.163,
+    "Currency": "USD",
+    "Position": 70,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
