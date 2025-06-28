@@ -54008,5 +54008,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-28 06:37:06",
+    "Seller": "Belorus",
+    "Stock": "800",
+    "Price": 0.051,
+    "Currency": "USD",
+    "Position": 704,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-28 06:37:06",
+    "Seller": "Dispax",
+    "Stock": "415",
+    "Price": 0.052,
+    "Currency": "USD",
+    "Position": 709,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-28 06:37:06",
+    "Seller": "Dilemmafixer",
+    "Stock": "300",
+    "Price": 0.052,
+    "Currency": "USD",
+    "Position": 711,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-28 06:37:06",
+    "Seller": "dodolk",
+    "Stock": "5964",
+    "Price": 0.052,
+    "Currency": "USD",
+    "Position": 714,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-28 06:37:06",
+    "Seller": "fcgames",
+    "Stock": "50",
+    "Price": 0.053,
+    "Currency": "USD",
+    "Position": 715,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
