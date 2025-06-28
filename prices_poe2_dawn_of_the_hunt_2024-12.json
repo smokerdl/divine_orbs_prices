@@ -54723,5 +54723,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-28 18:57:52",
+    "Seller": "Belorus",
+    "Stock": "600",
+    "Price": 0.05,
+    "Currency": "USD",
+    "Position": 699,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-28 18:57:52",
+    "Seller": "Brexit",
+    "Stock": "2669",
+    "Price": 0.05,
+    "Currency": "USD",
+    "Position": 700,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-28 18:57:52",
+    "Seller": "Flashart247",
+    "Stock": "9000",
+    "Price": 0.05,
+    "Currency": "USD",
+    "Position": 701,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-28 18:57:52",
+    "Seller": "Dispax",
+    "Stock": "425",
+    "Price": 0.051,
+    "Currency": "USD",
+    "Position": 703,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-06-28 18:57:52",
+    "Seller": "shakez",
+    "Stock": "460",
+    "Price": 0.052,
+    "Currency": "USD",
+    "Position": 708,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
