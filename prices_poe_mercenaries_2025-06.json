@@ -18863,5 +18863,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-29 16:18:04",
+    "Seller": "CyberVan",
+    "Stock": "228",
+    "Price": 0.139,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-29 16:18:04",
+    "Seller": "wTT",
+    "Stock": "20",
+    "Price": 0.139,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-29 16:18:04",
+    "Seller": "Skraitek",
+    "Stock": "150",
+    "Price": 0.139,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-29 16:18:04",
+    "Seller": "ChronoShop",
+    "Stock": "130",
+    "Price": 0.139,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-29 16:18:04",
+    "Seller": "Le1ouch",
+    "Stock": "210",
+    "Price": 0.139,
+    "Currency": "USD",
+    "Position": 62,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
