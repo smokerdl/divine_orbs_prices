@@ -18258,5 +18258,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-29 05:50:26",
+    "Seller": "Surtonix",
+    "Stock": "100",
+    "Price": 0.162,
+    "Currency": "USD",
+    "Position": 62,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-29 05:50:26",
+    "Seller": "ArmagedDoNMeG",
+    "Stock": "150",
+    "Price": 0.162,
+    "Currency": "USD",
+    "Position": 63,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-29 05:50:26",
+    "Seller": "Valera3d",
+    "Stock": "175",
+    "Price": 0.162,
+    "Currency": "USD",
+    "Position": 64,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-29 05:50:26",
+    "Seller": "KrolgoBit",
+    "Stock": "50",
+    "Price": 0.162,
+    "Currency": "USD",
+    "Position": 65,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-29 05:50:26",
+    "Seller": "Balthazario1",
+    "Stock": "313",
+    "Price": 0.163,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
