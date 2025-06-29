@@ -18478,5 +18478,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-29 08:57:52",
+    "Seller": "singul",
+    "Stock": "150",
+    "Price": 0.159,
+    "Currency": "USD",
+    "Position": 62,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-29 08:57:52",
+    "Seller": "Xo4ypizzu",
+    "Stock": "400",
+    "Price": 0.159,
+    "Currency": "USD",
+    "Position": 63,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-29 08:57:52",
+    "Seller": "TreasureVault",
+    "Stock": "120",
+    "Price": 0.159,
+    "Currency": "USD",
+    "Position": 64,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-29 08:57:52",
+    "Seller": "Kontroler21",
+    "Stock": "100",
+    "Price": 0.159,
+    "Currency": "USD",
+    "Position": 65,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-29 08:57:52",
+    "Seller": "artureo",
+    "Stock": "100",
+    "Price": 0.16,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
