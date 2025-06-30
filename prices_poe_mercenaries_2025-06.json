@@ -20073,5 +20073,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-30 14:57:58",
+    "Seller": "KAPPAx",
+    "Stock": "200",
+    "Price": 0.106,
+    "Currency": "USD",
+    "Position": 53,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-30 14:57:58",
+    "Seller": "yarster",
+    "Stock": "150",
+    "Price": 0.107,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-30 14:57:58",
+    "Seller": "DreamUnderTheNight",
+    "Stock": "92",
+    "Price": 0.108,
+    "Currency": "USD",
+    "Position": 55,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-30 14:57:58",
+    "Seller": "PivnayaFeya",
+    "Stock": "500",
+    "Price": 0.108,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-30 14:57:58",
+    "Seller": "Crippl",
+    "Stock": "500",
+    "Price": 0.108,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
