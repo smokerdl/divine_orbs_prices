@@ -20568,5 +20568,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-30 23:57:59",
+    "Seller": "Gamaliyan",
+    "Stock": "336",
+    "Price": 0.105,
+    "Currency": "USD",
+    "Position": 56,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-30 23:57:59",
+    "Seller": "xxy",
+    "Stock": "300",
+    "Price": 0.105,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-30 23:57:59",
+    "Seller": "NF322",
+    "Stock": "450",
+    "Price": 0.106,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-30 23:57:59",
+    "Seller": "rpgcurrency",
+    "Stock": "95",
+    "Price": 0.106,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-06-30 23:57:59",
+    "Seller": "Bludfire",
+    "Stock": "200",
+    "Price": 0.106,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
