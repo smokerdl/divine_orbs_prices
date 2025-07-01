@@ -1098,5 +1098,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-02 00:57:50",
+    "Seller": "Hwkq",
+    "Stock": "160",
+    "Price": 0.105,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-02 00:57:50",
+    "Seller": "Fllamen",
+    "Stock": "1030",
+    "Price": 0.105,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-02 00:57:50",
+    "Seller": "adenastore",
+    "Stock": "140",
+    "Price": 0.105,
+    "Currency": "USD",
+    "Position": 62,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-02 00:57:50",
+    "Seller": "grustnowatbli",
+    "Stock": "430",
+    "Price": 0.106,
+    "Currency": "USD",
+    "Position": 63,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-02 00:57:50",
+    "Seller": "Kose32",
+    "Stock": "270",
+    "Price": 0.106,
+    "Currency": "USD",
+    "Position": 64,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
