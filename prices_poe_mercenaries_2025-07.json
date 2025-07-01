@@ -1,0 +1,57 @@
+[
+  {
+    "Timestamp": "2025-07-01 05:52:30",
+    "Seller": "KRASTOMS1",
+    "Stock": "300",
+    "Price": 0.113,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-01 05:52:30",
+    "Seller": "efan913",
+    "Stock": "100",
+    "Price": 0.113,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-01 05:52:30",
+    "Seller": "kent9irik",
+    "Stock": "300",
+    "Price": 0.114,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-01 05:52:30",
+    "Seller": "Xei",
+    "Stock": "230",
+    "Price": 0.114,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-01 05:52:30",
+    "Seller": "JustKnopka",
+    "Stock": "250",
+    "Price": 0.115,
+    "Currency": "USD",
+    "Position": 62,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
+  }
+]
