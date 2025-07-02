@@ -1593,5 +1593,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-02 10:57:47",
+    "Seller": "TrinityShop",
+    "Stock": "1",
+    "Price": 0.103,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-02 10:57:47",
+    "Seller": "F1uffyBone",
+    "Stock": "150",
+    "Price": 0.104,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-02 10:57:47",
+    "Seller": "ra7en",
+    "Stock": "90",
+    "Price": 0.104,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-02 10:57:47",
+    "Seller": "PeaceInRest",
+    "Stock": "400",
+    "Price": 0.104,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-02 10:57:47",
+    "Seller": "Lindi",
+    "Stock": "250",
+    "Price": 0.104,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
