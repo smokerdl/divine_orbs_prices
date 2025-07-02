@@ -2033,5 +2033,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-02 18:58:21",
+    "Seller": "VadimVadim",
+    "Stock": "600",
+    "Price": 0.097,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-02 18:58:21",
+    "Seller": "ExpFreez",
+    "Stock": "410",
+    "Price": 0.097,
+    "Currency": "USD",
+    "Position": 62,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-02 18:58:21",
+    "Seller": "QBI232",
+    "Stock": "700",
+    "Price": 0.097,
+    "Currency": "USD",
+    "Position": 63,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-02 18:58:21",
+    "Seller": "Nemesis787",
+    "Stock": "170",
+    "Price": 0.097,
+    "Currency": "USD",
+    "Position": 64,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-02 18:58:21",
+    "Seller": "EuroDump",
+    "Stock": "800",
+    "Price": 0.098,
+    "Currency": "USD",
+    "Position": 65,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
