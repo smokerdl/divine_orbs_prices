@@ -1813,5 +1813,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-02 14:57:55",
+    "Seller": "zarakikenpa",
+    "Stock": "320",
+    "Price": 0.101,
+    "Currency": "USD",
+    "Position": 64,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-02 14:57:55",
+    "Seller": "Yellowmeow",
+    "Stock": "150",
+    "Price": 0.103,
+    "Currency": "USD",
+    "Position": 65,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-02 14:57:55",
+    "Seller": "ashot12333",
+    "Stock": "240",
+    "Price": 0.103,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-02 14:57:55",
+    "Seller": "Sonic1Senpai",
+    "Stock": "168",
+    "Price": 0.103,
+    "Currency": "USD",
+    "Position": 67,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-02 14:57:55",
+    "Seller": "CJ1",
+    "Stock": "40",
+    "Price": 0.103,
+    "Currency": "USD",
+    "Position": 68,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
