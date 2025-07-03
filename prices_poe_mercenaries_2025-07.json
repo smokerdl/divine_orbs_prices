@@ -2638,5 +2638,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-03 07:20:42",
+    "Seller": "KrolgoBit",
+    "Stock": "50",
+    "Price": 0.092,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-03 07:20:42",
+    "Seller": "SoulDemetra",
+    "Stock": "100",
+    "Price": 0.092,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-03 07:20:42",
+    "Seller": "LaveDay",
+    "Stock": "100",
+    "Price": 0.092,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-03 07:20:42",
+    "Seller": "TrinityShop",
+    "Stock": "200",
+    "Price": 0.093,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-03 07:20:42",
+    "Seller": "MortikPoe",
+    "Stock": "70",
+    "Price": 0.094,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
