@@ -2803,5 +2803,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-03 10:01:02",
+    "Seller": "Dementophobia",
+    "Stock": "1050",
+    "Price": 0.092,
+    "Currency": "USD",
+    "Position": 56,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-03 10:01:02",
+    "Seller": "MORRRTYSHT",
+    "Stock": "141",
+    "Price": 0.092,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-03 10:01:02",
+    "Seller": "RoflanLeague",
+    "Stock": "2500",
+    "Price": 0.092,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-03 10:01:02",
+    "Seller": "IdolWar",
+    "Stock": "500",
+    "Price": 0.092,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-03 10:01:02",
+    "Seller": "Xarcys",
+    "Stock": "600",
+    "Price": 0.092,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
