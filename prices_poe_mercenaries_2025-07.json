@@ -4893,5 +4893,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-05 00:57:44",
+    "Seller": "widowmake",
+    "Stock": "638",
+    "Price": 0.093,
+    "Currency": "USD",
+    "Position": 64,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-05 00:57:44",
+    "Seller": "soulflow",
+    "Stock": "150",
+    "Price": 0.093,
+    "Currency": "USD",
+    "Position": 65,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-05 00:57:44",
+    "Seller": "PenguinPenPen",
+    "Stock": "1000",
+    "Price": 0.094,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-05 00:57:44",
+    "Seller": "VisarKetHavel",
+    "Stock": "1800",
+    "Price": 0.094,
+    "Currency": "USD",
+    "Position": 67,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-05 00:57:44",
+    "Seller": "BigCucuLife",
+    "Stock": "1000",
+    "Price": 0.094,
+    "Currency": "USD",
+    "Position": 68,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
