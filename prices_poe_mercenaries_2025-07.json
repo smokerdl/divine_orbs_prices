@@ -4563,5 +4563,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-04 18:57:49",
+    "Seller": "moderntaker",
+    "Stock": "300",
+    "Price": 0.095,
+    "Currency": "USD",
+    "Position": 67,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-04 18:57:49",
+    "Seller": "SaniaBog",
+    "Stock": "120",
+    "Price": 0.096,
+    "Currency": "USD",
+    "Position": 68,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-04 18:57:49",
+    "Seller": "berwer",
+    "Stock": "255",
+    "Price": 0.098,
+    "Currency": "USD",
+    "Position": 69,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-04 18:57:49",
+    "Seller": "PizzaMan40",
+    "Stock": "23",
+    "Price": 0.1,
+    "Currency": "USD",
+    "Position": 70,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-04 18:57:49",
+    "Seller": "TradeBoB",
+    "Stock": "220",
+    "Price": 0.101,
+    "Currency": "USD",
+    "Position": 71,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
