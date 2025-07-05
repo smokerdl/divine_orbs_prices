@@ -5938,5 +5938,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-05 20:57:45",
+    "Seller": "RTMR",
+    "Stock": "700",
+    "Price": 0.094,
+    "Currency": "USD",
+    "Position": 55,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-05 20:57:45",
+    "Seller": "AID1",
+    "Stock": "1794",
+    "Price": 0.095,
+    "Currency": "USD",
+    "Position": 56,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-05 20:57:45",
+    "Seller": "MobPsychoEXE",
+    "Stock": "1",
+    "Price": 0.095,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-05 20:57:45",
+    "Seller": "Yanoverg",
+    "Stock": "300",
+    "Price": 0.095,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-05 20:57:45",
+    "Seller": "purplegaming",
+    "Stock": "340",
+    "Price": 0.096,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
