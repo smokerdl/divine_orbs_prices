@@ -63578,5 +63578,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-07-05 18:57:47",
+    "Seller": "CharlesRobert",
+    "Stock": "750",
+    "Price": 0.037,
+    "Currency": "USD",
+    "Position": 647,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-07-05 18:57:47",
+    "Seller": "PL1",
+    "Stock": "250",
+    "Price": 0.037,
+    "Currency": "USD",
+    "Position": 648,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-07-05 18:57:47",
+    "Seller": "DelioN227",
+    "Stock": "3356",
+    "Price": 0.037,
+    "Currency": "USD",
+    "Position": 649,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-07-05 18:57:47",
+    "Seller": "Brexit",
+    "Stock": "2390",
+    "Price": 0.037,
+    "Currency": "USD",
+    "Position": 650,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-07-05 18:57:47",
+    "Seller": "TrueALPIN",
+    "Stock": "1220",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 652,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
