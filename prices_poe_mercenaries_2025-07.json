@@ -6213,5 +6213,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-06 01:57:40",
+    "Seller": "a10n3",
+    "Stock": "63",
+    "Price": 0.084,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-06 01:57:40",
+    "Seller": "Mylenelfarmer",
+    "Stock": "2000",
+    "Price": 0.084,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-06 01:57:40",
+    "Seller": "DeadBrainShop",
+    "Stock": "205",
+    "Price": 0.085,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-06 01:57:40",
+    "Seller": "EggInc",
+    "Stock": "979",
+    "Price": 0.085,
+    "Currency": "USD",
+    "Position": 52,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-06 01:57:40",
+    "Seller": "HalFerJoJo",
+    "Stock": "110",
+    "Price": 0.085,
+    "Currency": "USD",
+    "Position": 53,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
