@@ -7148,5 +7148,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-06 19:58:03",
+    "Seller": "ExpFreez",
+    "Stock": "320",
+    "Price": 0.078,
+    "Currency": "USD",
+    "Position": 53,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-06 19:58:03",
+    "Seller": "xxy",
+    "Stock": "300",
+    "Price": 0.079,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-06 19:58:03",
+    "Seller": "Menanoia",
+    "Stock": "574",
+    "Price": 0.079,
+    "Currency": "USD",
+    "Position": 55,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-06 19:58:03",
+    "Seller": "MeowSQ",
+    "Stock": "130",
+    "Price": 0.079,
+    "Currency": "USD",
+    "Position": 56,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-06 19:58:03",
+    "Seller": "widowmake",
+    "Stock": "500",
+    "Price": 0.079,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
