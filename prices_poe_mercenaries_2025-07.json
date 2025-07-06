@@ -7258,5 +7258,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-06 21:57:51",
+    "Seller": "TimeBandite",
+    "Stock": "40",
+    "Price": 0.078,
+    "Currency": "USD",
+    "Position": 53,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-06 21:57:51",
+    "Seller": "Extruder",
+    "Stock": "50",
+    "Price": 0.079,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-06 21:57:51",
+    "Seller": "SorrowStory",
+    "Stock": "400",
+    "Price": 0.079,
+    "Currency": "USD",
+    "Position": 55,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-06 21:57:51",
+    "Seller": "Levessa",
+    "Stock": "4",
+    "Price": 0.079,
+    "Currency": "USD",
+    "Position": 56,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-06 21:57:51",
+    "Seller": "kensi",
+    "Stock": "470",
+    "Price": 0.079,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
