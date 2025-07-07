@@ -8523,5 +8523,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-07 22:00:30",
+    "Seller": "promanvadeo",
+    "Stock": "200",
+    "Price": 0.07,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-07 22:00:30",
+    "Seller": "Logitec001",
+    "Stock": "326",
+    "Price": 0.07,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-07 22:00:30",
+    "Seller": "DreamUnderTheNight",
+    "Stock": "900",
+    "Price": 0.07,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-07 22:00:30",
+    "Seller": "Asoni",
+    "Stock": "380",
+    "Price": 0.07,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-07 22:00:30",
+    "Seller": "adenastore",
+    "Stock": "400",
+    "Price": 0.071,
+    "Currency": "USD",
+    "Position": 51,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
