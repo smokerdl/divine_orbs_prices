@@ -8633,5 +8633,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-07 23:57:40",
+    "Seller": "Proffit",
+    "Stock": "1000",
+    "Price": 0.068,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-07 23:57:40",
+    "Seller": "MortikPoe",
+    "Stock": "800",
+    "Price": 0.068,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-07 23:57:40",
+    "Seller": "Averya",
+    "Stock": "200",
+    "Price": 0.068,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-07 23:57:40",
+    "Seller": "MeowSQ",
+    "Stock": "80",
+    "Price": 0.068,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-07 23:57:40",
+    "Seller": "kensi",
+    "Stock": "400",
+    "Price": 0.069,
+    "Currency": "USD",
+    "Position": 51,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
