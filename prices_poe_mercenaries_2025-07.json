@@ -8468,5 +8468,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-07 20:57:48",
+    "Seller": "EmptyWalls",
+    "Stock": "200",
+    "Price": 0.07,
+    "Currency": "USD",
+    "Position": 45,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-07 20:57:48",
+    "Seller": "CorpseRunZG",
+    "Stock": "50",
+    "Price": 0.07,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-07 20:57:48",
+    "Seller": "Lanmaus",
+    "Stock": "300",
+    "Price": 0.072,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-07 20:57:48",
+    "Seller": "RoflanLeague",
+    "Stock": "1500",
+    "Price": 0.072,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-07 20:57:48",
+    "Seller": "bemular",
+    "Stock": "1000",
+    "Price": 0.073,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
