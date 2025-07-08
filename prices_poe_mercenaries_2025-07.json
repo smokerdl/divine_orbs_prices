@@ -9898,5 +9898,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-08 23:57:46",
+    "Seller": "Mentalque",
+    "Stock": "1800",
+    "Price": 0.06,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-08 23:57:46",
+    "Seller": "Arteqisa",
+    "Stock": "668",
+    "Price": 0.06,
+    "Currency": "USD",
+    "Position": 51,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-08 23:57:46",
+    "Seller": "widowmake",
+    "Stock": "1000",
+    "Price": 0.06,
+    "Currency": "USD",
+    "Position": 52,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-08 23:57:46",
+    "Seller": "exnek",
+    "Stock": "100",
+    "Price": 0.06,
+    "Currency": "USD",
+    "Position": 53,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-08 23:57:46",
+    "Seller": "CorpseRunZG",
+    "Stock": "50",
+    "Price": 0.06,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
