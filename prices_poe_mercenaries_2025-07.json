@@ -9183,5 +9183,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-08 10:57:50",
+    "Seller": "BigCucuLife",
+    "Stock": "500",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-08 10:57:50",
+    "Seller": "Lanmaus",
+    "Stock": "300",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-08 10:57:50",
+    "Seller": "VisarKetHavel",
+    "Stock": "2100",
+    "Price": 0.068,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-08 10:57:50",
+    "Seller": "qwertyfor",
+    "Stock": "177",
+    "Price": 0.068,
+    "Currency": "USD",
+    "Position": 51,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-08 10:57:50",
+    "Seller": "alabay12",
+    "Stock": "100",
+    "Price": 0.068,
+    "Currency": "USD",
+    "Position": 52,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
