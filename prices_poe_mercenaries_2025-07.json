@@ -11273,5 +11273,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-10 01:57:52",
+    "Seller": "Mageridon",
+    "Stock": "480",
+    "Price": 0.057,
+    "Currency": "USD",
+    "Position": 53,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-10 01:57:52",
+    "Seller": "shhir",
+    "Stock": "118",
+    "Price": 0.057,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-10 01:57:52",
+    "Seller": "Egotense",
+    "Stock": "110",
+    "Price": 0.059,
+    "Currency": "USD",
+    "Position": 55,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-10 01:57:52",
+    "Seller": "CrazyFroggg",
+    "Stock": "650",
+    "Price": 0.059,
+    "Currency": "USD",
+    "Position": 56,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-10 01:57:52",
+    "Seller": "Saendin",
+    "Stock": "100",
+    "Price": 0.059,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
