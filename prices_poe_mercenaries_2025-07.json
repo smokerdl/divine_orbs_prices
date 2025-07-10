@@ -12593,5 +12593,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-11 02:57:42",
+    "Seller": "TopFarmerAdena",
+    "Stock": "43",
+    "Price": 0.062,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-11 02:57:42",
+    "Seller": "Pushion",
+    "Stock": "1",
+    "Price": 0.062,
+    "Currency": "USD",
+    "Position": 51,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-11 02:57:42",
+    "Seller": "nedgod",
+    "Stock": "6",
+    "Price": 0.062,
+    "Currency": "USD",
+    "Position": 52,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-11 02:57:42",
+    "Seller": "Proffit",
+    "Stock": "310",
+    "Price": 0.062,
+    "Currency": "USD",
+    "Position": 53,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-11 02:57:42",
+    "Seller": "PcOnCd",
+    "Stock": "200",
+    "Price": 0.062,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
