@@ -14628,5 +14628,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-12 17:57:39",
+    "Seller": "Dayvel",
+    "Stock": "1200",
+    "Price": 0.062,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-12 17:57:39",
+    "Seller": "SectorClearos",
+    "Stock": "600",
+    "Price": 0.062,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-12 17:57:39",
+    "Seller": "theslowlee",
+    "Stock": "100",
+    "Price": 0.062,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-12 17:57:39",
+    "Seller": "onebuyforwin",
+    "Stock": "2000",
+    "Price": 0.063,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-12 17:57:39",
+    "Seller": "graff166",
+    "Stock": "200",
+    "Price": 0.063,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
