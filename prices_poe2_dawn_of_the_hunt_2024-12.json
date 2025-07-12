@@ -72653,5 +72653,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-07-12 23:57:58",
+    "Seller": "XAndromed",
+    "Stock": "390",
+    "Price": 0.039,
+    "Currency": "USD",
+    "Position": 578,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-07-12 23:57:59",
+    "Seller": "shakez",
+    "Stock": "400",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 579,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-07-12 23:57:59",
+    "Seller": "DelioN227",
+    "Stock": "8000",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 580,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-07-12 23:57:59",
+    "Seller": "Brexit",
+    "Stock": "3601",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 582,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-07-12 23:57:59",
+    "Seller": "StenyRock",
+    "Stock": "173",
+    "Price": 0.041,
+    "Currency": "USD",
+    "Position": 584,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
