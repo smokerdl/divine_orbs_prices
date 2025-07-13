@@ -73203,5 +73203,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-07-13 11:58:45",
+    "Seller": "Brexit",
+    "Stock": "3601",
+    "Price": 0.042,
+    "Currency": "USD",
+    "Position": 600,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-07-13 11:58:45",
+    "Seller": "Flashart247",
+    "Stock": "9000",
+    "Price": 0.042,
+    "Currency": "USD",
+    "Position": 601,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-07-13 11:58:45",
+    "Seller": "Dispax",
+    "Stock": "500",
+    "Price": 0.045,
+    "Currency": "USD",
+    "Position": 609,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-07-13 11:58:45",
+    "Seller": "DelioN227",
+    "Stock": "7700",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 617,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-07-13 11:58:45",
+    "Seller": "AywaCydonia",
+    "Stock": "320",
+    "Price": 0.047,
+    "Currency": "USD",
+    "Position": 640,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
