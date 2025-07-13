@@ -16278,5 +16278,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-14 01:57:33",
+    "Seller": "Ostrata",
+    "Stock": "700",
+    "Price": 0.053,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-14 01:57:33",
+    "Seller": "Lenson",
+    "Stock": "700",
+    "Price": 0.053,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-14 01:57:33",
+    "Seller": "Zerxzerxzerx",
+    "Stock": "270",
+    "Price": 0.054,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-14 01:57:33",
+    "Seller": "DirtyChets",
+    "Stock": "850",
+    "Price": 0.054,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-14 01:57:33",
+    "Seller": "radu9a1993",
+    "Stock": "300",
+    "Price": 0.054,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
