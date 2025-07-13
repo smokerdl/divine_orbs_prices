@@ -15453,5 +15453,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-13 10:57:52",
+    "Seller": "BigCucuLife",
+    "Stock": "200",
+    "Price": 0.06,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-13 10:57:52",
+    "Seller": "gtfo",
+    "Stock": "700",
+    "Price": 0.06,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-13 10:57:52",
+    "Seller": "kryazhevskikh96",
+    "Stock": "138",
+    "Price": 0.06,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-13 10:57:52",
+    "Seller": "CurrencyTab",
+    "Stock": "90",
+    "Price": 0.06,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-13 10:57:52",
+    "Seller": "AstroAmone",
+    "Stock": "10",
+    "Price": 0.061,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
