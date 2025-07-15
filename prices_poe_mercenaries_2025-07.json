@@ -17983,5 +17983,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-15 12:16:50",
+    "Seller": "Garbagediablo",
+    "Stock": "700",
+    "Price": 0.045,
+    "Currency": "USD",
+    "Position": 38,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-15 12:16:50",
+    "Seller": "tenderline",
+    "Stock": "940",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-15 12:16:50",
+    "Seller": "spa1ki",
+    "Stock": "150",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-15 12:16:50",
+    "Seller": "TonyWoW",
+    "Stock": "900",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-15 12:16:50",
+    "Seller": "VadimVadim",
+    "Stock": "1000",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
