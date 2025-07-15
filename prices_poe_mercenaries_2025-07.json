@@ -18258,5 +18258,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-15 17:00:53",
+    "Seller": "Lenson",
+    "Stock": "400",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-15 17:00:53",
+    "Seller": "Gofler",
+    "Stock": "165",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-15 17:00:53",
+    "Seller": "Arhangel1881",
+    "Stock": "400",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-15 17:00:53",
+    "Seller": "Lindi",
+    "Stock": "400",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 44,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-15 17:00:53",
+    "Seller": "PenguinPenPen",
+    "Stock": "500",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 45,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
