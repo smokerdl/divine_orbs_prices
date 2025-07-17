@@ -20458,5 +20458,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-17 12:12:15",
+    "Seller": "totkot",
+    "Stock": "543",
+    "Price": 0.045,
+    "Currency": "USD",
+    "Position": 45,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-17 12:12:15",
+    "Seller": "Pepyaker",
+    "Stock": "4",
+    "Price": 0.045,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-17 12:12:15",
+    "Seller": "Linkzzz",
+    "Stock": "800",
+    "Price": 0.045,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-17 12:12:15",
+    "Seller": "Kotyax24",
+    "Stock": "960",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-17 12:12:15",
+    "Seller": "artofthrowing",
+    "Stock": "150",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
