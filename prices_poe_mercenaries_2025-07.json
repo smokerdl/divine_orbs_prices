@@ -22053,5 +22053,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-18 17:58:45",
+    "Seller": "iMoorich",
+    "Stock": "500",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-18 17:58:45",
+    "Seller": "Arhangel1881",
+    "Stock": "500",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-18 17:58:45",
+    "Seller": "BlenderMix",
+    "Stock": "120",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-18 17:58:45",
+    "Seller": "Master0K",
+    "Stock": "160",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 51,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-18 17:58:45",
+    "Seller": "Luht",
+    "Stock": "1000",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
