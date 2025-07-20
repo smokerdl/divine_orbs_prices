@@ -82333,5 +82333,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-07-20 18:58:04",
+    "Seller": "Brexit",
+    "Stock": "2966",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 669,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-07-20 18:58:04",
+    "Seller": "Flashart247",
+    "Stock": "20000",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 670,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-07-20 18:58:04",
+    "Seller": "Withahonor",
+    "Stock": "365",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 671,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-07-20 18:58:04",
+    "Seller": "PeopleZzz",
+    "Stock": "18765",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 679,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-07-20 18:58:04",
+    "Seller": "Belorus",
+    "Stock": "1050",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 680,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
