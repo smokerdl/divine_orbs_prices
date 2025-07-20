@@ -24363,5 +24363,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-20 14:57:54",
+    "Seller": "Grizone",
+    "Stock": "2000",
+    "Price": 0.042,
+    "Currency": "USD",
+    "Position": 35,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-20 14:57:54",
+    "Seller": "Pokershark",
+    "Stock": "550",
+    "Price": 0.043,
+    "Currency": "USD",
+    "Position": 36,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-20 14:57:54",
+    "Seller": "RTMR",
+    "Stock": "800",
+    "Price": 0.043,
+    "Currency": "USD",
+    "Position": 37,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-20 14:57:54",
+    "Seller": "Nikita92002",
+    "Stock": "400",
+    "Price": 0.043,
+    "Currency": "USD",
+    "Position": 38,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-20 14:57:54",
+    "Seller": "BigCucuLife",
+    "Stock": "7000",
+    "Price": 0.043,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
