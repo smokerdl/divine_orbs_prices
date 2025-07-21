@@ -25903,5 +25903,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-21 20:57:31",
+    "Seller": "HeyYou7",
+    "Stock": "98",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 35,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-21 20:57:31",
+    "Seller": "ShadoUwU",
+    "Stock": "2000",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 36,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-21 20:57:31",
+    "Seller": "OutputPizza",
+    "Stock": "1470",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 37,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-21 20:57:31",
+    "Seller": "Logitec001",
+    "Stock": "660",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 38,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-21 20:57:31",
+    "Seller": "IvanOneTab",
+    "Stock": "337",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
