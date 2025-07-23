@@ -49223,5 +49223,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-23 20:57:56",
+    "Seller": "dosadasnikom",
+    "Stock": "325",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 31,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-23 20:57:56",
+    "Seller": "NecroMapa",
+    "Stock": "175",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 32,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-23 20:57:56",
+    "Seller": "GodWaken",
+    "Stock": "2280",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 33,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-23 20:57:56",
+    "Seller": "RTMR",
+    "Stock": "2000",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 34,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-23 20:57:56",
+    "Seller": "widowmake",
+    "Stock": "6950",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 35,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
