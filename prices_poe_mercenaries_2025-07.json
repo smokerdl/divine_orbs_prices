@@ -49443,5 +49443,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-24 00:57:52",
+    "Seller": "SunHeat",
+    "Stock": "150",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 31,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-24 00:57:52",
+    "Seller": "Ohogen",
+    "Stock": "2200",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 32,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-24 00:57:52",
+    "Seller": "widowmake",
+    "Stock": "2612",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 33,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-24 00:57:52",
+    "Seller": "HOLLLOWllCHANGE",
+    "Stock": "105",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 34,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-24 00:57:52",
+    "Seller": "WhySayGoodBye",
+    "Stock": "274",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 35,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
