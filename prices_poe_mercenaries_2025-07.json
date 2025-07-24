@@ -50763,5 +50763,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-25 01:57:56",
+    "Seller": "Ohogen",
+    "Stock": "1060",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 37,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-25 01:57:56",
+    "Seller": "NInesouls",
+    "Stock": "1100",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 38,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-25 01:57:56",
+    "Seller": "Coolstory1488",
+    "Stock": "500",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-25 01:57:56",
+    "Seller": "Arteqisa",
+    "Stock": "500",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-25 01:57:56",
+    "Seller": "DirtyChets",
+    "Stock": "1500",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
