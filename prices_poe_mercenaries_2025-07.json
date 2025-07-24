@@ -50543,5 +50543,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-24 22:01:51",
+    "Seller": "bestbrood",
+    "Stock": "60",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 35,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-24 22:01:51",
+    "Seller": "Saendin",
+    "Stock": "280",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 36,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-24 22:01:51",
+    "Seller": "NInesouls",
+    "Stock": "800",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 37,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-24 22:01:51",
+    "Seller": "RTMR",
+    "Stock": "500",
+    "Price": 0.036,
+    "Currency": "USD",
+    "Position": 38,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-24 22:01:51",
+    "Seller": "Esqq",
+    "Stock": "1700",
+    "Price": 0.036,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
