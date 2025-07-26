@@ -53128,5 +53128,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-26 22:57:46",
+    "Seller": "HunterSn",
+    "Stock": "2000",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 30,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-26 22:57:46",
+    "Seller": "Dangod",
+    "Stock": "1724",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 31,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-26 22:57:46",
+    "Seller": "Major666",
+    "Stock": "460",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 32,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-26 22:57:46",
+    "Seller": "Mallensm",
+    "Stock": "500",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 34,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-26 22:57:46",
+    "Seller": "Mylenelfarmer",
+    "Stock": "2400",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 35,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
