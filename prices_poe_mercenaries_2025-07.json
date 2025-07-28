@@ -54778,5 +54778,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-28 09:00:29",
+    "Seller": "p3xa",
+    "Stock": "600",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 23,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-28 09:00:29",
+    "Seller": "cheapExaltos",
+    "Stock": "1000",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 24,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-28 09:00:29",
+    "Seller": "DavidoffBoost",
+    "Stock": "500",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 25,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-28 09:00:29",
+    "Seller": "KUPIFUN",
+    "Stock": "650",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 30,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-28 09:00:29",
+    "Seller": "Marihuanchik",
+    "Stock": "80",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 31,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
