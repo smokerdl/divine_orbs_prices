@@ -57968,5 +57968,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-30 22:57:37",
+    "Seller": "StrongXard",
+    "Stock": "20",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 18,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-30 22:57:37",
+    "Seller": "Pochmak",
+    "Stock": "355",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 19,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-30 22:57:37",
+    "Seller": "Wistint",
+    "Stock": "450",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 20,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-30 22:57:37",
+    "Seller": "kwonder",
+    "Stock": "5500",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 22,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-30 22:57:37",
+    "Seller": "PenguinPenPen",
+    "Stock": "3600",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 23,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
