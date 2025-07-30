@@ -57253,5 +57253,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-30 10:13:43",
+    "Seller": "Halofox",
+    "Stock": "300",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 20,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-30 10:13:43",
+    "Seller": "Hooby",
+    "Stock": "81",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 21,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-30 10:13:43",
+    "Seller": "ImPayingCommission",
+    "Stock": "800",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 25,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-30 10:13:43",
+    "Seller": "bes23",
+    "Stock": "1288",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 26,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-30 10:13:43",
+    "Seller": "ExpFreez",
+    "Stock": "4530",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 27,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
