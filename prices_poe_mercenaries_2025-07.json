@@ -58958,5 +58958,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-31 18:59:46",
+    "Seller": "Aksion",
+    "Stock": "7",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 14,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-31 18:59:46",
+    "Seller": "ExpFreez",
+    "Stock": "1592",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 16,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-31 18:59:46",
+    "Seller": "Kose32",
+    "Stock": "3500",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 18,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-31 18:59:46",
+    "Seller": "KaMiKaDzA1",
+    "Stock": "200",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 19,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-07-31 18:59:46",
+    "Seller": "CyberVan",
+    "Stock": "120",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 20,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
