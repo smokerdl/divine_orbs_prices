@@ -97403,5 +97403,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-08-01 23:58:38",
+    "Seller": "GeneraLHarrisoN",
+    "Stock": "300",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 577,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-08-01 23:58:38",
+    "Seller": "Flashart247",
+    "Stock": "20000",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 582,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-08-01 23:58:38",
+    "Seller": "elektrodg",
+    "Stock": "102",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 624,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-08-01 23:58:38",
+    "Seller": "DreamUnderTheNight",
+    "Stock": "1100",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 626,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-08-01 23:58:38",
+    "Seller": "shakez",
+    "Stock": "440",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 627,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
