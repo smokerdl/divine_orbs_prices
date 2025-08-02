@@ -98283,5 +98283,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-08-02 16:57:47",
+    "Seller": "GeneraLHarrisoN",
+    "Stock": "300",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 590,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-08-02 16:57:47",
+    "Seller": "elektrodg",
+    "Stock": "52",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 591,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-08-02 16:57:47",
+    "Seller": "Brexit",
+    "Stock": "800",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 593,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-08-02 16:57:47",
+    "Seller": "DreamUnderTheNight",
+    "Stock": "700",
+    "Price": 0.027,
+    "Currency": "USD",
+    "Position": 635,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-08-02 16:57:47",
+    "Seller": "kidsdocff",
+    "Stock": "450",
+    "Price": 0.027,
+    "Currency": "USD",
+    "Position": 636,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
