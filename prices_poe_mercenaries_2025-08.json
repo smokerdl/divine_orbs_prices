@@ -4398,5 +4398,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-04 19:00:39",
+    "Seller": "Lemur121",
+    "Stock": "3390",
+    "Price": 0.017,
+    "Currency": "USD",
+    "Position": 4,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-04 19:00:39",
+    "Seller": "Subdrive",
+    "Stock": "110",
+    "Price": 0.017,
+    "Currency": "USD",
+    "Position": 5,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-04 19:00:39",
+    "Seller": "Saendin",
+    "Stock": "250",
+    "Price": 0.017,
+    "Currency": "USD",
+    "Position": 6,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-04 19:00:39",
+    "Seller": "DarkTema888",
+    "Stock": "1",
+    "Price": 0.0172,
+    "Currency": "USD",
+    "Position": 7,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-04 19:00:39",
+    "Seller": "Andor221",
+    "Stock": "1200",
+    "Price": 0.0173,
+    "Currency": "USD",
+    "Position": 8,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
