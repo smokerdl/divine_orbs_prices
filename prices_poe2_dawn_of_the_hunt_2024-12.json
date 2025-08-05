@@ -102408,5 +102408,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-08-06 01:58:22",
+    "Seller": "Flashart247",
+    "Stock": "20000",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 590,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-08-06 01:58:22",
+    "Seller": "Kronasss",
+    "Stock": "10563",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 596,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-08-06 01:58:22",
+    "Seller": "elektrodg",
+    "Stock": "200",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 597,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-08-06 01:58:22",
+    "Seller": "CharlesRobert",
+    "Stock": "974",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 598,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-08-06 01:58:22",
+    "Seller": "Demonstar",
+    "Stock": "1500",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 599,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
