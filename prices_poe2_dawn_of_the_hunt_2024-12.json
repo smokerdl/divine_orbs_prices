@@ -103343,5 +103343,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-08-06 20:58:37",
+    "Seller": "XAndromed",
+    "Stock": "970",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 588,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-08-06 20:58:37",
+    "Seller": "shakez",
+    "Stock": "650",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 591,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-08-06 20:58:37",
+    "Seller": "CharlesRobert",
+    "Stock": "1000",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 592,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-08-06 20:58:37",
+    "Seller": "elektrodg",
+    "Stock": "200",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 598,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-08-06 20:58:37",
+    "Seller": "Demonstar",
+    "Stock": "1500",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 599,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
