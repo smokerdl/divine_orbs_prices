@@ -7368,5 +7368,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-07 07:01:23",
+    "Seller": "vctcompany",
+    "Stock": "3000",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 10,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-07 07:01:23",
+    "Seller": "Advokat111",
+    "Stock": "5000",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 11,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-07 07:01:23",
+    "Seller": "cancel123",
+    "Stock": "450",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 12,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-07 07:01:23",
+    "Seller": "Zilberdouch",
+    "Stock": "250",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 13,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-07 07:01:23",
+    "Seller": "HolidayStore",
+    "Stock": "1390",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 14,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
