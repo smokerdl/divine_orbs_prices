@@ -9018,5 +9018,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-08 14:57:48",
+    "Seller": "tarkovFunProvider137",
+    "Stock": "3500",
+    "Price": 0.0168,
+    "Currency": "USD",
+    "Position": 6,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-08 14:57:48",
+    "Seller": "ShadoUwU",
+    "Stock": "1600",
+    "Price": 0.0168,
+    "Currency": "USD",
+    "Position": 7,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-08 14:57:48",
+    "Seller": "ExaltBoss",
+    "Stock": "1700",
+    "Price": 0.0169,
+    "Currency": "USD",
+    "Position": 8,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-08 14:57:48",
+    "Seller": "erode",
+    "Stock": "1800",
+    "Price": 0.0169,
+    "Currency": "USD",
+    "Position": 9,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-08 14:57:48",
+    "Seller": "DoniZanmey",
+    "Stock": "50",
+    "Price": 0.0169,
+    "Currency": "USD",
+    "Position": 10,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
