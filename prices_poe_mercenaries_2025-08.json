@@ -13033,5 +13033,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-11 20:57:54",
+    "Seller": "artureo",
+    "Stock": "1100",
+    "Price": 0.0162,
+    "Currency": "USD",
+    "Position": 4,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-11 20:57:54",
+    "Seller": "Kontroler21",
+    "Stock": "213",
+    "Price": 0.0167,
+    "Currency": "USD",
+    "Position": 5,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-11 20:57:54",
+    "Seller": "T4sel",
+    "Stock": "608",
+    "Price": 0.0174,
+    "Currency": "USD",
+    "Position": 6,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-11 20:57:54",
+    "Seller": "Listi",
+    "Stock": "420",
+    "Price": 0.0177,
+    "Currency": "USD",
+    "Position": 7,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-11 20:57:54",
+    "Seller": "Grafmelion",
+    "Stock": "105",
+    "Price": 0.0179,
+    "Currency": "USD",
+    "Position": 8,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
