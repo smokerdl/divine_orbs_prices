@@ -13693,5 +13693,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-12 10:00:59",
+    "Seller": "Latissa",
+    "Stock": "3245",
+    "Price": 0.0172,
+    "Currency": "USD",
+    "Position": 6,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-12 10:00:59",
+    "Seller": "ProfitShop",
+    "Stock": "1500",
+    "Price": 0.0174,
+    "Currency": "USD",
+    "Position": 7,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-12 10:00:59",
+    "Seller": "uBiman",
+    "Stock": "3000",
+    "Price": 0.0178,
+    "Currency": "USD",
+    "Position": 8,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-12 10:00:59",
+    "Seller": "Haganite",
+    "Stock": "2000",
+    "Price": 0.0178,
+    "Currency": "USD",
+    "Position": 9,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-12 10:00:59",
+    "Seller": "DreamUnderTheNight",
+    "Stock": "400",
+    "Price": 0.0181,
+    "Currency": "USD",
+    "Position": 10,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
