@@ -18368,5 +18368,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-16 01:57:49",
+    "Seller": "drongood12",
+    "Stock": "1150",
+    "Price": 0.0159,
+    "Currency": "USD",
+    "Position": 5,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-16 01:57:49",
+    "Seller": "Rachealx",
+    "Stock": "2000",
+    "Price": 0.0159,
+    "Currency": "USD",
+    "Position": 6,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-16 01:57:49",
+    "Seller": "tarkovFunProvider137",
+    "Stock": "2050",
+    "Price": 0.0162,
+    "Currency": "USD",
+    "Position": 7,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-16 01:57:49",
+    "Seller": "vctcompany",
+    "Stock": "3384",
+    "Price": 0.0163,
+    "Currency": "USD",
+    "Position": 8,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-16 01:57:49",
+    "Seller": "kinhphan17041994",
+    "Stock": "2346",
+    "Price": 0.0163,
+    "Currency": "USD",
+    "Position": 9,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
