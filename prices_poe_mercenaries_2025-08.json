@@ -19413,5 +19413,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-16 21:57:57",
+    "Seller": "Elarinn",
+    "Stock": "949",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 5,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-16 21:57:57",
+    "Seller": "DavidoffBoost",
+    "Stock": "6000",
+    "Price": 0.0127,
+    "Currency": "USD",
+    "Position": 6,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-16 21:57:57",
+    "Seller": "DreamUnderTheNight",
+    "Stock": "848",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 7,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-16 21:57:57",
+    "Seller": "Dangod",
+    "Stock": "1200",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 8,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-16 21:57:57",
+    "Seller": "AccOwner",
+    "Stock": "3600",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 9,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
