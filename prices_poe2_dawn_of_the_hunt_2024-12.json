@@ -116763,5 +116763,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11287"
+  },
+  {
+    "Timestamp": "2025-08-17 16:18:57",
+    "Seller": "Flashart247",
+    "Stock": "20000",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 563,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-08-17 16:18:57",
+    "Seller": "qwertyfor",
+    "Stock": "999299",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 572,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-08-17 16:18:57",
+    "Seller": "Hweezi",
+    "Stock": "1339",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 579,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-08-17 16:18:57",
+    "Seller": "Dispax",
+    "Stock": "1000",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 580,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11287"
+  },
+  {
+    "Timestamp": "2025-08-17 16:18:57",
+    "Seller": "MaDinFly",
+    "Stock": "1000",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 582,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11287"
   }
 ]
