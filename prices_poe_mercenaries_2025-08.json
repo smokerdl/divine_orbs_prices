@@ -19853,5 +19853,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-17 07:21:37",
+    "Seller": "Lukomorie",
+    "Stock": "70",
+    "Price": 0.0151,
+    "Currency": "USD",
+    "Position": 5,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-17 07:21:37",
+    "Seller": "rublei10",
+    "Stock": "1000",
+    "Price": 0.0151,
+    "Currency": "USD",
+    "Position": 6,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-17 07:21:37",
+    "Seller": "Kazacheev",
+    "Stock": "470",
+    "Price": 0.0151,
+    "Currency": "USD",
+    "Position": 7,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-17 07:21:37",
+    "Seller": "Pooet",
+    "Stock": "15000",
+    "Price": 0.0151,
+    "Currency": "USD",
+    "Position": 8,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-17 07:21:37",
+    "Seller": "babytoy",
+    "Stock": "500",
+    "Price": 0.0151,
+    "Currency": "USD",
+    "Position": 9,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
