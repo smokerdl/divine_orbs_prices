@@ -32063,5 +32063,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-26 21:57:55",
+    "Seller": "SunHeat",
+    "Stock": "5000",
+    "Price": 0.0104,
+    "Currency": "USD",
+    "Position": 4,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-26 21:57:55",
+    "Seller": "DotaFastSelling",
+    "Stock": "586",
+    "Price": 0.0104,
+    "Currency": "USD",
+    "Position": 5,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-26 21:57:55",
+    "Seller": "kek1993",
+    "Stock": "2281",
+    "Price": 0.0104,
+    "Currency": "USD",
+    "Position": 6,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-26 21:57:55",
+    "Seller": "Coliman",
+    "Stock": "1200",
+    "Price": 0.0105,
+    "Currency": "USD",
+    "Position": 7,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-26 21:57:55",
+    "Seller": "Heathens22",
+    "Stock": "1200",
+    "Price": 0.0105,
+    "Currency": "USD",
+    "Position": 8,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
