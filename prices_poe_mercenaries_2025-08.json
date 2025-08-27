@@ -32723,5 +32723,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-27 10:57:43",
+    "Seller": "AccepterTrade",
+    "Stock": "1600",
+    "Price": 0.0099,
+    "Currency": "USD",
+    "Position": 5,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-27 10:57:43",
+    "Seller": "KrokerGho",
+    "Stock": "750",
+    "Price": 0.0099,
+    "Currency": "USD",
+    "Position": 6,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-27 10:57:43",
+    "Seller": "DotaFastSelling",
+    "Stock": "586",
+    "Price": 0.0104,
+    "Currency": "USD",
+    "Position": 7,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-27 10:57:43",
+    "Seller": "Haganite",
+    "Stock": "2800",
+    "Price": 0.011,
+    "Currency": "USD",
+    "Position": 8,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-27 10:57:43",
+    "Seller": "GoldR1ver",
+    "Stock": "1548",
+    "Price": 0.0111,
+    "Currency": "USD",
+    "Position": 9,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
