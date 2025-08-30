@@ -36298,5 +36298,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-30 06:57:45",
+    "Seller": "Haganite",
+    "Stock": "3500",
+    "Price": 0.0099,
+    "Currency": "USD",
+    "Position": 4,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-30 06:57:45",
+    "Seller": "Flashart247",
+    "Stock": "20000",
+    "Price": 0.0102,
+    "Currency": "USD",
+    "Position": 5,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-30 06:57:45",
+    "Seller": "invihira",
+    "Stock": "17",
+    "Price": 0.0104,
+    "Currency": "USD",
+    "Position": 6,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-30 06:57:45",
+    "Seller": "Makviy",
+    "Stock": "700",
+    "Price": 0.0107,
+    "Currency": "USD",
+    "Position": 7,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-08-30 06:57:45",
+    "Seller": "Kronasss",
+    "Stock": "22453",
+    "Price": 0.0118,
+    "Currency": "USD",
+    "Position": 8,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
