@@ -471,5 +471,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-08-30 08:57:59",
+    "Seller": "BeerBooster",
+    "Stock": "1",
+    "Price": 3.79,
+    "Currency": "USD",
+    "Position": 1157,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-08-30 08:57:59",
+    "Seller": "portumy",
+    "Stock": "1",
+    "Price": 3.94,
+    "Currency": "USD",
+    "Position": 1159,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-08-30 08:57:59",
+    "Seller": "Lostinlifeq",
+    "Stock": "1",
+    "Price": 4.01,
+    "Currency": "USD",
+    "Position": 1162,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-08-30 08:57:59",
+    "Seller": "ipara",
+    "Stock": "1",
+    "Price": 4.38,
+    "Currency": "USD",
+    "Position": 1168,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-08-30 08:57:59",
+    "Seller": "BollBeslloB",
+    "Stock": "1",
+    "Price": 4.39,
+    "Currency": "USD",
+    "Position": 1170,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
