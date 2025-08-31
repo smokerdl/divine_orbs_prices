@@ -2506,5 +2506,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-08-31 22:57:45",
+    "Seller": "berserkbyakuya",
+    "Stock": "1",
+    "Price": 2.98,
+    "Currency": "USD",
+    "Position": 1414,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-08-31 22:57:45",
+    "Seller": "Bech",
+    "Stock": "1",
+    "Price": 2.99,
+    "Currency": "USD",
+    "Position": 1415,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-08-31 22:57:45",
+    "Seller": "realniybanan",
+    "Stock": "1",
+    "Price": 3.01,
+    "Currency": "USD",
+    "Position": 1416,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-08-31 22:57:45",
+    "Seller": "SmtgNeverKnow",
+    "Stock": "1",
+    "Price": 3.01,
+    "Currency": "USD",
+    "Position": 1417,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-08-31 22:57:45",
+    "Seller": "Dervish",
+    "Stock": "20",
+    "Price": 3.05,
+    "Currency": "USD",
+    "Position": 1418,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
