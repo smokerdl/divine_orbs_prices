@@ -1,0 +1,57 @@
+[
+  {
+    "Timestamp": "2025-09-01 05:44:43",
+    "Seller": "shamanions",
+    "Stock": "1",
+    "Price": 2.24,
+    "Currency": "USD",
+    "Position": 1401,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-01 05:44:43",
+    "Seller": "saintsforever666",
+    "Stock": "2",
+    "Price": 2.24,
+    "Currency": "USD",
+    "Position": 1402,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-01 05:44:43",
+    "Seller": "piratca",
+    "Stock": "1",
+    "Price": 2.26,
+    "Currency": "USD",
+    "Position": 1418,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-01 05:44:43",
+    "Seller": "FasterLeveling",
+    "Stock": "2",
+    "Price": 2.26,
+    "Currency": "USD",
+    "Position": 1419,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-01 05:44:43",
+    "Seller": "AntonKust",
+    "Stock": "1",
+    "Price": 2.26,
+    "Currency": "USD",
+    "Position": 1420,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
+  }
+]
