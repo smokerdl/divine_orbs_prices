@@ -218,5 +218,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-09-01 08:57:48",
+    "Seller": "farmilka",
+    "Stock": "1500",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-09-01 08:57:48",
+    "Seller": "farmilka",
+    "Stock": "1500",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 5,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-09-01 08:57:48",
+    "Seller": "Aatroxe",
+    "Stock": "300",
+    "Price": 0.0136,
+    "Currency": "USD",
+    "Position": 6,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-09-01 08:57:48",
+    "Seller": "tarkovFunProvider137",
+    "Stock": "5000",
+    "Price": 0.0136,
+    "Currency": "USD",
+    "Position": 7,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-09-01 08:57:48",
+    "Seller": "KIILERFAK",
+    "Stock": "1225",
+    "Price": 0.0139,
+    "Currency": "USD",
+    "Position": 8,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
