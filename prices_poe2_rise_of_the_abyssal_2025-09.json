@@ -2308,5 +2308,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-02 23:57:52",
+    "Seller": "FastDeliveryGold",
+    "Stock": "3",
+    "Price": 1.01,
+    "Currency": "USD",
+    "Position": 1420,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-02 23:57:52",
+    "Seller": "csormann",
+    "Stock": "1",
+    "Price": 1.02,
+    "Currency": "USD",
+    "Position": 1422,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-02 23:57:52",
+    "Seller": "MollyMo",
+    "Stock": "1",
+    "Price": 1.02,
+    "Currency": "USD",
+    "Position": 1423,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-02 23:57:52",
+    "Seller": "Nova2022",
+    "Stock": "1",
+    "Price": 1.02,
+    "Currency": "USD",
+    "Position": 1424,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-02 23:57:52",
+    "Seller": "lukich17",
+    "Stock": "11",
+    "Price": 1.03,
+    "Currency": "USD",
+    "Position": 1431,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
