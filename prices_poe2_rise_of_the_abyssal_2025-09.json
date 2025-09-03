@@ -3573,5 +3573,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-03 23:58:09",
+    "Seller": "KiberHinkali",
+    "Stock": "1",
+    "Price": 0.92,
+    "Currency": "USD",
+    "Position": 1357,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-03 23:58:09",
+    "Seller": "condemned2",
+    "Stock": "1",
+    "Price": 0.93,
+    "Currency": "USD",
+    "Position": 1358,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-03 23:58:09",
+    "Seller": "MadLa",
+    "Stock": "3",
+    "Price": 0.93,
+    "Currency": "USD",
+    "Position": 1359,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-03 23:58:09",
+    "Seller": "LightGarder",
+    "Stock": "2",
+    "Price": 0.94,
+    "Currency": "USD",
+    "Position": 1361,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-03 23:58:09",
+    "Seller": "Merrander",
+    "Stock": "10",
+    "Price": 0.94,
+    "Currency": "USD",
+    "Position": 1362,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
