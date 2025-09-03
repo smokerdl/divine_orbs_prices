@@ -2913,5 +2913,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-03 11:58:05",
+    "Seller": "FleshGamer",
+    "Stock": "15",
+    "Price": 1.0,
+    "Currency": "USD",
+    "Position": 1387,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-03 11:58:05",
+    "Seller": "Belsy",
+    "Stock": "7",
+    "Price": 1.01,
+    "Currency": "USD",
+    "Position": 1388,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-03 11:58:05",
+    "Seller": "Prestije",
+    "Stock": "12",
+    "Price": 1.01,
+    "Currency": "USD",
+    "Position": 1389,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-03 11:58:05",
+    "Seller": "Freezrik",
+    "Stock": "7",
+    "Price": 1.01,
+    "Currency": "USD",
+    "Position": 1390,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-03 11:58:05",
+    "Seller": "DiamondCoins",
+    "Stock": "1",
+    "Price": 1.01,
+    "Currency": "USD",
+    "Position": 1399,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
