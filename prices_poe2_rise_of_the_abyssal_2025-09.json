@@ -2528,5 +2528,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-03 05:11:18",
+    "Seller": "delaykaka",
+    "Stock": "1",
+    "Price": 1.05,
+    "Currency": "USD",
+    "Position": 1330,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-03 05:11:18",
+    "Seller": "chikaka",
+    "Stock": "2",
+    "Price": 1.05,
+    "Currency": "USD",
+    "Position": 1331,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-03 05:11:18",
+    "Seller": "Nikas18",
+    "Stock": "1",
+    "Price": 1.08,
+    "Currency": "USD",
+    "Position": 1333,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-03 05:11:18",
+    "Seller": "DiamondCoins",
+    "Stock": "1",
+    "Price": 1.09,
+    "Currency": "USD",
+    "Position": 1334,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-03 05:11:18",
+    "Seller": "powerofgreed",
+    "Stock": "1",
+    "Price": 1.1,
+    "Currency": "USD",
+    "Position": 1335,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
