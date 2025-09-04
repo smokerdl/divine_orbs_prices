@@ -3848,5 +3848,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-04 06:19:27",
+    "Seller": "InsideSoul",
+    "Stock": "10",
+    "Price": 1.0,
+    "Currency": "USD",
+    "Position": 1335,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-04 06:19:27",
+    "Seller": "Surreals",
+    "Stock": "7",
+    "Price": 1.0,
+    "Currency": "USD",
+    "Position": 1338,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-04 06:19:27",
+    "Seller": "FroshaMa",
+    "Stock": "6",
+    "Price": 1.0,
+    "Currency": "USD",
+    "Position": 1339,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-04 06:19:27",
+    "Seller": "titio",
+    "Stock": "38",
+    "Price": 1.0,
+    "Currency": "USD",
+    "Position": 1340,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-04 06:19:27",
+    "Seller": "CrazyFrogWEEWEE",
+    "Stock": "7",
+    "Price": 1.01,
+    "Currency": "USD",
+    "Position": 1343,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
