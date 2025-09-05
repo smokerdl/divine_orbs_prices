@@ -6103,5 +6103,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-05 23:58:06",
+    "Seller": "Rainbringer",
+    "Stock": "11",
+    "Price": 0.71,
+    "Currency": "USD",
+    "Position": 1221,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-05 23:58:06",
+    "Seller": "Moon700",
+    "Stock": "25",
+    "Price": 0.71,
+    "Currency": "USD",
+    "Position": 1222,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-05 23:58:06",
+    "Seller": "RomanBr",
+    "Stock": "30",
+    "Price": 0.71,
+    "Currency": "USD",
+    "Position": 1223,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-05 23:58:06",
+    "Seller": "Smertokrul223",
+    "Stock": "21",
+    "Price": 0.71,
+    "Currency": "USD",
+    "Position": 1224,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-05 23:58:06",
+    "Seller": "Proboostmmr",
+    "Stock": "30",
+    "Price": 0.71,
+    "Currency": "USD",
+    "Position": 1225,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
