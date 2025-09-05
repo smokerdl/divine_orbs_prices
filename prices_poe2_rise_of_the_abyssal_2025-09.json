@@ -6213,5 +6213,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-06 01:57:55",
+    "Seller": "DeronWing",
+    "Stock": "4",
+    "Price": 0.68,
+    "Currency": "USD",
+    "Position": 1180,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-06 01:57:55",
+    "Seller": "EpicMurloc",
+    "Stock": "1",
+    "Price": 0.69,
+    "Currency": "USD",
+    "Position": 1182,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-06 01:57:55",
+    "Seller": "GoldForU",
+    "Stock": "10",
+    "Price": 0.7,
+    "Currency": "USD",
+    "Position": 1183,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-06 01:57:55",
+    "Seller": "Donne",
+    "Stock": "2",
+    "Price": 0.7,
+    "Currency": "USD",
+    "Position": 1184,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-06 01:57:55",
+    "Seller": "Salaval",
+    "Stock": "16",
+    "Price": 0.7,
+    "Currency": "USD",
+    "Position": 1185,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
