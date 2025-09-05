@@ -6268,5 +6268,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-06 02:58:08",
+    "Seller": "Mylenelfarmer",
+    "Stock": "55",
+    "Price": 0.67,
+    "Currency": "USD",
+    "Position": 1164,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-06 02:58:08",
+    "Seller": "Berzerov",
+    "Stock": "60",
+    "Price": 0.67,
+    "Currency": "USD",
+    "Position": 1175,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-06 02:58:08",
+    "Seller": "Holgert",
+    "Stock": "60",
+    "Price": 0.67,
+    "Currency": "USD",
+    "Position": 1176,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-06 02:58:08",
+    "Seller": "UltraMegaTOP1",
+    "Stock": "11",
+    "Price": 0.67,
+    "Currency": "USD",
+    "Position": 1177,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-06 02:58:08",
+    "Seller": "NuDBDas",
+    "Stock": "70",
+    "Price": 0.67,
+    "Currency": "USD",
+    "Position": 1178,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
