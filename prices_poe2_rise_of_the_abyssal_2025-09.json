@@ -5773,5 +5773,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-05 17:57:58",
+    "Seller": "esbeym",
+    "Stock": "65",
+    "Price": 0.74,
+    "Currency": "USD",
+    "Position": 1240,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-05 17:57:58",
+    "Seller": "HiddenPocket",
+    "Stock": "1",
+    "Price": 0.74,
+    "Currency": "USD",
+    "Position": 1265,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-05 17:57:58",
+    "Seller": "Bertsay",
+    "Stock": "14",
+    "Price": 0.74,
+    "Currency": "USD",
+    "Position": 1266,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-05 17:57:58",
+    "Seller": "Guyverok",
+    "Stock": "6",
+    "Price": 0.74,
+    "Currency": "USD",
+    "Position": 1267,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-05 17:57:58",
+    "Seller": "condemned2",
+    "Stock": "3",
+    "Price": 0.74,
+    "Currency": "USD",
+    "Position": 1268,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
