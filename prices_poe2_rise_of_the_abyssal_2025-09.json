@@ -9238,5 +9238,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-08 11:58:30",
+    "Seller": "pain64",
+    "Stock": "1",
+    "Price": 0.36,
+    "Currency": "USD",
+    "Position": 1239,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-08 11:58:30",
+    "Seller": "Zendia",
+    "Stock": "30",
+    "Price": 0.36,
+    "Currency": "USD",
+    "Position": 1241,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-08 11:58:30",
+    "Seller": "LeprekonTrader",
+    "Stock": "1",
+    "Price": 0.36,
+    "Currency": "USD",
+    "Position": 1243,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-08 11:58:30",
+    "Seller": "Devillian",
+    "Stock": "9",
+    "Price": 0.36,
+    "Currency": "USD",
+    "Position": 1244,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-08 11:58:30",
+    "Seller": "Yellowmeow",
+    "Stock": "30",
+    "Price": 0.36,
+    "Currency": "USD",
+    "Position": 1245,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
