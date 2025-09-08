@@ -9623,5 +9623,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-08 18:57:58",
+    "Seller": "orielta",
+    "Stock": "10",
+    "Price": 0.39,
+    "Currency": "USD",
+    "Position": 1196,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-08 18:57:58",
+    "Seller": "pikvikgrom",
+    "Stock": "7",
+    "Price": 0.4,
+    "Currency": "USD",
+    "Position": 1200,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-08 18:57:58",
+    "Seller": "SerjShow",
+    "Stock": "3",
+    "Price": 0.4,
+    "Currency": "USD",
+    "Position": 1201,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-08 18:57:58",
+    "Seller": "K1ndy",
+    "Stock": "3",
+    "Price": 0.4,
+    "Currency": "USD",
+    "Position": 1202,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-08 18:57:58",
+    "Seller": "TiinaProd",
+    "Stock": "1",
+    "Price": 0.41,
+    "Currency": "USD",
+    "Position": 1204,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
