@@ -9293,5 +9293,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-08 12:58:10",
+    "Seller": "eliteDEKIN",
+    "Stock": "60",
+    "Price": 0.36,
+    "Currency": "USD",
+    "Position": 1261,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-08 12:58:10",
+    "Seller": "IronBank",
+    "Stock": "2",
+    "Price": 0.36,
+    "Currency": "USD",
+    "Position": 1262,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-08 12:58:10",
+    "Seller": "Praximoq",
+    "Stock": "1",
+    "Price": 0.36,
+    "Currency": "USD",
+    "Position": 1263,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-08 12:58:10",
+    "Seller": "datpet",
+    "Stock": "3",
+    "Price": 0.36,
+    "Currency": "USD",
+    "Position": 1264,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-08 12:58:10",
+    "Seller": "LakeofTears",
+    "Stock": "50",
+    "Price": 0.36,
+    "Currency": "USD",
+    "Position": 1265,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
