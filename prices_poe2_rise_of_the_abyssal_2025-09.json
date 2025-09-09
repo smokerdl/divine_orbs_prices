@@ -10393,5 +10393,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-09 09:57:51",
+    "Seller": "Miga1111",
+    "Stock": "1",
+    "Price": 0.4,
+    "Currency": "USD",
+    "Position": 1123,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-09 09:57:51",
+    "Seller": "Digrei321",
+    "Stock": "20",
+    "Price": 0.4,
+    "Currency": "USD",
+    "Position": 1125,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-09 09:57:51",
+    "Seller": "BadGoldMachine",
+    "Stock": "5",
+    "Price": 0.41,
+    "Currency": "USD",
+    "Position": 1126,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-09 09:57:51",
+    "Seller": "loncer",
+    "Stock": "65",
+    "Price": 0.41,
+    "Currency": "USD",
+    "Position": 1127,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-09 09:57:51",
+    "Seller": "NewGreen",
+    "Stock": "15",
+    "Price": 0.41,
+    "Currency": "USD",
+    "Position": 1129,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
