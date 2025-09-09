@@ -10338,5 +10338,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-09 08:57:59",
+    "Seller": "HolySquid",
+    "Stock": "4",
+    "Price": 0.4,
+    "Currency": "USD",
+    "Position": 1105,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-09 08:57:59",
+    "Seller": "Miga1111",
+    "Stock": "1",
+    "Price": 0.4,
+    "Currency": "USD",
+    "Position": 1106,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-09 08:57:59",
+    "Seller": "Mocumo",
+    "Stock": "1",
+    "Price": 0.4,
+    "Currency": "USD",
+    "Position": 1108,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-09 08:57:59",
+    "Seller": "Udachnic",
+    "Stock": "40",
+    "Price": 0.4,
+    "Currency": "USD",
+    "Position": 1109,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-09 08:57:59",
+    "Seller": "Numinexs",
+    "Stock": "19",
+    "Price": 0.4,
+    "Currency": "USD",
+    "Position": 1110,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
