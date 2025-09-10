@@ -12208,5 +12208,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-10 19:58:38",
+    "Seller": "Lirick",
+    "Stock": "5",
+    "Price": 0.38,
+    "Currency": "USD",
+    "Position": 1213,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-10 19:58:38",
+    "Seller": "biggus",
+    "Stock": "45",
+    "Price": 0.38,
+    "Currency": "USD",
+    "Position": 1214,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-10 19:58:38",
+    "Seller": "KrashSlash",
+    "Stock": "9",
+    "Price": 0.38,
+    "Currency": "USD",
+    "Position": 1215,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-10 19:58:38",
+    "Seller": "Gedrastar",
+    "Stock": "120",
+    "Price": 0.39,
+    "Currency": "USD",
+    "Position": 1216,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-10 19:58:38",
+    "Seller": "FunAchives",
+    "Stock": "85",
+    "Price": 0.39,
+    "Currency": "USD",
+    "Position": 1217,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
