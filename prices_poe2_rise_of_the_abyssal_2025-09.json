@@ -11933,5 +11933,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-10 14:57:56",
+    "Seller": "Taleron",
+    "Stock": "50",
+    "Price": 0.37,
+    "Currency": "USD",
+    "Position": 1169,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-10 14:57:56",
+    "Seller": "ArenSolAsp",
+    "Stock": "20",
+    "Price": 0.37,
+    "Currency": "USD",
+    "Position": 1170,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-10 14:57:56",
+    "Seller": "Lexion",
+    "Stock": "50",
+    "Price": 0.37,
+    "Currency": "USD",
+    "Position": 1171,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-10 14:57:56",
+    "Seller": "Vazmaz",
+    "Stock": "5",
+    "Price": 0.37,
+    "Currency": "USD",
+    "Position": 1172,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-10 14:57:56",
+    "Seller": "Curo",
+    "Stock": "40",
+    "Price": 0.37,
+    "Currency": "USD",
+    "Position": 1173,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
