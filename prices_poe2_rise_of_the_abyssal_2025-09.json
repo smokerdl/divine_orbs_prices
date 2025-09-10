@@ -12318,5 +12318,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-10 21:57:54",
+    "Seller": "KukoroRui",
+    "Stock": "40",
+    "Price": 0.38,
+    "Currency": "USD",
+    "Position": 1184,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-10 21:57:54",
+    "Seller": "Barminator",
+    "Stock": "1",
+    "Price": 0.38,
+    "Currency": "USD",
+    "Position": 1185,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-10 21:57:54",
+    "Seller": "GameCity",
+    "Stock": "7",
+    "Price": 0.38,
+    "Currency": "USD",
+    "Position": 1186,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-10 21:57:54",
+    "Seller": "Allzy",
+    "Stock": "150",
+    "Price": 0.39,
+    "Currency": "USD",
+    "Position": 1187,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-10 21:57:54",
+    "Seller": "Yellowmeow",
+    "Stock": "150",
+    "Price": 0.39,
+    "Currency": "USD",
+    "Position": 1188,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
