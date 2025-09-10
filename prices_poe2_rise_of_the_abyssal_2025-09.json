@@ -11713,5 +11713,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-10 10:58:06",
+    "Seller": "mrxaa",
+    "Stock": "40",
+    "Price": 0.36,
+    "Currency": "USD",
+    "Position": 1184,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-10 10:58:06",
+    "Seller": "MegaShoker",
+    "Stock": "50",
+    "Price": 0.36,
+    "Currency": "USD",
+    "Position": 1186,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-10 10:58:06",
+    "Seller": "SpokeSMDB",
+    "Stock": "50",
+    "Price": 0.36,
+    "Currency": "USD",
+    "Position": 1187,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-10 10:58:06",
+    "Seller": "Trader1554",
+    "Stock": "60",
+    "Price": 0.36,
+    "Currency": "USD",
+    "Position": 1188,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-10 10:58:06",
+    "Seller": "Perfecto",
+    "Stock": "52",
+    "Price": 0.36,
+    "Currency": "USD",
+    "Position": 1200,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
