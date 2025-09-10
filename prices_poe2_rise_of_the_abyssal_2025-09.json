@@ -11823,5 +11823,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-10 12:58:00",
+    "Seller": "NearMind",
+    "Stock": "14",
+    "Price": 0.36,
+    "Currency": "USD",
+    "Position": 1204,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-10 12:58:00",
+    "Seller": "GreyFluffy",
+    "Stock": "37",
+    "Price": 0.36,
+    "Currency": "USD",
+    "Position": 1205,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-10 12:58:00",
+    "Seller": "Bladoobls",
+    "Stock": "1",
+    "Price": 0.37,
+    "Currency": "USD",
+    "Position": 1206,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-10 12:58:00",
+    "Seller": "fansy",
+    "Stock": "65",
+    "Price": 0.37,
+    "Currency": "USD",
+    "Position": 1207,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-10 12:58:00",
+    "Seller": "Midzin",
+    "Stock": "2",
+    "Price": 0.37,
+    "Currency": "USD",
+    "Position": 1208,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
