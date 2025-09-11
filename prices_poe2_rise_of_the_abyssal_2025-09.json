@@ -12703,5 +12703,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-11 06:24:36",
+    "Seller": "Psixxoo",
+    "Stock": "260",
+    "Price": 0.31,
+    "Currency": "USD",
+    "Position": 1067,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-11 06:24:36",
+    "Seller": "Demasia",
+    "Stock": "25",
+    "Price": 0.31,
+    "Currency": "USD",
+    "Position": 1068,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-11 06:24:36",
+    "Seller": "LegendaPOE",
+    "Stock": "100",
+    "Price": 0.31,
+    "Currency": "USD",
+    "Position": 1069,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-11 06:24:36",
+    "Seller": "MrProper16",
+    "Stock": "86",
+    "Price": 0.31,
+    "Currency": "USD",
+    "Position": 1070,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-11 06:24:36",
+    "Seller": "Felwind",
+    "Stock": "116",
+    "Price": 0.31,
+    "Currency": "USD",
+    "Position": 1071,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
