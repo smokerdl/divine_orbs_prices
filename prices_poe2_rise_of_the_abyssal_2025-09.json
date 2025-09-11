@@ -13253,5 +13253,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-11 16:15:24",
+    "Seller": "BadGoldMachine",
+    "Stock": "6",
+    "Price": 0.37,
+    "Currency": "USD",
+    "Position": 1125,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-11 16:15:24",
+    "Seller": "Chlenvortu",
+    "Stock": "20",
+    "Price": 0.37,
+    "Currency": "USD",
+    "Position": 1127,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-11 16:15:24",
+    "Seller": "GNKSANJOK",
+    "Stock": "2",
+    "Price": 0.37,
+    "Currency": "USD",
+    "Position": 1128,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-11 16:15:24",
+    "Seller": "Udachnic",
+    "Stock": "80",
+    "Price": 0.38,
+    "Currency": "USD",
+    "Position": 1129,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-11 16:15:24",
+    "Seller": "clavie",
+    "Stock": "90",
+    "Price": 0.38,
+    "Currency": "USD",
+    "Position": 1130,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
