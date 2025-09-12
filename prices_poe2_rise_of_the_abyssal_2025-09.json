@@ -14518,5 +14518,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-12 16:15:30",
+    "Seller": "nextoneavenger",
+    "Stock": "41",
+    "Price": 0.4,
+    "Currency": "USD",
+    "Position": 1109,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-12 16:15:30",
+    "Seller": "venomtech",
+    "Stock": "14",
+    "Price": 0.4,
+    "Currency": "USD",
+    "Position": 1110,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-12 16:15:30",
+    "Seller": "MrOgurchik",
+    "Stock": "26",
+    "Price": 0.4,
+    "Currency": "USD",
+    "Position": 1111,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-12 16:15:30",
+    "Seller": "ForzaJuvelul",
+    "Stock": "50",
+    "Price": 0.41,
+    "Currency": "USD",
+    "Position": 1113,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-12 16:15:30",
+    "Seller": "UltraMegaTOP1",
+    "Stock": "18",
+    "Price": 0.41,
+    "Currency": "USD",
+    "Position": 1114,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
