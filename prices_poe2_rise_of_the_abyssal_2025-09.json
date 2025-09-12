@@ -15013,5 +15013,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-13 00:57:52",
+    "Seller": "Parfenka",
+    "Stock": "1",
+    "Price": 0.39,
+    "Currency": "USD",
+    "Position": 1148,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-13 00:57:52",
+    "Seller": "Reinier",
+    "Stock": "1",
+    "Price": 0.39,
+    "Currency": "USD",
+    "Position": 1150,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-13 00:57:52",
+    "Seller": "BadGoldMachine",
+    "Stock": "11",
+    "Price": 0.4,
+    "Currency": "USD",
+    "Position": 1151,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-13 00:57:52",
+    "Seller": "Meknbc",
+    "Stock": "3",
+    "Price": 0.4,
+    "Currency": "USD",
+    "Position": 1152,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-13 00:57:52",
+    "Seller": "SonAnarchy",
+    "Stock": "40",
+    "Price": 0.4,
+    "Currency": "USD",
+    "Position": 1153,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
