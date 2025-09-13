@@ -15838,5 +15838,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-13 16:58:15",
+    "Seller": "Cuerpo",
+    "Stock": "50",
+    "Price": 0.38,
+    "Currency": "USD",
+    "Position": 1173,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-13 16:58:15",
+    "Seller": "MoonSunGoo",
+    "Stock": "70",
+    "Price": 0.38,
+    "Currency": "USD",
+    "Position": 1174,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-13 16:58:15",
+    "Seller": "lmaoqq",
+    "Stock": "30",
+    "Price": 0.38,
+    "Currency": "USD",
+    "Position": 1175,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-13 16:58:15",
+    "Seller": "Doubleit",
+    "Stock": "300",
+    "Price": 0.39,
+    "Currency": "USD",
+    "Position": 1176,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-13 16:58:15",
+    "Seller": "q343",
+    "Stock": "100",
+    "Price": 0.39,
+    "Currency": "USD",
+    "Position": 1177,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
