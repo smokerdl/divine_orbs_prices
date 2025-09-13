@@ -15673,5 +15673,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-13 13:57:57",
+    "Seller": "Deadteak",
+    "Stock": "1",
+    "Price": 0.39,
+    "Currency": "USD",
+    "Position": 1167,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-13 13:57:57",
+    "Seller": "Antaqonisto",
+    "Stock": "1",
+    "Price": 0.39,
+    "Currency": "USD",
+    "Position": 1173,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-13 13:57:57",
+    "Seller": "Meknbc",
+    "Stock": "1",
+    "Price": 0.39,
+    "Currency": "USD",
+    "Position": 1174,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-13 13:57:57",
+    "Seller": "Mjha",
+    "Stock": "17",
+    "Price": 0.39,
+    "Currency": "USD",
+    "Position": 1175,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-13 13:57:57",
+    "Seller": "Nightwings",
+    "Stock": "100",
+    "Price": 0.39,
+    "Currency": "USD",
+    "Position": 1176,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
