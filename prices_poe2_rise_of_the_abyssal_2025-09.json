@@ -17433,5 +17433,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-14 22:58:08",
+    "Seller": "DuskGrotesque",
+    "Stock": "30",
+    "Price": 0.26,
+    "Currency": "USD",
+    "Position": 1053,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-14 22:58:08",
+    "Seller": "RusRio",
+    "Stock": "33",
+    "Price": 0.27,
+    "Currency": "USD",
+    "Position": 1054,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-14 22:58:08",
+    "Seller": "Dispax",
+    "Stock": "70",
+    "Price": 0.27,
+    "Currency": "USD",
+    "Position": 1055,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-14 22:58:08",
+    "Seller": "IronBank",
+    "Stock": "12",
+    "Price": 0.27,
+    "Currency": "USD",
+    "Position": 1056,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-14 22:58:08",
+    "Seller": "Wistint",
+    "Stock": "700",
+    "Price": 0.27,
+    "Currency": "USD",
+    "Position": 1057,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
