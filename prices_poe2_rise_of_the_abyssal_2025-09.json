@@ -17378,5 +17378,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-14 21:58:19",
+    "Seller": "RoMoT",
+    "Stock": "107",
+    "Price": 0.26,
+    "Currency": "USD",
+    "Position": 1049,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-14 21:58:19",
+    "Seller": "BlenderMix",
+    "Stock": "15",
+    "Price": 0.26,
+    "Currency": "USD",
+    "Position": 1050,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-14 21:58:19",
+    "Seller": "Ktann",
+    "Stock": "5",
+    "Price": 0.26,
+    "Currency": "USD",
+    "Position": 1052,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-14 21:58:19",
+    "Seller": "Mazarinik",
+    "Stock": "16",
+    "Price": 0.26,
+    "Currency": "USD",
+    "Position": 1053,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-14 21:58:19",
+    "Seller": "Ripples",
+    "Stock": "45",
+    "Price": 0.26,
+    "Currency": "USD",
+    "Position": 1054,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
