@@ -18423,5 +18423,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-15 17:57:57",
+    "Seller": "Vediys",
+    "Stock": "74",
+    "Price": 0.27,
+    "Currency": "USD",
+    "Position": 1132,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-15 17:57:57",
+    "Seller": "yarster",
+    "Stock": "100",
+    "Price": 0.27,
+    "Currency": "USD",
+    "Position": 1133,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-15 17:57:57",
+    "Seller": "Liyr",
+    "Stock": "100",
+    "Price": 0.27,
+    "Currency": "USD",
+    "Position": 1134,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-15 17:57:57",
+    "Seller": "Cfytr",
+    "Stock": "78",
+    "Price": 0.27,
+    "Currency": "USD",
+    "Position": 1135,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-15 17:57:57",
+    "Seller": "Creative26",
+    "Stock": "41",
+    "Price": 0.27,
+    "Currency": "USD",
+    "Position": 1136,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
