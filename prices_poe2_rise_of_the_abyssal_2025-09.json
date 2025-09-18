@@ -21723,5 +21723,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-18 08:57:51",
+    "Seller": "HammApp",
+    "Stock": "90",
+    "Price": 0.22,
+    "Currency": "USD",
+    "Position": 1054,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-18 08:57:51",
+    "Seller": "PuBlWe",
+    "Stock": "81",
+    "Price": 0.22,
+    "Currency": "USD",
+    "Position": 1055,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-18 08:57:51",
+    "Seller": "pwnage",
+    "Stock": "94",
+    "Price": 0.22,
+    "Currency": "USD",
+    "Position": 1058,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-18 08:57:51",
+    "Seller": "DiamondCoins",
+    "Stock": "15",
+    "Price": 0.22,
+    "Currency": "USD",
+    "Position": 1059,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-18 08:57:51",
+    "Seller": "Kenpach25",
+    "Stock": "100",
+    "Price": 0.22,
+    "Currency": "USD",
+    "Position": 1060,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
