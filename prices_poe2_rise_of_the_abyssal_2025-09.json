@@ -24583,5 +24583,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-20 14:57:56",
+    "Seller": "elektronique",
+    "Stock": "100",
+    "Price": 0.188,
+    "Currency": "USD",
+    "Position": 1092,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-20 14:57:56",
+    "Seller": "DeathEye",
+    "Stock": "800",
+    "Price": 0.188,
+    "Currency": "USD",
+    "Position": 1093,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-20 14:57:56",
+    "Seller": "SifonX",
+    "Stock": "1000",
+    "Price": 0.188,
+    "Currency": "USD",
+    "Position": 1094,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-20 14:57:56",
+    "Seller": "DelioN227",
+    "Stock": "500",
+    "Price": 0.188,
+    "Currency": "USD",
+    "Position": 1095,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-20 14:57:56",
+    "Seller": "LUSHAL",
+    "Stock": "233",
+    "Price": 0.188,
+    "Currency": "USD",
+    "Position": 1099,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
