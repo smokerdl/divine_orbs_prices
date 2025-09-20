@@ -24033,5 +24033,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-20 05:09:55",
+    "Seller": "se21trg45g4as",
+    "Stock": "120",
+    "Price": 0.195,
+    "Currency": "USD",
+    "Position": 1073,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-20 05:09:55",
+    "Seller": "MegaShoker",
+    "Stock": "150",
+    "Price": 0.2,
+    "Currency": "USD",
+    "Position": 1076,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-20 05:09:55",
+    "Seller": "AngryMalder",
+    "Stock": "100",
+    "Price": 0.2,
+    "Currency": "USD",
+    "Position": 1082,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-20 05:09:55",
+    "Seller": "Qxx",
+    "Stock": "160",
+    "Price": 0.2,
+    "Currency": "USD",
+    "Position": 1084,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-20 05:09:55",
+    "Seller": "Gasbeck",
+    "Stock": "880",
+    "Price": 0.2,
+    "Currency": "USD",
+    "Position": 1085,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
