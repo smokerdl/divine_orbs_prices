@@ -25353,5 +25353,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-21 06:30:53",
+    "Seller": "Wistint",
+    "Stock": "500",
+    "Price": 0.184,
+    "Currency": "USD",
+    "Position": 1053,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-21 06:30:53",
+    "Seller": "Adv0cate",
+    "Stock": "693",
+    "Price": 0.185,
+    "Currency": "USD",
+    "Position": 1054,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-21 06:30:53",
+    "Seller": "aq100000",
+    "Stock": "80",
+    "Price": 0.188,
+    "Currency": "USD",
+    "Position": 1055,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-21 06:30:53",
+    "Seller": "sanjas",
+    "Stock": "67",
+    "Price": 0.188,
+    "Currency": "USD",
+    "Position": 1056,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-21 06:30:53",
+    "Seller": "Pashaa09",
+    "Stock": "120",
+    "Price": 0.188,
+    "Currency": "USD",
+    "Position": 1057,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
