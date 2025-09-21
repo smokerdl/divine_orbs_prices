@@ -26508,5 +26508,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-22 02:57:56",
+    "Seller": "Tallanor",
+    "Stock": "140",
+    "Price": 0.142,
+    "Currency": "USD",
+    "Position": 1028,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-22 02:57:56",
+    "Seller": "b0tanik",
+    "Stock": "96",
+    "Price": 0.143,
+    "Currency": "USD",
+    "Position": 1029,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-22 02:57:56",
+    "Seller": "dargstorm",
+    "Stock": "50",
+    "Price": 0.143,
+    "Currency": "USD",
+    "Position": 1030,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-22 02:57:56",
+    "Seller": "Quop",
+    "Stock": "45",
+    "Price": 0.143,
+    "Currency": "USD",
+    "Position": 1031,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-22 02:57:56",
+    "Seller": "Yunihikokun",
+    "Stock": "200",
+    "Price": 0.144,
+    "Currency": "USD",
+    "Position": 1032,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
