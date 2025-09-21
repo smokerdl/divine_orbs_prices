@@ -25408,5 +25408,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-21 06:58:19",
+    "Seller": "ULquiorraSHiffer",
+    "Stock": "30",
+    "Price": 0.159,
+    "Currency": "USD",
+    "Position": 1051,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-21 06:58:19",
+    "Seller": "WOTSkill1",
+    "Stock": "50",
+    "Price": 0.159,
+    "Currency": "USD",
+    "Position": 1052,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-21 06:58:19",
+    "Seller": "Farmotronik",
+    "Stock": "144",
+    "Price": 0.16,
+    "Currency": "USD",
+    "Position": 1053,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-21 06:58:19",
+    "Seller": "krintik",
+    "Stock": "200",
+    "Price": 0.16,
+    "Currency": "USD",
+    "Position": 1054,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-21 06:58:19",
+    "Seller": "Wistint",
+    "Stock": "500",
+    "Price": 0.16,
+    "Currency": "USD",
+    "Position": 1055,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
