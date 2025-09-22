@@ -27773,5 +27773,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-23 02:57:52",
+    "Seller": "HeyGuys",
+    "Stock": "181",
+    "Price": 0.146,
+    "Currency": "USD",
+    "Position": 1014,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-23 02:57:52",
+    "Seller": "EgorMissClick",
+    "Stock": "60",
+    "Price": 0.146,
+    "Currency": "USD",
+    "Position": 1015,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-23 02:57:52",
+    "Seller": "Salaval",
+    "Stock": "90",
+    "Price": 0.147,
+    "Currency": "USD",
+    "Position": 1016,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-23 02:57:52",
+    "Seller": "Nargrame",
+    "Stock": "650",
+    "Price": 0.147,
+    "Currency": "USD",
+    "Position": 1017,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-23 02:57:52",
+    "Seller": "Ivyshka",
+    "Stock": "400",
+    "Price": 0.147,
+    "Currency": "USD",
+    "Position": 1018,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
