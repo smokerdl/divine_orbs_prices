@@ -28543,5 +28543,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-23 17:58:07",
+    "Seller": "TakeMyEnergy",
+    "Stock": "200",
+    "Price": 0.111,
+    "Currency": "USD",
+    "Position": 1020,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-23 17:58:07",
+    "Seller": "LetitBear",
+    "Stock": "150",
+    "Price": 0.111,
+    "Currency": "USD",
+    "Position": 1021,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-23 17:58:07",
+    "Seller": "Abelix",
+    "Stock": "92",
+    "Price": 0.111,
+    "Currency": "USD",
+    "Position": 1022,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-23 17:58:07",
+    "Seller": "fkkx",
+    "Stock": "200",
+    "Price": 0.111,
+    "Currency": "USD",
+    "Position": 1023,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-23 17:58:07",
+    "Seller": "waterwood",
+    "Stock": "323",
+    "Price": 0.111,
+    "Currency": "USD",
+    "Position": 1024,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
