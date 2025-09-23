@@ -28488,5 +28488,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-23 16:57:55",
+    "Seller": "TakeMyEnergy",
+    "Stock": "900",
+    "Price": 0.131,
+    "Currency": "USD",
+    "Position": 1011,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-23 16:57:55",
+    "Seller": "waterwood",
+    "Stock": "323",
+    "Price": 0.132,
+    "Currency": "USD",
+    "Position": 1012,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-23 16:57:55",
+    "Seller": "DelioN227",
+    "Stock": "2500",
+    "Price": 0.132,
+    "Currency": "USD",
+    "Position": 1013,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-23 16:57:55",
+    "Seller": "Missuri23",
+    "Stock": "1267",
+    "Price": 0.132,
+    "Currency": "USD",
+    "Position": 1014,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-23 16:57:55",
+    "Seller": "BeerBooster",
+    "Stock": "15",
+    "Price": 0.132,
+    "Currency": "USD",
+    "Position": 1015,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
