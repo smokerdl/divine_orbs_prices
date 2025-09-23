@@ -28818,5 +28818,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-23 22:58:30",
+    "Seller": "AlexKovalevv",
+    "Stock": "5",
+    "Price": 0.123,
+    "Currency": "USD",
+    "Position": 1029,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-23 22:58:30",
+    "Seller": "Rangerpewpew",
+    "Stock": "100",
+    "Price": 0.126,
+    "Currency": "USD",
+    "Position": 1030,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-23 22:58:30",
+    "Seller": "Nekou",
+    "Stock": "132",
+    "Price": 0.126,
+    "Currency": "USD",
+    "Position": 1031,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-23 22:58:30",
+    "Seller": "DeathEye",
+    "Stock": "569",
+    "Price": 0.126,
+    "Currency": "USD",
+    "Position": 1032,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-23 22:58:30",
+    "Seller": "HolySquid",
+    "Stock": "200",
+    "Price": 0.126,
+    "Currency": "USD",
+    "Position": 1063,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
