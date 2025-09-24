@@ -29973,5 +29973,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-24 20:57:55",
+    "Seller": "SectorClearos",
+    "Stock": "135",
+    "Price": 0.101,
+    "Currency": "USD",
+    "Position": 1020,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-24 20:57:55",
+    "Seller": "worker1",
+    "Stock": "9",
+    "Price": 0.101,
+    "Currency": "USD",
+    "Position": 1021,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-24 20:57:55",
+    "Seller": "sfdf",
+    "Stock": "30",
+    "Price": 0.101,
+    "Currency": "USD",
+    "Position": 1022,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-24 20:57:55",
+    "Seller": "Sarni",
+    "Stock": "20",
+    "Price": 0.102,
+    "Currency": "USD",
+    "Position": 1025,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-24 20:57:55",
+    "Seller": "zames3355",
+    "Stock": "110",
+    "Price": 0.103,
+    "Currency": "USD",
+    "Position": 1026,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
