@@ -32393,5 +32393,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-26 18:58:18",
+    "Seller": "zyqfaka",
+    "Stock": "100",
+    "Price": 0.113,
+    "Currency": "USD",
+    "Position": 1011,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-26 18:58:18",
+    "Seller": "PesoEuroDollar",
+    "Stock": "300",
+    "Price": 0.114,
+    "Currency": "USD",
+    "Position": 1012,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-26 18:58:18",
+    "Seller": "Brexit",
+    "Stock": "237",
+    "Price": 0.114,
+    "Currency": "USD",
+    "Position": 1013,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-26 18:58:18",
+    "Seller": "whosman",
+    "Stock": "330",
+    "Price": 0.114,
+    "Currency": "USD",
+    "Position": 1014,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-26 18:58:18",
+    "Seller": "sandpiper",
+    "Stock": "400",
+    "Price": 0.114,
+    "Currency": "USD",
+    "Position": 1015,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
