@@ -31678,5 +31678,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-26 06:24:09",
+    "Seller": "stmm",
+    "Stock": "50",
+    "Price": 0.104,
+    "Currency": "USD",
+    "Position": 993,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-26 06:24:09",
+    "Seller": "wowmmm",
+    "Stock": "800",
+    "Price": 0.104,
+    "Currency": "USD",
+    "Position": 994,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-26 06:24:09",
+    "Seller": "L2EDelivery",
+    "Stock": "1200",
+    "Price": 0.104,
+    "Currency": "USD",
+    "Position": 995,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-26 06:24:09",
+    "Seller": "largo19",
+    "Stock": "450",
+    "Price": 0.106,
+    "Currency": "USD",
+    "Position": 997,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-26 06:24:09",
+    "Seller": "rtxPawn",
+    "Stock": "1240",
+    "Price": 0.107,
+    "Currency": "USD",
+    "Position": 998,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
