@@ -31788,5 +31788,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-26 07:58:08",
+    "Seller": "huitessa",
+    "Stock": "180",
+    "Price": 0.103,
+    "Currency": "USD",
+    "Position": 971,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-26 07:58:08",
+    "Seller": "StrokerKIT",
+    "Stock": "200",
+    "Price": 0.103,
+    "Currency": "USD",
+    "Position": 972,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-26 07:58:08",
+    "Seller": "InfusionAshenvale",
+    "Stock": "210",
+    "Price": 0.104,
+    "Currency": "USD",
+    "Position": 975,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-26 07:58:08",
+    "Seller": "Major666",
+    "Stock": "340",
+    "Price": 0.104,
+    "Currency": "USD",
+    "Position": 990,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-26 07:58:08",
+    "Seller": "Melismut",
+    "Stock": "110",
+    "Price": 0.104,
+    "Currency": "USD",
+    "Position": 991,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
