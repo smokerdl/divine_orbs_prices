@@ -35088,5 +35088,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-28 21:58:12",
+    "Seller": "REGsteam",
+    "Stock": "22",
+    "Price": 0.102,
+    "Currency": "USD",
+    "Position": 990,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-28 21:58:12",
+    "Seller": "Hydrostation",
+    "Stock": "100",
+    "Price": 0.103,
+    "Currency": "USD",
+    "Position": 991,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-28 21:58:12",
+    "Seller": "Duderino",
+    "Stock": "20",
+    "Price": 0.103,
+    "Currency": "USD",
+    "Position": 992,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-28 21:58:12",
+    "Seller": "DreamUnderTheNight",
+    "Stock": "999",
+    "Price": 0.103,
+    "Currency": "USD",
+    "Position": 993,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-28 21:58:12",
+    "Seller": "Lossato",
+    "Stock": "90",
+    "Price": 0.103,
+    "Currency": "USD",
+    "Position": 994,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
