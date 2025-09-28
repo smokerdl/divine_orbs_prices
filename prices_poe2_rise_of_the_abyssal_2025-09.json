@@ -34703,5 +34703,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-28 14:57:53",
+    "Seller": "mayfair",
+    "Stock": "240",
+    "Price": 0.097,
+    "Currency": "USD",
+    "Position": 1011,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-28 14:57:53",
+    "Seller": "Annet777",
+    "Stock": "400",
+    "Price": 0.097,
+    "Currency": "USD",
+    "Position": 1012,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-28 14:57:53",
+    "Seller": "Zachemmneimya",
+    "Stock": "400",
+    "Price": 0.098,
+    "Currency": "USD",
+    "Position": 1013,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-28 14:57:53",
+    "Seller": "DeathEye",
+    "Stock": "400",
+    "Price": 0.099,
+    "Currency": "USD",
+    "Position": 1014,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-28 14:57:53",
+    "Seller": "Nargrame",
+    "Stock": "1000",
+    "Price": 0.102,
+    "Currency": "USD",
+    "Position": 1021,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
