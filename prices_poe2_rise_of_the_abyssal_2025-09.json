@@ -35363,5 +35363,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-29 02:57:55",
+    "Seller": "SimulFarm",
+    "Stock": "42",
+    "Price": 0.109,
+    "Currency": "USD",
+    "Position": 966,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-29 02:57:55",
+    "Seller": "soptax",
+    "Stock": "900",
+    "Price": 0.109,
+    "Currency": "USD",
+    "Position": 967,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-29 02:57:55",
+    "Seller": "merlya",
+    "Stock": "1300",
+    "Price": 0.109,
+    "Currency": "USD",
+    "Position": 968,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-29 02:57:55",
+    "Seller": "NInesouls",
+    "Stock": "24",
+    "Price": 0.109,
+    "Currency": "USD",
+    "Position": 969,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-29 02:57:55",
+    "Seller": "RoryBoo",
+    "Stock": "125",
+    "Price": 0.109,
+    "Currency": "USD",
+    "Position": 970,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
