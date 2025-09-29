@@ -36518,5 +36518,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-30 00:57:58",
+    "Seller": "PepeCoins",
+    "Stock": "300",
+    "Price": 0.102,
+    "Currency": "USD",
+    "Position": 1005,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-30 00:57:58",
+    "Seller": "Criz87",
+    "Stock": "120",
+    "Price": 0.104,
+    "Currency": "USD",
+    "Position": 1009,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-30 00:57:58",
+    "Seller": "Duncanandrey",
+    "Stock": "128",
+    "Price": 0.105,
+    "Currency": "USD",
+    "Position": 1010,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-30 00:57:58",
+    "Seller": "phaantom",
+    "Stock": "2332",
+    "Price": 0.105,
+    "Currency": "USD",
+    "Position": 1012,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-30 00:57:58",
+    "Seller": "Kor142",
+    "Stock": "1000",
+    "Price": 0.105,
+    "Currency": "USD",
+    "Position": 1014,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
