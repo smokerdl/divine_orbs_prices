@@ -37508,5 +37508,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-30 19:58:00",
+    "Seller": "Vitara22",
+    "Stock": "241",
+    "Price": 0.094,
+    "Currency": "USD",
+    "Position": 998,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-30 19:58:00",
+    "Seller": "Adires",
+    "Stock": "208",
+    "Price": 0.094,
+    "Currency": "USD",
+    "Position": 999,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-30 19:58:00",
+    "Seller": "Brexit",
+    "Stock": "748",
+    "Price": 0.094,
+    "Currency": "USD",
+    "Position": 1000,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-30 19:58:00",
+    "Seller": "SoulForChester",
+    "Stock": "1430",
+    "Price": 0.098,
+    "Currency": "USD",
+    "Position": 1005,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-30 19:58:00",
+    "Seller": "Saygetsu",
+    "Stock": "97",
+    "Price": 0.101,
+    "Currency": "USD",
+    "Position": 1008,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
