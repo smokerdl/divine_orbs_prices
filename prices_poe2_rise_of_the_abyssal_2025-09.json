@@ -37123,5 +37123,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-30 12:58:19",
+    "Seller": "Dispax",
+    "Stock": "100",
+    "Price": 0.085,
+    "Currency": "USD",
+    "Position": 1009,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-30 12:58:19",
+    "Seller": "DeathEye",
+    "Stock": "700",
+    "Price": 0.086,
+    "Currency": "USD",
+    "Position": 1010,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-30 12:58:19",
+    "Seller": "pathfinder666",
+    "Stock": "600",
+    "Price": 0.086,
+    "Currency": "USD",
+    "Position": 1011,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-30 12:58:19",
+    "Seller": "Pantheon96",
+    "Stock": "500",
+    "Price": 0.086,
+    "Currency": "USD",
+    "Position": 1014,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-30 12:58:19",
+    "Seller": "PraiseTheLight",
+    "Stock": "119",
+    "Price": 0.086,
+    "Currency": "USD",
+    "Position": 1015,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
