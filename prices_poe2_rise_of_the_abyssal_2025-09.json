@@ -37673,5 +37673,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-30 22:58:05",
+    "Seller": "wargloom",
+    "Stock": "200",
+    "Price": 0.074,
+    "Currency": "USD",
+    "Position": 987,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-30 22:58:05",
+    "Seller": "Califera",
+    "Stock": "40",
+    "Price": 0.077,
+    "Currency": "USD",
+    "Position": 992,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-30 22:58:05",
+    "Seller": "Egor19987",
+    "Stock": "175",
+    "Price": 0.077,
+    "Currency": "USD",
+    "Position": 1002,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-30 22:58:05",
+    "Seller": "RRorschach",
+    "Stock": "200",
+    "Price": 0.077,
+    "Currency": "USD",
+    "Position": 1003,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-09-30 22:58:05",
+    "Seller": "HarrrdHC",
+    "Stock": "250",
+    "Price": 0.077,
+    "Currency": "USD",
+    "Position": 1004,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
