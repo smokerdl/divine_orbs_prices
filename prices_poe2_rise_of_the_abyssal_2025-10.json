@@ -1978,5 +1978,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-02 17:57:57",
+    "Seller": "MaggotSIC",
+    "Stock": "200",
+    "Price": 0.118,
+    "Currency": "USD",
+    "Position": 976,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-02 17:57:57",
+    "Seller": "dosadasnikom",
+    "Stock": "620",
+    "Price": 0.118,
+    "Currency": "USD",
+    "Position": 977,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-02 17:57:57",
+    "Seller": "ExileStorm",
+    "Stock": "100",
+    "Price": 0.119,
+    "Currency": "USD",
+    "Position": 978,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-02 17:57:57",
+    "Seller": "shikaka",
+    "Stock": "500",
+    "Price": 0.119,
+    "Currency": "USD",
+    "Position": 980,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-02 17:57:57",
+    "Seller": "Betsdqer",
+    "Stock": "100",
+    "Price": 0.119,
+    "Currency": "USD",
+    "Position": 981,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
