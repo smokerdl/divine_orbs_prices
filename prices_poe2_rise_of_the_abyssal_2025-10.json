@@ -1648,5 +1648,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-02 11:58:00",
+    "Seller": "Betforgen",
+    "Stock": "450",
+    "Price": 0.112,
+    "Currency": "USD",
+    "Position": 983,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-02 11:58:00",
+    "Seller": "Linkzzz",
+    "Stock": "400",
+    "Price": 0.112,
+    "Currency": "USD",
+    "Position": 984,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-02 11:58:00",
+    "Seller": "Gavin",
+    "Stock": "450",
+    "Price": 0.112,
+    "Currency": "USD",
+    "Position": 985,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-02 11:58:00",
+    "Seller": "Cy64uk",
+    "Stock": "600",
+    "Price": 0.112,
+    "Currency": "USD",
+    "Position": 986,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-02 11:58:00",
+    "Seller": "DeathEye",
+    "Stock": "750",
+    "Price": 0.112,
+    "Currency": "USD",
+    "Position": 987,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
