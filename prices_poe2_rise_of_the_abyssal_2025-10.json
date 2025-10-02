@@ -1923,5 +1923,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-02 16:57:58",
+    "Seller": "Simbayo",
+    "Stock": "200",
+    "Price": 0.11,
+    "Currency": "USD",
+    "Position": 960,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-02 16:57:58",
+    "Seller": "Falonar",
+    "Stock": "14",
+    "Price": 0.11,
+    "Currency": "USD",
+    "Position": 961,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-02 16:57:58",
+    "Seller": "daemer",
+    "Stock": "50",
+    "Price": 0.111,
+    "Currency": "USD",
+    "Position": 962,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-02 16:57:58",
+    "Seller": "DeathEye",
+    "Stock": "400",
+    "Price": 0.112,
+    "Currency": "USD",
+    "Position": 963,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-02 16:57:58",
+    "Seller": "northerngraves",
+    "Stock": "350",
+    "Price": 0.112,
+    "Currency": "USD",
+    "Position": 964,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
