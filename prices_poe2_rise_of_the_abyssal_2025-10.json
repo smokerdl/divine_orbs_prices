@@ -2803,5 +2803,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-03 09:58:16",
+    "Seller": "RainForce",
+    "Stock": "186",
+    "Price": 0.095,
+    "Currency": "USD",
+    "Position": 965,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-03 09:58:16",
+    "Seller": "wowmmm",
+    "Stock": "900",
+    "Price": 0.095,
+    "Currency": "USD",
+    "Position": 966,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-03 09:58:16",
+    "Seller": "Dispax",
+    "Stock": "150",
+    "Price": 0.095,
+    "Currency": "USD",
+    "Position": 967,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-03 09:58:16",
+    "Seller": "karper00",
+    "Stock": "18",
+    "Price": 0.095,
+    "Currency": "USD",
+    "Position": 968,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-03 09:58:16",
+    "Seller": "DiabloZero",
+    "Stock": "250",
+    "Price": 0.095,
+    "Currency": "USD",
+    "Position": 969,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
