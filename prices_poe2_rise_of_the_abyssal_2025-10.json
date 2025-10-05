@@ -5663,5 +5663,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-05 16:11:39",
+    "Seller": "Sufery",
+    "Stock": "1700",
+    "Price": 0.076,
+    "Currency": "USD",
+    "Position": 965,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-05 16:11:39",
+    "Seller": "Defcon",
+    "Stock": "180",
+    "Price": 0.076,
+    "Currency": "USD",
+    "Position": 966,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-05 16:11:39",
+    "Seller": "RoflanMaster",
+    "Stock": "100",
+    "Price": 0.076,
+    "Currency": "USD",
+    "Position": 967,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-05 16:11:39",
+    "Seller": "powerofgreed",
+    "Stock": "18",
+    "Price": 0.076,
+    "Currency": "USD",
+    "Position": 969,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-05 16:11:39",
+    "Seller": "Yunt",
+    "Stock": "850",
+    "Price": 0.076,
+    "Currency": "USD",
+    "Position": 970,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
