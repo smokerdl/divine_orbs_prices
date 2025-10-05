@@ -6213,5 +6213,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-06 01:58:21",
+    "Seller": "Linkzzz",
+    "Stock": "900",
+    "Price": 0.075,
+    "Currency": "USD",
+    "Position": 899,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-06 01:58:21",
+    "Seller": "widowmake",
+    "Stock": "900",
+    "Price": 0.076,
+    "Currency": "USD",
+    "Position": 934,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-06 01:58:21",
+    "Seller": "Aleksnas",
+    "Stock": "500",
+    "Price": 0.076,
+    "Currency": "USD",
+    "Position": 938,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-06 01:58:21",
+    "Seller": "heybruh",
+    "Stock": "58",
+    "Price": 0.076,
+    "Currency": "USD",
+    "Position": 939,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-06 01:58:21",
+    "Seller": "Eggface",
+    "Stock": "38",
+    "Price": 0.076,
+    "Currency": "USD",
+    "Position": 940,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
