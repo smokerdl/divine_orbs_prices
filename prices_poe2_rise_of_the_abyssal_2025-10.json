@@ -5058,5 +5058,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-05 05:23:00",
+    "Seller": "TradingZones",
+    "Stock": "80",
+    "Price": 0.095,
+    "Currency": "USD",
+    "Position": 939,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-05 05:23:00",
+    "Seller": "Alex1861",
+    "Stock": "600",
+    "Price": 0.096,
+    "Currency": "USD",
+    "Position": 940,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-05 05:23:00",
+    "Seller": "krusio",
+    "Stock": "700",
+    "Price": 0.096,
+    "Currency": "USD",
+    "Position": 941,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-05 05:23:00",
+    "Seller": "pathfinder666",
+    "Stock": "400",
+    "Price": 0.096,
+    "Currency": "USD",
+    "Position": 942,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-05 05:23:00",
+    "Seller": "Tindome",
+    "Stock": "40",
+    "Price": 0.096,
+    "Currency": "USD",
+    "Position": 943,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
