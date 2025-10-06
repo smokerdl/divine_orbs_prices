@@ -7258,5 +7258,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-06 21:57:56",
+    "Seller": "SunHeat",
+    "Stock": "1350",
+    "Price": 0.07,
+    "Currency": "USD",
+    "Position": 950,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-06 21:57:56",
+    "Seller": "Roggez",
+    "Stock": "700",
+    "Price": 0.07,
+    "Currency": "USD",
+    "Position": 952,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-06 21:57:56",
+    "Seller": "Arteqisa",
+    "Stock": "2000",
+    "Price": 0.071,
+    "Currency": "USD",
+    "Position": 955,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-06 21:57:56",
+    "Seller": "SmtgNeverKnow",
+    "Stock": "140",
+    "Price": 0.072,
+    "Currency": "USD",
+    "Position": 957,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-06 21:57:56",
+    "Seller": "wowmmm",
+    "Stock": "2000",
+    "Price": 0.073,
+    "Currency": "USD",
+    "Position": 958,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
