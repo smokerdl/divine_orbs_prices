@@ -7533,5 +7533,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-07 02:57:50",
+    "Seller": "PIpll33",
+    "Stock": "300",
+    "Price": 0.075,
+    "Currency": "USD",
+    "Position": 973,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-07 02:57:50",
+    "Seller": "wintime",
+    "Stock": "280",
+    "Price": 0.076,
+    "Currency": "USD",
+    "Position": 974,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-07 02:57:50",
+    "Seller": "InfusionAshenvale",
+    "Stock": "650",
+    "Price": 0.076,
+    "Currency": "USD",
+    "Position": 975,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-07 02:57:50",
+    "Seller": "patentsh",
+    "Stock": "600",
+    "Price": 0.077,
+    "Currency": "USD",
+    "Position": 976,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-07 02:57:50",
+    "Seller": "EuroDump",
+    "Stock": "100",
+    "Price": 0.077,
+    "Currency": "USD",
+    "Position": 977,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
