@@ -8413,5 +8413,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-07 19:58:21",
+    "Seller": "Wistint",
+    "Stock": "550",
+    "Price": 0.066,
+    "Currency": "USD",
+    "Position": 940,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-07 19:58:21",
+    "Seller": "X4ron",
+    "Stock": "6000",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 943,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-07 19:58:21",
+    "Seller": "vctcompany",
+    "Stock": "1500",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 944,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-07 19:58:21",
+    "Seller": "BackFlipVInviz",
+    "Stock": "149",
+    "Price": 0.068,
+    "Currency": "USD",
+    "Position": 946,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-07 19:58:21",
+    "Seller": "MaDinFly",
+    "Stock": "514",
+    "Price": 0.068,
+    "Currency": "USD",
+    "Position": 947,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
