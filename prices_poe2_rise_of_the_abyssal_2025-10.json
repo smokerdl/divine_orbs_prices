@@ -8083,5 +8083,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-07 13:57:55",
+    "Seller": "cockroachsell",
+    "Stock": "2200",
+    "Price": 0.076,
+    "Currency": "USD",
+    "Position": 987,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-07 13:57:55",
+    "Seller": "Leehaha",
+    "Stock": "200",
+    "Price": 0.076,
+    "Currency": "USD",
+    "Position": 990,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-07 13:57:55",
+    "Seller": "Evespace",
+    "Stock": "430",
+    "Price": 0.076,
+    "Currency": "USD",
+    "Position": 991,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-07 13:57:55",
+    "Seller": "soptax",
+    "Stock": "2000",
+    "Price": 0.077,
+    "Currency": "USD",
+    "Position": 992,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-07 13:57:55",
+    "Seller": "ftecho",
+    "Stock": "1200",
+    "Price": 0.077,
+    "Currency": "USD",
+    "Position": 993,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
