@@ -9293,5 +9293,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-08 12:58:04",
+    "Seller": "Falonar",
+    "Stock": "60",
+    "Price": 0.063,
+    "Currency": "USD",
+    "Position": 915,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-08 12:58:04",
+    "Seller": "lnslder",
+    "Stock": "380",
+    "Price": 0.063,
+    "Currency": "USD",
+    "Position": 919,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-08 12:58:04",
+    "Seller": "Mylenelfarmer",
+    "Stock": "400",
+    "Price": 0.064,
+    "Currency": "USD",
+    "Position": 921,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-08 12:58:04",
+    "Seller": "Parfenka",
+    "Stock": "10",
+    "Price": 0.066,
+    "Currency": "USD",
+    "Position": 925,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-08 12:58:04",
+    "Seller": "BlenderMix",
+    "Stock": "5",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 926,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
