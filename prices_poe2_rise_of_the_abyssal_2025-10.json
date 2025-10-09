@@ -10723,5 +10723,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-09 16:21:40",
+    "Seller": "BetAzart",
+    "Stock": "250",
+    "Price": 0.063,
+    "Currency": "USD",
+    "Position": 890,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-09 16:21:40",
+    "Seller": "xiangle",
+    "Stock": "7591",
+    "Price": 0.063,
+    "Currency": "USD",
+    "Position": 894,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-09 16:21:40",
+    "Seller": "L2EDelivery",
+    "Stock": "1000",
+    "Price": 0.063,
+    "Currency": "USD",
+    "Position": 895,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-09 16:21:40",
+    "Seller": "ftecho",
+    "Stock": "900",
+    "Price": 0.063,
+    "Currency": "USD",
+    "Position": 896,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-09 16:21:40",
+    "Seller": "shakez",
+    "Stock": "300",
+    "Price": 0.063,
+    "Currency": "USD",
+    "Position": 898,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
