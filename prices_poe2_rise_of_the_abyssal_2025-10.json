@@ -12593,5 +12593,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-11 02:58:08",
+    "Seller": "Tindome",
+    "Stock": "380",
+    "Price": 0.064,
+    "Currency": "USD",
+    "Position": 887,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-11 02:58:08",
+    "Seller": "solitte",
+    "Stock": "2",
+    "Price": 0.065,
+    "Currency": "USD",
+    "Position": 888,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-11 02:58:08",
+    "Seller": "Benja199",
+    "Stock": "1400",
+    "Price": 0.065,
+    "Currency": "USD",
+    "Position": 889,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-11 02:58:08",
+    "Seller": "Tooku4",
+    "Stock": "300",
+    "Price": 0.066,
+    "Currency": "USD",
+    "Position": 893,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-11 02:58:08",
+    "Seller": "AkvaSsS",
+    "Stock": "1100",
+    "Price": 0.066,
+    "Currency": "USD",
+    "Position": 894,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
