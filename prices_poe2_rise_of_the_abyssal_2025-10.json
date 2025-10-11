@@ -12868,5 +12868,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-11 08:57:47",
+    "Seller": "Latissa",
+    "Stock": "970",
+    "Price": 0.061,
+    "Currency": "USD",
+    "Position": 820,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-11 08:57:47",
+    "Seller": "Vincert",
+    "Stock": "250",
+    "Price": 0.061,
+    "Currency": "USD",
+    "Position": 839,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-11 08:57:47",
+    "Seller": "Gasil",
+    "Stock": "90",
+    "Price": 0.061,
+    "Currency": "USD",
+    "Position": 840,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-11 08:57:47",
+    "Seller": "Neroko",
+    "Stock": "400",
+    "Price": 0.061,
+    "Currency": "USD",
+    "Position": 841,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-11 08:57:47",
+    "Seller": "Divanodich",
+    "Stock": "250",
+    "Price": 0.061,
+    "Currency": "USD",
+    "Position": 842,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
