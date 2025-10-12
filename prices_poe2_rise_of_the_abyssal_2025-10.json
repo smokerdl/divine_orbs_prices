@@ -14518,5 +14518,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-12 16:12:02",
+    "Seller": "ToxicInk",
+    "Stock": "1101",
+    "Price": 0.05,
+    "Currency": "USD",
+    "Position": 791,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-12 16:12:02",
+    "Seller": "MaXi",
+    "Stock": "5",
+    "Price": 0.05,
+    "Currency": "USD",
+    "Position": 792,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-12 16:12:02",
+    "Seller": "tGold",
+    "Stock": "200",
+    "Price": 0.05,
+    "Currency": "USD",
+    "Position": 793,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-12 16:12:02",
+    "Seller": "MoVEST111",
+    "Stock": "80",
+    "Price": 0.05,
+    "Currency": "USD",
+    "Position": 794,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-12 16:12:02",
+    "Seller": "Pashaa09",
+    "Stock": "260",
+    "Price": 0.05,
+    "Currency": "USD",
+    "Position": 795,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
