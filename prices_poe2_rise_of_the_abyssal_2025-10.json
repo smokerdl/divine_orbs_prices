@@ -14683,5 +14683,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-12 18:58:23",
+    "Seller": "Brexit",
+    "Stock": "1410",
+    "Price": 0.049,
+    "Currency": "USD",
+    "Position": 854,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-12 18:58:23",
+    "Seller": "DeathEye",
+    "Stock": "850",
+    "Price": 0.05,
+    "Currency": "USD",
+    "Position": 855,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-12 18:58:23",
+    "Seller": "zuvahi",
+    "Stock": "230",
+    "Price": 0.05,
+    "Currency": "USD",
+    "Position": 856,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-12 18:58:23",
+    "Seller": "vctcompany",
+    "Stock": "1750",
+    "Price": 0.051,
+    "Currency": "USD",
+    "Position": 858,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-12 18:58:23",
+    "Seller": "xiangle",
+    "Stock": "6878",
+    "Price": 0.051,
+    "Currency": "USD",
+    "Position": 859,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
