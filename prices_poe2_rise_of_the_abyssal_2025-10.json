@@ -15123,5 +15123,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-13 02:58:10",
+    "Seller": "L2EDelivery",
+    "Stock": "2000",
+    "Price": 0.042,
+    "Currency": "USD",
+    "Position": 816,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-13 02:58:10",
+    "Seller": "solitte",
+    "Stock": "200",
+    "Price": 0.042,
+    "Currency": "USD",
+    "Position": 817,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-13 02:58:10",
+    "Seller": "vctcompany",
+    "Stock": "1500",
+    "Price": 0.042,
+    "Currency": "USD",
+    "Position": 818,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-13 02:58:10",
+    "Seller": "IronPunisher",
+    "Stock": "450",
+    "Price": 0.044,
+    "Currency": "USD",
+    "Position": 823,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-13 02:58:10",
+    "Seller": "Wlad68",
+    "Stock": "3000",
+    "Price": 0.044,
+    "Currency": "USD",
+    "Position": 824,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
