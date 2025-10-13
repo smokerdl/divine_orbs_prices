@@ -15948,5 +15948,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-13 18:57:48",
+    "Seller": "L1pan",
+    "Stock": "2530",
+    "Price": 0.043,
+    "Currency": "USD",
+    "Position": 761,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-13 18:57:48",
+    "Seller": "Brexit",
+    "Stock": "1260",
+    "Price": 0.043,
+    "Currency": "USD",
+    "Position": 762,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-13 18:57:48",
+    "Seller": "Berrial",
+    "Stock": "300",
+    "Price": 0.044,
+    "Currency": "USD",
+    "Position": 766,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-13 18:57:48",
+    "Seller": "tarkovFunProvider137",
+    "Stock": "600",
+    "Price": 0.044,
+    "Currency": "USD",
+    "Position": 767,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-13 18:57:48",
+    "Seller": "Wistint",
+    "Stock": "1000",
+    "Price": 0.044,
+    "Currency": "USD",
+    "Position": 768,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
