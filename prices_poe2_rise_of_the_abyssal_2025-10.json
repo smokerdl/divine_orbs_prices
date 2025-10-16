@@ -19963,5 +19963,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-16 22:58:01",
+    "Seller": "Slonja",
+    "Stock": "20",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 766,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-16 22:58:01",
+    "Seller": "soptax",
+    "Stock": "1090",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 767,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-16 22:58:01",
+    "Seller": "Yunt",
+    "Stock": "1000",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 768,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-16 22:58:01",
+    "Seller": "vctcompany",
+    "Stock": "1000",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 770,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-16 22:58:01",
+    "Seller": "qwertyfor",
+    "Stock": "1768",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 771,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
