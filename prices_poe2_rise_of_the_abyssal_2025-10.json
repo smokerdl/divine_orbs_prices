@@ -21338,5 +21338,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-18 00:58:00",
+    "Seller": "Imbadpser",
+    "Stock": "350",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 749,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-18 00:58:00",
+    "Seller": "RIsses",
+    "Stock": "90",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 750,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-18 00:58:00",
+    "Seller": "LexZender",
+    "Stock": "100",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 751,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-18 00:58:00",
+    "Seller": "PL1",
+    "Stock": "250",
+    "Price": 0.041,
+    "Currency": "USD",
+    "Position": 753,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-18 00:58:00",
+    "Seller": "GoldRushPilot",
+    "Stock": "700",
+    "Price": 0.041,
+    "Currency": "USD",
+    "Position": 755,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
