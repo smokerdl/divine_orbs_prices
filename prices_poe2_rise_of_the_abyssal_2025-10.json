@@ -20348,5 +20348,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-17 06:58:00",
+    "Seller": "mmosky",
+    "Stock": "58118",
+    "Price": 0.039,
+    "Currency": "USD",
+    "Position": 755,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-17 06:58:00",
+    "Seller": "xiangle",
+    "Stock": "7869",
+    "Price": 0.039,
+    "Currency": "USD",
+    "Position": 757,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-17 06:58:00",
+    "Seller": "AnimeKaban",
+    "Stock": "395",
+    "Price": 0.039,
+    "Currency": "USD",
+    "Position": 758,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-17 06:58:00",
+    "Seller": "Missuri23",
+    "Stock": "1250",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 759,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-17 06:58:00",
+    "Seller": "Slonja",
+    "Stock": "20",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 762,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
