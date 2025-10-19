@@ -23758,5 +23758,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-19 22:57:53",
+    "Seller": "Farmlings",
+    "Stock": "2010",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 744,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-19 22:57:53",
+    "Seller": "Yunt",
+    "Stock": "1200",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 746,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-19 22:57:53",
+    "Seller": "dodolk",
+    "Stock": "816288",
+    "Price": 0.041,
+    "Currency": "USD",
+    "Position": 747,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-19 22:57:53",
+    "Seller": "Cy64uk",
+    "Stock": "1800",
+    "Price": 0.041,
+    "Currency": "USD",
+    "Position": 748,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-19 22:57:53",
+    "Seller": "tGold",
+    "Stock": "330",
+    "Price": 0.041,
+    "Currency": "USD",
+    "Position": 751,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
