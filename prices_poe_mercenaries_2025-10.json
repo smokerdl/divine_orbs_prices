@@ -23483,5 +23483,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11512"
+  },
+  {
+    "Timestamp": "2025-10-19 18:57:52",
+    "Seller": "widowmake",
+    "Stock": "1000",
+    "Price": 0.0091,
+    "Currency": "USD",
+    "Position": 4,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-10-19 18:57:52",
+    "Seller": "DreamUnderTheNight",
+    "Stock": "983059",
+    "Price": 0.0091,
+    "Currency": "USD",
+    "Position": 5,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-10-19 18:57:52",
+    "Seller": "DelioN227",
+    "Stock": "989476",
+    "Price": 0.0091,
+    "Currency": "USD",
+    "Position": 6,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-10-19 18:57:52",
+    "Seller": "qwertyfor",
+    "Stock": "9409",
+    "Price": 0.0091,
+    "Currency": "USD",
+    "Position": 7,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11512"
+  },
+  {
+    "Timestamp": "2025-10-19 18:57:52",
+    "Seller": "adenastore",
+    "Stock": "2400",
+    "Price": 0.0092,
+    "Currency": "USD",
+    "Position": 8,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11512"
   }
 ]
