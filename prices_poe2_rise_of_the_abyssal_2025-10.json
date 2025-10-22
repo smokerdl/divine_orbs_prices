@@ -27003,5 +27003,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-22 12:57:59",
+    "Seller": "LeGaS",
+    "Stock": "360",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 736,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-22 12:57:59",
+    "Seller": "MonWay",
+    "Stock": "500",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 737,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-22 12:57:59",
+    "Seller": "Fermer3212",
+    "Stock": "4",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 739,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-22 12:57:59",
+    "Seller": "Tvorojnik",
+    "Stock": "6",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 741,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-22 12:57:59",
+    "Seller": "r2trust",
+    "Stock": "250",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 742,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
