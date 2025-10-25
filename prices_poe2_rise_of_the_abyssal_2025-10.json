@@ -31293,5 +31293,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-25 21:58:29",
+    "Seller": "HolidayStore",
+    "Stock": "1255",
+    "Price": 0.036,
+    "Currency": "USD",
+    "Position": 719,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-25 21:58:29",
+    "Seller": "FireFrost1337",
+    "Stock": "1504",
+    "Price": 0.036,
+    "Currency": "USD",
+    "Position": 720,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-25 21:58:29",
+    "Seller": "Brexit",
+    "Stock": "3264",
+    "Price": 0.036,
+    "Currency": "USD",
+    "Position": 721,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-25 21:58:29",
+    "Seller": "Cherry0706",
+    "Stock": "99819553",
+    "Price": 0.037,
+    "Currency": "USD",
+    "Position": 723,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-25 21:58:29",
+    "Seller": "soptax",
+    "Stock": "3322",
+    "Price": 0.037,
+    "Currency": "USD",
+    "Position": 724,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
