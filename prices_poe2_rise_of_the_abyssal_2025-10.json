@@ -33438,5 +33438,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-27 14:58:10",
+    "Seller": "HolidayStore",
+    "Stock": "3100",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 626,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-27 14:58:10",
+    "Seller": "dodolk",
+    "Stock": "751765",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 630,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-27 14:58:10",
+    "Seller": "tGold",
+    "Stock": "400",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 648,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-27 14:58:10",
+    "Seller": "KatrinChe",
+    "Stock": "46",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 682,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-27 14:58:10",
+    "Seller": "Brexit",
+    "Stock": "1581",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 684,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
