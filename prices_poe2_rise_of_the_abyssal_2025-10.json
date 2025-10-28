@@ -35033,5 +35033,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-28 20:58:11",
+    "Seller": "PoeFast",
+    "Stock": "811",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 617,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-28 20:58:11",
+    "Seller": "soptax",
+    "Stock": "3333",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 618,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-28 20:58:11",
+    "Seller": "pay2win",
+    "Stock": "600",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 619,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-28 20:58:11",
+    "Seller": "cockroachsell",
+    "Stock": "3200",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 620,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-10-28 20:58:11",
+    "Seller": "Brexit",
+    "Stock": "700",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 621,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
