@@ -20,5 +20,60 @@
     "DisplayPosition": 4,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-01 00:57:52",
+    "Seller": "ArkashaNo",
+    "Stock": "1",
+    "Price": 35.14,
+    "Currency": "USD",
+    "Position": 142,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-01 00:57:52",
+    "Seller": "Kronasss",
+    "Stock": "11",
+    "Price": 36.07,
+    "Currency": "USD",
+    "Position": 143,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-01 00:57:52",
+    "Seller": "Patraim",
+    "Stock": "1",
+    "Price": 36.67,
+    "Currency": "USD",
+    "Position": 144,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-01 00:57:52",
+    "Seller": "A1EXADANCE",
+    "Stock": "1",
+    "Price": 45.83,
+    "Currency": "USD",
+    "Position": 145,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-01 00:57:52",
+    "Seller": "GoldInwow",
+    "Stock": "1",
+    "Price": 50.92,
+    "Currency": "USD",
+    "Position": 146,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
