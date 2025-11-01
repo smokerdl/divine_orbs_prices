@@ -768,5 +768,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-01 18:58:00",
+    "Seller": "LonelyStar123",
+    "Stock": "1",
+    "Price": 3.15,
+    "Currency": "USD",
+    "Position": 135,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-01 18:58:00",
+    "Seller": "phantod",
+    "Stock": "1",
+    "Price": 3.17,
+    "Currency": "USD",
+    "Position": 136,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-01 18:58:00",
+    "Seller": "bagewara",
+    "Stock": "1",
+    "Price": 3.18,
+    "Currency": "USD",
+    "Position": 137,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-01 18:58:00",
+    "Seller": "Ayona",
+    "Stock": "1",
+    "Price": 3.18,
+    "Currency": "USD",
+    "Position": 138,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-01 18:58:00",
+    "Seller": "Venni",
+    "Stock": "3",
+    "Price": 3.38,
+    "Currency": "USD",
+    "Position": 139,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
