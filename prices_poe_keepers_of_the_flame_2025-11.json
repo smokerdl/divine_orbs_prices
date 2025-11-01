@@ -1,0 +1,57 @@
+[
+  {
+    "Timestamp": "2025-11-01 05:24:43",
+    "Seller": "Hongellion",
+    "Stock": "1",
+    "Price": 7.6,
+    "Currency": "USD",
+    "Position": 140,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-01 05:24:43",
+    "Seller": "gtfo",
+    "Stock": "1",
+    "Price": 7.65,
+    "Currency": "USD",
+    "Position": 141,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-01 05:24:43",
+    "Seller": "SiliconWings",
+    "Stock": "1",
+    "Price": 7.65,
+    "Currency": "USD",
+    "Position": 142,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-01 05:24:43",
+    "Seller": "bykin26",
+    "Stock": "1",
+    "Price": 7.7,
+    "Currency": "USD",
+    "Position": 143,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-01 05:24:43",
+    "Seller": "Divanodich",
+    "Stock": "1",
+    "Price": 7.98,
+    "Currency": "USD",
+    "Position": 144,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
+  }
+]
