@@ -1868,5 +1868,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-02 16:13:01",
+    "Seller": "Kravinoi",
+    "Stock": "7",
+    "Price": 1.89,
+    "Currency": "USD",
+    "Position": 121,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-02 16:13:01",
+    "Seller": "Sophery",
+    "Stock": "3",
+    "Price": 1.89,
+    "Currency": "USD",
+    "Position": 122,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-02 16:13:01",
+    "Seller": "Joka30",
+    "Stock": "3",
+    "Price": 1.9,
+    "Currency": "USD",
+    "Position": 123,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-02 16:13:01",
+    "Seller": "TradeInPeace",
+    "Stock": "9",
+    "Price": 1.9,
+    "Currency": "USD",
+    "Position": 124,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-02 16:13:01",
+    "Seller": "Reifa",
+    "Stock": "26",
+    "Price": 1.92,
+    "Currency": "USD",
+    "Position": 125,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
