@@ -2308,5 +2308,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-02 23:57:37",
+    "Seller": "Ywn",
+    "Stock": "40",
+    "Price": 1.22,
+    "Currency": "USD",
+    "Position": 127,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-02 23:57:37",
+    "Seller": "Moonlightz",
+    "Stock": "1",
+    "Price": 1.22,
+    "Currency": "USD",
+    "Position": 128,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-02 23:57:37",
+    "Seller": "Veber",
+    "Stock": "1",
+    "Price": 1.23,
+    "Currency": "USD",
+    "Position": 129,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-02 23:57:37",
+    "Seller": "NikaDivineGoddess",
+    "Stock": "7",
+    "Price": 1.25,
+    "Currency": "USD",
+    "Position": 131,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-02 23:57:37",
+    "Seller": "Konsi",
+    "Stock": "160",
+    "Price": 1.26,
+    "Currency": "USD",
+    "Position": 132,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
