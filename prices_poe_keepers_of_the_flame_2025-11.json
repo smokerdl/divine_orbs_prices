@@ -2473,5 +2473,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-03 02:57:51",
+    "Seller": "Stempiex",
+    "Stock": "8",
+    "Price": 1.08,
+    "Currency": "USD",
+    "Position": 126,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-03 02:57:51",
+    "Seller": "Hatsuke",
+    "Stock": "7",
+    "Price": 1.08,
+    "Currency": "USD",
+    "Position": 127,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-03 02:57:51",
+    "Seller": "chessgros",
+    "Stock": "14",
+    "Price": 1.08,
+    "Currency": "USD",
+    "Position": 128,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-03 02:57:51",
+    "Seller": "Allzy",
+    "Stock": "15",
+    "Price": 1.08,
+    "Currency": "USD",
+    "Position": 129,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-03 02:57:51",
+    "Seller": "bulldong",
+    "Stock": "20",
+    "Price": 1.09,
+    "Currency": "USD",
+    "Position": 130,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
