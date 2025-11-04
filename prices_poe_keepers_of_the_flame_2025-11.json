@@ -4398,5 +4398,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-04 16:57:44",
+    "Seller": "ND777",
+    "Stock": "10",
+    "Price": 0.52,
+    "Currency": "USD",
+    "Position": 115,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-04 16:57:44",
+    "Seller": "Flaywesenok",
+    "Stock": "50",
+    "Price": 0.53,
+    "Currency": "USD",
+    "Position": 116,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-04 16:57:44",
+    "Seller": "Kiberbullying",
+    "Stock": "60",
+    "Price": 0.53,
+    "Currency": "USD",
+    "Position": 117,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-04 16:57:44",
+    "Seller": "iTanedShop",
+    "Stock": "8",
+    "Price": 0.53,
+    "Currency": "USD",
+    "Position": 118,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-04 16:57:44",
+    "Seller": "utkonax",
+    "Stock": "38",
+    "Price": 0.53,
+    "Currency": "USD",
+    "Position": 119,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
