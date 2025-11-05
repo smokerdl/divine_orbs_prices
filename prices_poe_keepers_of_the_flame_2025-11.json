@@ -5993,5 +5993,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-05 22:57:33",
+    "Seller": "SadLifeSong",
+    "Stock": "27",
+    "Price": 0.37,
+    "Currency": "USD",
+    "Position": 106,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-05 22:57:33",
+    "Seller": "Kliamen4",
+    "Stock": "1",
+    "Price": 0.37,
+    "Currency": "USD",
+    "Position": 107,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-05 22:57:33",
+    "Seller": "AllFallen",
+    "Stock": "80",
+    "Price": 0.37,
+    "Currency": "USD",
+    "Position": 108,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-05 22:57:33",
+    "Seller": "SoloSmoker",
+    "Stock": "25",
+    "Price": 0.37,
+    "Currency": "USD",
+    "Position": 109,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-05 22:57:33",
+    "Seller": "babytoy",
+    "Stock": "25",
+    "Price": 0.37,
+    "Currency": "USD",
+    "Position": 110,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
