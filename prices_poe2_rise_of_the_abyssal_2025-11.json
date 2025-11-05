@@ -5773,5 +5773,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-05 18:58:07",
+    "Seller": "PL1",
+    "Stock": "500",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 654,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-05 18:58:07",
+    "Seller": "DreamUnderTheNight",
+    "Stock": "7285",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 655,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-05 18:58:07",
+    "Seller": "Apemute",
+    "Stock": "168",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 656,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-05 18:58:07",
+    "Seller": "Gladiatorfp",
+    "Stock": "50",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 657,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-05 18:58:07",
+    "Seller": "Easymoneylo",
+    "Stock": "850",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 658,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
