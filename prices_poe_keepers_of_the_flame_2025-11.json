@@ -6103,5 +6103,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-06 00:57:56",
+    "Seller": "Alexru87",
+    "Stock": "110",
+    "Price": 0.38,
+    "Currency": "USD",
+    "Position": 110,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-06 00:57:56",
+    "Seller": "justseries",
+    "Stock": "31",
+    "Price": 0.38,
+    "Currency": "USD",
+    "Position": 111,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-06 00:57:56",
+    "Seller": "Confusme",
+    "Stock": "134",
+    "Price": 0.38,
+    "Currency": "USD",
+    "Position": 113,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-06 00:57:56",
+    "Seller": "oldeleven11",
+    "Stock": "92",
+    "Price": 0.38,
+    "Currency": "USD",
+    "Position": 114,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-06 00:57:56",
+    "Seller": "fanMMORPG",
+    "Stock": "45",
+    "Price": 0.38,
+    "Currency": "USD",
+    "Position": 115,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
