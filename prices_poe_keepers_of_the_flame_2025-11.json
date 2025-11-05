@@ -5278,5 +5278,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-05 09:58:45",
+    "Seller": "Vetinari",
+    "Stock": "10",
+    "Price": 0.36,
+    "Currency": "USD",
+    "Position": 113,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-05 09:58:45",
+    "Seller": "Grebiton",
+    "Stock": "30",
+    "Price": 0.36,
+    "Currency": "USD",
+    "Position": 114,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-05 09:58:45",
+    "Seller": "fanMMORPG",
+    "Stock": "15",
+    "Price": 0.36,
+    "Currency": "USD",
+    "Position": 115,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-05 09:58:45",
+    "Seller": "dovolen",
+    "Stock": "57",
+    "Price": 0.36,
+    "Currency": "USD",
+    "Position": 116,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-05 09:58:45",
+    "Seller": "kemJeS",
+    "Stock": "50",
+    "Price": 0.36,
+    "Currency": "USD",
+    "Position": 117,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
