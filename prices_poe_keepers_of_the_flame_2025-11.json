@@ -7313,5 +7313,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-06 23:57:37",
+    "Seller": "artureo",
+    "Stock": "60",
+    "Price": 0.38,
+    "Currency": "USD",
+    "Position": 106,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-06 23:57:37",
+    "Seller": "NewGreen",
+    "Stock": "2",
+    "Price": 0.39,
+    "Currency": "USD",
+    "Position": 107,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-06 23:57:37",
+    "Seller": "wankerhunt",
+    "Stock": "73",
+    "Price": 0.39,
+    "Currency": "USD",
+    "Position": 108,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-06 23:57:37",
+    "Seller": "StellarGod",
+    "Stock": "150",
+    "Price": 0.4,
+    "Currency": "USD",
+    "Position": 110,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-06 23:57:37",
+    "Seller": "gaina",
+    "Stock": "350",
+    "Price": 0.41,
+    "Currency": "USD",
+    "Position": 111,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
