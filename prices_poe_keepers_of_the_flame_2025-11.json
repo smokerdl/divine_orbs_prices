@@ -8028,5 +8028,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-07 13:57:37",
+    "Seller": "Magicka",
+    "Stock": "40",
+    "Price": 0.41,
+    "Currency": "USD",
+    "Position": 102,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-07 13:57:37",
+    "Seller": "SectorClearos",
+    "Stock": "100",
+    "Price": 0.41,
+    "Currency": "USD",
+    "Position": 103,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-07 13:57:37",
+    "Seller": "widowmake",
+    "Stock": "51",
+    "Price": 0.41,
+    "Currency": "USD",
+    "Position": 104,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-07 13:57:37",
+    "Seller": "babytoy",
+    "Stock": "10",
+    "Price": 0.41,
+    "Currency": "USD",
+    "Position": 105,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-07 13:57:37",
+    "Seller": "majimaz",
+    "Stock": "63",
+    "Price": 0.41,
+    "Currency": "USD",
+    "Position": 106,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
