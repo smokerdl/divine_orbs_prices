@@ -7753,5 +7753,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-07 08:58:00",
+    "Seller": "Surtonix",
+    "Stock": "10",
+    "Price": 0.41,
+    "Currency": "USD",
+    "Position": 100,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-07 08:58:00",
+    "Seller": "Moonlightz",
+    "Stock": "17",
+    "Price": 0.42,
+    "Currency": "USD",
+    "Position": 101,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-07 08:58:00",
+    "Seller": "aq100000",
+    "Stock": "22",
+    "Price": 0.42,
+    "Currency": "USD",
+    "Position": 102,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-07 08:58:00",
+    "Seller": "Vetinari",
+    "Stock": "20",
+    "Price": 0.42,
+    "Currency": "USD",
+    "Position": 103,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-07 08:58:00",
+    "Seller": "Mentalque",
+    "Stock": "130",
+    "Price": 0.42,
+    "Currency": "USD",
+    "Position": 104,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
