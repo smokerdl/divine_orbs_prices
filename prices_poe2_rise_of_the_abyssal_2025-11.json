@@ -7753,5 +7753,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-07 08:58:15",
+    "Seller": "WTScheap",
+    "Stock": "990",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 775,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-07 08:58:15",
+    "Seller": "palofarms",
+    "Stock": "165",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 776,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-07 08:58:15",
+    "Seller": "Cherry0706",
+    "Stock": "328304689",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 777,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-07 08:58:15",
+    "Seller": "Bezmozglik",
+    "Stock": "37",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 779,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-07 08:58:15",
+    "Seller": "Drugleha",
+    "Stock": "50",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 781,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
