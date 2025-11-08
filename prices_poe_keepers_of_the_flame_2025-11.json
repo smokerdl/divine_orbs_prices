@@ -9788,5 +9788,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-08 22:57:37",
+    "Seller": "RTMR",
+    "Stock": "100",
+    "Price": 0.34,
+    "Currency": "USD",
+    "Position": 100,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-08 22:57:37",
+    "Seller": "SorrowStory",
+    "Stock": "150",
+    "Price": 0.34,
+    "Currency": "USD",
+    "Position": 101,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-08 22:57:37",
+    "Seller": "Nurflin",
+    "Stock": "400",
+    "Price": 0.34,
+    "Currency": "USD",
+    "Position": 102,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-08 22:57:37",
+    "Seller": "Maajoriik",
+    "Stock": "200",
+    "Price": 0.34,
+    "Currency": "USD",
+    "Position": 103,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-08 22:57:37",
+    "Seller": "blameyou",
+    "Stock": "100",
+    "Price": 0.34,
+    "Currency": "USD",
+    "Position": 104,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
