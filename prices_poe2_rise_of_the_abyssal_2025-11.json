@@ -11218,5 +11218,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-10 01:57:46",
+    "Seller": "Occidare",
+    "Stock": "95",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 713,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-10 01:57:46",
+    "Seller": "solitte",
+    "Stock": "187",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 715,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-10 01:57:46",
+    "Seller": "Bezmozglik",
+    "Stock": "467",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 717,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-10 01:57:46",
+    "Seller": "mmoplayer001",
+    "Stock": "981583",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 720,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-10 01:57:46",
+    "Seller": "fkkx",
+    "Stock": "800",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 722,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
