@@ -10888,5 +10888,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-09 19:57:57",
+    "Seller": "Brexit",
+    "Stock": "1200",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 745,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-09 19:57:57",
+    "Seller": "Nara55",
+    "Stock": "3233",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 749,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-09 19:57:57",
+    "Seller": "Occidare",
+    "Stock": "155",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 750,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-09 19:57:57",
+    "Seller": "DreamUnderTheNight",
+    "Stock": "5860",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 751,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-09 19:57:57",
+    "Seller": "mmoplayer001",
+    "Stock": "981583",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 757,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
