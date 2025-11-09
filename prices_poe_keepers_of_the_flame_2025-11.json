@@ -10503,5 +10503,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-09 12:57:37",
+    "Seller": "Glazom",
+    "Stock": "61",
+    "Price": 0.23,
+    "Currency": "USD",
+    "Position": 89,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-09 12:57:37",
+    "Seller": "Sloth12",
+    "Stock": "30",
+    "Price": 0.23,
+    "Currency": "USD",
+    "Position": 90,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-09 12:57:37",
+    "Seller": "krn3zx",
+    "Stock": "45",
+    "Price": 0.23,
+    "Currency": "USD",
+    "Position": 93,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-09 12:57:37",
+    "Seller": "Gebbaaaa",
+    "Stock": "90",
+    "Price": 0.23,
+    "Currency": "USD",
+    "Position": 94,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-09 12:57:37",
+    "Seller": "gggaming",
+    "Stock": "28",
+    "Price": 0.23,
+    "Currency": "USD",
+    "Position": 95,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
