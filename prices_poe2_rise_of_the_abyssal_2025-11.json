@@ -11768,5 +11768,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-10 12:58:19",
+    "Seller": "Fidonic",
+    "Stock": "200",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 700,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-10 12:58:19",
+    "Seller": "dodolk",
+    "Stock": "580007",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 701,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-10 12:58:19",
+    "Seller": "tGold",
+    "Stock": "400",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 708,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-10 12:58:19",
+    "Seller": "Gladiatorfp",
+    "Stock": "50",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 711,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-10 12:58:19",
+    "Seller": "Occidare",
+    "Stock": "95",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 715,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
