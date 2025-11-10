@@ -12318,5 +12318,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-10 22:57:49",
+    "Seller": "Agresssor",
+    "Stock": "400",
+    "Price": 0.189,
+    "Currency": "USD",
+    "Position": 75,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-10 22:57:49",
+    "Seller": "ExilenceProvider",
+    "Stock": "143",
+    "Price": 0.189,
+    "Currency": "USD",
+    "Position": 76,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-10 22:57:49",
+    "Seller": "Hinadzi",
+    "Stock": "150",
+    "Price": 0.189,
+    "Currency": "USD",
+    "Position": 77,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-10 22:57:49",
+    "Seller": "DieRuki",
+    "Stock": "100",
+    "Price": 0.189,
+    "Currency": "USD",
+    "Position": 78,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-10 22:57:49",
+    "Seller": "qwertyfor",
+    "Stock": "973",
+    "Price": 0.19,
+    "Currency": "USD",
+    "Position": 79,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
