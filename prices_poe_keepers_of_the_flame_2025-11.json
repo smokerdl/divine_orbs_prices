@@ -11933,5 +11933,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-10 16:23:17",
+    "Seller": "SARKI",
+    "Stock": "30",
+    "Price": 0.21,
+    "Currency": "USD",
+    "Position": 78,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-10 16:23:17",
+    "Seller": "YourGold",
+    "Stock": "5",
+    "Price": 0.21,
+    "Currency": "USD",
+    "Position": 79,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-10 16:23:17",
+    "Seller": "OtakuMacij07",
+    "Stock": "57",
+    "Price": 0.21,
+    "Currency": "USD",
+    "Position": 80,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-10 16:23:17",
+    "Seller": "TreasureVault",
+    "Stock": "90",
+    "Price": 0.21,
+    "Currency": "USD",
+    "Position": 81,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-10 16:23:17",
+    "Seller": "Kizu9",
+    "Stock": "20",
+    "Price": 0.21,
+    "Currency": "USD",
+    "Position": 82,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
