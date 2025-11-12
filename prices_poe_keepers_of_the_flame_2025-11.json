@@ -14133,5 +14133,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-12 09:59:14",
+    "Seller": "Dealerdeath",
+    "Stock": "40",
+    "Price": 0.165,
+    "Currency": "USD",
+    "Position": 76,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-12 09:59:14",
+    "Seller": "Aatroxe",
+    "Stock": "80",
+    "Price": 0.165,
+    "Currency": "USD",
+    "Position": 77,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-12 09:59:14",
+    "Seller": "GoldR1ver",
+    "Stock": "300",
+    "Price": 0.165,
+    "Currency": "USD",
+    "Position": 78,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-12 09:59:14",
+    "Seller": "Kusuchiy",
+    "Stock": "74",
+    "Price": 0.165,
+    "Currency": "USD",
+    "Position": 79,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-12 09:59:14",
+    "Seller": "Dezmand",
+    "Stock": "260",
+    "Price": 0.166,
+    "Currency": "USD",
+    "Position": 80,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
