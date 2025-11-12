@@ -14958,5 +14958,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-13 00:57:36",
+    "Seller": "SATAD",
+    "Stock": "140",
+    "Price": 0.114,
+    "Currency": "USD",
+    "Position": 71,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-13 00:57:36",
+    "Seller": "clickr",
+    "Stock": "100",
+    "Price": 0.114,
+    "Currency": "USD",
+    "Position": 72,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-13 00:57:36",
+    "Seller": "solitte",
+    "Stock": "70",
+    "Price": 0.115,
+    "Currency": "USD",
+    "Position": 73,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-13 00:57:36",
+    "Seller": "Sarany",
+    "Stock": "87",
+    "Price": 0.115,
+    "Currency": "USD",
+    "Position": 74,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-13 00:57:36",
+    "Seller": "AnnaBanana97",
+    "Stock": "395",
+    "Price": 0.116,
+    "Currency": "USD",
+    "Position": 75,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
