@@ -14903,5 +14903,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-12 23:58:00",
+    "Seller": "SorrowStory",
+    "Stock": "515",
+    "Price": 0.143,
+    "Currency": "USD",
+    "Position": 72,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-12 23:58:00",
+    "Seller": "ArxangelSQC",
+    "Stock": "440",
+    "Price": 0.143,
+    "Currency": "USD",
+    "Position": 73,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-12 23:58:00",
+    "Seller": "ATBEPTKA",
+    "Stock": "181",
+    "Price": 0.144,
+    "Currency": "USD",
+    "Position": 74,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-12 23:58:00",
+    "Seller": "Maraak",
+    "Stock": "5",
+    "Price": 0.144,
+    "Currency": "USD",
+    "Position": 75,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-12 23:58:00",
+    "Seller": "guzn0",
+    "Stock": "118",
+    "Price": 0.144,
+    "Currency": "USD",
+    "Position": 76,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
