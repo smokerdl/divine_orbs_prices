@@ -13858,5 +13858,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-12 05:23:40",
+    "Seller": "DeximusTrade",
+    "Stock": "184",
+    "Price": 0.138,
+    "Currency": "USD",
+    "Position": 75,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-12 05:23:40",
+    "Seller": "xomaxoma",
+    "Stock": "142",
+    "Price": 0.138,
+    "Currency": "USD",
+    "Position": 76,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-12 05:23:40",
+    "Seller": "gizmoo0",
+    "Stock": "110",
+    "Price": 0.138,
+    "Currency": "USD",
+    "Position": 77,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-12 05:23:40",
+    "Seller": "Kose32",
+    "Stock": "60",
+    "Price": 0.141,
+    "Currency": "USD",
+    "Position": 78,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-12 05:23:40",
+    "Seller": "Vaklor",
+    "Stock": "400",
+    "Price": 0.141,
+    "Currency": "USD",
+    "Position": 79,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
