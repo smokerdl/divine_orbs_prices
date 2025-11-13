@@ -15838,5 +15838,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-13 17:57:47",
+    "Seller": "UVD11",
+    "Stock": "150",
+    "Price": 0.138,
+    "Currency": "USD",
+    "Position": 71,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-13 17:57:47",
+    "Seller": "HiddenPocket",
+    "Stock": "100",
+    "Price": 0.138,
+    "Currency": "USD",
+    "Position": 72,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-13 17:57:47",
+    "Seller": "ShwepS",
+    "Stock": "176",
+    "Price": 0.138,
+    "Currency": "USD",
+    "Position": 73,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-13 17:57:47",
+    "Seller": "megapupsik",
+    "Stock": "186",
+    "Price": 0.138,
+    "Currency": "USD",
+    "Position": 74,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-13 17:57:47",
+    "Seller": "AkiraMirai",
+    "Stock": "70",
+    "Price": 0.138,
+    "Currency": "USD",
+    "Position": 75,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
