@@ -15893,5 +15893,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-13 18:57:40",
+    "Seller": "oMacro",
+    "Stock": "29",
+    "Price": 0.133,
+    "Currency": "USD",
+    "Position": 72,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-13 18:57:40",
+    "Seller": "Maajoriik",
+    "Stock": "190",
+    "Price": 0.133,
+    "Currency": "USD",
+    "Position": 73,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-13 18:57:40",
+    "Seller": "Corvx",
+    "Stock": "100",
+    "Price": 0.134,
+    "Currency": "USD",
+    "Position": 74,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-13 18:57:40",
+    "Seller": "Betforgen",
+    "Stock": "30",
+    "Price": 0.134,
+    "Currency": "USD",
+    "Position": 75,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-13 18:57:40",
+    "Seller": "d19910701",
+    "Stock": "200",
+    "Price": 0.135,
+    "Currency": "USD",
+    "Position": 76,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
