@@ -17653,5 +17653,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-15 05:20:10",
+    "Seller": "RoyalGoldStore",
+    "Stock": "400",
+    "Price": 0.119,
+    "Currency": "USD",
+    "Position": 71,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-15 05:20:10",
+    "Seller": "DuskGrotesque",
+    "Stock": "37",
+    "Price": 0.122,
+    "Currency": "USD",
+    "Position": 72,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-15 05:20:10",
+    "Seller": "s3l0ut1",
+    "Stock": "37",
+    "Price": 0.122,
+    "Currency": "USD",
+    "Position": 76,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-15 05:20:10",
+    "Seller": "Matsuoka",
+    "Stock": "88",
+    "Price": 0.124,
+    "Currency": "USD",
+    "Position": 77,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-15 05:20:10",
+    "Seller": "shizukani",
+    "Stock": "200",
+    "Price": 0.126,
+    "Currency": "USD",
+    "Position": 79,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
