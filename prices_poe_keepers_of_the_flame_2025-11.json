@@ -19578,5 +19578,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-16 16:57:36",
+    "Seller": "SectorClearos",
+    "Stock": "300",
+    "Price": 0.09,
+    "Currency": "USD",
+    "Position": 65,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-16 16:57:36",
+    "Seller": "UNDERAlexX",
+    "Stock": "130",
+    "Price": 0.09,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-16 16:57:36",
+    "Seller": "exile36",
+    "Stock": "165",
+    "Price": 0.09,
+    "Currency": "USD",
+    "Position": 67,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-16 16:57:36",
+    "Seller": "AvetusTein",
+    "Stock": "280",
+    "Price": 0.091,
+    "Currency": "USD",
+    "Position": 68,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-16 16:57:36",
+    "Seller": "nicklucifer",
+    "Stock": "540",
+    "Price": 0.091,
+    "Currency": "USD",
+    "Position": 69,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
