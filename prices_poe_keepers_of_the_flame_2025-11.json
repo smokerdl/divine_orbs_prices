@@ -19908,5 +19908,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-16 22:57:36",
+    "Seller": "Dixzard",
+    "Stock": "200",
+    "Price": 0.066,
+    "Currency": "USD",
+    "Position": 67,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-16 22:57:36",
+    "Seller": "Tzezar",
+    "Stock": "500",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 68,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-16 22:57:36",
+    "Seller": "eks31",
+    "Stock": "300",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 69,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-16 22:57:36",
+    "Seller": "RoyalGoldStore",
+    "Stock": "400",
+    "Price": 0.069,
+    "Currency": "USD",
+    "Position": 70,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-16 22:57:36",
+    "Seller": "wowmmm",
+    "Stock": "800",
+    "Price": 0.069,
+    "Currency": "USD",
+    "Position": 71,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
