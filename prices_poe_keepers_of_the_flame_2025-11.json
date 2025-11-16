@@ -19248,5 +19248,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-16 10:57:41",
+    "Seller": "arenages",
+    "Stock": "100",
+    "Price": 0.102,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-16 10:57:41",
+    "Seller": "celikon228",
+    "Stock": "100",
+    "Price": 0.103,
+    "Currency": "USD",
+    "Position": 67,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-16 10:57:41",
+    "Seller": "Aatroxe",
+    "Stock": "230",
+    "Price": 0.103,
+    "Currency": "USD",
+    "Position": 68,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-16 10:57:41",
+    "Seller": "napamyatoslujbe",
+    "Stock": "374",
+    "Price": 0.103,
+    "Currency": "USD",
+    "Position": 69,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-16 10:57:41",
+    "Seller": "DoTeX13",
+    "Stock": "60",
+    "Price": 0.104,
+    "Currency": "USD",
+    "Position": 70,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
