@@ -20073,5 +20073,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-17 01:57:53",
+    "Seller": "RoyalGoldStore",
+    "Stock": "600",
+    "Price": 0.081,
+    "Currency": "USD",
+    "Position": 70,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-17 01:57:53",
+    "Seller": "Deep86",
+    "Stock": "354",
+    "Price": 0.082,
+    "Currency": "USD",
+    "Position": 71,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-17 01:57:53",
+    "Seller": "e4gle",
+    "Stock": "220",
+    "Price": 0.082,
+    "Currency": "USD",
+    "Position": 72,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-17 01:57:53",
+    "Seller": "Kose32",
+    "Stock": "280",
+    "Price": 0.083,
+    "Currency": "USD",
+    "Position": 73,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-17 01:57:53",
+    "Seller": "RedSpheres",
+    "Stock": "220",
+    "Price": 0.084,
+    "Currency": "USD",
+    "Position": 76,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
