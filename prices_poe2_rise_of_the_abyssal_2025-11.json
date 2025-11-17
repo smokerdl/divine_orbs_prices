@@ -21173,5 +21173,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-17 22:57:51",
+    "Seller": "Toriodor25",
+    "Stock": "2000",
+    "Price": 0.0198,
+    "Currency": "USD",
+    "Position": 639,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-17 22:57:51",
+    "Seller": "Mylenelfarmer",
+    "Stock": "1000",
+    "Price": 0.0199,
+    "Currency": "USD",
+    "Position": 640,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-17 22:57:51",
+    "Seller": "Flashart247",
+    "Stock": "99999",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 641,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-17 22:57:51",
+    "Seller": "FAS0LINKA",
+    "Stock": "2788",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 642,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-17 22:57:51",
+    "Seller": "XAndromed",
+    "Stock": "440",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 644,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
