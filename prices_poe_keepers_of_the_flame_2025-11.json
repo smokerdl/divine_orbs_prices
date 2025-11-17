@@ -20953,5 +20953,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-17 18:58:03",
+    "Seller": "goldandexaltsell",
+    "Stock": "120",
+    "Price": 0.08,
+    "Currency": "USD",
+    "Position": 70,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-17 18:58:03",
+    "Seller": "Elir",
+    "Stock": "300",
+    "Price": 0.08,
+    "Currency": "USD",
+    "Position": 71,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-17 18:58:03",
+    "Seller": "onebuyforwin",
+    "Stock": "2000",
+    "Price": 0.082,
+    "Currency": "USD",
+    "Position": 72,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-17 18:58:03",
+    "Seller": "samurov",
+    "Stock": "457",
+    "Price": 0.082,
+    "Currency": "USD",
+    "Position": 73,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-17 18:58:03",
+    "Seller": "CyberVan",
+    "Stock": "366",
+    "Price": 0.082,
+    "Currency": "USD",
+    "Position": 74,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
