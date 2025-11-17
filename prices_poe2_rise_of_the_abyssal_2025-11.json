@@ -20293,5 +20293,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-17 07:15:10",
+    "Seller": "mewerikis",
+    "Stock": "481",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 614,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-17 07:15:10",
+    "Seller": "PL1",
+    "Stock": "350",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 615,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-17 07:15:10",
+    "Seller": "FAS0LINKA",
+    "Stock": "2788",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 616,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-17 07:15:10",
+    "Seller": "dodolk",
+    "Stock": "485907",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 618,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-17 07:15:10",
+    "Seller": "XAndromed",
+    "Stock": "6",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 624,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
