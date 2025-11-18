@@ -22548,5 +22548,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-19 01:57:59",
+    "Seller": "AltairBOSS",
+    "Stock": "2200",
+    "Price": 0.065,
+    "Currency": "USD",
+    "Position": 62,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-19 01:57:59",
+    "Seller": "BrutalGladiator",
+    "Stock": "11",
+    "Price": 0.065,
+    "Currency": "USD",
+    "Position": 63,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-19 01:57:59",
+    "Seller": "Adires",
+    "Stock": "400",
+    "Price": 0.066,
+    "Currency": "USD",
+    "Position": 64,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-19 01:57:59",
+    "Seller": "ReaperQt",
+    "Stock": "500",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 65,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-19 01:57:59",
+    "Seller": "CirnoTrade",
+    "Stock": "996",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
