@@ -22493,5 +22493,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-19 00:57:36",
+    "Seller": "T3r33",
+    "Stock": "380",
+    "Price": 0.058,
+    "Currency": "USD",
+    "Position": 63,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-19 00:57:36",
+    "Seller": "RAICHY",
+    "Stock": "500",
+    "Price": 0.058,
+    "Currency": "USD",
+    "Position": 64,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-19 00:57:36",
+    "Seller": "BART666",
+    "Stock": "54",
+    "Price": 0.059,
+    "Currency": "USD",
+    "Position": 65,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-19 00:57:36",
+    "Seller": "Limecrime",
+    "Stock": "1000",
+    "Price": 0.059,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-19 00:57:36",
+    "Seller": "CirnoTrade",
+    "Stock": "996",
+    "Price": 0.059,
+    "Currency": "USD",
+    "Position": 67,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
