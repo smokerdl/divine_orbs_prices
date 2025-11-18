@@ -21943,5 +21943,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-18 13:57:59",
+    "Seller": "CyberImp",
+    "Stock": "21",
+    "Price": 0.07,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-18 13:57:59",
+    "Seller": "BendOverAndSmile",
+    "Stock": "300",
+    "Price": 0.071,
+    "Currency": "USD",
+    "Position": 67,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-18 13:57:59",
+    "Seller": "Letale1",
+    "Stock": "600",
+    "Price": 0.071,
+    "Currency": "USD",
+    "Position": 68,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-18 13:57:59",
+    "Seller": "Gevin",
+    "Stock": "310",
+    "Price": 0.072,
+    "Currency": "USD",
+    "Position": 69,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-18 13:57:59",
+    "Seller": "Cacsler",
+    "Stock": "395",
+    "Price": 0.072,
+    "Currency": "USD",
+    "Position": 70,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
