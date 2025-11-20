@@ -24308,5 +24308,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-20 11:59:57",
+    "Seller": "DreamUnderTheNight",
+    "Stock": "8793",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 572,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-20 11:59:57",
+    "Seller": "PL1",
+    "Stock": "400",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 573,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-20 11:59:57",
+    "Seller": "AntonGrustnov",
+    "Stock": "1264",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 574,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-20 11:59:57",
+    "Seller": "TheFirst",
+    "Stock": "1122",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 580,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-20 11:59:57",
+    "Seller": "dodolk",
+    "Stock": "462097",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 581,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
