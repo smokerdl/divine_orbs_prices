@@ -26893,5 +26893,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-22 12:57:58",
+    "Seller": "q343",
+    "Stock": "600",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-22 12:57:58",
+    "Seller": "Vetinari",
+    "Stock": "50",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 62,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-22 12:57:58",
+    "Seller": "LowLeto",
+    "Stock": "428",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 63,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-22 12:57:58",
+    "Seller": "Alex1861",
+    "Stock": "660",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 64,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-22 12:57:58",
+    "Seller": "Hentai1337",
+    "Stock": "200",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 65,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
