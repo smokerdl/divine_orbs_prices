@@ -26728,5 +26728,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-22 09:58:00",
+    "Seller": "ExRyzVan",
+    "Stock": "11",
+    "Price": 0.07,
+    "Currency": "USD",
+    "Position": 63,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-22 09:58:00",
+    "Seller": "ReyYasuda",
+    "Stock": "200",
+    "Price": 0.071,
+    "Currency": "USD",
+    "Position": 64,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-22 09:58:00",
+    "Seller": "erode",
+    "Stock": "400",
+    "Price": 0.072,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-22 09:58:00",
+    "Seller": "MalFurevna",
+    "Stock": "3000",
+    "Price": 0.072,
+    "Currency": "USD",
+    "Position": 67,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-22 09:58:00",
+    "Seller": "ExaltBoss",
+    "Stock": "700",
+    "Price": 0.073,
+    "Currency": "USD",
+    "Position": 68,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
