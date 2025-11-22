@@ -27663,5 +27663,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-23 02:57:53",
+    "Seller": "sensorlinc",
+    "Stock": "100",
+    "Price": 0.066,
+    "Currency": "USD",
+    "Position": 64,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-23 02:57:53",
+    "Seller": "SuzuGod",
+    "Stock": "100",
+    "Price": 0.066,
+    "Currency": "USD",
+    "Position": 65,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-23 02:57:53",
+    "Seller": "Nilepta",
+    "Stock": "320",
+    "Price": 0.066,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-23 02:57:53",
+    "Seller": "widowmake",
+    "Stock": "1400",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 67,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-23 02:57:53",
+    "Seller": "Pantheon96",
+    "Stock": "350",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 68,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
