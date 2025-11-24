@@ -29368,5 +29368,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-24 12:00:41",
+    "Seller": "bushidojojo999",
+    "Stock": "760",
+    "Price": 0.049,
+    "Currency": "USD",
+    "Position": 68,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-24 12:00:41",
+    "Seller": "Liyr",
+    "Stock": "200",
+    "Price": 0.049,
+    "Currency": "USD",
+    "Position": 69,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-24 12:00:41",
+    "Seller": "LaID90",
+    "Stock": "90",
+    "Price": 0.049,
+    "Currency": "USD",
+    "Position": 70,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-24 12:00:41",
+    "Seller": "venomtech",
+    "Stock": "44",
+    "Price": 0.049,
+    "Currency": "USD",
+    "Position": 71,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-24 12:00:41",
+    "Seller": "CyberImp",
+    "Stock": "43",
+    "Price": 0.049,
+    "Currency": "USD",
+    "Position": 72,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
