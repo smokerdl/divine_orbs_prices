@@ -29038,5 +29038,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-24 06:48:55",
+    "Seller": "ansheee",
+    "Stock": "200",
+    "Price": 0.055,
+    "Currency": "USD",
+    "Position": 63,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-24 06:48:55",
+    "Seller": "GimliFarmer",
+    "Stock": "356",
+    "Price": 0.055,
+    "Currency": "USD",
+    "Position": 64,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-24 06:48:55",
+    "Seller": "GoldInwow",
+    "Stock": "140",
+    "Price": 0.056,
+    "Currency": "USD",
+    "Position": 65,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-24 06:48:55",
+    "Seller": "Mipo",
+    "Stock": "1200",
+    "Price": 0.056,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-24 06:48:55",
+    "Seller": "Adires",
+    "Stock": "500",
+    "Price": 0.057,
+    "Currency": "USD",
+    "Position": 67,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
