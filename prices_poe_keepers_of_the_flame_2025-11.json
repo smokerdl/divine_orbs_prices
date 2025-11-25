@@ -30743,5 +30743,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-25 13:57:56",
+    "Seller": "Extreme13",
+    "Stock": "9000",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-25 13:57:56",
+    "Seller": "iMoorich",
+    "Stock": "2000",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-25 13:57:56",
+    "Seller": "zerchyan",
+    "Stock": "1890",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-25 13:57:56",
+    "Seller": "Wistint",
+    "Stock": "652",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-25 13:57:56",
+    "Seller": "Limecrime",
+    "Stock": "1400",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
