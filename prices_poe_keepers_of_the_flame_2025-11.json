@@ -31238,5 +31238,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-25 22:57:47",
+    "Seller": "BornToSlow",
+    "Stock": "500",
+    "Price": 0.044,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-25 22:57:47",
+    "Seller": "Allzy",
+    "Stock": "285",
+    "Price": 0.044,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-25 22:57:47",
+    "Seller": "Lindi",
+    "Stock": "500",
+    "Price": 0.044,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-25 22:57:47",
+    "Seller": "tGold",
+    "Stock": "600",
+    "Price": 0.044,
+    "Currency": "USD",
+    "Position": 62,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-25 22:57:47",
+    "Seller": "Arteqisa",
+    "Stock": "1600",
+    "Price": 0.045,
+    "Currency": "USD",
+    "Position": 63,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
