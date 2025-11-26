@@ -31733,5 +31733,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-26 08:57:56",
+    "Seller": "MyEnemy312",
+    "Stock": "200",
+    "Price": 0.044,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-26 08:57:56",
+    "Seller": "luckylol",
+    "Stock": "500",
+    "Price": 0.044,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-26 08:57:56",
+    "Seller": "Nemesis787",
+    "Stock": "350",
+    "Price": 0.045,
+    "Currency": "USD",
+    "Position": 62,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-26 08:57:56",
+    "Seller": "IamAndrey",
+    "Stock": "676",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 63,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-26 08:57:56",
+    "Seller": "ritual213",
+    "Stock": "1000",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 64,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
