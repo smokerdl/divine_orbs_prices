@@ -34428,5 +34428,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-28 12:58:15",
+    "Seller": "StenyRock",
+    "Stock": "50",
+    "Price": 0.0185,
+    "Currency": "USD",
+    "Position": 546,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-28 12:58:15",
+    "Seller": "seller11a",
+    "Stock": "130",
+    "Price": 0.0188,
+    "Currency": "USD",
+    "Position": 547,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-28 12:58:15",
+    "Seller": "Blokan",
+    "Stock": "500",
+    "Price": 0.0192,
+    "Currency": "USD",
+    "Position": 549,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-28 12:58:15",
+    "Seller": "Yellowmeow",
+    "Stock": "500",
+    "Price": 0.0192,
+    "Currency": "USD",
+    "Position": 550,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-11-28 12:58:15",
+    "Seller": "Brexit",
+    "Stock": "3445",
+    "Price": 0.0193,
+    "Currency": "USD",
+    "Position": 551,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
