@@ -34208,5 +34208,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-28 07:57:58",
+    "Seller": "Ruslators",
+    "Stock": "3",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 63,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-28 07:57:58",
+    "Seller": "fill12",
+    "Stock": "2450",
+    "Price": 0.047,
+    "Currency": "USD",
+    "Position": 64,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-28 07:57:58",
+    "Seller": "PoeFast",
+    "Stock": "8000",
+    "Price": 0.047,
+    "Currency": "USD",
+    "Position": 65,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-28 07:57:58",
+    "Seller": "Dracte",
+    "Stock": "4",
+    "Price": 0.047,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-28 07:57:58",
+    "Seller": "SIRvatson",
+    "Stock": "300",
+    "Price": 0.047,
+    "Currency": "USD",
+    "Position": 67,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
