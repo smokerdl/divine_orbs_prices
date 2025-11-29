@@ -35693,5 +35693,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-29 12:58:04",
+    "Seller": "JustMeat",
+    "Stock": "1150",
+    "Price": 0.041,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-29 12:58:04",
+    "Seller": "multicast",
+    "Stock": "200",
+    "Price": 0.041,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-29 12:58:04",
+    "Seller": "Bygorr",
+    "Stock": "108",
+    "Price": 0.041,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-29 12:58:04",
+    "Seller": "Mangix228",
+    "Stock": "326",
+    "Price": 0.042,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-29 12:58:04",
+    "Seller": "Gavin",
+    "Stock": "450",
+    "Price": 0.042,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
