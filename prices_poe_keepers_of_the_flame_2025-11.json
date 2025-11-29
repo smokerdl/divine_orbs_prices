@@ -35803,5 +35803,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-29 14:57:59",
+    "Seller": "GoldInwow",
+    "Stock": "150",
+    "Price": 0.05,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-29 14:57:59",
+    "Seller": "Hyakka",
+    "Stock": "400",
+    "Price": 0.05,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-29 14:57:59",
+    "Seller": "lrarogv",
+    "Stock": "473",
+    "Price": 0.05,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-29 14:57:59",
+    "Seller": "Gafandok",
+    "Stock": "500",
+    "Price": 0.051,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-11-29 14:57:59",
+    "Seller": "Sergey42143",
+    "Stock": "340",
+    "Price": 0.051,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
