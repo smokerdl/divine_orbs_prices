@@ -5938,5 +5938,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-05 21:59:02",
+    "Seller": "shikaka",
+    "Stock": "8700",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 56,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-05 21:59:02",
+    "Seller": "adenastore",
+    "Stock": "2000",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-05 21:59:02",
+    "Seller": "TipTop1",
+    "Stock": "317",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-05 21:59:02",
+    "Seller": "kryazhevskikh96",
+    "Stock": "250",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-05 21:59:02",
+    "Seller": "Bukinnik2013",
+    "Stock": "935",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 62,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
