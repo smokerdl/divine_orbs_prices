@@ -6543,5 +6543,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-06 09:57:53",
+    "Seller": "FERMERVALUTI",
+    "Stock": "500",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-06 09:57:53",
+    "Seller": "Wistint",
+    "Stock": "1500",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-06 09:57:53",
+    "Seller": "minimaldose",
+    "Stock": "200",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-06 09:57:53",
+    "Seller": "Constantinius",
+    "Stock": "2000",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-06 09:57:53",
+    "Seller": "Qupe777",
+    "Stock": "560",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 51,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
