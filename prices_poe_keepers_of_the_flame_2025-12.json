@@ -6708,5 +6708,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-06 12:57:45",
+    "Seller": "Kontroler21",
+    "Stock": "136",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 51,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-06 12:57:45",
+    "Seller": "minimaldose",
+    "Stock": "200",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 52,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-06 12:57:45",
+    "Seller": "PoeFast",
+    "Stock": "4150",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 53,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-06 12:57:45",
+    "Seller": "Kiralw",
+    "Stock": "22098",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-06 12:57:45",
+    "Seller": "nurezoo",
+    "Stock": "22112",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 55,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
