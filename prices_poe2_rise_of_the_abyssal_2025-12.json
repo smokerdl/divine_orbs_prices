@@ -7093,5 +7093,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "11971"
+  },
+  {
+    "Timestamp": "2025-12-06 19:57:52",
+    "Seller": "Brexit",
+    "Stock": "4200",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 715,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-12-06 19:57:52",
+    "Seller": "Hweezi",
+    "Stock": "43721",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 718,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-12-06 19:57:52",
+    "Seller": "Jack1Thorns",
+    "Stock": "3777",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 720,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-12-06 19:57:52",
+    "Seller": "nurezoo",
+    "Stock": "43773",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 721,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "11971"
+  },
+  {
+    "Timestamp": "2025-12-06 19:57:52",
+    "Seller": "DreamUnderTheNight",
+    "Stock": "43794",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 722,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "11971"
   }
 ]
