@@ -10008,5 +10008,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-09 02:57:41",
+    "Seller": "adenastore",
+    "Stock": "1000",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 51,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-09 02:57:41",
+    "Seller": "IamAndrey",
+    "Stock": "1379",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 52,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-09 02:57:41",
+    "Seller": "Arhangel1881",
+    "Stock": "600",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 53,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-09 02:57:41",
+    "Seller": "uBiman",
+    "Stock": "2578",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 55,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-09 02:57:41",
+    "Seller": "Linkzzz",
+    "Stock": "1400",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 56,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
