@@ -12373,5 +12373,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-10 23:59:30",
+    "Seller": "NInesouls",
+    "Stock": "400",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-10 23:59:30",
+    "Seller": "arik1504",
+    "Stock": "200",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 51,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-10 23:59:30",
+    "Seller": "Zaurkaaa",
+    "Stock": "2",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 53,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-10 23:59:30",
+    "Seller": "TrueFighter",
+    "Stock": "500",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-10 23:59:30",
+    "Seller": "l3vwa",
+    "Stock": "329",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 55,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
