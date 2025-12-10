@@ -11713,5 +11713,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-10 12:01:53",
+    "Seller": "danjasin",
+    "Stock": "720",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-10 12:01:53",
+    "Seller": "IcebornShinobi",
+    "Stock": "250",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 51,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-10 12:01:53",
+    "Seller": "minimaldose",
+    "Stock": "300",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 52,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-10 12:01:53",
+    "Seller": "Wistint",
+    "Stock": "1100",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 53,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-10 12:01:53",
+    "Seller": "PrimeVerse",
+    "Stock": "300",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
