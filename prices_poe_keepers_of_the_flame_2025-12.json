@@ -12153,5 +12153,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-10 20:10:56",
+    "Seller": "Garlik",
+    "Stock": "443",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-10 20:10:56",
+    "Seller": "Thanatosssa",
+    "Stock": "333",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-10 20:10:56",
+    "Seller": "uBiman",
+    "Stock": "1228",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-10 20:10:56",
+    "Seller": "VipSlipner",
+    "Stock": "1100",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-10 20:10:56",
+    "Seller": "Marikorosso",
+    "Stock": "350",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
