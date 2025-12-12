@@ -218,5 +218,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-12 22:00:54",
+    "Seller": "DImaLebedevv",
+    "Stock": "10",
+    "Price": 46.88,
+    "Currency": "USD",
+    "Position": 782,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-12 22:00:54",
+    "Seller": "PabloEs333",
+    "Stock": "10",
+    "Price": 63.92,
+    "Currency": "USD",
+    "Position": 784,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-12 22:00:54",
+    "Seller": "Nikas18",
+    "Stock": "1",
+    "Price": 70.31,
+    "Currency": "USD",
+    "Position": 785,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-12 22:00:54",
+    "Seller": "EnerguR",
+    "Stock": "2",
+    "Price": 109.38,
+    "Currency": "USD",
+    "Position": 808,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-12 22:00:54",
+    "Seller": "STALWALLET",
+    "Stock": "3",
+    "Price": 109.38,
+    "Currency": "USD",
+    "Position": 809,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
