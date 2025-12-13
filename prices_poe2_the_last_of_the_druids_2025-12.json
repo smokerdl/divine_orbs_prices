@@ -603,5 +603,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-13 06:40:36",
+    "Seller": "deadinside11years",
+    "Stock": "1",
+    "Price": 5.14,
+    "Currency": "USD",
+    "Position": 993,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-13 06:40:36",
+    "Seller": "Olliofficial",
+    "Stock": "1",
+    "Price": 5.16,
+    "Currency": "USD",
+    "Position": 994,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-13 06:40:36",
+    "Seller": "GamazPlay",
+    "Stock": "1",
+    "Price": 5.16,
+    "Currency": "USD",
+    "Position": 995,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-13 06:40:36",
+    "Seller": "E1ectroShock",
+    "Stock": "1",
+    "Price": 5.31,
+    "Currency": "USD",
+    "Position": 997,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-13 06:40:36",
+    "Seller": "DrafLok",
+    "Stock": "1",
+    "Price": 5.47,
+    "Currency": "USD",
+    "Position": 1006,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
