@@ -658,5 +658,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-13 07:14:44",
+    "Seller": "V4ska",
+    "Stock": "2",
+    "Price": 5.0,
+    "Currency": "USD",
+    "Position": 1009,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-13 07:14:44",
+    "Seller": "nik0belik",
+    "Stock": "1",
+    "Price": 5.05,
+    "Currency": "USD",
+    "Position": 1011,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-13 07:14:44",
+    "Seller": "E1ectroShock",
+    "Stock": "1",
+    "Price": 5.05,
+    "Currency": "USD",
+    "Position": 1012,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-13 07:14:44",
+    "Seller": "deadinside11years",
+    "Stock": "1",
+    "Price": 5.14,
+    "Currency": "USD",
+    "Position": 1013,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-13 07:14:44",
+    "Seller": "GamazPlay",
+    "Stock": "1",
+    "Price": 5.16,
+    "Currency": "USD",
+    "Position": 1014,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
