@@ -1978,5 +1978,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-14 08:00:55",
+    "Seller": "DarckLight",
+    "Stock": "1",
+    "Price": 3.44,
+    "Currency": "USD",
+    "Position": 1198,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-14 08:00:55",
+    "Seller": "vitvadim",
+    "Stock": "1",
+    "Price": 3.47,
+    "Currency": "USD",
+    "Position": 1199,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-14 08:00:55",
+    "Seller": "closerFt",
+    "Stock": "1",
+    "Price": 3.64,
+    "Currency": "USD",
+    "Position": 1205,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-14 08:00:55",
+    "Seller": "ShopSerebro",
+    "Stock": "1",
+    "Price": 3.66,
+    "Currency": "USD",
+    "Position": 1206,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-14 08:00:55",
+    "Seller": "Lendermon",
+    "Stock": "7",
+    "Price": 3.66,
+    "Currency": "USD",
+    "Position": 1207,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
