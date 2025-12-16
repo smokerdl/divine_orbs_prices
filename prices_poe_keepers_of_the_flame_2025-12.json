@@ -18863,5 +18863,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-16 05:45:02",
+    "Seller": "solitte",
+    "Stock": "4",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-16 05:45:02",
+    "Seller": "oldHruchel",
+    "Stock": "12000",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-16 05:45:02",
+    "Seller": "ExaltBoss",
+    "Stock": "1200",
+    "Price": 0.037,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-16 05:45:02",
+    "Seller": "onebuyforwin",
+    "Stock": "5380",
+    "Price": 0.037,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-16 05:45:02",
+    "Seller": "GrindStyle",
+    "Stock": "1000",
+    "Price": 0.039,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
