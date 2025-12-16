@@ -19028,5 +19028,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-16 08:11:15",
+    "Seller": "oldHruchel",
+    "Stock": "12000",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 55,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-16 08:11:15",
+    "Seller": "widowmake",
+    "Stock": "1000",
+    "Price": 0.036,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-16 08:11:15",
+    "Seller": "ExaltBoss",
+    "Stock": "1200",
+    "Price": 0.039,
+    "Currency": "USD",
+    "Position": 62,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-16 08:11:15",
+    "Seller": "GrindStyle",
+    "Stock": "1000",
+    "Price": 0.039,
+    "Currency": "USD",
+    "Position": 63,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-16 08:11:15",
+    "Seller": "GoldR1ver",
+    "Stock": "2700",
+    "Price": 0.039,
+    "Currency": "USD",
+    "Position": 64,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
