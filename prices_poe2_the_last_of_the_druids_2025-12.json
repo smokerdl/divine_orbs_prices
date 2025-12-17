@@ -5993,5 +5993,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-17 12:58:17",
+    "Seller": "Eavy1337",
+    "Stock": "41",
+    "Price": 0.63,
+    "Currency": "USD",
+    "Position": 1079,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-17 12:58:17",
+    "Seller": "HammApp",
+    "Stock": "30",
+    "Price": 0.63,
+    "Currency": "USD",
+    "Position": 1084,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-17 12:58:17",
+    "Seller": "Daytona666",
+    "Stock": "26",
+    "Price": 0.64,
+    "Currency": "USD",
+    "Position": 1086,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-17 12:58:17",
+    "Seller": "ImPicky",
+    "Stock": "40",
+    "Price": 0.65,
+    "Currency": "USD",
+    "Position": 1089,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-17 12:58:17",
+    "Seller": "plutoroals",
+    "Stock": "24",
+    "Price": 0.66,
+    "Currency": "USD",
+    "Position": 1090,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
