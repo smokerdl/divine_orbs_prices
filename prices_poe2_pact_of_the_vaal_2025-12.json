@@ -768,5 +768,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-18 06:47:09",
+    "Seller": "kisik",
+    "Stock": "5",
+    "Price": 0.49,
+    "Currency": "USD",
+    "Position": 1032,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-18 06:47:09",
+    "Seller": "Vivatt",
+    "Stock": "8",
+    "Price": 0.49,
+    "Currency": "USD",
+    "Position": 1033,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-18 06:47:09",
+    "Seller": "Sola24",
+    "Stock": "16",
+    "Price": 0.49,
+    "Currency": "USD",
+    "Position": 1034,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-18 06:47:09",
+    "Seller": "DiamondWest",
+    "Stock": "3",
+    "Price": 0.5,
+    "Currency": "USD",
+    "Position": 1035,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-18 06:47:09",
+    "Seller": "BadGoldMachine",
+    "Stock": "3",
+    "Price": 0.5,
+    "Currency": "USD",
+    "Position": 1036,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
