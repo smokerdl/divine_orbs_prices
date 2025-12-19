@@ -1,0 +1,57 @@
+[
+  {
+    "Timestamp": "2025-12-19 12:58:05",
+    "Seller": "nimf12",
+    "Stock": "21",
+    "Price": 0.5,
+    "Currency": "USD",
+    "Position": 1094,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-19 12:58:05",
+    "Seller": "sibir33",
+    "Stock": "103",
+    "Price": 0.51,
+    "Currency": "USD",
+    "Position": 1096,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-19 12:58:05",
+    "Seller": "frencheiz",
+    "Stock": "100",
+    "Price": 0.51,
+    "Currency": "USD",
+    "Position": 1097,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-19 12:58:05",
+    "Seller": "OpTuMuCT",
+    "Stock": "100",
+    "Price": 0.51,
+    "Currency": "USD",
+    "Position": 1098,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-19 12:58:05",
+    "Seller": "Constantinius",
+    "Stock": "100",
+    "Price": 0.51,
+    "Currency": "USD",
+    "Position": 1099,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
+  }
+]
