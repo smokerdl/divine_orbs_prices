@@ -768,5 +768,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-20 02:58:02",
+    "Seller": "FromBlood",
+    "Stock": "25",
+    "Price": 0.46,
+    "Currency": "USD",
+    "Position": 1080,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-20 02:58:02",
+    "Seller": "Shadowv",
+    "Stock": "40",
+    "Price": 0.47,
+    "Currency": "USD",
+    "Position": 1083,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-20 02:58:02",
+    "Seller": "SerjShow",
+    "Stock": "3",
+    "Price": 0.47,
+    "Currency": "USD",
+    "Position": 1084,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-20 02:58:02",
+    "Seller": "Kronos93",
+    "Stock": "22",
+    "Price": 0.48,
+    "Currency": "USD",
+    "Position": 1087,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-20 02:58:02",
+    "Seller": "Castabi",
+    "Stock": "432",
+    "Price": 0.48,
+    "Currency": "USD",
+    "Position": 1088,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
