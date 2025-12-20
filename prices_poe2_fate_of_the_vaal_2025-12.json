@@ -1263,5 +1263,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-20 12:57:49",
+    "Seller": "ModoAbs",
+    "Stock": "17",
+    "Price": 0.4,
+    "Currency": "USD",
+    "Position": 1094,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-20 12:57:49",
+    "Seller": "Hoshigamer",
+    "Stock": "50",
+    "Price": 0.4,
+    "Currency": "USD",
+    "Position": 1095,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-20 12:57:49",
+    "Seller": "Halofox",
+    "Stock": "100",
+    "Price": 0.4,
+    "Currency": "USD",
+    "Position": 1096,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-20 12:57:49",
+    "Seller": "SpectrAll",
+    "Stock": "60",
+    "Price": 0.4,
+    "Currency": "USD",
+    "Position": 1099,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-20 12:57:49",
+    "Seller": "jekaSP",
+    "Stock": "49",
+    "Price": 0.4,
+    "Currency": "USD",
+    "Position": 1100,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
