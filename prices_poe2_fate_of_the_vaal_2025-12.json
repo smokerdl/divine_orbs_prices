@@ -3078,5 +3078,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-21 22:58:06",
+    "Seller": "Garlik",
+    "Stock": "10",
+    "Price": 0.26,
+    "Currency": "USD",
+    "Position": 1026,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-21 22:58:06",
+    "Seller": "Alegratos",
+    "Stock": "21",
+    "Price": 0.26,
+    "Currency": "USD",
+    "Position": 1027,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-21 22:58:06",
+    "Seller": "DuskGrotesque",
+    "Stock": "34",
+    "Price": 0.26,
+    "Currency": "USD",
+    "Position": 1028,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-21 22:58:06",
+    "Seller": "ApexLegendsEBT",
+    "Stock": "41",
+    "Price": 0.26,
+    "Currency": "USD",
+    "Position": 1031,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-21 22:58:06",
+    "Seller": "drelted",
+    "Stock": "45",
+    "Price": 0.26,
+    "Currency": "USD",
+    "Position": 1032,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
