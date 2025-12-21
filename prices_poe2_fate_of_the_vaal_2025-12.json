@@ -2968,5 +2968,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-21 20:58:08",
+    "Seller": "Margraf",
+    "Stock": "56",
+    "Price": 0.28,
+    "Currency": "USD",
+    "Position": 995,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-21 20:58:08",
+    "Seller": "araagom",
+    "Stock": "40",
+    "Price": 0.28,
+    "Currency": "USD",
+    "Position": 996,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-21 20:58:08",
+    "Seller": "gizmoo0",
+    "Stock": "27",
+    "Price": 0.28,
+    "Currency": "USD",
+    "Position": 1000,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-21 20:58:08",
+    "Seller": "Propaniak1",
+    "Stock": "50",
+    "Price": 0.28,
+    "Currency": "USD",
+    "Position": 1001,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-21 20:58:08",
+    "Seller": "animeq",
+    "Stock": "62",
+    "Price": 0.28,
+    "Currency": "USD",
+    "Position": 1002,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
