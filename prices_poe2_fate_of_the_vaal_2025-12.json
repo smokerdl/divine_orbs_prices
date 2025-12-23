@@ -5553,5 +5553,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-23 22:58:01",
+    "Seller": "SergeyZolotov",
+    "Stock": "8",
+    "Price": 0.28,
+    "Currency": "USD",
+    "Position": 1011,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-23 22:58:01",
+    "Seller": "Aleonora",
+    "Stock": "45",
+    "Price": 0.28,
+    "Currency": "USD",
+    "Position": 1012,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-23 22:58:01",
+    "Seller": "Joka30",
+    "Stock": "28",
+    "Price": 0.28,
+    "Currency": "USD",
+    "Position": 1013,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-23 22:58:01",
+    "Seller": "kpolik",
+    "Stock": "40",
+    "Price": 0.28,
+    "Currency": "USD",
+    "Position": 1014,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-23 22:58:01",
+    "Seller": "chessgros",
+    "Stock": "30",
+    "Price": 0.28,
+    "Currency": "USD",
+    "Position": 1015,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
