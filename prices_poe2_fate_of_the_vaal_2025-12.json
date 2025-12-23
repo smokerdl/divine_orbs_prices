@@ -5443,5 +5443,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-23 20:58:03",
+    "Seller": "Antaqonisto",
+    "Stock": "20",
+    "Price": 0.28,
+    "Currency": "USD",
+    "Position": 1004,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-23 20:58:03",
+    "Seller": "S6LO",
+    "Stock": "9",
+    "Price": 0.28,
+    "Currency": "USD",
+    "Position": 1005,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-23 20:58:03",
+    "Seller": "Vlipst",
+    "Stock": "5",
+    "Price": 0.28,
+    "Currency": "USD",
+    "Position": 1007,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-23 20:58:03",
+    "Seller": "ARNASH",
+    "Stock": "5",
+    "Price": 0.28,
+    "Currency": "USD",
+    "Position": 1008,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-23 20:58:03",
+    "Seller": "TakeMyMoney",
+    "Stock": "60",
+    "Price": 0.28,
+    "Currency": "USD",
+    "Position": 1009,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
