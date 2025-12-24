@@ -6048,5 +6048,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-24 08:57:44",
+    "Seller": "Kadavera",
+    "Stock": "45",
+    "Price": 0.23,
+    "Currency": "USD",
+    "Position": 940,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-24 08:57:44",
+    "Seller": "Kazeko",
+    "Stock": "40",
+    "Price": 0.24,
+    "Currency": "USD",
+    "Position": 941,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-24 08:57:44",
+    "Seller": "Akkri",
+    "Stock": "50",
+    "Price": 0.24,
+    "Currency": "USD",
+    "Position": 942,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-24 08:57:44",
+    "Seller": "LaID90",
+    "Stock": "22",
+    "Price": 0.24,
+    "Currency": "USD",
+    "Position": 943,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-24 08:57:44",
+    "Seller": "NOGEBATORVIVALAVITA",
+    "Stock": "106",
+    "Price": 0.24,
+    "Currency": "USD",
+    "Position": 945,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
