@@ -7313,5 +7313,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-25 10:57:55",
+    "Seller": "LakeofTears",
+    "Stock": "50",
+    "Price": 0.24,
+    "Currency": "USD",
+    "Position": 1022,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-25 10:57:55",
+    "Seller": "HammApp",
+    "Stock": "75",
+    "Price": 0.24,
+    "Currency": "USD",
+    "Position": 1023,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-25 10:57:55",
+    "Seller": "capital12",
+    "Stock": "110",
+    "Price": 0.24,
+    "Currency": "USD",
+    "Position": 1024,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-25 10:57:55",
+    "Seller": "alabay12",
+    "Stock": "100",
+    "Price": 0.24,
+    "Currency": "USD",
+    "Position": 1025,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-25 10:57:55",
+    "Seller": "kekasekablue",
+    "Stock": "147",
+    "Price": 0.24,
+    "Currency": "USD",
+    "Position": 1026,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
