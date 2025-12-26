@@ -32173,5 +32173,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-26 19:57:59",
+    "Seller": "FreeMarket2",
+    "Stock": "1200",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-26 19:57:59",
+    "Seller": "Heathens22",
+    "Stock": "200",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 51,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-26 19:57:59",
+    "Seller": "Brexit",
+    "Stock": "1214",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 52,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-26 19:57:59",
+    "Seller": "Linkzzz",
+    "Stock": "900",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 53,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-26 19:57:59",
+    "Seller": "Andr3w12",
+    "Stock": "500",
+    "Price": 0.027,
+    "Currency": "USD",
+    "Position": 56,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
