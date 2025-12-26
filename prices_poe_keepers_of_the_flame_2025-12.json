@@ -32338,5 +32338,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-26 22:57:41",
+    "Seller": "First1113",
+    "Stock": "1650",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 55,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-26 22:57:41",
+    "Seller": "Kolyar",
+    "Stock": "795",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 56,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-26 22:57:41",
+    "Seller": "WutFace",
+    "Stock": "768",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-26 22:57:41",
+    "Seller": "Aatroxe",
+    "Stock": "600",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-26 22:57:41",
+    "Seller": "GoldR1ver",
+    "Stock": "6366",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
