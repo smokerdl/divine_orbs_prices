@@ -9073,5 +9073,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-26 19:58:12",
+    "Seller": "Uzor",
+    "Stock": "71",
+    "Price": 0.16,
+    "Currency": "USD",
+    "Position": 935,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-26 19:58:12",
+    "Seller": "gazegazegaze",
+    "Stock": "2",
+    "Price": 0.161,
+    "Currency": "USD",
+    "Position": 946,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-26 19:58:12",
+    "Seller": "Doxiex",
+    "Stock": "245",
+    "Price": 0.161,
+    "Currency": "USD",
+    "Position": 947,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-26 19:58:12",
+    "Seller": "emanadeen",
+    "Stock": "100",
+    "Price": 0.161,
+    "Currency": "USD",
+    "Position": 948,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-26 19:58:12",
+    "Seller": "ReignMoney",
+    "Stock": "86",
+    "Price": 0.166,
+    "Currency": "USD",
+    "Position": 953,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
