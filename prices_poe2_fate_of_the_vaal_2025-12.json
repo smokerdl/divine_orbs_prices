@@ -8468,5 +8468,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-26 08:57:57",
+    "Seller": "epinephrin",
+    "Stock": "153",
+    "Price": 0.183,
+    "Currency": "USD",
+    "Position": 871,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-26 08:57:57",
+    "Seller": "PLOTNAYAZIGA",
+    "Stock": "30",
+    "Price": 0.184,
+    "Currency": "USD",
+    "Position": 872,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-26 08:57:57",
+    "Seller": "OOOproduction",
+    "Stock": "50",
+    "Price": 0.184,
+    "Currency": "USD",
+    "Position": 873,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-26 08:57:58",
+    "Seller": "Goldzilla",
+    "Stock": "128",
+    "Price": 0.184,
+    "Currency": "USD",
+    "Position": 874,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-26 08:57:58",
+    "Seller": "Mylenelfarmer",
+    "Stock": "90",
+    "Price": 0.188,
+    "Currency": "USD",
+    "Position": 876,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
