@@ -10613,5 +10613,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-28 00:57:56",
+    "Seller": "Dzoxtur",
+    "Stock": "1386",
+    "Price": 0.148,
+    "Currency": "USD",
+    "Position": 957,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-28 00:57:56",
+    "Seller": "waterwood",
+    "Stock": "117",
+    "Price": 0.148,
+    "Currency": "USD",
+    "Position": 958,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-28 00:57:56",
+    "Seller": "Millionaire6",
+    "Stock": "76",
+    "Price": 0.148,
+    "Currency": "USD",
+    "Position": 959,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-28 00:57:56",
+    "Seller": "MalFurevna",
+    "Stock": "800",
+    "Price": 0.15,
+    "Currency": "USD",
+    "Position": 961,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-28 00:57:56",
+    "Seller": "Qneq",
+    "Stock": "150",
+    "Price": 0.15,
+    "Currency": "USD",
+    "Position": 962,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
