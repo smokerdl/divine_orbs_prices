@@ -11988,5 +11988,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-29 05:58:04",
+    "Seller": "Rinamo",
+    "Stock": "50",
+    "Price": 0.11,
+    "Currency": "USD",
+    "Position": 888,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-29 05:58:04",
+    "Seller": "Halebor1488",
+    "Stock": "6",
+    "Price": 0.112,
+    "Currency": "USD",
+    "Position": 889,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-29 05:58:04",
+    "Seller": "Macrovsky",
+    "Stock": "146",
+    "Price": 0.112,
+    "Currency": "USD",
+    "Position": 890,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-29 05:58:04",
+    "Seller": "GrindDigger",
+    "Stock": "50",
+    "Price": 0.112,
+    "Currency": "USD",
+    "Position": 891,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-29 05:58:04",
+    "Seller": "Cinderace",
+    "Stock": "1400",
+    "Price": 0.113,
+    "Currency": "USD",
+    "Position": 892,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
