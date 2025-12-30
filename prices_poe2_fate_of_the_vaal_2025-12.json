@@ -13913,5 +13913,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-30 17:58:47",
+    "Seller": "donater22",
+    "Stock": "527",
+    "Price": 0.087,
+    "Currency": "USD",
+    "Position": 810,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-30 17:58:47",
+    "Seller": "GrandsStash",
+    "Stock": "10",
+    "Price": 0.087,
+    "Currency": "USD",
+    "Position": 811,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-30 17:58:47",
+    "Seller": "Cheshir55",
+    "Stock": "1",
+    "Price": 0.089,
+    "Currency": "USD",
+    "Position": 813,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-30 17:58:47",
+    "Seller": "Den4IL",
+    "Stock": "450",
+    "Price": 0.089,
+    "Currency": "USD",
+    "Position": 814,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-30 17:58:47",
+    "Seller": "Giper13rus",
+    "Stock": "200",
+    "Price": 0.09,
+    "Currency": "USD",
+    "Position": 815,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
