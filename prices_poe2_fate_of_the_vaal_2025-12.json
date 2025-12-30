@@ -13748,5 +13748,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-30 14:57:47",
+    "Seller": "gotysell",
+    "Stock": "400",
+    "Price": 0.079,
+    "Currency": "USD",
+    "Position": 829,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-30 14:57:47",
+    "Seller": "Doxiex",
+    "Stock": "500",
+    "Price": 0.08,
+    "Currency": "USD",
+    "Position": 832,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-30 14:57:47",
+    "Seller": "Friagnesss",
+    "Stock": "300",
+    "Price": 0.081,
+    "Currency": "USD",
+    "Position": 833,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-30 14:57:47",
+    "Seller": "Constantinius",
+    "Stock": "1000",
+    "Price": 0.081,
+    "Currency": "USD",
+    "Position": 834,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2025-12-30 14:57:47",
+    "Seller": "Limecrime",
+    "Stock": "1000",
+    "Price": 0.081,
+    "Currency": "USD",
+    "Position": 835,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
