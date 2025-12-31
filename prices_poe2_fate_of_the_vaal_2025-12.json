@@ -15618,5 +15618,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 01:57:55",
+    "Seller": "Joka30",
+    "Stock": "680",
+    "Price": 0.054,
+    "Currency": "USD",
+    "Position": 668,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 01:57:55",
+    "Seller": "WitedMW",
+    "Stock": "1500",
+    "Price": 0.055,
+    "Currency": "USD",
+    "Position": 671,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 01:57:55",
+    "Seller": "vctcompany",
+    "Stock": "1000",
+    "Price": 0.056,
+    "Currency": "USD",
+    "Position": 673,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 01:57:55",
+    "Seller": "Apc123",
+    "Stock": "2",
+    "Price": 0.057,
+    "Currency": "USD",
+    "Position": 675,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 01:57:55",
+    "Seller": "TakeMyEnergy",
+    "Stock": "1500",
+    "Price": 0.057,
+    "Currency": "USD",
+    "Position": 676,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
