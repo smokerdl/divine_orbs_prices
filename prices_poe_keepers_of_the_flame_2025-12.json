@@ -38058,5 +38058,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-31 13:57:47",
+    "Seller": "Leanster",
+    "Stock": "925",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-31 13:57:47",
+    "Seller": "Divanodich",
+    "Stock": "600",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 52,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-31 13:57:47",
+    "Seller": "StrokerKIT",
+    "Stock": "800",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 53,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-31 13:57:47",
+    "Seller": "Andrie1",
+    "Stock": "4979",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2025-12-31 13:57:47",
+    "Seller": "HolidayStore",
+    "Stock": "120",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
