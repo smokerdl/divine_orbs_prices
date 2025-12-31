@@ -15563,5 +15563,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 00:57:56",
+    "Seller": "Pafnutik",
+    "Stock": "200",
+    "Price": 0.055,
+    "Currency": "USD",
+    "Position": 691,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 00:57:56",
+    "Seller": "vctcompany",
+    "Stock": "1000",
+    "Price": 0.056,
+    "Currency": "USD",
+    "Position": 695,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 00:57:56",
+    "Seller": "Apc123",
+    "Stock": "2",
+    "Price": 0.057,
+    "Currency": "USD",
+    "Position": 697,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 00:57:56",
+    "Seller": "MalFurevna",
+    "Stock": "6200",
+    "Price": 0.058,
+    "Currency": "USD",
+    "Position": 701,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 00:57:56",
+    "Seller": "WitedMW",
+    "Stock": "1650",
+    "Price": 0.058,
+    "Currency": "USD",
+    "Position": 702,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
