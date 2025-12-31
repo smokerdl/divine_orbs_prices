@@ -15673,5 +15673,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 02:57:50",
+    "Seller": "NotARobot",
+    "Stock": "500",
+    "Price": 0.055,
+    "Currency": "USD",
+    "Position": 689,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 02:57:50",
+    "Seller": "RedRodent",
+    "Stock": "2355",
+    "Price": 0.055,
+    "Currency": "USD",
+    "Position": 690,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 02:57:50",
+    "Seller": "TakeMyEnergy",
+    "Stock": "1500",
+    "Price": 0.055,
+    "Currency": "USD",
+    "Position": 691,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 02:57:50",
+    "Seller": "s3l0ut1",
+    "Stock": "1783",
+    "Price": 0.055,
+    "Currency": "USD",
+    "Position": 692,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 02:57:50",
+    "Seller": "MalFurevna",
+    "Stock": "6200",
+    "Price": 0.056,
+    "Currency": "USD",
+    "Position": 696,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
