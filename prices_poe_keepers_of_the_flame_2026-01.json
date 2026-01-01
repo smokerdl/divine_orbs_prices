@@ -1,0 +1,57 @@
+[
+  {
+    "Timestamp": "2026-01-01 05:59:38",
+    "Seller": "Andrie1",
+    "Stock": "4479",
+    "Price": 0.037,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-01 05:59:38",
+    "Seller": "PupaZalupa",
+    "Stock": "389",
+    "Price": 0.037,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-01 05:59:38",
+    "Seller": "Annet777",
+    "Stock": "900",
+    "Price": 0.039,
+    "Currency": "USD",
+    "Position": 52,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-01 05:59:38",
+    "Seller": "Grid",
+    "Stock": "133",
+    "Price": 0.039,
+    "Currency": "USD",
+    "Position": 53,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-01 05:59:38",
+    "Seller": "FREDDYTG",
+    "Stock": "300",
+    "Price": 0.039,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
+  }
+]
