@@ -273,5 +273,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 10:57:49",
+    "Seller": "MrProper16",
+    "Stock": "113",
+    "Price": 0.045,
+    "Currency": "USD",
+    "Position": 678,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 10:57:49",
+    "Seller": "wednesdaybdo",
+    "Stock": "2000",
+    "Price": 0.045,
+    "Currency": "USD",
+    "Position": 680,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 10:57:49",
+    "Seller": "ApexLegendsEBT",
+    "Stock": "850",
+    "Price": 0.045,
+    "Currency": "USD",
+    "Position": 681,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 10:57:49",
+    "Seller": "AvetusTein",
+    "Stock": "414",
+    "Price": 0.045,
+    "Currency": "USD",
+    "Position": 682,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 10:57:49",
+    "Seller": "Kor142",
+    "Stock": "1487",
+    "Price": 0.045,
+    "Currency": "USD",
+    "Position": 683,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
