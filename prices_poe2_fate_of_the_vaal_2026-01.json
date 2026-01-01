@@ -823,5 +823,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 20:58:23",
+    "Seller": "ddff",
+    "Stock": "3000",
+    "Price": 0.044,
+    "Currency": "USD",
+    "Position": 668,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 20:58:23",
+    "Seller": "MiFikanka",
+    "Stock": "540",
+    "Price": 0.044,
+    "Currency": "USD",
+    "Position": 669,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 20:58:23",
+    "Seller": "kykyq",
+    "Stock": "1100",
+    "Price": 0.044,
+    "Currency": "USD",
+    "Position": 670,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 20:58:23",
+    "Seller": "CraftMiner",
+    "Stock": "500",
+    "Price": 0.044,
+    "Currency": "USD",
+    "Position": 672,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 20:58:23",
+    "Seller": "dovolen",
+    "Stock": "200",
+    "Price": 0.044,
+    "Currency": "USD",
+    "Position": 673,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
