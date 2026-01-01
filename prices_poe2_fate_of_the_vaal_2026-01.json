@@ -163,5 +163,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 08:58:52",
+    "Seller": "LuciferHC",
+    "Stock": "1049",
+    "Price": 0.051,
+    "Currency": "USD",
+    "Position": 654,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 08:58:52",
+    "Seller": "Iceworldtrial",
+    "Stock": "179",
+    "Price": 0.052,
+    "Currency": "USD",
+    "Position": 659,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 08:58:52",
+    "Seller": "SpectrAll",
+    "Stock": "180",
+    "Price": 0.052,
+    "Currency": "USD",
+    "Position": 660,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 08:58:52",
+    "Seller": "Zakhar10",
+    "Stock": "1265",
+    "Price": 0.053,
+    "Currency": "USD",
+    "Position": 663,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-01 08:58:52",
+    "Seller": "AvetusTein",
+    "Stock": "455",
+    "Price": 0.053,
+    "Currency": "USD",
+    "Position": 664,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
