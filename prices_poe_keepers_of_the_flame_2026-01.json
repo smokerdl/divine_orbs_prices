@@ -1923,5 +1923,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-02 18:58:04",
+    "Seller": "IloveLeno4ka228",
+    "Stock": "192",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-02 18:58:04",
+    "Seller": "smoukeeee",
+    "Stock": "434",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-02 18:58:04",
+    "Seller": "schizobolotnitsa",
+    "Stock": "400",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-02 18:58:04",
+    "Seller": "Grid",
+    "Stock": "133",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 53,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-02 18:58:04",
+    "Seller": "WutFace",
+    "Stock": "500",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
