@@ -1978,5 +1978,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-02 20:00:41",
+    "Seller": "Easymoneylo",
+    "Stock": "587",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 590,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-02 20:00:41",
+    "Seller": "ExileStorm",
+    "Stock": "300",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 591,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-02 20:00:41",
+    "Seller": "Lindi",
+    "Stock": "500",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 593,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-02 20:00:41",
+    "Seller": "WastedFarm",
+    "Stock": "3000",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 597,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-02 20:00:41",
+    "Seller": "BlenderMix",
+    "Stock": "368",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 604,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
