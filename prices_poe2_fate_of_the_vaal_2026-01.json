@@ -2308,5 +2308,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-03 02:58:02",
+    "Seller": "DenG01",
+    "Stock": "700",
+    "Price": 0.0195,
+    "Currency": "USD",
+    "Position": 523,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-03 02:58:02",
+    "Seller": "pnrhlvr",
+    "Stock": "1380",
+    "Price": 0.0195,
+    "Currency": "USD",
+    "Position": 524,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-03 02:58:02",
+    "Seller": "soptax",
+    "Stock": "2100",
+    "Price": 0.0196,
+    "Currency": "USD",
+    "Position": 525,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-03 02:58:02",
+    "Seller": "DrPomidoR",
+    "Stock": "2000",
+    "Price": 0.0198,
+    "Currency": "USD",
+    "Position": 533,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-03 02:58:02",
+    "Seller": "CirnoTrade",
+    "Stock": "1183",
+    "Price": 0.0198,
+    "Currency": "USD",
+    "Position": 534,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
