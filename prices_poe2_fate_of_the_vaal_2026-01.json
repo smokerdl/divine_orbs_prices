@@ -3188,5 +3188,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-03 19:58:18",
+    "Seller": "Nepytyevii",
+    "Stock": "700",
+    "Price": 0.036,
+    "Currency": "USD",
+    "Position": 703,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-03 19:58:18",
+    "Seller": "IloveLeno4ka228",
+    "Stock": "13",
+    "Price": 0.037,
+    "Currency": "USD",
+    "Position": 705,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-03 19:58:18",
+    "Seller": "RusDoomer",
+    "Stock": "450",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 707,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-03 19:58:18",
+    "Seller": "Joka30",
+    "Stock": "5400",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 708,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-03 19:58:18",
+    "Seller": "CraftMiner",
+    "Stock": "500",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 710,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
