@@ -3298,5 +3298,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-03 20:57:41",
+    "Seller": "babytoy",
+    "Stock": "600",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 51,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-03 20:57:41",
+    "Seller": "zyablikded",
+    "Stock": "150",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 52,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-03 20:57:41",
+    "Seller": "Kanael",
+    "Stock": "288",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 53,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-03 20:57:41",
+    "Seller": "HolidayStore",
+    "Stock": "4710",
+    "Price": 0.036,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-03 20:57:41",
+    "Seller": "Dgh6442",
+    "Stock": "80",
+    "Price": 0.036,
+    "Currency": "USD",
+    "Position": 55,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
