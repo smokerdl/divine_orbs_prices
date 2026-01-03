@@ -2638,5 +2638,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-03 08:57:34",
+    "Seller": "Yellowmeow",
+    "Stock": "457",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-03 08:57:34",
+    "Seller": "babytoy",
+    "Stock": "600",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 55,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-03 08:57:34",
+    "Seller": "adenastore",
+    "Stock": "250",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 56,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-03 08:57:34",
+    "Seller": "HolidayStore",
+    "Stock": "92",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-03 08:57:34",
+    "Seller": "TopFarmerAdena",
+    "Stock": "993",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
