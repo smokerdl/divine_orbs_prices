@@ -2913,5 +2913,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-03 14:58:00",
+    "Seller": "Teftel",
+    "Stock": "5100",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 704,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-03 14:58:00",
+    "Seller": "youngexile",
+    "Stock": "630",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 705,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-03 14:58:00",
+    "Seller": "Scizor",
+    "Stock": "500",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 706,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-03 14:58:00",
+    "Seller": "artur4ik234",
+    "Stock": "3500",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 709,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-03 14:58:00",
+    "Seller": "FadeevPardx",
+    "Stock": "2000",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 710,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
