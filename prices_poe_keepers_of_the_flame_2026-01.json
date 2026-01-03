@@ -2583,5 +2583,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-03 08:01:10",
+    "Seller": "adenastore",
+    "Stock": "250",
+    "Price": 0.039,
+    "Currency": "USD",
+    "Position": 55,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-03 08:01:10",
+    "Seller": "HolidayStore",
+    "Stock": "92",
+    "Price": 0.039,
+    "Currency": "USD",
+    "Position": 56,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-03 08:01:10",
+    "Seller": "TopFarmerAdena",
+    "Stock": "993",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-03 08:01:10",
+    "Seller": "JohhnyRingo",
+    "Stock": "1500",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-03 08:01:10",
+    "Seller": "Kose32",
+    "Stock": "3200",
+    "Price": 0.041,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
