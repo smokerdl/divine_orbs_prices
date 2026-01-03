@@ -2363,5 +2363,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-03 05:30:02",
+    "Seller": "LecaSH",
+    "Stock": "192",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 617,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-03 05:30:02",
+    "Seller": "MONEYMAKERPIPKO",
+    "Stock": "90",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 618,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-03 05:30:02",
+    "Seller": "sfdf",
+    "Stock": "420",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 619,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-03 05:30:02",
+    "Seller": "Yra123",
+    "Stock": "800",
+    "Price": 0.037,
+    "Currency": "USD",
+    "Position": 636,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-03 05:30:02",
+    "Seller": "Blissr",
+    "Stock": "95000",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 638,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
