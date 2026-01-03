@@ -2473,5 +2473,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-03 07:20:58",
+    "Seller": "Blissr",
+    "Stock": "93000",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 629,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-03 07:20:58",
+    "Seller": "ddff",
+    "Stock": "3000",
+    "Price": 0.039,
+    "Currency": "USD",
+    "Position": 633,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-03 07:20:58",
+    "Seller": "nikbakl",
+    "Stock": "400",
+    "Price": 0.039,
+    "Currency": "USD",
+    "Position": 634,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-03 07:20:58",
+    "Seller": "Poe2Tarkov1",
+    "Stock": "650",
+    "Price": 0.039,
+    "Currency": "USD",
+    "Position": 635,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-03 07:20:58",
+    "Seller": "Gigansoo",
+    "Stock": "400",
+    "Price": 0.042,
+    "Currency": "USD",
+    "Position": 642,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
