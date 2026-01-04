@@ -3793,5 +3793,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 08:58:32",
+    "Seller": "HeilFreud",
+    "Stock": "1000",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 637,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 08:58:32",
+    "Seller": "wednesdaybdo",
+    "Stock": "500",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 640,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 08:58:32",
+    "Seller": "CatMachine",
+    "Stock": "200",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 642,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 08:58:32",
+    "Seller": "werfux",
+    "Stock": "1000",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 643,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 08:58:32",
+    "Seller": "Radar091",
+    "Stock": "1650",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 646,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
