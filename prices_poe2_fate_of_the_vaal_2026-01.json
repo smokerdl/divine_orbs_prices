@@ -4563,5 +4563,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 22:57:52",
+    "Seller": "LSplayer",
+    "Stock": "1000",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 705,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 22:57:52",
+    "Seller": "Limecrime",
+    "Stock": "3000",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 708,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 22:57:52",
+    "Seller": "Lenson",
+    "Stock": "1800",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 709,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 22:57:52",
+    "Seller": "xShinodAx",
+    "Stock": "800",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 710,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 22:57:52",
+    "Seller": "ted55556",
+    "Stock": "1000",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 711,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
