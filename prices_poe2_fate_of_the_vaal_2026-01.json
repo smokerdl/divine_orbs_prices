@@ -4508,5 +4508,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 21:59:44",
+    "Seller": "megapupsik",
+    "Stock": "1530",
+    "Price": 0.027,
+    "Currency": "USD",
+    "Position": 709,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 21:59:44",
+    "Seller": "StenyRock",
+    "Stock": "1700",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 713,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 21:59:44",
+    "Seller": "railgun2",
+    "Stock": "2946",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 714,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 21:59:44",
+    "Seller": "EasySqueezy",
+    "Stock": "1000",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 715,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 21:59:44",
+    "Seller": "FallenEye",
+    "Stock": "400",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 716,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
