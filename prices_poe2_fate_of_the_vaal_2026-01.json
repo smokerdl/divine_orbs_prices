@@ -4343,5 +4343,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 18:57:49",
+    "Seller": "dosadasnikom",
+    "Stock": "300",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 703,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 18:57:49",
+    "Seller": "Kabanchik123",
+    "Stock": "2000",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 707,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 18:57:50",
+    "Seller": "ExpFreez",
+    "Stock": "430",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 708,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 18:57:50",
+    "Seller": "Vapor",
+    "Stock": "2900",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 710,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 18:57:50",
+    "Seller": "CaptainLemur",
+    "Stock": "500",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 711,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
