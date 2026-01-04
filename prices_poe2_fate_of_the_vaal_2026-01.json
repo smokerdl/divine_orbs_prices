@@ -3683,5 +3683,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 07:38:31",
+    "Seller": "downeel",
+    "Stock": "600",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 638,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 07:38:31",
+    "Seller": "rd1",
+    "Stock": "200",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 643,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 07:38:31",
+    "Seller": "Tefuaricifu",
+    "Stock": "800",
+    "Price": 0.036,
+    "Currency": "USD",
+    "Position": 648,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 07:38:31",
+    "Seller": "NekoNyaam",
+    "Stock": "8",
+    "Price": 0.036,
+    "Currency": "USD",
+    "Position": 649,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 07:38:31",
+    "Seller": "CatMachine",
+    "Stock": "500",
+    "Price": 0.036,
+    "Currency": "USD",
+    "Position": 650,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
