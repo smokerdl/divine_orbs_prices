@@ -3628,5 +3628,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 06:01:30",
+    "Seller": "A1araK",
+    "Stock": "155",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 634,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 06:01:30",
+    "Seller": "legendarityman",
+    "Stock": "630",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 636,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 06:01:30",
+    "Seller": "soBlondeAurora",
+    "Stock": "450",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 637,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 06:01:30",
+    "Seller": "POEtraderRMT",
+    "Stock": "320",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 639,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-04 06:01:30",
+    "Seller": "Odyssey951",
+    "Stock": "145",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 641,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
