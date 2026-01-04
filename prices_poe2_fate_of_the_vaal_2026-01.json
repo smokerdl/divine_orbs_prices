@@ -4783,5 +4783,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-05 02:57:46",
+    "Seller": "oldHruchel",
+    "Stock": "2875",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 672,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-05 02:57:46",
+    "Seller": "kabal777",
+    "Stock": "2000",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 673,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-05 02:57:46",
+    "Seller": "DeathEye",
+    "Stock": "1000",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 674,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-05 02:57:46",
+    "Seller": "Pentawar",
+    "Stock": "5000",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 675,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-05 02:57:46",
+    "Seller": "Vasileusis",
+    "Stock": "300",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 676,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
