@@ -4673,5 +4673,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-04 23:57:33",
+    "Seller": "arik1504",
+    "Stock": "200",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 52,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-04 23:57:33",
+    "Seller": "VELHAN",
+    "Stock": "1331",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-04 23:57:33",
+    "Seller": "s3l0ut1",
+    "Stock": "241",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 55,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-04 23:57:33",
+    "Seller": "Ger0n1m0",
+    "Stock": "410",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 56,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-04 23:57:33",
+    "Seller": "HappyGameHelper",
+    "Stock": "48",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
