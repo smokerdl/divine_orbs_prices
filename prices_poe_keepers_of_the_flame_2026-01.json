@@ -5388,5 +5388,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-05 14:57:40",
+    "Seller": "Hweezi",
+    "Stock": "5264",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 51,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-05 14:57:40",
+    "Seller": "s3l0ut1",
+    "Stock": "341",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 52,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-05 14:57:40",
+    "Seller": "Logitec001",
+    "Stock": "300",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 53,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-05 14:57:40",
+    "Seller": "Adires",
+    "Stock": "3600",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-05 14:57:40",
+    "Seller": "TopFarmerAdena",
+    "Stock": "533",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 56,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
