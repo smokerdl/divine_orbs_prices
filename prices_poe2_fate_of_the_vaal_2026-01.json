@@ -5718,5 +5718,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-05 22:11:00",
+    "Seller": "Dzoxtur",
+    "Stock": "1143",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 644,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-05 22:11:00",
+    "Seller": "DeathEye",
+    "Stock": "2000",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 673,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-05 22:11:00",
+    "Seller": "VectoDark2",
+    "Stock": "1400",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 676,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-05 22:11:00",
+    "Seller": "Vadimxdq",
+    "Stock": "1500",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 677,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-05 22:11:00",
+    "Seller": "railgun2",
+    "Stock": "5700",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 678,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
