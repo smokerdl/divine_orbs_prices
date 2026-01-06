@@ -6598,5 +6598,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-06 13:58:59",
+    "Seller": "TKRAIZER",
+    "Stock": "150",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-06 13:58:59",
+    "Seller": "Getone",
+    "Stock": "250",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-06 13:58:59",
+    "Seller": "Kose32",
+    "Stock": "2555",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 45,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-06 13:58:59",
+    "Seller": "TopFarmerAdena",
+    "Stock": "490",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-06 13:58:59",
+    "Seller": "FFrunKK",
+    "Stock": "200",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
