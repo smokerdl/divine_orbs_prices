@@ -7203,5 +7203,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-07 01:58:12",
+    "Seller": "marqys",
+    "Stock": "3305",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 670,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-07 01:58:12",
+    "Seller": "BulletProof123",
+    "Stock": "200",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 673,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-07 01:58:12",
+    "Seller": "Blindside",
+    "Stock": "929",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 675,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-07 01:58:12",
+    "Seller": "YaKirill",
+    "Stock": "118",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 676,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-07 01:58:12",
+    "Seller": "Kepka",
+    "Stock": "5",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 718,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
