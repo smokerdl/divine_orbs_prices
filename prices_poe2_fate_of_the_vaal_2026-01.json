@@ -6763,5 +6763,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-06 18:00:12",
+    "Seller": "hronovivert",
+    "Stock": "100",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 726,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-06 18:00:12",
+    "Seller": "ilya20000802",
+    "Stock": "300",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 728,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-06 18:00:12",
+    "Seller": "SmtgNeverKnow",
+    "Stock": "400",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 729,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-06 18:00:12",
+    "Seller": "vctcompany",
+    "Stock": "1100",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 730,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-06 18:00:12",
+    "Seller": "Lozrak",
+    "Stock": "1400",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 731,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
