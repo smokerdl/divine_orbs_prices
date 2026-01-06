@@ -7093,5 +7093,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-06 22:57:47",
+    "Seller": "Hweezi",
+    "Stock": "3840",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-06 22:57:47",
+    "Seller": "filipkagoose",
+    "Stock": "2182",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 44,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-06 22:57:47",
+    "Seller": "VELHAN",
+    "Stock": "1603",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 45,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-06 22:57:47",
+    "Seller": "Hehhz",
+    "Stock": "511",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-06 22:57:47",
+    "Seller": "DirtyChets",
+    "Stock": "5000",
+    "Price": 0.027,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
