@@ -7423,5 +7423,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-07 07:34:12",
+    "Seller": "JewelledLotus",
+    "Stock": "76",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 662,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-07 07:34:12",
+    "Seller": "mudvu",
+    "Stock": "300",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 663,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-07 07:34:12",
+    "Seller": "ChronoShop",
+    "Stock": "410",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 665,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-07 07:34:12",
+    "Seller": "CatMachine",
+    "Stock": "400",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 666,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-07 07:34:12",
+    "Seller": "albert456",
+    "Stock": "1380",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 671,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
