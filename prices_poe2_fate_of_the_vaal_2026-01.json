@@ -8083,5 +8083,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-07 19:00:59",
+    "Seller": "ChronoShop",
+    "Stock": "280",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 663,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-07 19:00:59",
+    "Seller": "chessgros",
+    "Stock": "1499",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 664,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-07 19:00:59",
+    "Seller": "Lanmaus",
+    "Stock": "2000",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 665,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-07 19:00:59",
+    "Seller": "Morn1ng",
+    "Stock": "500",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 670,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-07 19:00:59",
+    "Seller": "HeymoN23",
+    "Stock": "1047",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 671,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
