@@ -7753,5 +7753,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-07 12:59:21",
+    "Seller": "williamxyz",
+    "Stock": "2000",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 669,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-07 12:59:21",
+    "Seller": "Ohogen",
+    "Stock": "1300",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 672,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-07 12:59:21",
+    "Seller": "Texnofox",
+    "Stock": "2400",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 673,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-07 12:59:21",
+    "Seller": "CurrencyTab",
+    "Stock": "300",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 678,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-07 12:59:21",
+    "Seller": "Nulik322",
+    "Stock": "300",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 680,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
