@@ -8138,5 +8138,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-07 20:14:47",
+    "Seller": "horsetsk",
+    "Stock": "2780",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 662,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-07 20:14:47",
+    "Seller": "chessgros",
+    "Stock": "247",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 663,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-07 20:14:47",
+    "Seller": "SnowCrow",
+    "Stock": "200",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 664,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-07 20:14:47",
+    "Seller": "Easymoneylo",
+    "Stock": "4200",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 665,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-07 20:14:47",
+    "Seller": "Brexit",
+    "Stock": "1230",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 667,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
