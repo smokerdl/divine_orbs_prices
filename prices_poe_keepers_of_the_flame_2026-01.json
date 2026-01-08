@@ -8798,5 +8798,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-08 08:13:39",
+    "Seller": "Arhangel1881",
+    "Stock": "700",
+    "Price": 0.037,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-08 08:13:39",
+    "Seller": "Zagorylko",
+    "Stock": "1000",
+    "Price": 0.037,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-08 08:13:39",
+    "Seller": "Arhangel1881",
+    "Stock": "700",
+    "Price": 0.037,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-08 08:13:39",
+    "Seller": "EgorkaEbashu",
+    "Stock": "5250",
+    "Price": 0.037,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-08 08:13:39",
+    "Seller": "Haganite",
+    "Stock": "1500",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
