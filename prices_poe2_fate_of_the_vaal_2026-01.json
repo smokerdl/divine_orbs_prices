@@ -9403,5 +9403,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 20:15:18",
+    "Seller": "fghfghhfghfg",
+    "Stock": "1268",
+    "Price": 0.0189,
+    "Currency": "USD",
+    "Position": 600,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 20:15:18",
+    "Seller": "BoostExperts",
+    "Stock": "12145",
+    "Price": 0.019,
+    "Currency": "USD",
+    "Position": 601,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 20:15:18",
+    "Seller": "CirnoTrade",
+    "Stock": "1180",
+    "Price": 0.019,
+    "Currency": "USD",
+    "Position": 602,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 20:15:18",
+    "Seller": "Egor19987",
+    "Stock": "2000",
+    "Price": 0.019,
+    "Currency": "USD",
+    "Position": 603,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 20:15:18",
+    "Seller": "Yurik2992",
+    "Stock": "1200",
+    "Price": 0.0193,
+    "Currency": "USD",
+    "Position": 604,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
