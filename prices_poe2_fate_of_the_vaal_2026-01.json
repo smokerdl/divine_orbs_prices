@@ -9018,5 +9018,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 12:59:52",
+    "Seller": "Soryuin",
+    "Stock": "600",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 592,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 12:59:52",
+    "Seller": "PenguinPenPen",
+    "Stock": "1350",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 593,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 12:59:52",
+    "Seller": "soptax",
+    "Stock": "9711",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 594,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 12:59:52",
+    "Seller": "Constantinius",
+    "Stock": "3000",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 595,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 12:59:52",
+    "Seller": "Ramzan55",
+    "Stock": "1000",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 596,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
