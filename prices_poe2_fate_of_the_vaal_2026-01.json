@@ -8633,5 +8633,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 06:54:57",
+    "Seller": "deadrevil",
+    "Stock": "600",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 597,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 06:54:57",
+    "Seller": "Zakhar10",
+    "Stock": "3590",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 598,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 06:54:57",
+    "Seller": "soptax",
+    "Stock": "10000",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 599,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 06:54:57",
+    "Seller": "BOJEgoTrade",
+    "Stock": "1000",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 600,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 06:54:57",
+    "Seller": "SarafannoeRadio",
+    "Stock": "1000",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 601,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
