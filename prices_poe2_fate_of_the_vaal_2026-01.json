@@ -9623,5 +9623,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 23:58:45",
+    "Seller": "xxy",
+    "Stock": "1000",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 609,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 23:58:45",
+    "Seller": "Ramzan55",
+    "Stock": "900",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 610,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 23:58:45",
+    "Seller": "DenG01",
+    "Stock": "2200",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 611,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 23:58:45",
+    "Seller": "onebuyforwin",
+    "Stock": "3550",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 612,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 23:58:45",
+    "Seller": "ftecho",
+    "Stock": "1401",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 613,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
