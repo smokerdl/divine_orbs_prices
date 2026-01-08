@@ -8853,5 +8853,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 10:13:26",
+    "Seller": "HeilFreud",
+    "Stock": "2000",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 558,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 10:13:26",
+    "Seller": "Ohogen",
+    "Stock": "4250",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 560,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 10:13:26",
+    "Seller": "AAAAlexxxxxxxx",
+    "Stock": "2500",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 563,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 10:13:26",
+    "Seller": "VolodyaDa",
+    "Stock": "909",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 564,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 10:13:26",
+    "Seller": "MishaBatyt",
+    "Stock": "10000",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 572,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
