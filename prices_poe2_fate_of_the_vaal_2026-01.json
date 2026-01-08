@@ -9513,5 +9513,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 22:02:27",
+    "Seller": "Limecrime",
+    "Stock": "3000",
+    "Price": 0.0183,
+    "Currency": "USD",
+    "Position": 597,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 22:02:27",
+    "Seller": "eventuate",
+    "Stock": "2900",
+    "Price": 0.0183,
+    "Currency": "USD",
+    "Position": 598,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 22:02:27",
+    "Seller": "tGold",
+    "Stock": "700",
+    "Price": 0.0184,
+    "Currency": "USD",
+    "Position": 600,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 22:02:27",
+    "Seller": "SHALENSTVO",
+    "Stock": "1000",
+    "Price": 0.0184,
+    "Currency": "USD",
+    "Position": 601,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-08 22:02:27",
+    "Seller": "heybruh",
+    "Stock": "4600",
+    "Price": 0.0184,
+    "Currency": "USD",
+    "Position": 602,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
