@@ -10283,5 +10283,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-09 13:00:07",
+    "Seller": "Limecrime",
+    "Stock": "5000",
+    "Price": 0.0188,
+    "Currency": "USD",
+    "Position": 610,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-09 13:00:07",
+    "Seller": "nimf12",
+    "Stock": "436",
+    "Price": 0.0188,
+    "Currency": "USD",
+    "Position": 611,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-09 13:00:07",
+    "Seller": "HolySquid",
+    "Stock": "1300",
+    "Price": 0.0188,
+    "Currency": "USD",
+    "Position": 612,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-09 13:00:07",
+    "Seller": "Mikitsuri",
+    "Stock": "3000",
+    "Price": 0.0189,
+    "Currency": "USD",
+    "Position": 613,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-09 13:00:07",
+    "Seller": "fofan111rus",
+    "Stock": "755",
+    "Price": 0.0195,
+    "Currency": "USD",
+    "Position": 615,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
