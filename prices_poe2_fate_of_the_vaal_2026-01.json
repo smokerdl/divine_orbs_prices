@@ -10448,5 +10448,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-09 16:29:23",
+    "Seller": "WTScheap",
+    "Stock": "1395",
+    "Price": 0.0189,
+    "Currency": "USD",
+    "Position": 619,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-09 16:29:23",
+    "Seller": "Mikitsuri",
+    "Stock": "3000",
+    "Price": 0.0189,
+    "Currency": "USD",
+    "Position": 622,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-09 16:29:23",
+    "Seller": "apatch123",
+    "Stock": "1077",
+    "Price": 0.0189,
+    "Currency": "USD",
+    "Position": 623,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-09 16:29:23",
+    "Seller": "Keksyck",
+    "Stock": "1000",
+    "Price": 0.0189,
+    "Currency": "USD",
+    "Position": 624,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-09 16:29:23",
+    "Seller": "Comgod",
+    "Stock": "950",
+    "Price": 0.0189,
+    "Currency": "USD",
+    "Position": 625,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
