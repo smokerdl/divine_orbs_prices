@@ -10063,5 +10063,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-09 08:58:54",
+    "Seller": "ForPoe",
+    "Stock": "2100",
+    "Price": 0.0184,
+    "Currency": "USD",
+    "Position": 592,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-09 08:58:54",
+    "Seller": "soptax",
+    "Stock": "3400",
+    "Price": 0.0192,
+    "Currency": "USD",
+    "Position": 597,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-09 08:58:54",
+    "Seller": "Biva",
+    "Stock": "1000",
+    "Price": 0.0193,
+    "Currency": "USD",
+    "Position": 598,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-09 08:58:54",
+    "Seller": "fofan111rus",
+    "Stock": "755",
+    "Price": 0.0193,
+    "Currency": "USD",
+    "Position": 599,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-09 08:58:54",
+    "Seller": "Azyxy",
+    "Stock": "6500",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 607,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
