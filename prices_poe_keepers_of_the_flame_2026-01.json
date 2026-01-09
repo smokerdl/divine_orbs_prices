@@ -10668,5 +10668,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-09 18:59:02",
+    "Seller": "happens",
+    "Stock": "4080",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 38,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-09 18:59:02",
+    "Seller": "Gamer24",
+    "Stock": "200",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-09 18:59:02",
+    "Seller": "Hweezi",
+    "Stock": "4349",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-09 18:59:02",
+    "Seller": "OTPO1",
+    "Stock": "110",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-09 18:59:02",
+    "Seller": "PoeImmortal",
+    "Stock": "2100",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
