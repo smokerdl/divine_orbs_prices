@@ -9898,5 +9898,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-09 06:55:16",
+    "Seller": "FurFurz",
+    "Stock": "7300",
+    "Price": 0.0193,
+    "Currency": "USD",
+    "Position": 562,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-09 06:55:16",
+    "Seller": "Inselt",
+    "Stock": "360",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 570,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-09 06:55:16",
+    "Seller": "ndmki",
+    "Stock": "100",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 571,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-09 06:55:16",
+    "Seller": "Sergey1408",
+    "Stock": "170",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 572,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-09 06:55:16",
+    "Seller": "semblant",
+    "Stock": "1292",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 573,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
