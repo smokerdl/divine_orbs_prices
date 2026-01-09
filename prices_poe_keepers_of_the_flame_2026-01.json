@@ -10503,5 +10503,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-09 16:29:09",
+    "Seller": "happens",
+    "Stock": "4500",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-09 16:29:09",
+    "Seller": "widowmake",
+    "Stock": "3200",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-09 16:29:09",
+    "Seller": "Hweezi",
+    "Stock": "1499",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-09 16:29:09",
+    "Seller": "widowmake",
+    "Stock": "3200",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-09 16:29:09",
+    "Seller": "Skullxbasher",
+    "Stock": "500",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
