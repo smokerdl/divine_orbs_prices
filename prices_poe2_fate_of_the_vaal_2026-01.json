@@ -10668,5 +10668,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-09 20:12:40",
+    "Seller": "sht",
+    "Stock": "300",
+    "Price": 0.0189,
+    "Currency": "USD",
+    "Position": 618,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-09 20:12:40",
+    "Seller": "MrHunter",
+    "Stock": "2500",
+    "Price": 0.0189,
+    "Currency": "USD",
+    "Position": 619,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-09 20:12:40",
+    "Seller": "Dilemmafixer",
+    "Stock": "1956",
+    "Price": 0.0189,
+    "Currency": "USD",
+    "Position": 620,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-09 20:12:40",
+    "Seller": "Poe2Tarkov1",
+    "Stock": "1000",
+    "Price": 0.0189,
+    "Currency": "USD",
+    "Position": 624,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-09 20:12:40",
+    "Seller": "xxy",
+    "Stock": "900",
+    "Price": 0.0189,
+    "Currency": "USD",
+    "Position": 625,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
