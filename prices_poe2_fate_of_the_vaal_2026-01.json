@@ -11493,5 +11493,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-10 11:59:07",
+    "Seller": "SHADGI",
+    "Stock": "1000",
+    "Price": 0.0166,
+    "Currency": "USD",
+    "Position": 612,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-10 11:59:07",
+    "Seller": "Lexion",
+    "Stock": "2000",
+    "Price": 0.017,
+    "Currency": "USD",
+    "Position": 613,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-10 11:59:07",
+    "Seller": "BIOS360",
+    "Stock": "2800",
+    "Price": 0.017,
+    "Currency": "USD",
+    "Position": 614,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-10 11:59:07",
+    "Seller": "Lenson",
+    "Stock": "3086",
+    "Price": 0.0172,
+    "Currency": "USD",
+    "Position": 615,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-10 11:59:07",
+    "Seller": "SnowCrow",
+    "Stock": "400",
+    "Price": 0.0173,
+    "Currency": "USD",
+    "Position": 619,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
