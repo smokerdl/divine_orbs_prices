@@ -11768,5 +11768,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-10 16:57:48",
+    "Seller": "horsetsk",
+    "Stock": "1000",
+    "Price": 0.0146,
+    "Currency": "USD",
+    "Position": 636,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-10 16:57:48",
+    "Seller": "MrHunter",
+    "Stock": "2500",
+    "Price": 0.0147,
+    "Currency": "USD",
+    "Position": 637,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-10 16:57:48",
+    "Seller": "BlenderMix",
+    "Stock": "800",
+    "Price": 0.0147,
+    "Currency": "USD",
+    "Position": 638,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-10 16:57:48",
+    "Seller": "Maksvell",
+    "Stock": "1200",
+    "Price": 0.0147,
+    "Currency": "USD",
+    "Position": 639,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-10 16:57:48",
+    "Seller": "LordDexe",
+    "Stock": "200",
+    "Price": 0.0148,
+    "Currency": "USD",
+    "Position": 640,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
