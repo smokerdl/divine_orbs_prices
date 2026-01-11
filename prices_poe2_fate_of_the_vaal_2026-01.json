@@ -13308,5 +13308,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-11 22:57:56",
+    "Seller": "Nkm",
+    "Stock": "650",
+    "Price": 0.0132,
+    "Currency": "USD",
+    "Position": 515,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-11 22:57:56",
+    "Seller": "northerngraves",
+    "Stock": "6300",
+    "Price": 0.0132,
+    "Currency": "USD",
+    "Position": 516,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-11 22:57:56",
+    "Seller": "Melo1230",
+    "Stock": "506",
+    "Price": 0.0132,
+    "Currency": "USD",
+    "Position": 517,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-11 22:57:56",
+    "Seller": "Moonsonate",
+    "Stock": "5000",
+    "Price": 0.0133,
+    "Currency": "USD",
+    "Position": 518,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-11 22:57:56",
+    "Seller": "dodolk",
+    "Stock": "68674",
+    "Price": 0.0134,
+    "Currency": "USD",
+    "Position": 524,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
