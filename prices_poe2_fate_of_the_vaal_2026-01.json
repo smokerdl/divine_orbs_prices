@@ -12538,5 +12538,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-11 08:58:20",
+    "Seller": "Aganazar",
+    "Stock": "3380",
+    "Price": 0.0152,
+    "Currency": "USD",
+    "Position": 518,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-11 08:58:20",
+    "Seller": "HiRa057",
+    "Stock": "5500",
+    "Price": 0.0153,
+    "Currency": "USD",
+    "Position": 519,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-11 08:58:20",
+    "Seller": "loneg0d",
+    "Stock": "3000",
+    "Price": 0.0154,
+    "Currency": "USD",
+    "Position": 522,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-11 08:58:20",
+    "Seller": "Tefuaricifu",
+    "Stock": "7000",
+    "Price": 0.0154,
+    "Currency": "USD",
+    "Position": 523,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-11 08:58:20",
+    "Seller": "AboveOnlyG",
+    "Stock": "1100",
+    "Price": 0.0155,
+    "Currency": "USD",
+    "Position": 531,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
