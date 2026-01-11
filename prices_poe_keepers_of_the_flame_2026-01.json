@@ -12593,5 +12593,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-11 08:58:08",
+    "Seller": "StyxUSS",
+    "Stock": "172",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-11 08:58:08",
+    "Seller": "JohhnyRingo",
+    "Stock": "2609",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-11 08:58:08",
+    "Seller": "Watalker23",
+    "Stock": "97",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 45,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-11 08:58:08",
+    "Seller": "Aatroxe",
+    "Stock": "900",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-11 08:58:08",
+    "Seller": "onebuyforwin",
+    "Stock": "3000",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
