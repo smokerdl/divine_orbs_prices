@@ -12868,5 +12868,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-11 14:57:58",
+    "Seller": "Pyth0nV2",
+    "Stock": "1000",
+    "Price": 0.013,
+    "Currency": "USD",
+    "Position": 483,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-11 14:57:58",
+    "Seller": "Isgood72",
+    "Stock": "3650",
+    "Price": 0.0131,
+    "Currency": "USD",
+    "Position": 484,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-11 14:57:58",
+    "Seller": "TakeMyEnergy",
+    "Stock": "6000",
+    "Price": 0.0132,
+    "Currency": "USD",
+    "Position": 485,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-11 14:57:58",
+    "Seller": "albert456",
+    "Stock": "3400",
+    "Price": 0.0132,
+    "Currency": "USD",
+    "Position": 486,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-11 14:57:58",
+    "Seller": "Brexit",
+    "Stock": "4200",
+    "Price": 0.0132,
+    "Currency": "USD",
+    "Position": 487,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
