@@ -12648,5 +12648,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-11 10:57:46",
+    "Seller": "FurFurz",
+    "Stock": "5200",
+    "Price": 0.0144,
+    "Currency": "USD",
+    "Position": 495,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-11 10:57:46",
+    "Seller": "Khrognak",
+    "Stock": "5000",
+    "Price": 0.0144,
+    "Currency": "USD",
+    "Position": 496,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-11 10:57:46",
+    "Seller": "Tefuaricifu",
+    "Stock": "7000",
+    "Price": 0.0144,
+    "Currency": "USD",
+    "Position": 497,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-11 10:57:46",
+    "Seller": "wflspirit",
+    "Stock": "4500",
+    "Price": 0.0146,
+    "Currency": "USD",
+    "Position": 498,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-11 10:57:46",
+    "Seller": "Zakhar10",
+    "Stock": "1168",
+    "Price": 0.0146,
+    "Currency": "USD",
+    "Position": 499,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
