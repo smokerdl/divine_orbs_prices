@@ -12428,5 +12428,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-11 07:37:29",
+    "Seller": "WeJmin123",
+    "Stock": "403",
+    "Price": 0.0138,
+    "Currency": "USD",
+    "Position": 501,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-11 07:37:29",
+    "Seller": "AAAAlexxxxxxxx",
+    "Stock": "4000",
+    "Price": 0.0138,
+    "Currency": "USD",
+    "Position": 502,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-11 07:37:29",
+    "Seller": "Pentawar",
+    "Stock": "4712",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 503,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-11 07:37:29",
+    "Seller": "kick1988",
+    "Stock": "319",
+    "Price": 0.0147,
+    "Currency": "USD",
+    "Position": 509,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-11 07:37:29",
+    "Seller": "Aganazar",
+    "Stock": "3500",
+    "Price": 0.0152,
+    "Currency": "USD",
+    "Position": 517,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
