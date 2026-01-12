@@ -14023,5 +14023,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 14:00:23",
+    "Seller": "donater22",
+    "Stock": "4000",
+    "Price": 0.0094,
+    "Currency": "USD",
+    "Position": 464,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 14:00:23",
+    "Seller": "oldHruchel",
+    "Stock": "4333",
+    "Price": 0.0095,
+    "Currency": "USD",
+    "Position": 469,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 14:00:23",
+    "Seller": "TheLastDancee",
+    "Stock": "1800",
+    "Price": 0.0095,
+    "Currency": "USD",
+    "Position": 470,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 14:00:23",
+    "Seller": "Brexit",
+    "Stock": "4650",
+    "Price": 0.0095,
+    "Currency": "USD",
+    "Position": 471,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 14:00:23",
+    "Seller": "Scizor",
+    "Stock": "1500",
+    "Price": 0.0096,
+    "Currency": "USD",
+    "Position": 472,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
