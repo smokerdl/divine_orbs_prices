@@ -14133,5 +14133,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 16:33:47",
+    "Seller": "Bogatblpb",
+    "Stock": "757",
+    "Price": 0.0096,
+    "Currency": "USD",
+    "Position": 465,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 16:33:47",
+    "Seller": "Moonsonate",
+    "Stock": "6000",
+    "Price": 0.0099,
+    "Currency": "USD",
+    "Position": 466,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 16:33:47",
+    "Seller": "Eternityxx",
+    "Stock": "4200",
+    "Price": 0.0101,
+    "Currency": "USD",
+    "Position": 467,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 16:33:47",
+    "Seller": "CharlesRobert",
+    "Stock": "2000",
+    "Price": 0.0103,
+    "Currency": "USD",
+    "Position": 469,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 16:33:47",
+    "Seller": "vociwmd1",
+    "Stock": "1000",
+    "Price": 0.0103,
+    "Currency": "USD",
+    "Position": 470,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
