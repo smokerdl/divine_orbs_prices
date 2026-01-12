@@ -13638,5 +13638,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 07:40:12",
+    "Seller": "Missuri23",
+    "Stock": "500",
+    "Price": 0.0106,
+    "Currency": "USD",
+    "Position": 408,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 07:40:12",
+    "Seller": "Affirmative666",
+    "Stock": "750",
+    "Price": 0.0106,
+    "Currency": "USD",
+    "Position": 409,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 07:40:12",
+    "Seller": "Sqruji",
+    "Stock": "7000",
+    "Price": 0.011,
+    "Currency": "USD",
+    "Position": 416,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 07:40:12",
+    "Seller": "zvvvon",
+    "Stock": "10",
+    "Price": 0.011,
+    "Currency": "USD",
+    "Position": 426,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 07:40:12",
+    "Seller": "Aganazar",
+    "Stock": "4000",
+    "Price": 0.011,
+    "Currency": "USD",
+    "Position": 427,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
