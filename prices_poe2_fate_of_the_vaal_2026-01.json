@@ -14573,5 +14573,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 23:58:46",
+    "Seller": "Zhoraha",
+    "Stock": "565",
+    "Price": 0.0092,
+    "Currency": "USD",
+    "Position": 444,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 23:58:46",
+    "Seller": "Aw0",
+    "Stock": "1500",
+    "Price": 0.0093,
+    "Currency": "USD",
+    "Position": 445,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 23:58:46",
+    "Seller": "Zerxzerxzerx",
+    "Stock": "5581",
+    "Price": 0.0094,
+    "Currency": "USD",
+    "Position": 447,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 23:58:46",
+    "Seller": "Ronny23",
+    "Stock": "666",
+    "Price": 0.0095,
+    "Currency": "USD",
+    "Position": 453,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 23:58:46",
+    "Seller": "mallekula",
+    "Stock": "70",
+    "Price": 0.0095,
+    "Currency": "USD",
+    "Position": 454,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
