@@ -14408,5 +14408,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 20:58:00",
+    "Seller": "Scizor",
+    "Stock": "2000",
+    "Price": 0.0105,
+    "Currency": "USD",
+    "Position": 454,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 20:58:00",
+    "Seller": "HiRa057",
+    "Stock": "18000",
+    "Price": 0.0105,
+    "Currency": "USD",
+    "Position": 456,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 20:58:00",
+    "Seller": "HolidayStore",
+    "Stock": "7854",
+    "Price": 0.0105,
+    "Currency": "USD",
+    "Position": 457,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 20:58:00",
+    "Seller": "Moonsonate",
+    "Stock": "6000",
+    "Price": 0.0106,
+    "Currency": "USD",
+    "Position": 458,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 20:58:00",
+    "Seller": "Taurissan",
+    "Stock": "2000",
+    "Price": 0.0106,
+    "Currency": "USD",
+    "Position": 459,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
