@@ -13693,5 +13693,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-12 07:39:58",
+    "Seller": "Adires",
+    "Stock": "7585",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-12 07:39:58",
+    "Seller": "st7788",
+    "Stock": "670",
+    "Price": 0.039,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-12 07:39:58",
+    "Seller": "Jextz",
+    "Stock": "260",
+    "Price": 0.039,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-12 07:39:58",
+    "Seller": "GrindStyle",
+    "Stock": "1485",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-12 07:39:58",
+    "Seller": "Flashart247",
+    "Stock": "99999",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
