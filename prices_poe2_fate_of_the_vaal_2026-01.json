@@ -13858,5 +13858,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 10:57:58",
+    "Seller": "Skwidich",
+    "Stock": "2155",
+    "Price": 0.0098,
+    "Currency": "USD",
+    "Position": 402,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 10:57:58",
+    "Seller": "heybruh",
+    "Stock": "2878",
+    "Price": 0.0098,
+    "Currency": "USD",
+    "Position": 403,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 10:57:58",
+    "Seller": "Arteqisa",
+    "Stock": "10000",
+    "Price": 0.0098,
+    "Currency": "USD",
+    "Position": 404,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 10:57:58",
+    "Seller": "Nara55",
+    "Stock": "3000",
+    "Price": 0.0098,
+    "Currency": "USD",
+    "Position": 405,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 10:57:58",
+    "Seller": "SunHeat",
+    "Stock": "5700",
+    "Price": 0.0099,
+    "Currency": "USD",
+    "Position": 406,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
