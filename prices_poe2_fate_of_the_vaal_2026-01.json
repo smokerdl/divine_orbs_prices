@@ -13803,5 +13803,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 10:17:02",
+    "Seller": "Monkb",
+    "Stock": "900",
+    "Price": 0.0087,
+    "Currency": "USD",
+    "Position": 388,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 10:17:02",
+    "Seller": "SunHeat",
+    "Stock": "5500",
+    "Price": 0.0087,
+    "Currency": "USD",
+    "Position": 389,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 10:17:02",
+    "Seller": "MishaBatyt",
+    "Stock": "12000",
+    "Price": 0.0087,
+    "Currency": "USD",
+    "Position": 390,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 10:17:02",
+    "Seller": "Skwidich",
+    "Stock": "5000",
+    "Price": 0.0087,
+    "Currency": "USD",
+    "Position": 391,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 10:17:02",
+    "Seller": "Maraak",
+    "Stock": "3600",
+    "Price": 0.0087,
+    "Currency": "USD",
+    "Position": 392,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
