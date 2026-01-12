@@ -14188,5 +14188,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 17:13:10",
+    "Seller": "Raykira",
+    "Stock": "3500",
+    "Price": 0.0093,
+    "Currency": "USD",
+    "Position": 459,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 17:13:10",
+    "Seller": "sht",
+    "Stock": "500",
+    "Price": 0.0093,
+    "Currency": "USD",
+    "Position": 460,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 17:13:10",
+    "Seller": "Xarisn",
+    "Stock": "2213",
+    "Price": 0.0095,
+    "Currency": "USD",
+    "Position": 466,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 17:13:10",
+    "Seller": "Limecrime",
+    "Stock": "8000",
+    "Price": 0.0095,
+    "Currency": "USD",
+    "Position": 467,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-12 17:13:10",
+    "Seller": "PoeFast",
+    "Stock": "16833",
+    "Price": 0.0095,
+    "Currency": "USD",
+    "Position": 468,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
