@@ -15233,5 +15233,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-13 12:59:25",
+    "Seller": "EuroDump",
+    "Stock": "10000",
+    "Price": 0.0079,
+    "Currency": "USD",
+    "Position": 427,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-13 12:59:25",
+    "Seller": "Moxnatik1",
+    "Stock": "777",
+    "Price": 0.008,
+    "Currency": "USD",
+    "Position": 429,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-13 12:59:25",
+    "Seller": "Easymoneylo",
+    "Stock": "15000",
+    "Price": 0.0081,
+    "Currency": "USD",
+    "Position": 435,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-13 12:59:25",
+    "Seller": "ApexLegendsEBT",
+    "Stock": "5200",
+    "Price": 0.0081,
+    "Currency": "USD",
+    "Position": 436,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-13 12:59:25",
+    "Seller": "DiabloZero",
+    "Stock": "2000",
+    "Price": 0.0081,
+    "Currency": "USD",
+    "Position": 437,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
