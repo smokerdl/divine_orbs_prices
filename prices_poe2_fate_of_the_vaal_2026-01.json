@@ -15123,5 +15123,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-13 10:57:58",
+    "Seller": "iroyal",
+    "Stock": "2400",
+    "Price": 0.0094,
+    "Currency": "USD",
+    "Position": 421,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-13 10:57:58",
+    "Seller": "SunHeat",
+    "Stock": "5000",
+    "Price": 0.0094,
+    "Currency": "USD",
+    "Position": 422,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-13 10:57:58",
+    "Seller": "Zaurkaaa",
+    "Stock": "1000",
+    "Price": 0.0095,
+    "Currency": "USD",
+    "Position": 428,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-13 10:57:58",
+    "Seller": "GrindDigger",
+    "Stock": "850",
+    "Price": 0.0095,
+    "Currency": "USD",
+    "Position": 429,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-13 10:57:58",
+    "Seller": "Deimier",
+    "Stock": "3400",
+    "Price": 0.0095,
+    "Currency": "USD",
+    "Position": 430,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
