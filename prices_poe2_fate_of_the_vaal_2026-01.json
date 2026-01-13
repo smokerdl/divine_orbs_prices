@@ -14793,5 +14793,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-13 05:48:30",
+    "Seller": "DoFleks",
+    "Stock": "2495",
+    "Price": 0.0088,
+    "Currency": "USD",
+    "Position": 413,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-13 05:48:30",
+    "Seller": "WickedPencil",
+    "Stock": "1000",
+    "Price": 0.0088,
+    "Currency": "USD",
+    "Position": 414,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-13 05:48:30",
+    "Seller": "Lenson",
+    "Stock": "6400",
+    "Price": 0.0089,
+    "Currency": "USD",
+    "Position": 415,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-13 05:48:30",
+    "Seller": "AlaNJkee",
+    "Stock": "2300",
+    "Price": 0.0089,
+    "Currency": "USD",
+    "Position": 417,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12280"
+  },
+  {
+    "Timestamp": "2026-01-13 05:48:30",
+    "Seller": "Taurissan",
+    "Stock": "1900",
+    "Price": 0.0089,
+    "Currency": "USD",
+    "Position": 418,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12280"
   }
 ]
