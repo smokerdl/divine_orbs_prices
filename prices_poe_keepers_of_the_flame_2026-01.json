@@ -15013,5 +15013,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-13 08:14:51",
+    "Seller": "arik1504",
+    "Stock": "50",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-13 08:14:51",
+    "Seller": "RomaGrande",
+    "Stock": "846",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-13 08:14:51",
+    "Seller": "Linkzzz",
+    "Stock": "660",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-13 08:14:51",
+    "Seller": "PrimeVerse",
+    "Stock": "100",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-13 08:14:51",
+    "Seller": "GoldR1ver",
+    "Stock": "8533",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
