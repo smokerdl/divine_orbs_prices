@@ -108,5 +108,27 @@
     "DisplayPosition": 4,
     "Online": true,
     "League": "12354"
+  },
+  {
+    "Timestamp": "2026-01-14 05:56:10",
+    "Seller": "vasya2slow",
+    "Stock": "15",
+    "Price": 0.79,
+    "Currency": "USD",
+    "Position": 1339,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12354"
+  },
+  {
+    "Timestamp": "2026-01-14 05:56:10",
+    "Seller": "EssenceMarket",
+    "Stock": "13",
+    "Price": 1.11,
+    "Currency": "USD",
+    "Position": 1370,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12354"
   }
 ]
