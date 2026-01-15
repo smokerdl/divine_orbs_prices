@@ -18368,5 +18368,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-16 00:57:55",
+    "Seller": "Saendin",
+    "Stock": "100",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 31,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-16 00:57:55",
+    "Seller": "T3r33",
+    "Stock": "500",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 33,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-16 00:57:55",
+    "Seller": "sensey666",
+    "Stock": "1153",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 34,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-16 00:57:55",
+    "Seller": "Cynric",
+    "Stock": "3558",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 36,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-16 00:57:55",
+    "Seller": "PoeImmortal",
+    "Stock": "1100",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 37,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
