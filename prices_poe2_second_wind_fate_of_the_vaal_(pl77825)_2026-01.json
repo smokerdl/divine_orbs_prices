@@ -724,5 +724,27 @@
     "DisplayPosition": 4,
     "Online": true,
     "League": "12354"
+  },
+  {
+    "Timestamp": "2026-01-16 02:58:04",
+    "Seller": "OlyaStorozhuk151",
+    "Stock": "80",
+    "Price": 0.3,
+    "Currency": "USD",
+    "Position": 1269,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12354"
+  },
+  {
+    "Timestamp": "2026-01-16 02:58:04",
+    "Seller": "EssenceMarket",
+    "Stock": "13",
+    "Price": 0.97,
+    "Currency": "USD",
+    "Position": 1421,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12354"
   }
 ]
