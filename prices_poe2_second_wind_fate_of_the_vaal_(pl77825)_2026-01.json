@@ -460,5 +460,27 @@
     "DisplayPosition": 4,
     "Online": true,
     "League": "12354"
+  },
+  {
+    "Timestamp": "2026-01-15 08:58:27",
+    "Seller": "Telltaler",
+    "Stock": "28",
+    "Price": 0.41,
+    "Currency": "USD",
+    "Position": 1300,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12354"
+  },
+  {
+    "Timestamp": "2026-01-15 08:58:27",
+    "Seller": "EssenceMarket",
+    "Stock": "13",
+    "Price": 0.95,
+    "Currency": "USD",
+    "Position": 1395,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12354"
   }
 ]
