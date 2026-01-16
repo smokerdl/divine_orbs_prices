@@ -889,5 +889,38 @@
     "DisplayPosition": 6,
     "Online": true,
     "League": "12354"
+  },
+  {
+    "Timestamp": "2026-01-16 10:13:53",
+    "Seller": "Gyasha",
+    "Stock": "85",
+    "Price": 0.151,
+    "Currency": "USD",
+    "Position": 1194,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12354"
+  },
+  {
+    "Timestamp": "2026-01-16 10:13:53",
+    "Seller": "OlyaStorozhuk151",
+    "Stock": "80",
+    "Price": 0.3,
+    "Currency": "USD",
+    "Position": 1303,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12354"
+  },
+  {
+    "Timestamp": "2026-01-16 10:13:53",
+    "Seller": "EssenceMarket",
+    "Stock": "13",
+    "Price": 0.97,
+    "Currency": "USD",
+    "Position": 1451,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12354"
   }
 ]
