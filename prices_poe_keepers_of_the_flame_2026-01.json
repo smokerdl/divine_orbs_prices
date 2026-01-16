@@ -19303,5 +19303,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-16 18:59:54",
+    "Seller": "BlizzardPoe",
+    "Stock": "30",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 35,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-16 18:59:54",
+    "Seller": "happens",
+    "Stock": "1000",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-16 18:59:54",
+    "Seller": "VELHAN",
+    "Stock": "1258",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 36,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-16 18:59:54",
+    "Seller": "fairly2fair",
+    "Stock": "400",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 37,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-16 18:59:54",
+    "Seller": "OpexE",
+    "Stock": "1",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
