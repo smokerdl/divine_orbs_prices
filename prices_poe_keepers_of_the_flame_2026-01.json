@@ -19468,5 +19468,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-16 22:10:02",
+    "Seller": "Saendin",
+    "Stock": "300",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 36,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-16 22:10:02",
+    "Seller": "VELHAN",
+    "Stock": "1825",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 37,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-16 22:10:02",
+    "Seller": "Cynric",
+    "Stock": "542",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 38,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-16 22:10:02",
+    "Seller": "Arhangel1881",
+    "Stock": "750",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-16 22:10:02",
+    "Seller": "StrokerKIT",
+    "Stock": "1000",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
