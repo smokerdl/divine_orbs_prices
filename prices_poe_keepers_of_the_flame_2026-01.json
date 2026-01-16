@@ -18918,5 +18918,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-16 12:13:14",
+    "Seller": "happens",
+    "Stock": "3000",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 32,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-16 12:13:14",
+    "Seller": "OpexE",
+    "Stock": "1",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 34,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-16 12:13:14",
+    "Seller": "fricgenrih",
+    "Stock": "4200",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 35,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-16 12:13:14",
+    "Seller": "Haganite",
+    "Stock": "1100",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 36,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-16 12:13:14",
+    "Seller": "Adires",
+    "Stock": "1000",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 37,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
