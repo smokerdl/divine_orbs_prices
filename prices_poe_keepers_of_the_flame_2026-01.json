@@ -19633,5 +19633,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-17 00:58:05",
+    "Seller": "VELHAN",
+    "Stock": "1344",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 32,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-17 00:58:05",
+    "Seller": "StrokerKIT",
+    "Stock": "1000",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 33,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-17 00:58:05",
+    "Seller": "CyberVan",
+    "Stock": "6000",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 34,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-17 00:58:05",
+    "Seller": "fairly2fair",
+    "Stock": "280",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 35,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-17 00:58:05",
+    "Seller": "OpexE",
+    "Stock": "1",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 36,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
