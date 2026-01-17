@@ -20238,5 +20238,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-17 12:57:56",
+    "Seller": "Zagorylko",
+    "Stock": "1300",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-17 12:57:56",
+    "Seller": "DirtyChets",
+    "Stock": "2000",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-17 12:57:56",
+    "Seller": "JohhnyRingo",
+    "Stock": "1240",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-17 12:57:56",
+    "Seller": "PupaZalupa",
+    "Stock": "1",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-17 12:57:56",
+    "Seller": "GrindStyle",
+    "Stock": "1500",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
