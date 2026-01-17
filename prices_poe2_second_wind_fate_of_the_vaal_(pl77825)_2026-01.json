@@ -2132,5 +2132,38 @@
     "DisplayPosition": 6,
     "Online": true,
     "League": "12354"
+  },
+  {
+    "Timestamp": "2026-01-17 22:57:54",
+    "Seller": "Telltaler",
+    "Stock": "825",
+    "Price": 0.111,
+    "Currency": "USD",
+    "Position": 1152,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12354"
+  },
+  {
+    "Timestamp": "2026-01-17 22:57:54",
+    "Seller": "SpiritSensey87",
+    "Stock": "60",
+    "Price": 0.133,
+    "Currency": "USD",
+    "Position": 1167,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12354"
+  },
+  {
+    "Timestamp": "2026-01-17 22:57:54",
+    "Seller": "OlyaStorozhuk151",
+    "Stock": "80",
+    "Price": 0.31,
+    "Currency": "USD",
+    "Position": 1298,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12354"
   }
 ]
