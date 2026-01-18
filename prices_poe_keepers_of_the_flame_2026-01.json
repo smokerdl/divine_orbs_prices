@@ -21503,5 +21503,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-18 13:57:47",
+    "Seller": "Suprokas",
+    "Stock": "186",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 38,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-18 13:57:47",
+    "Seller": "Heathens22",
+    "Stock": "530",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-18 13:57:47",
+    "Seller": "Dazzzle",
+    "Stock": "2000",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-18 13:57:47",
+    "Seller": "GrindStyle",
+    "Stock": "1750",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-18 13:57:47",
+    "Seller": "CyberVan",
+    "Stock": "3800",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
