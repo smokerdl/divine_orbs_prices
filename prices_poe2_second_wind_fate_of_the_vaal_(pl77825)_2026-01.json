@@ -2495,5 +2495,27 @@
     "DisplayPosition": 5,
     "Online": true,
     "League": "12354"
+  },
+  {
+    "Timestamp": "2026-01-18 12:58:04",
+    "Seller": "Sanyaboss12",
+    "Stock": "111",
+    "Price": 0.121,
+    "Currency": "USD",
+    "Position": 1119,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12354"
+  },
+  {
+    "Timestamp": "2026-01-18 12:58:04",
+    "Seller": "OlyaStorozhuk151",
+    "Stock": "80",
+    "Price": 0.36,
+    "Currency": "USD",
+    "Position": 1288,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12354"
   }
 ]
