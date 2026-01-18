@@ -21393,5 +21393,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-18 11:58:48",
+    "Seller": "HolidayStore",
+    "Stock": "6236",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-18 11:58:48",
+    "Seller": "DirtyChets",
+    "Stock": "500",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 35,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-18 11:58:48",
+    "Seller": "GrindStyle",
+    "Stock": "2000",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 36,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-18 11:58:48",
+    "Seller": "Zagorylko",
+    "Stock": "1700",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 37,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-18 11:58:48",
+    "Seller": "CyberVan",
+    "Stock": "5000",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 38,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
