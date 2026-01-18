@@ -22163,5 +22163,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-19 01:57:51",
+    "Seller": "WNero",
+    "Stock": "1000",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 37,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-19 01:57:51",
+    "Seller": "kolasssss",
+    "Stock": "250",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 38,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-19 01:57:51",
+    "Seller": "Wortex777",
+    "Stock": "150",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-19 01:57:51",
+    "Seller": "CyberVan",
+    "Stock": "3800",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-19 01:57:51",
+    "Seller": "HolidayStore",
+    "Stock": "7411",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
