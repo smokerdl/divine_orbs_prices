@@ -23318,5 +23318,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-20 00:57:58",
+    "Seller": "bestbrood",
+    "Stock": "160",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-20 00:57:58",
+    "Seller": "qweqwe1231312",
+    "Stock": "4800",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-20 00:57:58",
+    "Seller": "Arhangel1881",
+    "Stock": "800",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-20 00:57:58",
+    "Seller": "RomaGrande",
+    "Stock": "585",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-20 00:57:58",
+    "Seller": "WNero",
+    "Stock": "1000",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 44,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
