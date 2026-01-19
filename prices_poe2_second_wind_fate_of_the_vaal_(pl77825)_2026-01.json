@@ -3012,5 +3012,27 @@
     "DisplayPosition": 6,
     "Online": true,
     "League": "12354"
+  },
+  {
+    "Timestamp": "2026-01-19 08:21:42",
+    "Seller": "Telltaler",
+    "Stock": "825",
+    "Price": 0.113,
+    "Currency": "USD",
+    "Position": 1053,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12354"
+  },
+  {
+    "Timestamp": "2026-01-19 08:21:42",
+    "Seller": "OlyaStorozhuk151",
+    "Stock": "80",
+    "Price": 0.36,
+    "Currency": "USD",
+    "Position": 1222,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12354"
   }
 ]
