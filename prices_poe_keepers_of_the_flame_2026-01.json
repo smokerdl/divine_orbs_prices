@@ -24198,5 +24198,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-20 19:16:51",
+    "Seller": "Dezuron",
+    "Stock": "2",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-20 19:16:51",
+    "Seller": "MarkUndead",
+    "Stock": "700",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-20 19:16:51",
+    "Seller": "fricgenrih",
+    "Stock": "4481",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 44,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-20 19:16:51",
+    "Seller": "Saendin",
+    "Stock": "200",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 45,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-20 19:16:51",
+    "Seller": "bestbrood",
+    "Stock": "240",
+    "Price": 0.027,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
