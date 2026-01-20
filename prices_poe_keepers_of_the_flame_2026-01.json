@@ -23813,5 +23813,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-20 12:19:13",
+    "Seller": "ShikiAki",
+    "Stock": "49",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-20 12:19:13",
+    "Seller": "Brexit",
+    "Stock": "1077",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 44,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-20 12:19:13",
+    "Seller": "SneakyPudge",
+    "Stock": "1100",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 45,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-20 12:19:13",
+    "Seller": "RomaGrande",
+    "Stock": "585",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-20 12:19:13",
+    "Seller": "WNero",
+    "Stock": "1000",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
