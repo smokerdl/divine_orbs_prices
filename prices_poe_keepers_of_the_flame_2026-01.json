@@ -25793,5 +25793,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-22 02:59:34",
+    "Seller": "qweqwe1231312",
+    "Stock": "4345",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-22 02:59:34",
+    "Seller": "Haganite",
+    "Stock": "7100",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-22 02:59:34",
+    "Seller": "JohhnyRingo",
+    "Stock": "3526",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-22 02:59:34",
+    "Seller": "widowmake",
+    "Stock": "2650",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12139"
+  },
+  {
+    "Timestamp": "2026-01-22 02:59:34",
+    "Seller": "HolidayStore",
+    "Stock": "7232",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12139"
   }
 ]
