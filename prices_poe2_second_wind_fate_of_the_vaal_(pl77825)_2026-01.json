@@ -7269,5 +7269,60 @@
     "DisplayPosition": 7,
     "Online": true,
     "League": "12354"
+  },
+  {
+    "Timestamp": "2026-01-25 07:42:02",
+    "Seller": "Remchi",
+    "Stock": "800",
+    "Price": 0.027,
+    "Currency": "USD",
+    "Position": 704,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12354"
+  },
+  {
+    "Timestamp": "2026-01-25 07:42:02",
+    "Seller": "Melo1230",
+    "Stock": "1000",
+    "Price": 0.027,
+    "Currency": "USD",
+    "Position": 707,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12354"
+  },
+  {
+    "Timestamp": "2026-01-25 07:42:02",
+    "Seller": "magic0007",
+    "Stock": "5000",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 777,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12354"
+  },
+  {
+    "Timestamp": "2026-01-25 07:42:02",
+    "Seller": "MJRRMT",
+    "Stock": "114",
+    "Price": 0.056,
+    "Currency": "USD",
+    "Position": 838,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12354"
+  },
+  {
+    "Timestamp": "2026-01-25 07:42:02",
+    "Seller": "dodolk",
+    "Stock": "9080",
+    "Price": 0.063,
+    "Currency": "USD",
+    "Position": 853,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12354"
   }
 ]
