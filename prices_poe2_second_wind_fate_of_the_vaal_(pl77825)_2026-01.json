@@ -9733,5 +9733,38 @@
     "DisplayPosition": 6,
     "Online": true,
     "League": "12354"
+  },
+  {
+    "Timestamp": "2026-01-28 12:19:59",
+    "Seller": "chrismatter",
+    "Stock": "201",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 747,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12354"
+  },
+  {
+    "Timestamp": "2026-01-28 12:19:59",
+    "Seller": "MJRRMT",
+    "Stock": "114",
+    "Price": 0.047,
+    "Currency": "USD",
+    "Position": 921,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12354"
+  },
+  {
+    "Timestamp": "2026-01-28 12:19:59",
+    "Seller": "dodolk",
+    "Stock": "9080",
+    "Price": 0.052,
+    "Currency": "USD",
+    "Position": 940,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12354"
   }
 ]
