@@ -9535,5 +9535,49 @@
     "DisplayPosition": 7,
     "Online": true,
     "League": "12354"
+  },
+  {
+    "Timestamp": "2026-01-28 07:02:41",
+    "Seller": "chrismatter",
+    "Stock": "201",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 730,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12354"
+  },
+  {
+    "Timestamp": "2026-01-28 07:02:41",
+    "Seller": "Melo1230",
+    "Stock": "1000",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 740,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12354"
+  },
+  {
+    "Timestamp": "2026-01-28 07:02:41",
+    "Seller": "MJRRMT",
+    "Stock": "114",
+    "Price": 0.056,
+    "Currency": "USD",
+    "Position": 899,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12354"
+  },
+  {
+    "Timestamp": "2026-01-28 07:02:41",
+    "Seller": "dodolk",
+    "Stock": "9080",
+    "Price": 0.063,
+    "Currency": "USD",
+    "Position": 916,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12354"
   }
 ]
