@@ -163,5 +163,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-30 10:31:10",
+    "Seller": "Iskanderius",
+    "Stock": "1",
+    "Price": 5.06,
+    "Currency": "USD",
+    "Position": 177,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-30 10:31:10",
+    "Seller": "VaalCorruptovich",
+    "Stock": "3",
+    "Price": 5.12,
+    "Currency": "USD",
+    "Position": 178,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-30 10:31:10",
+    "Seller": "Doomy1899",
+    "Stock": "2",
+    "Price": 5.14,
+    "Currency": "USD",
+    "Position": 179,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-30 10:31:10",
+    "Seller": "LoLLeR",
+    "Stock": "1",
+    "Price": 5.3,
+    "Currency": "USD",
+    "Position": 181,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-30 10:31:10",
+    "Seller": "cooked23356",
+    "Stock": "1",
+    "Price": 5.72,
+    "Currency": "USD",
+    "Position": 182,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
