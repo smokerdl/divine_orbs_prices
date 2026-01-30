@@ -1,0 +1,57 @@
+[
+  {
+    "Timestamp": "2026-01-30 06:16:50",
+    "Seller": "gommor",
+    "Stock": "1",
+    "Price": 5.75,
+    "Currency": "USD",
+    "Position": 184,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-30 06:16:50",
+    "Seller": "T4sel",
+    "Stock": "1",
+    "Price": 6.38,
+    "Currency": "USD",
+    "Position": 186,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-30 06:16:50",
+    "Seller": "Rentgeno",
+    "Stock": "1",
+    "Price": 6.63,
+    "Currency": "USD",
+    "Position": 187,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-30 06:16:50",
+    "Seller": "Derterus",
+    "Stock": "1",
+    "Price": 6.63,
+    "Currency": "USD",
+    "Position": 188,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-30 06:16:50",
+    "Seller": "NICKFLINK",
+    "Stock": "1",
+    "Price": 6.63,
+    "Currency": "USD",
+    "Position": 189,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
+  }
+]
