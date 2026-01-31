@@ -1373,5 +1373,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-31 10:18:48",
+    "Seller": "BamethBoy",
+    "Stock": "31",
+    "Price": 0.88,
+    "Currency": "USD",
+    "Position": 162,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-31 10:18:48",
+    "Seller": "FreeMarket2",
+    "Stock": "10",
+    "Price": 0.9,
+    "Currency": "USD",
+    "Position": 163,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-31 10:18:48",
+    "Seller": "Zerxzerxzerx",
+    "Stock": "35",
+    "Price": 0.9,
+    "Currency": "USD",
+    "Position": 164,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-31 10:18:48",
+    "Seller": "JapaneseLittleGirl",
+    "Stock": "30",
+    "Price": 0.97,
+    "Currency": "USD",
+    "Position": 167,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-31 10:18:48",
+    "Seller": "NeverGo",
+    "Stock": "2",
+    "Price": 0.98,
+    "Currency": "USD",
+    "Position": 170,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
