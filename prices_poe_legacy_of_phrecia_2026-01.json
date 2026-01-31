@@ -1813,5 +1813,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-31 18:01:14",
+    "Seller": "heymars",
+    "Stock": "8",
+    "Price": 1.07,
+    "Currency": "USD",
+    "Position": 157,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-31 18:01:14",
+    "Seller": "Divanodich",
+    "Stock": "8",
+    "Price": 1.14,
+    "Currency": "USD",
+    "Position": 161,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-31 18:01:14",
+    "Seller": "Arannel",
+    "Stock": "15",
+    "Price": 1.15,
+    "Currency": "USD",
+    "Position": 162,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-31 18:01:14",
+    "Seller": "MackerelPizza",
+    "Stock": "15",
+    "Price": 1.18,
+    "Currency": "USD",
+    "Position": 165,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-31 18:01:14",
+    "Seller": "purplegaming",
+    "Stock": "10",
+    "Price": 1.29,
+    "Currency": "USD",
+    "Position": 168,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
