@@ -1978,5 +1978,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-31 20:59:58",
+    "Seller": "De1wu",
+    "Stock": "12",
+    "Price": 0.82,
+    "Currency": "USD",
+    "Position": 157,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-31 20:59:58",
+    "Seller": "Smoulder",
+    "Stock": "4",
+    "Price": 0.84,
+    "Currency": "USD",
+    "Position": 160,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-31 20:59:58",
+    "Seller": "ChelYOU",
+    "Stock": "5",
+    "Price": 0.9,
+    "Currency": "USD",
+    "Position": 163,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-31 20:59:58",
+    "Seller": "Joka30",
+    "Stock": "15",
+    "Price": 0.9,
+    "Currency": "USD",
+    "Position": 164,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-31 20:59:58",
+    "Seller": "cheapExaltos",
+    "Stock": "10",
+    "Price": 0.91,
+    "Currency": "USD",
+    "Position": 167,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
