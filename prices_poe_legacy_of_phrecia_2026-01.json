@@ -2088,5 +2088,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-31 22:57:57",
+    "Seller": "Qertue",
+    "Stock": "6",
+    "Price": 1.34,
+    "Currency": "USD",
+    "Position": 167,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-31 22:57:57",
+    "Seller": "graff166",
+    "Stock": "38",
+    "Price": 1.36,
+    "Currency": "USD",
+    "Position": 168,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-31 22:57:57",
+    "Seller": "wflspirit",
+    "Stock": "10",
+    "Price": 1.36,
+    "Currency": "USD",
+    "Position": 169,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-31 22:57:57",
+    "Seller": "GoldStory",
+    "Stock": "20",
+    "Price": 1.36,
+    "Currency": "USD",
+    "Position": 170,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-01-31 22:57:57",
+    "Seller": "Joka30",
+    "Stock": "20",
+    "Price": 1.39,
+    "Currency": "USD",
+    "Position": 171,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
