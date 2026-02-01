@@ -1,0 +1,57 @@
+[
+  {
+    "Timestamp": "2026-02-01 06:41:53",
+    "Seller": "ArtemHard25",
+    "Stock": "20",
+    "Price": 0.67,
+    "Currency": "USD",
+    "Position": 136,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-01 06:41:53",
+    "Seller": "HiddenPocket",
+    "Stock": "32",
+    "Price": 0.69,
+    "Currency": "USD",
+    "Position": 138,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-01 06:41:53",
+    "Seller": "Pek",
+    "Stock": "11",
+    "Price": 0.7,
+    "Currency": "USD",
+    "Position": 139,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-01 06:41:53",
+    "Seller": "Deimier",
+    "Stock": "2",
+    "Price": 0.7,
+    "Currency": "USD",
+    "Position": 140,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-01 06:41:53",
+    "Seller": "Gebbaaaa",
+    "Stock": "60",
+    "Price": 0.7,
+    "Currency": "USD",
+    "Position": 141,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
+  }
+]
