@@ -1373,5 +1373,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-02 11:26:33",
+    "Seller": "pwnage",
+    "Stock": "53",
+    "Price": 0.41,
+    "Currency": "USD",
+    "Position": 126,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-02 11:26:33",
+    "Seller": "pokupatel777",
+    "Stock": "150",
+    "Price": 0.41,
+    "Currency": "USD",
+    "Position": 128,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-02 11:26:33",
+    "Seller": "DoterzGaming",
+    "Stock": "104",
+    "Price": 0.42,
+    "Currency": "USD",
+    "Position": 130,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-02 11:26:33",
+    "Seller": "Hollyca",
+    "Stock": "130",
+    "Price": 0.45,
+    "Currency": "USD",
+    "Position": 132,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-02 11:26:33",
+    "Seller": "Divanodich",
+    "Stock": "45",
+    "Price": 0.46,
+    "Currency": "USD",
+    "Position": 133,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
