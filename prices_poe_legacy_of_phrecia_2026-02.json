@@ -2418,5 +2418,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-03 13:26:06",
+    "Seller": "Teabird",
+    "Stock": "50",
+    "Price": 0.29,
+    "Currency": "USD",
+    "Position": 114,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-03 13:26:06",
+    "Seller": "Maajoriik",
+    "Stock": "80",
+    "Price": 0.29,
+    "Currency": "USD",
+    "Position": 119,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-03 13:26:06",
+    "Seller": "Pantheon96",
+    "Stock": "200",
+    "Price": 0.29,
+    "Currency": "USD",
+    "Position": 120,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-03 13:26:06",
+    "Seller": "Logitec001",
+    "Stock": "12",
+    "Price": 0.3,
+    "Currency": "USD",
+    "Position": 123,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-03 13:26:06",
+    "Seller": "chiquitoX",
+    "Stock": "10",
+    "Price": 0.31,
+    "Currency": "USD",
+    "Position": 125,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
