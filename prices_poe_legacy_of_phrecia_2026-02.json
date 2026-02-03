@@ -2033,5 +2033,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-03 03:56:08",
+    "Seller": "NotYepp",
+    "Stock": "60",
+    "Price": 0.28,
+    "Currency": "USD",
+    "Position": 113,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-03 03:56:08",
+    "Seller": "rezigold",
+    "Stock": "75",
+    "Price": 0.29,
+    "Currency": "USD",
+    "Position": 114,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-03 03:56:08",
+    "Seller": "Salva4ion",
+    "Stock": "40",
+    "Price": 0.29,
+    "Currency": "USD",
+    "Position": 115,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-03 03:56:08",
+    "Seller": "Umi69",
+    "Stock": "140",
+    "Price": 0.29,
+    "Currency": "USD",
+    "Position": 116,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-03 03:56:08",
+    "Seller": "Oleg00008899",
+    "Stock": "25",
+    "Price": 0.29,
+    "Currency": "USD",
+    "Position": 117,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
