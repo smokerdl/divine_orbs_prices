@@ -4068,5 +4068,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-04 22:29:40",
+    "Seller": "HolidayStore",
+    "Stock": "140",
+    "Price": 0.18,
+    "Currency": "USD",
+    "Position": 111,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-04 22:29:40",
+    "Seller": "Spartano",
+    "Stock": "95",
+    "Price": 0.18,
+    "Currency": "USD",
+    "Position": 113,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-04 22:29:40",
+    "Seller": "WitedMW",
+    "Stock": "30",
+    "Price": 0.18,
+    "Currency": "USD",
+    "Position": 114,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-04 22:29:40",
+    "Seller": "vobla53",
+    "Stock": "90",
+    "Price": 0.185,
+    "Currency": "USD",
+    "Position": 115,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-04 22:29:40",
+    "Seller": "patentsh",
+    "Stock": "200",
+    "Price": 0.185,
+    "Currency": "USD",
+    "Position": 116,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
