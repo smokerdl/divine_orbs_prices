@@ -3683,5 +3683,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-04 15:26:07",
+    "Seller": "Incerate",
+    "Stock": "90",
+    "Price": 0.146,
+    "Currency": "USD",
+    "Position": 98,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-04 15:26:07",
+    "Seller": "Coreupt",
+    "Stock": "100",
+    "Price": 0.146,
+    "Currency": "USD",
+    "Position": 99,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-04 15:26:07",
+    "Seller": "drons792",
+    "Stock": "100",
+    "Price": 0.15,
+    "Currency": "USD",
+    "Position": 100,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-04 15:26:07",
+    "Seller": "Pantheon96",
+    "Stock": "100",
+    "Price": 0.161,
+    "Currency": "USD",
+    "Position": 104,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-04 15:26:07",
+    "Seller": "Hollyca",
+    "Stock": "40",
+    "Price": 0.161,
+    "Currency": "USD",
+    "Position": 105,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
