@@ -4728,5 +4728,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-05 13:27:58",
+    "Seller": "owwwmyy",
+    "Stock": "170",
+    "Price": 0.108,
+    "Currency": "USD",
+    "Position": 88,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-05 13:27:58",
+    "Seller": "RomanBr",
+    "Stock": "250",
+    "Price": 0.108,
+    "Currency": "USD",
+    "Position": 89,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-05 13:27:58",
+    "Seller": "ExpFreez",
+    "Stock": "300",
+    "Price": 0.111,
+    "Currency": "USD",
+    "Position": 91,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-05 13:27:58",
+    "Seller": "oldnewbie",
+    "Stock": "60",
+    "Price": 0.113,
+    "Currency": "USD",
+    "Position": 92,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-05 13:27:58",
+    "Seller": "onebuyforwin",
+    "Stock": "2390",
+    "Price": 0.115,
+    "Currency": "USD",
+    "Position": 96,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
