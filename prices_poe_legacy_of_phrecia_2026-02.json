@@ -4673,5 +4673,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-05 12:30:33",
+    "Seller": "nightout",
+    "Stock": "400",
+    "Price": 0.13,
+    "Currency": "USD",
+    "Position": 88,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-05 12:30:33",
+    "Seller": "ExpFreez",
+    "Stock": "421",
+    "Price": 0.131,
+    "Currency": "USD",
+    "Position": 90,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-05 12:30:33",
+    "Seller": "RomanBr",
+    "Stock": "250",
+    "Price": 0.131,
+    "Currency": "USD",
+    "Position": 91,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-05 12:30:33",
+    "Seller": "onebuyforwin",
+    "Stock": "2390",
+    "Price": 0.136,
+    "Currency": "USD",
+    "Position": 95,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-05 12:30:33",
+    "Seller": "ThomasPhillips",
+    "Stock": "24",
+    "Price": 0.136,
+    "Currency": "USD",
+    "Position": 96,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
