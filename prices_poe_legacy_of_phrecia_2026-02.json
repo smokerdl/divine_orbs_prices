@@ -5828,5 +5828,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-06 13:25:25",
+    "Seller": "Lexion",
+    "Stock": "150",
+    "Price": 0.094,
+    "Currency": "USD",
+    "Position": 91,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-06 13:25:25",
+    "Seller": "drons792",
+    "Stock": "280",
+    "Price": 0.095,
+    "Currency": "USD",
+    "Position": 92,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-06 13:25:25",
+    "Seller": "Pantheon96",
+    "Stock": "400",
+    "Price": 0.096,
+    "Currency": "USD",
+    "Position": 94,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-06 13:25:25",
+    "Seller": "Brexit",
+    "Stock": "600",
+    "Price": 0.096,
+    "Currency": "USD",
+    "Position": 95,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-06 13:25:25",
+    "Seller": "Lostinlifeq",
+    "Stock": "70",
+    "Price": 0.096,
+    "Currency": "USD",
+    "Position": 96,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
