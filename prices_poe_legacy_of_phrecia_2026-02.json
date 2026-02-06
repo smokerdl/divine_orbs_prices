@@ -6433,5 +6433,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-07 00:16:56",
+    "Seller": "chiquitoX",
+    "Stock": "80",
+    "Price": 0.099,
+    "Currency": "USD",
+    "Position": 92,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-07 00:16:56",
+    "Seller": "THPL",
+    "Stock": "200",
+    "Price": 0.099,
+    "Currency": "USD",
+    "Position": 93,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-07 00:16:56",
+    "Seller": "pinkbuba",
+    "Stock": "70",
+    "Price": 0.099,
+    "Currency": "USD",
+    "Position": 94,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-07 00:16:56",
+    "Seller": "smokevrn",
+    "Stock": "160",
+    "Price": 0.1,
+    "Currency": "USD",
+    "Position": 95,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-07 00:16:56",
+    "Seller": "FurFurz",
+    "Stock": "800",
+    "Price": 0.1,
+    "Currency": "USD",
+    "Position": 96,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
