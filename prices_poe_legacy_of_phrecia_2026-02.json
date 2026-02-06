@@ -6323,5 +6323,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-06 22:28:27",
+    "Seller": "Maksvell",
+    "Stock": "500",
+    "Price": 0.121,
+    "Currency": "USD",
+    "Position": 94,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-06 22:28:27",
+    "Seller": "Smoulder",
+    "Stock": "40",
+    "Price": 0.121,
+    "Currency": "USD",
+    "Position": 95,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-06 22:28:27",
+    "Seller": "Latinococ",
+    "Stock": "300",
+    "Price": 0.121,
+    "Currency": "USD",
+    "Position": 96,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-06 22:28:27",
+    "Seller": "Quincyrage",
+    "Stock": "120",
+    "Price": 0.121,
+    "Currency": "USD",
+    "Position": 97,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-06 22:28:27",
+    "Seller": "chuvakka",
+    "Stock": "264",
+    "Price": 0.123,
+    "Currency": "USD",
+    "Position": 98,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
