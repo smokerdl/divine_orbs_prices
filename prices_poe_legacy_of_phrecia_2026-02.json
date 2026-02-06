@@ -5938,5 +5938,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-06 15:26:04",
+    "Seller": "Aristadel",
+    "Stock": "100",
+    "Price": 0.098,
+    "Currency": "USD",
+    "Position": 92,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-06 15:26:04",
+    "Seller": "agss0097",
+    "Stock": "1",
+    "Price": 0.098,
+    "Currency": "USD",
+    "Position": 93,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-06 15:26:04",
+    "Seller": "Lexion",
+    "Stock": "250",
+    "Price": 0.099,
+    "Currency": "USD",
+    "Position": 94,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-06 15:26:04",
+    "Seller": "Qertue",
+    "Stock": "22",
+    "Price": 0.099,
+    "Currency": "USD",
+    "Position": 95,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-06 15:26:04",
+    "Seller": "DHok",
+    "Stock": "300",
+    "Price": 0.102,
+    "Currency": "USD",
+    "Position": 96,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
