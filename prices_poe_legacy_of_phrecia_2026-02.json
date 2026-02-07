@@ -7368,5 +7368,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-07 20:13:24",
+    "Seller": "Brexit",
+    "Stock": "579",
+    "Price": 0.089,
+    "Currency": "USD",
+    "Position": 83,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-07 20:13:24",
+    "Seller": "Taurissan",
+    "Stock": "500",
+    "Price": 0.091,
+    "Currency": "USD",
+    "Position": 85,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-07 20:13:24",
+    "Seller": "patentsh",
+    "Stock": "200",
+    "Price": 0.091,
+    "Currency": "USD",
+    "Position": 86,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-07 20:13:24",
+    "Seller": "Lexion",
+    "Stock": "740",
+    "Price": 0.094,
+    "Currency": "USD",
+    "Position": 87,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-07 20:13:24",
+    "Seller": "Joka30",
+    "Stock": "244",
+    "Price": 0.094,
+    "Currency": "USD",
+    "Position": 88,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
