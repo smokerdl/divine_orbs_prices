@@ -6598,5 +6598,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-07 03:01:22",
+    "Seller": "drons792",
+    "Stock": "300",
+    "Price": 0.113,
+    "Currency": "USD",
+    "Position": 88,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-07 03:01:22",
+    "Seller": "ImPayingCommission",
+    "Stock": "90",
+    "Price": 0.114,
+    "Currency": "USD",
+    "Position": 89,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-07 03:01:22",
+    "Seller": "SteelSerees",
+    "Stock": "156",
+    "Price": 0.114,
+    "Currency": "USD",
+    "Position": 90,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-07 03:01:22",
+    "Seller": "patentsh",
+    "Stock": "500",
+    "Price": 0.114,
+    "Currency": "USD",
+    "Position": 91,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-07 03:01:22",
+    "Seller": "ForPoe",
+    "Stock": "215",
+    "Price": 0.114,
+    "Currency": "USD",
+    "Position": 92,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
