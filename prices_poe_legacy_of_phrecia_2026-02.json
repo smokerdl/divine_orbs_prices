@@ -6708,5 +6708,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-07 07:57:50",
+    "Seller": "ShadoUwU",
+    "Stock": "400",
+    "Price": 0.114,
+    "Currency": "USD",
+    "Position": 78,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-07 07:57:50",
+    "Seller": "HiddenPocket",
+    "Stock": "7",
+    "Price": 0.114,
+    "Currency": "USD",
+    "Position": 80,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-07 07:57:50",
+    "Seller": "Dominatrix",
+    "Stock": "90",
+    "Price": 0.114,
+    "Currency": "USD",
+    "Position": 81,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-07 07:57:50",
+    "Seller": "Ashowol",
+    "Stock": "100",
+    "Price": 0.115,
+    "Currency": "USD",
+    "Position": 82,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-07 07:57:50",
+    "Seller": "paveldestiny",
+    "Stock": "2",
+    "Price": 0.12,
+    "Currency": "USD",
+    "Position": 83,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
