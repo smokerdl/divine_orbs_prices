@@ -8413,5 +8413,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-08 18:12:23",
+    "Seller": "Pantheon96",
+    "Stock": "500",
+    "Price": 0.066,
+    "Currency": "USD",
+    "Position": 82,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-08 18:12:23",
+    "Seller": "Nargrame",
+    "Stock": "200",
+    "Price": 0.066,
+    "Currency": "USD",
+    "Position": 83,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-08 18:12:23",
+    "Seller": "Starlight123",
+    "Stock": "250",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 84,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-08 18:12:23",
+    "Seller": "Hwkq",
+    "Stock": "380",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 85,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-08 18:12:23",
+    "Seller": "Brexit",
+    "Stock": "540",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 86,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
