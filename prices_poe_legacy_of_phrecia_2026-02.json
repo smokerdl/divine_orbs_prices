@@ -8853,5 +8853,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-09 02:15:58",
+    "Seller": "ProdamLut",
+    "Stock": "473",
+    "Price": 0.047,
+    "Currency": "USD",
+    "Position": 71,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-09 02:15:58",
+    "Seller": "EggInc",
+    "Stock": "850",
+    "Price": 0.047,
+    "Currency": "USD",
+    "Position": 72,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-09 02:15:58",
+    "Seller": "Kolyar",
+    "Stock": "600",
+    "Price": 0.048,
+    "Currency": "USD",
+    "Position": 73,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-09 02:15:58",
+    "Seller": "railgun2",
+    "Stock": "700",
+    "Price": 0.048,
+    "Currency": "USD",
+    "Position": 74,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-09 02:15:58",
+    "Seller": "moderntaker",
+    "Stock": "87",
+    "Price": 0.049,
+    "Currency": "USD",
+    "Position": 77,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
