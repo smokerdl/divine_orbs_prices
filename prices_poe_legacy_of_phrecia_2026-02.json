@@ -8578,5 +8578,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-08 21:02:10",
+    "Seller": "Brexit",
+    "Stock": "640",
+    "Price": 0.057,
+    "Currency": "USD",
+    "Position": 79,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-08 21:02:10",
+    "Seller": "Zemblus",
+    "Stock": "150",
+    "Price": 0.058,
+    "Currency": "USD",
+    "Position": 80,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-08 21:02:10",
+    "Seller": "Dendronich",
+    "Stock": "250",
+    "Price": 0.06,
+    "Currency": "USD",
+    "Position": 81,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-08 21:02:10",
+    "Seller": "moderntaker",
+    "Stock": "34",
+    "Price": 0.06,
+    "Currency": "USD",
+    "Position": 82,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-08 21:02:10",
+    "Seller": "Wistint",
+    "Stock": "1000",
+    "Price": 0.061,
+    "Currency": "USD",
+    "Position": 83,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
