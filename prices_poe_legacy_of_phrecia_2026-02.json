@@ -9678,5 +9678,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-10 00:25:58",
+    "Seller": "Melismut",
+    "Stock": "50",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 73,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-10 00:25:58",
+    "Seller": "patentsh",
+    "Stock": "600",
+    "Price": 0.036,
+    "Currency": "USD",
+    "Position": 74,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-10 00:25:58",
+    "Seller": "rewer212199",
+    "Stock": "100",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 79,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-10 00:25:58",
+    "Seller": "downeel",
+    "Stock": "1800",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 81,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-10 00:25:58",
+    "Seller": "HolidayStore",
+    "Stock": "2140",
+    "Price": 0.039,
+    "Currency": "USD",
+    "Position": 82,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
