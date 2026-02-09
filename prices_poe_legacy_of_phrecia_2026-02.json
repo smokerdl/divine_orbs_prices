@@ -9458,5 +9458,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-09 18:40:37",
+    "Seller": "widowmake",
+    "Stock": "500",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 65,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-09 18:40:37",
+    "Seller": "ncr43123",
+    "Stock": "200",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-09 18:40:37",
+    "Seller": "Latinococ",
+    "Stock": "230",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 67,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-09 18:40:37",
+    "Seller": "downeel",
+    "Stock": "583",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 68,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-09 18:40:37",
+    "Seller": "Kizu9",
+    "Stock": "95",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 69,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
