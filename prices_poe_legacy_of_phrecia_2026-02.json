@@ -9293,5 +9293,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-09 14:35:27",
+    "Seller": "Nirozen",
+    "Stock": "420",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 71,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-09 14:35:27",
+    "Seller": "steelsome",
+    "Stock": "1045",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 72,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-09 14:35:27",
+    "Seller": "Linkzzz",
+    "Stock": "600",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 73,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-09 14:35:27",
+    "Seller": "Wistint",
+    "Stock": "650",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 74,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-09 14:35:27",
+    "Seller": "chiquitoX",
+    "Stock": "50",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 75,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
