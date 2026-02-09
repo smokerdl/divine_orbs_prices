@@ -9623,5 +9623,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-09 23:30:04",
+    "Seller": "NInesouls",
+    "Stock": "778",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 69,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-09 23:30:04",
+    "Seller": "Dzenkaa",
+    "Stock": "70",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 74,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-09 23:30:04",
+    "Seller": "patentsh",
+    "Stock": "600",
+    "Price": 0.036,
+    "Currency": "USD",
+    "Position": 76,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-09 23:30:04",
+    "Seller": "downeel",
+    "Stock": "1200",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 82,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-09 23:30:04",
+    "Seller": "Betforgen",
+    "Stock": "550",
+    "Price": 0.039,
+    "Currency": "USD",
+    "Position": 83,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
