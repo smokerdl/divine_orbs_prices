@@ -10668,5 +10668,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-10 23:29:55",
+    "Seller": "T4sel",
+    "Stock": "1756",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 76,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-10 23:29:55",
+    "Seller": "rewer212199",
+    "Stock": "150",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-10 23:29:55",
+    "Seller": "rewer212199",
+    "Stock": "150",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 77,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-10 23:29:55",
+    "Seller": "Zilberdouch",
+    "Stock": "150",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 78,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-10 23:29:55",
+    "Seller": "Joka30",
+    "Stock": "600",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 79,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
