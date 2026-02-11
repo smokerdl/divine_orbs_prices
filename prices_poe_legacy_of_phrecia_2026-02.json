@@ -10943,5 +10943,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-11 07:16:51",
+    "Seller": "chuvakka",
+    "Stock": "276",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-11 07:16:51",
+    "Seller": "chuvakka",
+    "Stock": "276",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 82,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-11 07:16:51",
+    "Seller": "Bugagashenkaaa",
+    "Stock": "200",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 83,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-11 07:16:51",
+    "Seller": "moderntaker",
+    "Stock": "87",
+    "Price": 0.048,
+    "Currency": "USD",
+    "Position": 86,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-11 07:16:51",
+    "Seller": "pinkbuba",
+    "Stock": "100",
+    "Price": 0.048,
+    "Currency": "USD",
+    "Position": 87,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
