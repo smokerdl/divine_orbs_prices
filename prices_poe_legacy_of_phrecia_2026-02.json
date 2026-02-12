@@ -12483,5 +12483,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-12 17:00:20",
+    "Seller": "Isk4you",
+    "Stock": "170",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-12 17:00:20",
+    "Seller": "ExpFreez",
+    "Stock": "600",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-12 17:00:20",
+    "Seller": "Taurissan",
+    "Stock": "310",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 55,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-12 17:00:20",
+    "Seller": "HolidayStore",
+    "Stock": "4530",
+    "Price": 0.037,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-12 17:00:20",
+    "Seller": "oldHruchel",
+    "Stock": "4000",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 62,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
