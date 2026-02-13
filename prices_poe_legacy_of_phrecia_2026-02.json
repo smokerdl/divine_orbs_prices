@@ -13528,5 +13528,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-13 15:25:59",
+    "Seller": "ExpFreez",
+    "Stock": "900",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 31,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-13 15:25:59",
+    "Seller": "fooly",
+    "Stock": "320",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 32,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-13 15:25:59",
+    "Seller": "Starlight123",
+    "Stock": "350",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 33,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-13 15:25:59",
+    "Seller": "chuvakka",
+    "Stock": "601",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 34,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-13 15:25:59",
+    "Seller": "Adires",
+    "Stock": "800",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 35,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
