@@ -14793,5 +14793,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-14 17:14:19",
+    "Seller": "ApexLegendsEBT",
+    "Stock": "600",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 32,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-14 17:14:19",
+    "Seller": "minimaldose",
+    "Stock": "347",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 36,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-14 17:14:19",
+    "Seller": "Kose32",
+    "Stock": "1700",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 37,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-14 17:14:19",
+    "Seller": "megapupsik",
+    "Stock": "460",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-14 17:14:19",
+    "Seller": "ExpFreez",
+    "Stock": "850",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 44,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
