@@ -16003,5 +16003,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-15 18:11:53",
+    "Seller": "minimaldose",
+    "Stock": "395",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 35,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-15 18:11:53",
+    "Seller": "Annet777",
+    "Stock": "1900",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 37,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-15 18:11:53",
+    "Seller": "GimliFarmer",
+    "Stock": "500",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-15 18:11:53",
+    "Seller": "Zilberdouch",
+    "Stock": "227",
+    "Price": 0.027,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-15 18:11:53",
+    "Seller": "GrindStyle",
+    "Stock": "305",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
