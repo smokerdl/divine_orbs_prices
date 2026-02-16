@@ -17433,5 +17433,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-17 00:15:13",
+    "Seller": "Adires",
+    "Stock": "2300",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 35,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-17 00:15:13",
+    "Seller": "IAmSoTasty",
+    "Stock": "1600",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 36,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-17 00:15:13",
+    "Seller": "arik1504",
+    "Stock": "200",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 38,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-17 00:15:13",
+    "Seller": "Zilberdouch",
+    "Stock": "227",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-17 00:15:13",
+    "Seller": "pinkbuba",
+    "Stock": "100",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
