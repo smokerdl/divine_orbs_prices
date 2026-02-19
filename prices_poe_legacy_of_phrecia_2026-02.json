@@ -20073,5 +20073,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-19 11:27:44",
+    "Seller": "upakowkamoloka",
+    "Stock": "1000",
+    "Price": 0.0165,
+    "Currency": "USD",
+    "Position": 30,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-19 11:27:44",
+    "Seller": "oldHruchel",
+    "Stock": "10000",
+    "Price": 0.0186,
+    "Currency": "USD",
+    "Position": 33,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-19 11:27:44",
+    "Seller": "GimliFarmer",
+    "Stock": "300",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 35,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-19 11:27:44",
+    "Seller": "Joka30",
+    "Stock": "1000",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 36,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-19 11:27:44",
+    "Seller": "Flashart247",
+    "Stock": "99999",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 38,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
