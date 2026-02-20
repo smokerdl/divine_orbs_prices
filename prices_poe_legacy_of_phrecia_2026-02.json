@@ -21008,5 +21008,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-20 08:08:44",
+    "Seller": "Darji",
+    "Stock": "338",
+    "Price": 0.0195,
+    "Currency": "USD",
+    "Position": 29,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-20 08:08:44",
+    "Seller": "Zilberdouch",
+    "Stock": "227",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 32,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-20 08:08:44",
+    "Seller": "ritual213",
+    "Stock": "2000",
+    "Price": 0.027,
+    "Currency": "USD",
+    "Position": 35,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-20 08:08:44",
+    "Seller": "GrindStyle",
+    "Stock": "305",
+    "Price": 0.027,
+    "Currency": "USD",
+    "Position": 36,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-20 08:08:44",
+    "Seller": "Flashart247",
+    "Stock": "99999",
+    "Price": 0.027,
+    "Currency": "USD",
+    "Position": 37,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
