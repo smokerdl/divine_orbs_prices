@@ -29258,5 +29258,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-27 16:47:40",
+    "Seller": "danilaaaaaaa321",
+    "Stock": "2700",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 79,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-27 16:47:40",
+    "Seller": "UZURPATORtm",
+    "Stock": "1000000000",
+    "Price": 0.054,
+    "Currency": "USD",
+    "Position": 91,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-27 16:47:40",
+    "Seller": "basher42",
+    "Stock": "470",
+    "Price": 0.07,
+    "Currency": "USD",
+    "Position": 97,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-27 16:47:40",
+    "Seller": "Hollyca",
+    "Stock": "110",
+    "Price": 0.079,
+    "Currency": "USD",
+    "Position": 100,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12365"
+  },
+  {
+    "Timestamp": "2026-02-27 16:47:40",
+    "Seller": "Kaomi",
+    "Stock": "2000",
+    "Price": 0.096,
+    "Currency": "USD",
+    "Position": 102,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12365"
   }
 ]
