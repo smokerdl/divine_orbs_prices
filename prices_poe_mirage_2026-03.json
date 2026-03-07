@@ -1208,5 +1208,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-07 22:57:53",
+    "Seller": "Arslanchikus",
+    "Stock": "10",
+    "Price": 2.39,
+    "Currency": "USD",
+    "Position": 112,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-07 22:57:53",
+    "Seller": "HUckLer",
+    "Stock": "10",
+    "Price": 2.41,
+    "Currency": "USD",
+    "Position": 113,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-07 22:57:53",
+    "Seller": "Qertue",
+    "Stock": "3",
+    "Price": 2.42,
+    "Currency": "USD",
+    "Position": 114,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-07 22:57:53",
+    "Seller": "GenaWakal88",
+    "Stock": "6",
+    "Price": 2.44,
+    "Currency": "USD",
+    "Position": 115,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-07 22:57:53",
+    "Seller": "RETROSHOP",
+    "Stock": "10",
+    "Price": 2.44,
+    "Currency": "USD",
+    "Position": 116,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
