@@ -383,5 +383,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-07 08:29:04",
+    "Seller": "OpbOfDarkness",
+    "Stock": "1",
+    "Price": 4.22,
+    "Currency": "USD",
+    "Position": 180,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-07 08:29:04",
+    "Seller": "Deadfoxz",
+    "Stock": "2",
+    "Price": 4.33,
+    "Currency": "USD",
+    "Position": 182,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-07 08:29:04",
+    "Seller": "kayser",
+    "Stock": "1",
+    "Price": 4.4,
+    "Currency": "USD",
+    "Position": 183,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-07 08:29:04",
+    "Seller": "zolin2",
+    "Stock": "1",
+    "Price": 4.44,
+    "Currency": "USD",
+    "Position": 184,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-07 08:29:05",
+    "Seller": "Detinsellis",
+    "Stock": "1",
+    "Price": 4.47,
+    "Currency": "USD",
+    "Position": 185,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
