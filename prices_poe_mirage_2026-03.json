@@ -1318,5 +1318,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-08 00:58:14",
+    "Seller": "Vaklor",
+    "Stock": "8",
+    "Price": 1.76,
+    "Currency": "USD",
+    "Position": 111,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-08 00:58:14",
+    "Seller": "sdadsad",
+    "Stock": "10",
+    "Price": 1.76,
+    "Currency": "USD",
+    "Position": 112,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-08 00:58:14",
+    "Seller": "BreakingBad",
+    "Stock": "2",
+    "Price": 1.78,
+    "Currency": "USD",
+    "Position": 113,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-08 00:58:14",
+    "Seller": "Uramancer9403",
+    "Stock": "5",
+    "Price": 1.78,
+    "Currency": "USD",
+    "Position": 114,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-08 00:58:14",
+    "Seller": "lSail",
+    "Stock": "11",
+    "Price": 1.79,
+    "Currency": "USD",
+    "Position": 115,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
