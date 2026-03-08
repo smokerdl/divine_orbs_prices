@@ -2528,5 +2528,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-09 02:00:52",
+    "Seller": "Maxim1986151",
+    "Stock": "65",
+    "Price": 0.57,
+    "Currency": "USD",
+    "Position": 89,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-09 02:00:52",
+    "Seller": "blessedbygods",
+    "Stock": "60",
+    "Price": 0.57,
+    "Currency": "USD",
+    "Position": 90,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-09 02:00:52",
+    "Seller": "Demzprx",
+    "Stock": "18",
+    "Price": 0.57,
+    "Currency": "USD",
+    "Position": 91,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-09 02:00:52",
+    "Seller": "delaivet",
+    "Stock": "65",
+    "Price": 0.57,
+    "Currency": "USD",
+    "Position": 92,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-09 02:00:52",
+    "Seller": "Dzenkaa",
+    "Stock": "3",
+    "Price": 0.58,
+    "Currency": "USD",
+    "Position": 93,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
