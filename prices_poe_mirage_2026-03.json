@@ -2748,5 +2748,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-09 09:43:31",
+    "Seller": "Exchaos32",
+    "Stock": "3",
+    "Price": 0.69,
+    "Currency": "USD",
+    "Position": 93,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-09 09:43:31",
+    "Seller": "LoAZuko",
+    "Stock": "60",
+    "Price": 0.69,
+    "Currency": "USD",
+    "Position": 94,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-09 09:43:31",
+    "Seller": "ArmagedDoNMeG",
+    "Stock": "10",
+    "Price": 0.69,
+    "Currency": "USD",
+    "Position": 95,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-09 09:43:31",
+    "Seller": "TradeExalt",
+    "Stock": "42",
+    "Price": 0.69,
+    "Currency": "USD",
+    "Position": 96,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-09 09:43:31",
+    "Seller": "RayCarver",
+    "Stock": "70",
+    "Price": 0.7,
+    "Currency": "USD",
+    "Position": 98,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
