@@ -3518,5 +3518,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-10 00:18:04",
+    "Seller": "DinozavrTeam",
+    "Stock": "5",
+    "Price": 0.38,
+    "Currency": "USD",
+    "Position": 91,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-10 00:18:04",
+    "Seller": "ZelMir",
+    "Stock": "40",
+    "Price": 0.38,
+    "Currency": "USD",
+    "Position": 92,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-10 00:18:04",
+    "Seller": "Satturi",
+    "Stock": "100",
+    "Price": 0.38,
+    "Currency": "USD",
+    "Position": 93,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-10 00:18:04",
+    "Seller": "laufloriis",
+    "Stock": "32",
+    "Price": 0.39,
+    "Currency": "USD",
+    "Position": 94,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-10 00:18:04",
+    "Seller": "cockroachsell",
+    "Stock": "14",
+    "Price": 0.39,
+    "Currency": "USD",
+    "Position": 95,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
