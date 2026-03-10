@@ -4288,5 +4288,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-10 17:36:06",
+    "Seller": "CostaDelCrime",
+    "Stock": "3",
+    "Price": 0.43,
+    "Currency": "USD",
+    "Position": 88,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-10 17:36:06",
+    "Seller": "kopka",
+    "Stock": "20",
+    "Price": 0.43,
+    "Currency": "USD",
+    "Position": 89,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-10 17:36:06",
+    "Seller": "wallup",
+    "Stock": "65",
+    "Price": 0.43,
+    "Currency": "USD",
+    "Position": 90,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-10 17:36:06",
+    "Seller": "Veronikans777",
+    "Stock": "45",
+    "Price": 0.43,
+    "Currency": "USD",
+    "Position": 91,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-10 17:36:06",
+    "Seller": "daltonika",
+    "Stock": "80",
+    "Price": 0.43,
+    "Currency": "USD",
+    "Position": 92,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
