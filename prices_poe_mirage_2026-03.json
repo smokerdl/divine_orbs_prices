@@ -5278,5 +5278,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-11 14:22:08",
+    "Seller": "Soba4nick",
+    "Stock": "76",
+    "Price": 0.25,
+    "Currency": "USD",
+    "Position": 79,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-11 14:22:08",
+    "Seller": "dovolen",
+    "Stock": "97",
+    "Price": 0.25,
+    "Currency": "USD",
+    "Position": 81,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-11 14:22:08",
+    "Seller": "GoldInwow",
+    "Stock": "60",
+    "Price": 0.25,
+    "Currency": "USD",
+    "Position": 82,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-11 14:22:08",
+    "Seller": "DKondor",
+    "Stock": "30",
+    "Price": 0.25,
+    "Currency": "USD",
+    "Position": 83,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-11 14:22:08",
+    "Seller": "SeedOfChaos",
+    "Stock": "100",
+    "Price": 0.25,
+    "Currency": "USD",
+    "Position": 85,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
