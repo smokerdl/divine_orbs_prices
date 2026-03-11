@@ -4893,5 +4893,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-11 06:15:24",
+    "Seller": "AllFallen",
+    "Stock": "40",
+    "Price": 0.28,
+    "Currency": "USD",
+    "Position": 67,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-11 06:15:24",
+    "Seller": "ThomasPhillips",
+    "Stock": "48",
+    "Price": 0.28,
+    "Currency": "USD",
+    "Position": 68,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-11 06:15:24",
+    "Seller": "taovalantis",
+    "Stock": "50",
+    "Price": 0.28,
+    "Currency": "USD",
+    "Position": 69,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-11 06:15:24",
+    "Seller": "ApexLegendsEBT",
+    "Stock": "40",
+    "Price": 0.28,
+    "Currency": "USD",
+    "Position": 70,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-11 06:15:24",
+    "Seller": "JivanJi",
+    "Stock": "30",
+    "Price": 0.29,
+    "Currency": "USD",
+    "Position": 71,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
