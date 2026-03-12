@@ -6048,5 +6048,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-12 06:24:58",
+    "Seller": "ALUNIM",
+    "Stock": "38",
+    "Price": 0.21,
+    "Currency": "USD",
+    "Position": 69,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-12 06:24:58",
+    "Seller": "HukoJlay",
+    "Stock": "30",
+    "Price": 0.21,
+    "Currency": "USD",
+    "Position": 70,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-12 06:24:58",
+    "Seller": "sosokmorja",
+    "Stock": "400",
+    "Price": 0.21,
+    "Currency": "USD",
+    "Position": 71,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-12 06:24:58",
+    "Seller": "altshka",
+    "Stock": "154",
+    "Price": 0.21,
+    "Currency": "USD",
+    "Position": 72,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-12 06:24:58",
+    "Seller": "gomixFari",
+    "Stock": "30",
+    "Price": 0.21,
+    "Currency": "USD",
+    "Position": 73,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
