@@ -6378,5 +6378,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-12 13:25:13",
+    "Seller": "Yellowmeow",
+    "Stock": "120",
+    "Price": 0.182,
+    "Currency": "USD",
+    "Position": 69,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-12 13:25:13",
+    "Seller": "OopsSorry",
+    "Stock": "272",
+    "Price": 0.182,
+    "Currency": "USD",
+    "Position": 70,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-12 13:25:13",
+    "Seller": "Crossgold7",
+    "Stock": "220",
+    "Price": 0.183,
+    "Currency": "USD",
+    "Position": 71,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-12 13:25:13",
+    "Seller": "pocemonpu",
+    "Stock": "450",
+    "Price": 0.183,
+    "Currency": "USD",
+    "Position": 72,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-12 13:25:13",
+    "Seller": "Nglifer",
+    "Stock": "78",
+    "Price": 0.186,
+    "Currency": "USD",
+    "Position": 73,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
