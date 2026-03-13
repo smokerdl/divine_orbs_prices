@@ -7973,5 +7973,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-13 21:23:00",
+    "Seller": "Killout32",
+    "Stock": "349",
+    "Price": 0.171,
+    "Currency": "USD",
+    "Position": 76,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-13 21:23:00",
+    "Seller": "rasta1322",
+    "Stock": "105",
+    "Price": 0.171,
+    "Currency": "USD",
+    "Position": 77,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-13 21:23:00",
+    "Seller": "POEtraderRMT",
+    "Stock": "100",
+    "Price": 0.171,
+    "Currency": "USD",
+    "Position": 78,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-13 21:23:00",
+    "Seller": "Ogkartina",
+    "Stock": "50",
+    "Price": 0.171,
+    "Currency": "USD",
+    "Position": 79,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-13 21:23:00",
+    "Seller": "TrinityShop",
+    "Stock": "100",
+    "Price": 0.173,
+    "Currency": "USD",
+    "Position": 80,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
