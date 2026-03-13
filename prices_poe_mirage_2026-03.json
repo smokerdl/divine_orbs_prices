@@ -7863,5 +7863,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-13 19:21:54",
+    "Seller": "ExilenceProvider",
+    "Stock": "44",
+    "Price": 0.158,
+    "Currency": "USD",
+    "Position": 73,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-13 19:21:54",
+    "Seller": "ValeriyPatau",
+    "Stock": "70",
+    "Price": 0.158,
+    "Currency": "USD",
+    "Position": 74,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-13 19:21:54",
+    "Seller": "AnnaBanana97",
+    "Stock": "376",
+    "Price": 0.158,
+    "Currency": "USD",
+    "Position": 75,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-13 19:21:54",
+    "Seller": "MrHunter",
+    "Stock": "200",
+    "Price": 0.159,
+    "Currency": "USD",
+    "Position": 76,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-13 19:21:54",
+    "Seller": "UselessIdol",
+    "Stock": "200",
+    "Price": 0.159,
+    "Currency": "USD",
+    "Position": 77,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
