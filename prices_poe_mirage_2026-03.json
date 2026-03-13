@@ -8193,5 +8193,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-14 01:15:41",
+    "Seller": "Tankfist",
+    "Stock": "28",
+    "Price": 0.168,
+    "Currency": "USD",
+    "Position": 74,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-14 01:15:41",
+    "Seller": "LILSOS",
+    "Stock": "264",
+    "Price": 0.17,
+    "Currency": "USD",
+    "Position": 75,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-14 01:15:41",
+    "Seller": "Kizu9",
+    "Stock": "2",
+    "Price": 0.17,
+    "Currency": "USD",
+    "Position": 76,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-14 01:15:41",
+    "Seller": "Oykisa",
+    "Stock": "56",
+    "Price": 0.171,
+    "Currency": "USD",
+    "Position": 77,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-14 01:15:41",
+    "Seller": "Linkzzz",
+    "Stock": "800",
+    "Price": 0.171,
+    "Currency": "USD",
+    "Position": 78,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
