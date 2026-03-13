@@ -8248,5 +8248,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-14 02:14:57",
+    "Seller": "Tankfist",
+    "Stock": "2",
+    "Price": 0.167,
+    "Currency": "USD",
+    "Position": 72,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-14 02:14:57",
+    "Seller": "Kotik4",
+    "Stock": "38",
+    "Price": 0.167,
+    "Currency": "USD",
+    "Position": 73,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-14 02:14:57",
+    "Seller": "Menanoia",
+    "Stock": "5",
+    "Price": 0.168,
+    "Currency": "USD",
+    "Position": 74,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-14 02:14:57",
+    "Seller": "withYKA",
+    "Stock": "1",
+    "Price": 0.169,
+    "Currency": "USD",
+    "Position": 75,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-14 02:14:57",
+    "Seller": "KENDG1",
+    "Stock": "50",
+    "Price": 0.169,
+    "Currency": "USD",
+    "Position": 76,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
