@@ -8303,5 +8303,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-14 03:52:47",
+    "Seller": "youngexile",
+    "Stock": "50",
+    "Price": 0.169,
+    "Currency": "USD",
+    "Position": 70,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-14 03:52:47",
+    "Seller": "Kizu9",
+    "Stock": "2",
+    "Price": 0.17,
+    "Currency": "USD",
+    "Position": 71,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-14 03:52:47",
+    "Seller": "Saxa75",
+    "Stock": "100",
+    "Price": 0.17,
+    "Currency": "USD",
+    "Position": 72,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-14 03:52:47",
+    "Seller": "Fllamen",
+    "Stock": "108",
+    "Price": 0.17,
+    "Currency": "USD",
+    "Position": 73,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-14 03:52:47",
+    "Seller": "Xei",
+    "Stock": "130",
+    "Price": 0.171,
+    "Currency": "USD",
+    "Position": 74,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
