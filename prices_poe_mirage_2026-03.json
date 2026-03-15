@@ -10503,5 +10503,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-16 02:15:01",
+    "Seller": "Silvanit",
+    "Stock": "265",
+    "Price": 0.084,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-16 02:15:01",
+    "Seller": "otxsmile",
+    "Stock": "970",
+    "Price": 0.086,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-16 02:15:01",
+    "Seller": "Slojno44",
+    "Stock": "1200",
+    "Price": 0.086,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-16 02:15:01",
+    "Seller": "Exchaos32",
+    "Stock": "215",
+    "Price": 0.086,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-16 02:15:01",
+    "Seller": "Powermoneys",
+    "Stock": "700",
+    "Price": 0.087,
+    "Currency": "USD",
+    "Position": 62,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
