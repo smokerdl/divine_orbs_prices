@@ -10393,5 +10393,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-16 00:14:39",
+    "Seller": "MrZion",
+    "Stock": "121",
+    "Price": 0.098,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-16 00:14:39",
+    "Seller": "MrMichaelXl",
+    "Stock": "70",
+    "Price": 0.099,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-16 00:14:39",
+    "Seller": "ZuLUL",
+    "Stock": "80",
+    "Price": 0.1,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-16 00:14:39",
+    "Seller": "BigJack99",
+    "Stock": "115",
+    "Price": 0.1,
+    "Currency": "USD",
+    "Position": 62,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-16 00:14:39",
+    "Seller": "AurumTrader",
+    "Stock": "100",
+    "Price": 0.101,
+    "Currency": "USD",
+    "Position": 63,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
