@@ -10778,5 +10778,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-16 12:49:20",
+    "Seller": "Karerin",
+    "Stock": "103",
+    "Price": 0.077,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-16 12:49:20",
+    "Seller": "duox666",
+    "Stock": "100",
+    "Price": 0.077,
+    "Currency": "USD",
+    "Position": 62,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-16 12:49:20",
+    "Seller": "Evgeny6666",
+    "Stock": "100",
+    "Price": 0.078,
+    "Currency": "USD",
+    "Position": 63,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-16 12:49:20",
+    "Seller": "tarkovFunProvider137",
+    "Stock": "250",
+    "Price": 0.079,
+    "Currency": "USD",
+    "Position": 64,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-16 12:49:20",
+    "Seller": "BendOverAndSmile",
+    "Stock": "500",
+    "Price": 0.079,
+    "Currency": "USD",
+    "Position": 65,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
