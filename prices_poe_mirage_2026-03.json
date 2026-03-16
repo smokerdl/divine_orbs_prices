@@ -11053,5 +11053,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-16 18:49:18",
+    "Seller": "Odwire",
+    "Stock": "100",
+    "Price": 0.073,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-16 18:49:18",
+    "Seller": "Pochmak",
+    "Stock": "80",
+    "Price": 0.073,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-16 18:49:18",
+    "Seller": "Akazuki",
+    "Stock": "150",
+    "Price": 0.075,
+    "Currency": "USD",
+    "Position": 63,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-16 18:49:18",
+    "Seller": "Missuri23",
+    "Stock": "100",
+    "Price": 0.075,
+    "Currency": "USD",
+    "Position": 64,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-16 18:49:18",
+    "Seller": "patentsh",
+    "Stock": "400",
+    "Price": 0.075,
+    "Currency": "USD",
+    "Position": 65,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
