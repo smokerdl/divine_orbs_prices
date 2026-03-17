@@ -12318,5 +12318,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-17 21:40:39",
+    "Seller": "ValeriyPatau",
+    "Stock": "90",
+    "Price": 0.083,
+    "Currency": "USD",
+    "Position": 64,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-17 21:40:39",
+    "Seller": "FunFeda",
+    "Stock": "250",
+    "Price": 0.083,
+    "Currency": "USD",
+    "Position": 67,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-17 21:40:39",
+    "Seller": "FeedingFrenzzy",
+    "Stock": "150",
+    "Price": 0.083,
+    "Currency": "USD",
+    "Position": 68,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-17 21:40:39",
+    "Seller": "SkeletonnQuin",
+    "Stock": "16",
+    "Price": 0.084,
+    "Currency": "USD",
+    "Position": 69,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-17 21:40:39",
+    "Seller": "Mangix228",
+    "Stock": "200",
+    "Price": 0.084,
+    "Currency": "USD",
+    "Position": 70,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
