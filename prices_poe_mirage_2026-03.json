@@ -13308,5 +13308,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-18 20:47:45",
+    "Seller": "Deathartez",
+    "Stock": "300",
+    "Price": 0.076,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-18 20:47:45",
+    "Seller": "ExilenceProvider",
+    "Stock": "110",
+    "Price": 0.076,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-18 20:47:45",
+    "Seller": "MiFikanka",
+    "Stock": "165",
+    "Price": 0.076,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-18 20:47:45",
+    "Seller": "worz1x",
+    "Stock": "630",
+    "Price": 0.076,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-18 20:47:45",
+    "Seller": "T3r33",
+    "Stock": "450",
+    "Price": 0.076,
+    "Currency": "USD",
+    "Position": 62,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
