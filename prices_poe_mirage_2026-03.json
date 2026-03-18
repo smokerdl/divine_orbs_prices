@@ -13418,5 +13418,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-18 22:38:27",
+    "Seller": "Owamos",
+    "Stock": "200",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-18 22:38:27",
+    "Seller": "Levessa",
+    "Stock": "61",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-18 22:38:27",
+    "Seller": "MRM4NT1C0R4",
+    "Stock": "400",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-18 22:38:27",
+    "Seller": "Ilnar1234555321",
+    "Stock": "85",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-18 22:38:27",
+    "Seller": "MicroPira",
+    "Stock": "200",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
