@@ -16223,5 +16223,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-21 12:17:22",
+    "Seller": "Daniil346",
+    "Stock": "33",
+    "Price": 0.068,
+    "Currency": "USD",
+    "Position": 55,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-21 12:17:22",
+    "Seller": "Krokodealer",
+    "Stock": "780",
+    "Price": 0.069,
+    "Currency": "USD",
+    "Position": 56,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-21 12:17:22",
+    "Seller": "fricgenrih",
+    "Stock": "2810",
+    "Price": 0.069,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-21 12:17:22",
+    "Seller": "SunHeat",
+    "Stock": "1300",
+    "Price": 0.069,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-21 12:17:22",
+    "Seller": "Lelkol",
+    "Stock": "360",
+    "Price": 0.07,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
