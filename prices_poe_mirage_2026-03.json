@@ -16553,5 +16553,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-21 18:12:24",
+    "Seller": "azandr1321",
+    "Stock": "31",
+    "Price": 0.069,
+    "Currency": "USD",
+    "Position": 63,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-21 18:12:24",
+    "Seller": "Eggface",
+    "Stock": "1",
+    "Price": 0.069,
+    "Currency": "USD",
+    "Position": 64,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-21 18:12:24",
+    "Seller": "Runecraft",
+    "Stock": "210",
+    "Price": 0.069,
+    "Currency": "USD",
+    "Position": 65,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-21 18:12:24",
+    "Seller": "Doiposle",
+    "Stock": "158",
+    "Price": 0.069,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-21 18:12:24",
+    "Seller": "Nayzar",
+    "Stock": "225",
+    "Price": 0.07,
+    "Currency": "USD",
+    "Position": 67,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
