@@ -16663,5 +16663,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-21 20:13:16",
+    "Seller": "PrimeVerse",
+    "Stock": "700",
+    "Price": 0.072,
+    "Currency": "USD",
+    "Position": 62,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-21 20:13:16",
+    "Seller": "Adires",
+    "Stock": "188",
+    "Price": 0.073,
+    "Currency": "USD",
+    "Position": 63,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-21 20:13:16",
+    "Seller": "Aprey",
+    "Stock": "150",
+    "Price": 0.073,
+    "Currency": "USD",
+    "Position": 64,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-21 20:13:16",
+    "Seller": "DelioN227",
+    "Stock": "26907",
+    "Price": 0.073,
+    "Currency": "USD",
+    "Position": 65,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-21 20:13:16",
+    "Seller": "Taurissan",
+    "Stock": "182",
+    "Price": 0.073,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
