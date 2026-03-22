@@ -17983,5 +17983,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-22 22:59:47",
+    "Seller": "KartRaider",
+    "Stock": "500",
+    "Price": 0.054,
+    "Currency": "USD",
+    "Position": 53,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-22 22:59:47",
+    "Seller": "samurov",
+    "Stock": "150",
+    "Price": 0.055,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-22 22:59:47",
+    "Seller": "AsunaFP",
+    "Stock": "108",
+    "Price": 0.055,
+    "Currency": "USD",
+    "Position": 55,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-22 22:59:47",
+    "Seller": "Loserters",
+    "Stock": "700",
+    "Price": 0.055,
+    "Currency": "USD",
+    "Position": 56,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-22 22:59:47",
+    "Seller": "solitte",
+    "Stock": "160",
+    "Price": 0.055,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
