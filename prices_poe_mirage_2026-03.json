@@ -17433,5 +17433,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-22 13:13:04",
+    "Seller": "Krokodealer",
+    "Stock": "735",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-22 13:13:04",
+    "Seller": "HizikAbyss",
+    "Stock": "1460",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 55,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-22 13:13:04",
+    "Seller": "DelioN227",
+    "Stock": "21755",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 56,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-22 13:13:04",
+    "Seller": "nightout",
+    "Stock": "1000",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-22 13:13:04",
+    "Seller": "Brexit",
+    "Stock": "611",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
