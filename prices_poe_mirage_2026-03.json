@@ -18918,5 +18918,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-23 21:34:16",
+    "Seller": "Onlyup1337",
+    "Stock": "1600",
+    "Price": 0.048,
+    "Currency": "USD",
+    "Position": 55,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-23 21:34:16",
+    "Seller": "EuroDump",
+    "Stock": "180",
+    "Price": 0.048,
+    "Currency": "USD",
+    "Position": 56,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-23 21:34:16",
+    "Seller": "ftecho",
+    "Stock": "566",
+    "Price": 0.049,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-23 21:34:16",
+    "Seller": "VadimVadim",
+    "Stock": "1000",
+    "Price": 0.049,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-23 21:34:16",
+    "Seller": "DelioN227",
+    "Stock": "19442",
+    "Price": 0.049,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
