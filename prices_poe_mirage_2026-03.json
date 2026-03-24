@@ -19358,5 +19358,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-24 08:15:39",
+    "Seller": "DoLhi",
+    "Stock": "716",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 53,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-24 08:15:39",
+    "Seller": "Mylenelfarmer",
+    "Stock": "530",
+    "Price": 0.049,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-24 08:15:39",
+    "Seller": "KRASTOMS1",
+    "Stock": "700",
+    "Price": 0.049,
+    "Currency": "USD",
+    "Position": 55,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-24 08:15:39",
+    "Seller": "artshock",
+    "Stock": "600",
+    "Price": 0.049,
+    "Currency": "USD",
+    "Position": 56,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-24 08:15:39",
+    "Seller": "Wabrea",
+    "Stock": "140",
+    "Price": 0.049,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
