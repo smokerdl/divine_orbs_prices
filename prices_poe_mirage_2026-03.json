@@ -20238,5 +20238,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-25 01:16:32",
+    "Seller": "Azure00001",
+    "Stock": "90",
+    "Price": 0.045,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-25 01:16:32",
+    "Seller": "bybligum",
+    "Stock": "200",
+    "Price": 0.045,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-25 01:16:32",
+    "Seller": "Kyku44",
+    "Stock": "180",
+    "Price": 0.045,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-25 01:16:32",
+    "Seller": "Wabrea",
+    "Stock": "780",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-25 01:16:32",
+    "Seller": "GimliFarmer",
+    "Stock": "330",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
