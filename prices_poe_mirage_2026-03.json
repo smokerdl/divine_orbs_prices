@@ -20843,5 +20843,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-25 15:33:44",
+    "Seller": "Duderino",
+    "Stock": "40",
+    "Price": 0.047,
+    "Currency": "USD",
+    "Position": 52,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-25 15:33:44",
+    "Seller": "adenastore",
+    "Stock": "300",
+    "Price": 0.047,
+    "Currency": "USD",
+    "Position": 53,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-25 15:33:44",
+    "Seller": "Tunafish1",
+    "Stock": "1000",
+    "Price": 0.048,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-25 15:33:44",
+    "Seller": "tratqa",
+    "Stock": "1000",
+    "Price": 0.048,
+    "Currency": "USD",
+    "Position": 55,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-25 15:33:44",
+    "Seller": "CirnoTrade",
+    "Stock": "1714",
+    "Price": 0.048,
+    "Currency": "USD",
+    "Position": 56,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
