@@ -23098,5 +23098,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-27 20:39:05",
+    "Seller": "Jukiss",
+    "Stock": "170",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-27 20:39:05",
+    "Seller": "dotaautochess",
+    "Stock": "136",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-27 20:39:05",
+    "Seller": "Wistint",
+    "Stock": "3000",
+    "Price": 0.039,
+    "Currency": "USD",
+    "Position": 44,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-27 20:39:05",
+    "Seller": "EuroDump",
+    "Stock": "1600",
+    "Price": 0.039,
+    "Currency": "USD",
+    "Position": 45,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-27 20:39:05",
+    "Seller": "DelioN227",
+    "Stock": "10385",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
