@@ -24308,5 +24308,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-28 21:19:39",
+    "Seller": "Scizor",
+    "Stock": "400",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-28 21:19:39",
+    "Seller": "RocktoNight",
+    "Stock": "1",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-28 21:19:39",
+    "Seller": "Gerasia",
+    "Stock": "770",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-28 21:19:39",
+    "Seller": "Souseiseki",
+    "Stock": "700",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-28 21:19:39",
+    "Seller": "DelioN227",
+    "Stock": "26693",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 51,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
