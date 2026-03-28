@@ -23923,5 +23923,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-28 14:15:37",
+    "Seller": "Saygetsu",
+    "Stock": "390",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-28 14:15:37",
+    "Seller": "spectormm",
+    "Stock": "800",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-28 14:15:37",
+    "Seller": "iMoorich",
+    "Stock": "1000",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-28 14:15:37",
+    "Seller": "Salva4ion",
+    "Stock": "1650",
+    "Price": 0.041,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-28 14:15:37",
+    "Seller": "DelioN227",
+    "Stock": "21936",
+    "Price": 0.041,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
