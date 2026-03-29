@@ -24638,5 +24638,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-29 04:05:14",
+    "Seller": "capital12",
+    "Stock": "600",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 44,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-29 04:05:14",
+    "Seller": "balagan17",
+    "Stock": "332",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-29 04:05:14",
+    "Seller": "Asfyxia",
+    "Stock": "179",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-29 04:05:14",
+    "Seller": "TradingZones",
+    "Stock": "230",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-29 04:05:14",
+    "Seller": "Linkzzz",
+    "Stock": "2500",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
