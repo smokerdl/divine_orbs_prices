@@ -25518,5 +25518,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-29 23:16:51",
+    "Seller": "Nilepta",
+    "Stock": "160",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-29 23:16:51",
+    "Seller": "venomtech",
+    "Stock": "200",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-29 23:16:51",
+    "Seller": "MrMichaelXl",
+    "Stock": "500",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-29 23:16:51",
+    "Seller": "Sawerers",
+    "Stock": "1",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 51,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-29 23:16:51",
+    "Seller": "T4sel",
+    "Stock": "1037",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 52,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
