@@ -27113,5 +27113,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-31 18:54:24",
+    "Seller": "Kolyar",
+    "Stock": "170",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-31 18:54:24",
+    "Seller": "Bkycu",
+    "Stock": "500",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-31 18:54:24",
+    "Seller": "BYBLGAME",
+    "Stock": "20",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-31 18:54:24",
+    "Seller": "medroz",
+    "Stock": "250",
+    "Price": 0.036,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-31 18:54:24",
+    "Seller": "Scizor",
+    "Stock": "500",
+    "Price": 0.036,
+    "Currency": "USD",
+    "Position": 51,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
