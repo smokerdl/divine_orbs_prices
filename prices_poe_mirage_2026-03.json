@@ -27058,5 +27058,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-31 17:19:16",
+    "Seller": "komar8899",
+    "Stock": "1",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-31 17:19:16",
+    "Seller": "Gravitator",
+    "Stock": "30",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-31 17:19:16",
+    "Seller": "DrunkMFII",
+    "Stock": "242",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-31 17:19:16",
+    "Seller": "DelioN227",
+    "Stock": "13515",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-03-31 17:19:16",
+    "Seller": "GGconsortium",
+    "Stock": "330",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 51,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
