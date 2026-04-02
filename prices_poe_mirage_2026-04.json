@@ -1923,5 +1923,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-03 02:19:38",
+    "Seller": "GimliFarmer",
+    "Stock": "320",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-03 02:19:38",
+    "Seller": "Nemesis787",
+    "Stock": "150",
+    "Price": 0.037,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-03 02:19:38",
+    "Seller": "vctcompany",
+    "Stock": "1200",
+    "Price": 0.037,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-03 02:19:38",
+    "Seller": "EverseM",
+    "Stock": "225",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 56,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-03 02:19:38",
+    "Seller": "happens",
+    "Stock": "1000",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
