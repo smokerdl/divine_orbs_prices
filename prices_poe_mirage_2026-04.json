@@ -1263,5 +1263,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-02 13:38:40",
+    "Seller": "komar8899",
+    "Stock": "1",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-02 13:38:40",
+    "Seller": "DreamUnderTheNight",
+    "Stock": "18535",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-02 13:38:40",
+    "Seller": "qwertyfor",
+    "Stock": "15278",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-02 13:38:40",
+    "Seller": "Hweezi",
+    "Stock": "11934",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-02 13:38:40",
+    "Seller": "Zilberdouch",
+    "Stock": "246",
+    "Price": 0.036,
+    "Currency": "USD",
+    "Position": 51,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
