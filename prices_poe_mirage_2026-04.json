@@ -3243,5 +3243,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-04 09:42:22",
+    "Seller": "Pitsa",
+    "Stock": "300",
+    "Price": 0.036,
+    "Currency": "USD",
+    "Position": 44,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-04 09:42:22",
+    "Seller": "KinGGlox",
+    "Stock": "1000",
+    "Price": 0.036,
+    "Currency": "USD",
+    "Position": 45,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-04 09:42:22",
+    "Seller": "iMiracle",
+    "Stock": "20",
+    "Price": 0.037,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-04 09:42:22",
+    "Seller": "Saygetsu",
+    "Stock": "432",
+    "Price": 0.039,
+    "Currency": "USD",
+    "Position": 51,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-04 09:42:22",
+    "Seller": "Trsaval",
+    "Stock": "340",
+    "Price": 0.039,
+    "Currency": "USD",
+    "Position": 52,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
