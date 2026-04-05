@@ -4673,5 +4673,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-05 15:25:07",
+    "Seller": "Brexit",
+    "Stock": "315",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-05 15:25:07",
+    "Seller": "KUPIFUN",
+    "Stock": "132",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-05 15:25:07",
+    "Seller": "Nekrosss",
+    "Stock": "320",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-05 15:25:07",
+    "Seller": "Isgood72",
+    "Stock": "1100",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 44,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-05 15:25:07",
+    "Seller": "Serafielsept",
+    "Stock": "350",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 45,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
