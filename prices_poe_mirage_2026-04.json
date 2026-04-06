@@ -5883,5 +5883,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-06 19:31:32",
+    "Seller": "Arhangel1881",
+    "Stock": "500",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-06 19:31:32",
+    "Seller": "wowmmm",
+    "Stock": "900",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 44,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-06 19:31:32",
+    "Seller": "Wistint",
+    "Stock": "2500",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 45,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-06 19:31:32",
+    "Seller": "cheapExaltos",
+    "Stock": "500",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-06 19:31:32",
+    "Seller": "SkEnot",
+    "Stock": "851",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
