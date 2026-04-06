@@ -5718,5 +5718,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-06 15:39:12",
+    "Seller": "cheapExaltos",
+    "Stock": "500",
+    "Price": 0.027,
+    "Currency": "USD",
+    "Position": 37,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-06 15:39:12",
+    "Seller": "Jukiss",
+    "Stock": "350",
+    "Price": 0.027,
+    "Currency": "USD",
+    "Position": 38,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-06 15:39:12",
+    "Seller": "Aristadel",
+    "Stock": "500",
+    "Price": 0.027,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-06 15:39:12",
+    "Seller": "TentProector",
+    "Stock": "500",
+    "Price": 0.027,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-06 15:39:12",
+    "Seller": "nightout",
+    "Stock": "3000",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
