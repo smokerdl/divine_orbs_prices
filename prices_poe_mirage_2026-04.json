@@ -6983,5 +6983,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-07 22:45:52",
+    "Seller": "Wistint",
+    "Stock": "3000",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-07 22:45:52",
+    "Seller": "gaiver46",
+    "Stock": "300",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-07 22:45:52",
+    "Seller": "Garbagediablo",
+    "Stock": "1300",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-07 22:45:52",
+    "Seller": "Kontroler21",
+    "Stock": "118",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-07 22:45:52",
+    "Seller": "kokonekirino",
+    "Stock": "4500",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
