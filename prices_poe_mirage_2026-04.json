@@ -8248,5 +8248,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-09 09:12:00",
+    "Seller": "DrunkMFII",
+    "Stock": "514",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-09 09:12:00",
+    "Seller": "SunHeat",
+    "Stock": "1310",
+    "Price": 0.027,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-09 09:12:00",
+    "Seller": "SnowCrow",
+    "Stock": "2600",
+    "Price": 0.027,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-09 09:12:00",
+    "Seller": "Maraak",
+    "Stock": "500",
+    "Price": 0.027,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-09 09:12:00",
+    "Seller": "lameerpit",
+    "Stock": "1133",
+    "Price": 0.027,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
