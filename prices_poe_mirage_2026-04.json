@@ -9018,5 +9018,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-10 04:05:37",
+    "Seller": "Zilberdouch",
+    "Stock": "440",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-10 04:05:37",
+    "Seller": "Groovis",
+    "Stock": "1100",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-10 04:05:37",
+    "Seller": "Qeqseek",
+    "Stock": "79",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-10 04:05:37",
+    "Seller": "ShikiCCG",
+    "Stock": "200",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-10 04:05:37",
+    "Seller": "Aatroxe",
+    "Stock": "550",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 44,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
