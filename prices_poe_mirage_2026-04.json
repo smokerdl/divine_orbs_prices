@@ -12483,5 +12483,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-13 15:50:48",
+    "Seller": "terpila322",
+    "Stock": "2900",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 31,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-13 15:50:48",
+    "Seller": "Brexit",
+    "Stock": "550",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 32,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-13 15:50:48",
+    "Seller": "Saendin",
+    "Stock": "110",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 33,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-13 15:50:48",
+    "Seller": "Linkzzz",
+    "Stock": "2400",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 34,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-13 15:50:48",
+    "Seller": "Wagamana",
+    "Stock": "760",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 35,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
