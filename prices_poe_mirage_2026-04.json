@@ -12978,5 +12978,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-14 04:10:57",
+    "Seller": "Arhangel1881",
+    "Stock": "600",
+    "Price": 0.0178,
+    "Currency": "USD",
+    "Position": 37,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-14 04:10:57",
+    "Seller": "Sola24",
+    "Stock": "73",
+    "Price": 0.0179,
+    "Currency": "USD",
+    "Position": 38,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-14 04:10:57",
+    "Seller": "cockroachsell",
+    "Stock": "1700",
+    "Price": 0.0179,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-14 04:10:57",
+    "Seller": "vctcompany",
+    "Stock": "3000",
+    "Price": 0.0183,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-14 04:10:57",
+    "Seller": "Tunafish1",
+    "Stock": "900",
+    "Price": 0.0183,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
