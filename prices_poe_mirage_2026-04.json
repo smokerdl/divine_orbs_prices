@@ -14078,5 +14078,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-15 14:42:34",
+    "Seller": "SunHeat",
+    "Stock": "5200",
+    "Price": 0.0179,
+    "Currency": "USD",
+    "Position": 23,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-15 14:42:34",
+    "Seller": "ArmagedDoNMeG",
+    "Stock": "300",
+    "Price": 0.0181,
+    "Currency": "USD",
+    "Position": 29,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-15 14:42:34",
+    "Seller": "DreamUnderTheNight",
+    "Stock": "12367",
+    "Price": 0.0181,
+    "Currency": "USD",
+    "Position": 30,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-15 14:42:34",
+    "Seller": "qwertyfor",
+    "Stock": "9942",
+    "Price": 0.0183,
+    "Currency": "USD",
+    "Position": 31,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-15 14:42:34",
+    "Seller": "First1113",
+    "Stock": "1590",
+    "Price": 0.0184,
+    "Currency": "USD",
+    "Position": 32,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
