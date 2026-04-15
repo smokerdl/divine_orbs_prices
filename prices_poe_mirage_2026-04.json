@@ -14408,5 +14408,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-15 22:04:12",
+    "Seller": "Scizor",
+    "Stock": "500",
+    "Price": 0.0192,
+    "Currency": "USD",
+    "Position": 32,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-15 22:04:12",
+    "Seller": "qwertyfor",
+    "Stock": "6880",
+    "Price": 0.0194,
+    "Currency": "USD",
+    "Position": 34,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-15 22:04:12",
+    "Seller": "DreamUnderTheNight",
+    "Stock": "8320",
+    "Price": 0.0194,
+    "Currency": "USD",
+    "Position": 35,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-15 22:04:12",
+    "Seller": "ExpFreez",
+    "Stock": "5500",
+    "Price": 0.0196,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-15 22:04:12",
+    "Seller": "belgiryon",
+    "Stock": "707",
+    "Price": 0.0196,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
