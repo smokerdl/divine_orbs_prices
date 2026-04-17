@@ -15838,5 +15838,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-17 15:45:20",
+    "Seller": "solitte",
+    "Stock": "400",
+    "Price": 0.0179,
+    "Currency": "USD",
+    "Position": 26,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-17 15:45:20",
+    "Seller": "First1113",
+    "Stock": "1720",
+    "Price": 0.0185,
+    "Currency": "USD",
+    "Position": 27,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-17 15:45:20",
+    "Seller": "Arteqisa",
+    "Stock": "3212",
+    "Price": 0.0185,
+    "Currency": "USD",
+    "Position": 28,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-17 15:45:20",
+    "Seller": "Saendin",
+    "Stock": "140",
+    "Price": 0.019,
+    "Currency": "USD",
+    "Position": 30,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-17 15:45:20",
+    "Seller": "Fulepls",
+    "Stock": "3",
+    "Price": 0.0192,
+    "Currency": "USD",
+    "Position": 31,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
