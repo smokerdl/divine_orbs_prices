@@ -16113,5 +16113,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-17 21:37:07",
+    "Seller": "AndreyGolovnev77",
+    "Stock": "1000",
+    "Price": 0.0179,
+    "Currency": "USD",
+    "Position": 29,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-17 21:37:07",
+    "Seller": "First1113",
+    "Stock": "1820",
+    "Price": 0.018,
+    "Currency": "USD",
+    "Position": 30,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-17 21:37:07",
+    "Seller": "Brexit",
+    "Stock": "308",
+    "Price": 0.0186,
+    "Currency": "USD",
+    "Position": 31,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-17 21:37:07",
+    "Seller": "GazhaGG",
+    "Stock": "2800",
+    "Price": 0.0187,
+    "Currency": "USD",
+    "Position": 33,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-17 21:37:07",
+    "Seller": "BagdanPrime",
+    "Stock": "3525",
+    "Price": 0.0189,
+    "Currency": "USD",
+    "Position": 34,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
