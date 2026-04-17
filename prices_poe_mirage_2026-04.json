@@ -15948,5 +15948,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-17 18:44:15",
+    "Seller": "farmilka",
+    "Stock": "3000",
+    "Price": 0.0159,
+    "Currency": "USD",
+    "Position": 29,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-17 18:44:15",
+    "Seller": "Fulepls",
+    "Stock": "3",
+    "Price": 0.0163,
+    "Currency": "USD",
+    "Position": 31,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-17 18:44:15",
+    "Seller": "kabal777",
+    "Stock": "1500",
+    "Price": 0.0163,
+    "Currency": "USD",
+    "Position": 32,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-17 18:44:15",
+    "Seller": "Artifs",
+    "Stock": "9000",
+    "Price": 0.0163,
+    "Currency": "USD",
+    "Position": 33,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-17 18:44:15",
+    "Seller": "Fisaty",
+    "Stock": "4850",
+    "Price": 0.0163,
+    "Currency": "USD",
+    "Position": 34,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
