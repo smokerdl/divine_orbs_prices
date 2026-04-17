@@ -16223,5 +16223,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-17 23:30:52",
+    "Seller": "BagdanPrime",
+    "Stock": "740",
+    "Price": 0.0189,
+    "Currency": "USD",
+    "Position": 25,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-17 23:30:52",
+    "Seller": "OTPO1",
+    "Stock": "1355",
+    "Price": 0.019,
+    "Currency": "USD",
+    "Position": 26,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-17 23:30:52",
+    "Seller": "DreamUnderTheNight",
+    "Stock": "5256",
+    "Price": 0.0191,
+    "Currency": "USD",
+    "Position": 27,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-17 23:30:52",
+    "Seller": "qwertyfor",
+    "Stock": "4262",
+    "Price": 0.0193,
+    "Currency": "USD",
+    "Position": 29,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-17 23:30:52",
+    "Seller": "Hweezi",
+    "Stock": "3502",
+    "Price": 0.0193,
+    "Currency": "USD",
+    "Position": 30,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
