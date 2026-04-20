@@ -18643,5 +18643,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-20 07:45:43",
+    "Seller": "PrimeVerse",
+    "Stock": "1340",
+    "Price": 0.0188,
+    "Currency": "USD",
+    "Position": 29,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-20 07:45:43",
+    "Seller": "Dazzzle",
+    "Stock": "1600",
+    "Price": 0.0188,
+    "Currency": "USD",
+    "Position": 30,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-20 07:45:43",
+    "Seller": "IAmSoTasty",
+    "Stock": "6545",
+    "Price": 0.0192,
+    "Currency": "USD",
+    "Position": 31,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-20 07:45:43",
+    "Seller": "yomex0",
+    "Stock": "100",
+    "Price": 0.0193,
+    "Currency": "USD",
+    "Position": 32,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-20 07:45:43",
+    "Seller": "Alexeyoptimist1982",
+    "Stock": "1000",
+    "Price": 0.0194,
+    "Currency": "USD",
+    "Position": 35,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
