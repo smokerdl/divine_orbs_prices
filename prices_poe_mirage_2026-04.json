@@ -18918,5 +18918,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-20 17:28:53",
+    "Seller": "Divanodich",
+    "Stock": "1000",
+    "Price": 0.0181,
+    "Currency": "USD",
+    "Position": 32,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-20 17:28:53",
+    "Seller": "kryazhevskikh96",
+    "Stock": "1000",
+    "Price": 0.0181,
+    "Currency": "USD",
+    "Position": 33,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-20 17:28:53",
+    "Seller": "cockroachsell",
+    "Stock": "2000",
+    "Price": 0.0182,
+    "Currency": "USD",
+    "Position": 34,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-20 17:28:53",
+    "Seller": "Mik1616",
+    "Stock": "5000",
+    "Price": 0.0187,
+    "Currency": "USD",
+    "Position": 36,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-20 17:28:53",
+    "Seller": "KinGGlox",
+    "Stock": "4000",
+    "Price": 0.0194,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
