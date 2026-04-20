@@ -18588,5 +18588,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-20 04:12:29",
+    "Seller": "Gveardi",
+    "Stock": "1200",
+    "Price": 0.0173,
+    "Currency": "USD",
+    "Position": 22,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-20 04:12:29",
+    "Seller": "Zerbert",
+    "Stock": "1100",
+    "Price": 0.0178,
+    "Currency": "USD",
+    "Position": 26,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-20 04:12:29",
+    "Seller": "picx12",
+    "Stock": "200",
+    "Price": 0.0178,
+    "Currency": "USD",
+    "Position": 27,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-20 04:12:29",
+    "Seller": "KinGGlox",
+    "Stock": "4000",
+    "Price": 0.0181,
+    "Currency": "USD",
+    "Position": 30,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-20 04:12:29",
+    "Seller": "Alexeyoptimist1982",
+    "Stock": "1000",
+    "Price": 0.0194,
+    "Currency": "USD",
+    "Position": 35,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
