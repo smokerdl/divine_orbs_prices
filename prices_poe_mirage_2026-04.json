@@ -19743,5 +19743,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-21 15:50:34",
+    "Seller": "Kittakandeli",
+    "Stock": "500",
+    "Price": 0.0177,
+    "Currency": "USD",
+    "Position": 30,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-21 15:50:34",
+    "Seller": "Scizor",
+    "Stock": "500",
+    "Price": 0.0178,
+    "Currency": "USD",
+    "Position": 31,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-21 15:50:34",
+    "Seller": "SunHeat",
+    "Stock": "9750",
+    "Price": 0.0178,
+    "Currency": "USD",
+    "Position": 33,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-21 15:50:34",
+    "Seller": "KinGGlox",
+    "Stock": "4000",
+    "Price": 0.018,
+    "Currency": "USD",
+    "Position": 34,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-21 15:50:34",
+    "Seller": "Brexit",
+    "Stock": "396",
+    "Price": 0.018,
+    "Currency": "USD",
+    "Position": 35,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
