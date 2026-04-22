@@ -20513,5 +20513,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-22 13:06:56",
+    "Seller": "Falonar",
+    "Stock": "167",
+    "Price": 0.0165,
+    "Currency": "USD",
+    "Position": 25,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-22 13:06:56",
+    "Seller": "VieraNight42",
+    "Stock": "1000",
+    "Price": 0.0165,
+    "Currency": "USD",
+    "Position": 26,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-22 13:06:56",
+    "Seller": "First1113",
+    "Stock": "1490",
+    "Price": 0.0167,
+    "Currency": "USD",
+    "Position": 28,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-22 13:06:56",
+    "Seller": "Heathens22",
+    "Stock": "1200",
+    "Price": 0.0168,
+    "Currency": "USD",
+    "Position": 29,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-22 13:06:56",
+    "Seller": "NInesouls",
+    "Stock": "300",
+    "Price": 0.017,
+    "Currency": "USD",
+    "Position": 30,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
