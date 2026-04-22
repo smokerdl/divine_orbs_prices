@@ -20733,5 +20733,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-22 18:57:35",
+    "Seller": "DuckAnihilator",
+    "Stock": "918",
+    "Price": 0.0163,
+    "Currency": "USD",
+    "Position": 21,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-22 18:57:35",
+    "Seller": "pewpewdollars",
+    "Stock": "282",
+    "Price": 0.0163,
+    "Currency": "USD",
+    "Position": 22,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-22 18:57:35",
+    "Seller": "StrokerKIT",
+    "Stock": "700",
+    "Price": 0.0163,
+    "Currency": "USD",
+    "Position": 23,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-22 18:57:35",
+    "Seller": "Brexit",
+    "Stock": "502",
+    "Price": 0.0164,
+    "Currency": "USD",
+    "Position": 28,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-22 18:57:35",
+    "Seller": "TrAleksGame",
+    "Stock": "450",
+    "Price": 0.0168,
+    "Currency": "USD",
+    "Position": 29,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
