@@ -21668,5 +21668,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-23 22:57:43",
+    "Seller": "Dovanok",
+    "Stock": "17",
+    "Price": 0.0163,
+    "Currency": "USD",
+    "Position": 27,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-23 22:57:43",
+    "Seller": "kryazhevskikh96",
+    "Stock": "1000",
+    "Price": 0.0163,
+    "Currency": "USD",
+    "Position": 29,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-23 22:57:43",
+    "Seller": "Listi",
+    "Stock": "550",
+    "Price": 0.0164,
+    "Currency": "USD",
+    "Position": 30,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-23 22:57:43",
+    "Seller": "Skors",
+    "Stock": "10000",
+    "Price": 0.0165,
+    "Currency": "USD",
+    "Position": 31,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-23 22:57:43",
+    "Seller": "HyugaEd",
+    "Stock": "3400",
+    "Price": 0.0165,
+    "Currency": "USD",
+    "Position": 32,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
