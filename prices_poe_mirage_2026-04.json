@@ -21173,5 +21173,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-23 07:39:04",
+    "Seller": "SebastianValmont",
+    "Stock": "1135",
+    "Price": 0.0174,
+    "Currency": "USD",
+    "Position": 24,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-23 07:39:04",
+    "Seller": "Wistint",
+    "Stock": "1158",
+    "Price": 0.0176,
+    "Currency": "USD",
+    "Position": 25,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-23 07:39:04",
+    "Seller": "DrunkMFII",
+    "Stock": "472",
+    "Price": 0.0178,
+    "Currency": "USD",
+    "Position": 27,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-23 07:39:04",
+    "Seller": "happens",
+    "Stock": "5100",
+    "Price": 0.0179,
+    "Currency": "USD",
+    "Position": 28,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-23 07:39:04",
+    "Seller": "KinGGlox",
+    "Stock": "1206",
+    "Price": 0.0179,
+    "Currency": "USD",
+    "Position": 29,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
