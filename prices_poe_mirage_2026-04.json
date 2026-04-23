@@ -21613,5 +21613,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-23 21:47:31",
+    "Seller": "farmilka",
+    "Stock": "4900",
+    "Price": 0.0159,
+    "Currency": "USD",
+    "Position": 19,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-23 21:47:31",
+    "Seller": "Saendin",
+    "Stock": "265",
+    "Price": 0.016,
+    "Currency": "USD",
+    "Position": 21,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-23 21:47:31",
+    "Seller": "Listi",
+    "Stock": "500",
+    "Price": 0.0161,
+    "Currency": "USD",
+    "Position": 22,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-23 21:47:31",
+    "Seller": "AID1",
+    "Stock": "1500",
+    "Price": 0.0161,
+    "Currency": "USD",
+    "Position": 26,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-23 21:47:31",
+    "Seller": "Scizor",
+    "Stock": "500",
+    "Price": 0.0163,
+    "Currency": "USD",
+    "Position": 27,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
