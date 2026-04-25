@@ -22823,5 +22823,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-25 04:06:45",
+    "Seller": "Raur",
+    "Stock": "440",
+    "Price": 0.0174,
+    "Currency": "USD",
+    "Position": 31,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-25 04:06:45",
+    "Seller": "joier",
+    "Stock": "6800",
+    "Price": 0.0174,
+    "Currency": "USD",
+    "Position": 32,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-25 04:06:45",
+    "Seller": "GazhaGG",
+    "Stock": "1700",
+    "Price": 0.0176,
+    "Currency": "USD",
+    "Position": 34,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-25 04:06:45",
+    "Seller": "Souseiseki",
+    "Stock": "600",
+    "Price": 0.0179,
+    "Currency": "USD",
+    "Position": 36,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-25 04:06:45",
+    "Seller": "Neroko",
+    "Stock": "3000",
+    "Price": 0.0181,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
