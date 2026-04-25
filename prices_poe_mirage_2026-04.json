@@ -23318,5 +23318,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-25 17:35:02",
+    "Seller": "First1113",
+    "Stock": "1770",
+    "Price": 0.0137,
+    "Currency": "USD",
+    "Position": 23,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-25 17:35:02",
+    "Seller": "qwertyfor",
+    "Stock": "4867",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 26,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-25 17:35:02",
+    "Seller": "Sonic70",
+    "Stock": "20",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 33,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-25 17:35:02",
+    "Seller": "Wistint",
+    "Stock": "1500",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 34,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-25 17:35:02",
+    "Seller": "Hweezi",
+    "Stock": "3896",
+    "Price": 0.0141,
+    "Currency": "USD",
+    "Position": 36,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
