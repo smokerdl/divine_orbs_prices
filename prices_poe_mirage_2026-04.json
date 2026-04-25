@@ -23373,5 +23373,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-25 18:27:50",
+    "Seller": "ProdavecAccov",
+    "Stock": "1500",
+    "Price": 0.0156,
+    "Currency": "USD",
+    "Position": 22,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-25 18:27:50",
+    "Seller": "Wistint",
+    "Stock": "1500",
+    "Price": 0.0159,
+    "Currency": "USD",
+    "Position": 23,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-25 18:27:50",
+    "Seller": "Scizor",
+    "Stock": "500",
+    "Price": 0.0161,
+    "Currency": "USD",
+    "Position": 24,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-25 18:27:50",
+    "Seller": "First1113",
+    "Stock": "2020",
+    "Price": 0.0161,
+    "Currency": "USD",
+    "Position": 26,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-25 18:27:50",
+    "Seller": "Listi",
+    "Stock": "600",
+    "Price": 0.0162,
+    "Currency": "USD",
+    "Position": 28,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
