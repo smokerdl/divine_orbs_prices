@@ -24253,5 +24253,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-26 15:32:16",
+    "Seller": "Gridering",
+    "Stock": "216",
+    "Price": 0.0148,
+    "Currency": "USD",
+    "Position": 23,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-26 15:32:16",
+    "Seller": "railgun2",
+    "Stock": "1700",
+    "Price": 0.0158,
+    "Currency": "USD",
+    "Position": 26,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-26 15:32:16",
+    "Seller": "rubyaww",
+    "Stock": "1000",
+    "Price": 0.0159,
+    "Currency": "USD",
+    "Position": 27,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-26 15:32:16",
+    "Seller": "ShadoUwU",
+    "Stock": "4000",
+    "Price": 0.0159,
+    "Currency": "USD",
+    "Position": 28,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-26 15:32:16",
+    "Seller": "Brexit",
+    "Stock": "404",
+    "Price": 0.0161,
+    "Currency": "USD",
+    "Position": 31,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
