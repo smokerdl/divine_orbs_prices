@@ -25628,5 +25628,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-28 10:56:18",
+    "Seller": "Nemesis787",
+    "Stock": "220",
+    "Price": 0.0155,
+    "Currency": "USD",
+    "Position": 23,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-28 10:56:18",
+    "Seller": "Samers321",
+    "Stock": "5700",
+    "Price": 0.0156,
+    "Currency": "USD",
+    "Position": 27,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-28 10:56:18",
+    "Seller": "StrokerKIT",
+    "Stock": "700",
+    "Price": 0.0158,
+    "Currency": "USD",
+    "Position": 28,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-28 10:56:18",
+    "Seller": "Scizor",
+    "Stock": "800",
+    "Price": 0.0159,
+    "Currency": "USD",
+    "Position": 29,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-28 10:56:18",
+    "Seller": "traderfaster",
+    "Stock": "1900",
+    "Price": 0.0159,
+    "Currency": "USD",
+    "Position": 30,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
