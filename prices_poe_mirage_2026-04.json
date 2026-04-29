@@ -26508,5 +26508,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-29 18:48:09",
+    "Seller": "bestbrood",
+    "Stock": "2000",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 13,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-29 18:48:09",
+    "Seller": "cockroachsell",
+    "Stock": "3174",
+    "Price": 0.0142,
+    "Currency": "USD",
+    "Position": 16,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-29 18:48:09",
+    "Seller": "Brexit",
+    "Stock": "418",
+    "Price": 0.0143,
+    "Currency": "USD",
+    "Position": 17,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-29 18:48:09",
+    "Seller": "Nemesis787",
+    "Stock": "220",
+    "Price": 0.0143,
+    "Currency": "USD",
+    "Position": 18,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-29 18:48:09",
+    "Seller": "StrokerKIT",
+    "Stock": "700",
+    "Price": 0.0146,
+    "Currency": "USD",
+    "Position": 20,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
