@@ -27003,5 +27003,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-30 10:54:29",
+    "Seller": "wintime",
+    "Stock": "1000",
+    "Price": 0.0143,
+    "Currency": "USD",
+    "Position": 19,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-30 10:54:29",
+    "Seller": "pain1212",
+    "Stock": "12",
+    "Price": 0.0147,
+    "Currency": "USD",
+    "Position": 23,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-30 10:54:29",
+    "Seller": "DreamUnderTheNight",
+    "Stock": "2607",
+    "Price": 0.0148,
+    "Currency": "USD",
+    "Position": 26,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-30 10:54:29",
+    "Seller": "OfUndecember",
+    "Stock": "960",
+    "Price": 0.0148,
+    "Currency": "USD",
+    "Position": 30,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-04-30 10:54:29",
+    "Seller": "Pantheon96",
+    "Stock": "1000",
+    "Price": 0.0148,
+    "Currency": "USD",
+    "Position": 31,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
