@@ -53,5 +53,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-01 08:29:07",
+    "Seller": "APAKALIPTIKA",
+    "Stock": "118",
+    "Price": 0.013,
+    "Currency": "USD",
+    "Position": 26,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-01 08:29:07",
+    "Seller": "TrAleksGame",
+    "Stock": "600",
+    "Price": 0.013,
+    "Currency": "USD",
+    "Position": 27,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-01 08:29:07",
+    "Seller": "Lskkk",
+    "Stock": "3383",
+    "Price": 0.0131,
+    "Currency": "USD",
+    "Position": 28,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-01 08:29:07",
+    "Seller": "Redpill",
+    "Stock": "6690",
+    "Price": 0.0131,
+    "Currency": "USD",
+    "Position": 29,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-01 08:29:07",
+    "Seller": "nostrah",
+    "Stock": "330",
+    "Price": 0.0132,
+    "Currency": "USD",
+    "Position": 30,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
