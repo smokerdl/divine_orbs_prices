@@ -1703,5 +1703,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-03 01:24:59",
+    "Seller": "SelfFarmed",
+    "Stock": "40",
+    "Price": 0.0135,
+    "Currency": "USD",
+    "Position": 10,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-03 01:24:59",
+    "Seller": "Heathens22",
+    "Stock": "970",
+    "Price": 0.0138,
+    "Currency": "USD",
+    "Position": 14,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-03 01:24:59",
+    "Seller": "VELHAN",
+    "Stock": "1802",
+    "Price": 0.0138,
+    "Currency": "USD",
+    "Position": 16,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-03 01:24:59",
+    "Seller": "RoflanLeague",
+    "Stock": "1600",
+    "Price": 0.0138,
+    "Currency": "USD",
+    "Position": 17,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-03 01:24:59",
+    "Seller": "Danila313",
+    "Stock": "1000",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 18,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
