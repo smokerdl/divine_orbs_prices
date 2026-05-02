@@ -933,5 +933,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-02 09:53:07",
+    "Seller": "Redpill",
+    "Stock": "607",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 13,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-02 09:53:07",
+    "Seller": "ShadoUwU",
+    "Stock": "2000",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 14,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-02 09:53:07",
+    "Seller": "QBI232",
+    "Stock": "1305",
+    "Price": 0.0142,
+    "Currency": "USD",
+    "Position": 15,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-02 09:53:07",
+    "Seller": "VIKTOP00777",
+    "Stock": "639",
+    "Price": 0.0145,
+    "Currency": "USD",
+    "Position": 18,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-02 09:53:07",
+    "Seller": "Heqpp",
+    "Stock": "1643",
+    "Price": 0.0145,
+    "Currency": "USD",
+    "Position": 19,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
