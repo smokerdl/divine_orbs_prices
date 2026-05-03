@@ -2638,5 +2638,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-04 01:25:51",
+    "Seller": "farmilka",
+    "Stock": "600",
+    "Price": 0.0112,
+    "Currency": "USD",
+    "Position": 13,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-04 01:25:51",
+    "Seller": "VELHAN",
+    "Stock": "525",
+    "Price": 0.0114,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-04 01:25:51",
+    "Seller": "VELHAN",
+    "Stock": "525",
+    "Price": 0.0114,
+    "Currency": "USD",
+    "Position": 14,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-04 01:25:51",
+    "Seller": "mihalich216",
+    "Stock": "300",
+    "Price": 0.0115,
+    "Currency": "USD",
+    "Position": 16,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-04 01:25:51",
+    "Seller": "GrindStyle",
+    "Stock": "400",
+    "Price": 0.0115,
+    "Currency": "USD",
+    "Position": 17,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
