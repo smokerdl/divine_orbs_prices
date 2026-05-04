@@ -3298,5 +3298,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-05 01:42:39",
+    "Seller": "DirtyChets",
+    "Stock": "1350",
+    "Price": 0.0126,
+    "Currency": "USD",
+    "Position": 4,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-05 01:42:39",
+    "Seller": "TKRAIZER",
+    "Stock": "753",
+    "Price": 0.0127,
+    "Currency": "USD",
+    "Position": 6,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-05 01:42:39",
+    "Seller": "Redpill",
+    "Stock": "1149",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 7,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-05 01:42:39",
+    "Seller": "ShadoUwU",
+    "Stock": "755",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 9,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-05 01:42:39",
+    "Seller": "chuvakka",
+    "Stock": "1017",
+    "Price": 0.0133,
+    "Currency": "USD",
+    "Position": 16,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
