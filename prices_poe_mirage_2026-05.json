@@ -2913,5 +2913,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-04 13:50:48",
+    "Seller": "Sinzari",
+    "Stock": "1300",
+    "Price": 0.0129,
+    "Currency": "USD",
+    "Position": 6,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-04 13:50:48",
+    "Seller": "Anniq",
+    "Stock": "5104",
+    "Price": 0.0129,
+    "Currency": "USD",
+    "Position": 7,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-04 13:50:48",
+    "Seller": "Iwakxra",
+    "Stock": "500",
+    "Price": 0.0131,
+    "Currency": "USD",
+    "Position": 10,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-04 13:50:48",
+    "Seller": "VELHAN",
+    "Stock": "611",
+    "Price": 0.0131,
+    "Currency": "USD",
+    "Position": 11,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-04 13:50:48",
+    "Seller": "maxim12332",
+    "Stock": "184",
+    "Price": 0.0134,
+    "Currency": "USD",
+    "Position": 14,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
