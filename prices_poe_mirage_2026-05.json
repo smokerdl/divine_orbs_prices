@@ -3188,5 +3188,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-04 23:53:25",
+    "Seller": "Redpill",
+    "Stock": "1149",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 6,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-04 23:53:25",
+    "Seller": "chuvakka",
+    "Stock": "943",
+    "Price": 0.0131,
+    "Currency": "USD",
+    "Position": 8,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-04 23:53:25",
+    "Seller": "VELHAN",
+    "Stock": "1633",
+    "Price": 0.0132,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-04 23:53:25",
+    "Seller": "VELHAN",
+    "Stock": "1633",
+    "Price": 0.0132,
+    "Currency": "USD",
+    "Position": 15,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-04 23:53:25",
+    "Seller": "StrokerKIT",
+    "Stock": "800",
+    "Price": 0.0136,
+    "Currency": "USD",
+    "Position": 17,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
