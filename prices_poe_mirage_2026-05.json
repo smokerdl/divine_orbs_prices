@@ -3958,5 +3958,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-06 01:40:32",
+    "Seller": "GrindStyle",
+    "Stock": "345",
+    "Price": 0.0135,
+    "Currency": "USD",
+    "Position": 11,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-06 01:40:32",
+    "Seller": "Nichole",
+    "Stock": "2200",
+    "Price": 0.0136,
+    "Currency": "USD",
+    "Position": 12,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-06 01:40:32",
+    "Seller": "wintime",
+    "Stock": "1300",
+    "Price": 0.0136,
+    "Currency": "USD",
+    "Position": 13,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-06 01:40:32",
+    "Seller": "Linkzzz",
+    "Stock": "5000",
+    "Price": 0.0137,
+    "Currency": "USD",
+    "Position": 17,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-06 01:40:32",
+    "Seller": "CrownedClowns",
+    "Stock": "1300",
+    "Price": 0.0141,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
