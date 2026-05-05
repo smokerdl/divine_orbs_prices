@@ -3793,5 +3793,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-05 21:58:26",
+    "Seller": "DelioN227",
+    "Stock": "2543",
+    "Price": 0.0132,
+    "Currency": "USD",
+    "Position": 9,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-05 21:58:26",
+    "Seller": "arik1504",
+    "Stock": "300",
+    "Price": 0.0133,
+    "Currency": "USD",
+    "Position": 10,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-05 21:58:26",
+    "Seller": "Nemesis787",
+    "Stock": "220",
+    "Price": 0.0133,
+    "Currency": "USD",
+    "Position": 11,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-05 21:58:26",
+    "Seller": "widowmake",
+    "Stock": "400",
+    "Price": 0.0134,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-05 21:58:26",
+    "Seller": "widowmake",
+    "Stock": "400",
+    "Price": 0.0134,
+    "Currency": "USD",
+    "Position": 13,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
