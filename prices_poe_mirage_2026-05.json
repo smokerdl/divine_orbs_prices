@@ -3463,5 +3463,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-05 07:49:01",
+    "Seller": "xtreamx",
+    "Stock": "420",
+    "Price": 0.0107,
+    "Currency": "USD",
+    "Position": 5,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-05 07:49:01",
+    "Seller": "EgorMissClick",
+    "Stock": "490",
+    "Price": 0.0107,
+    "Currency": "USD",
+    "Position": 6,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-05 07:49:01",
+    "Seller": "TKRAIZER",
+    "Stock": "753",
+    "Price": 0.0108,
+    "Currency": "USD",
+    "Position": 8,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-05 07:49:01",
+    "Seller": "Redpill",
+    "Stock": "1149",
+    "Price": 0.0109,
+    "Currency": "USD",
+    "Position": 9,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-05 07:49:01",
+    "Seller": "B1MM3R",
+    "Stock": "275",
+    "Price": 0.0113,
+    "Currency": "USD",
+    "Position": 16,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
