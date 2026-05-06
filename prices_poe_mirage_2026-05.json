@@ -4288,5 +4288,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-06 15:20:03",
+    "Seller": "Wistint",
+    "Stock": "1000",
+    "Price": 0.0132,
+    "Currency": "USD",
+    "Position": 12,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-06 15:20:03",
+    "Seller": "TiErOpera",
+    "Stock": "2726",
+    "Price": 0.0137,
+    "Currency": "USD",
+    "Position": 14,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-06 15:20:03",
+    "Seller": "Linkzzz",
+    "Stock": "5000",
+    "Price": 0.0139,
+    "Currency": "USD",
+    "Position": 18,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-06 15:20:03",
+    "Seller": "TKRAIZER",
+    "Stock": "753",
+    "Price": 0.0139,
+    "Currency": "USD",
+    "Position": 19,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-06 15:20:03",
+    "Seller": "arik1504",
+    "Stock": "300",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 21,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
