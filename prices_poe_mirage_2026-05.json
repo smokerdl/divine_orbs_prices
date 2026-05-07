@@ -4838,5 +4838,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-07 13:55:07",
+    "Seller": "Linkzzz",
+    "Stock": "4000",
+    "Price": 0.0147,
+    "Currency": "USD",
+    "Position": 24,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-07 13:55:07",
+    "Seller": "traderfaster",
+    "Stock": "1170",
+    "Price": 0.0149,
+    "Currency": "USD",
+    "Position": 25,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-07 13:55:07",
+    "Seller": "brose",
+    "Stock": "388",
+    "Price": 0.0149,
+    "Currency": "USD",
+    "Position": 28,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-07 13:55:07",
+    "Seller": "Dareno",
+    "Stock": "185",
+    "Price": 0.0149,
+    "Currency": "USD",
+    "Position": 30,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-07 13:55:07",
+    "Seller": "TrAleksGame",
+    "Stock": "600",
+    "Price": 0.0149,
+    "Currency": "USD",
+    "Position": 31,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
