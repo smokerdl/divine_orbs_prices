@@ -5223,5 +5223,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-08 01:45:30",
+    "Seller": "Glazom",
+    "Stock": "1800",
+    "Price": 0.0157,
+    "Currency": "USD",
+    "Position": 25,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-08 01:45:30",
+    "Seller": "Lskkk",
+    "Stock": "593",
+    "Price": 0.0161,
+    "Currency": "USD",
+    "Position": 26,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-08 01:45:30",
+    "Seller": "IAmSoTasty",
+    "Stock": "2680",
+    "Price": 0.0162,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-08 01:45:30",
+    "Seller": "GREX999",
+    "Stock": "1766",
+    "Price": 0.0162,
+    "Currency": "USD",
+    "Position": 27,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-08 01:45:30",
+    "Seller": "IAmSoTasty",
+    "Stock": "2680",
+    "Price": 0.0162,
+    "Currency": "USD",
+    "Position": 28,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
