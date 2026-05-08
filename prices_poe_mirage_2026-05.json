@@ -5883,5 +5883,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-09 00:44:24",
+    "Seller": "AID1",
+    "Stock": "2500",
+    "Price": 0.0165,
+    "Currency": "USD",
+    "Position": 25,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-09 00:44:25",
+    "Seller": "ExpFreez",
+    "Stock": "7450",
+    "Price": 0.0166,
+    "Currency": "USD",
+    "Position": 30,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-09 00:44:25",
+    "Seller": "RolandDiskeyn",
+    "Stock": "500",
+    "Price": 0.0166,
+    "Currency": "USD",
+    "Position": 31,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-09 00:44:25",
+    "Seller": "SmiteFarming",
+    "Stock": "89",
+    "Price": 0.0177,
+    "Currency": "USD",
+    "Position": 33,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-09 00:44:25",
+    "Seller": "AlexKuj0",
+    "Stock": "2000",
+    "Price": 0.0178,
+    "Currency": "USD",
+    "Position": 34,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
