@@ -6598,5 +6598,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-09 20:37:54",
+    "Seller": "bestbrood",
+    "Stock": "500",
+    "Price": 0.015,
+    "Currency": "USD",
+    "Position": 21,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-09 20:37:54",
+    "Seller": "Satanah6",
+    "Stock": "13000",
+    "Price": 0.0156,
+    "Currency": "USD",
+    "Position": 22,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-09 20:37:54",
+    "Seller": "farmilka",
+    "Stock": "1700",
+    "Price": 0.0156,
+    "Currency": "USD",
+    "Position": 23,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-09 20:37:54",
+    "Seller": "GazhaGG",
+    "Stock": "300",
+    "Price": 0.0158,
+    "Currency": "USD",
+    "Position": 26,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-09 20:37:54",
+    "Seller": "Lincor111",
+    "Stock": "990",
+    "Price": 0.0158,
+    "Currency": "USD",
+    "Position": 27,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
