@@ -8743,5 +8743,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-12 19:09:03",
+    "Seller": "Arhangel1881",
+    "Stock": "800",
+    "Price": 0.0113,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-12 19:09:03",
+    "Seller": "Arhangel1881",
+    "Stock": "800",
+    "Price": 0.0113,
+    "Currency": "USD",
+    "Position": 9,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-12 19:09:03",
+    "Seller": "Adires",
+    "Stock": "136",
+    "Price": 0.0114,
+    "Currency": "USD",
+    "Position": 10,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-12 19:09:03",
+    "Seller": "Latinococ",
+    "Stock": "1700",
+    "Price": 0.0114,
+    "Currency": "USD",
+    "Position": 11,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-12 19:09:03",
+    "Seller": "nostrah",
+    "Stock": "400",
+    "Price": 0.0115,
+    "Currency": "USD",
+    "Position": 13,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
