@@ -8468,5 +8468,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-12 04:26:36",
+    "Seller": "DdayAngel",
+    "Stock": "410",
+    "Price": 0.0146,
+    "Currency": "USD",
+    "Position": 12,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-12 04:26:36",
+    "Seller": "Raur",
+    "Stock": "300",
+    "Price": 0.0149,
+    "Currency": "USD",
+    "Position": 13,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-12 04:26:36",
+    "Seller": "Glazom",
+    "Stock": "1500",
+    "Price": 0.0151,
+    "Currency": "USD",
+    "Position": 18,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-12 04:26:36",
+    "Seller": "ExpFreez",
+    "Stock": "3000",
+    "Price": 0.0151,
+    "Currency": "USD",
+    "Position": 19,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-12 04:26:36",
+    "Seller": "Nemesis787",
+    "Stock": "250",
+    "Price": 0.0151,
+    "Currency": "USD",
+    "Position": 20,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
