@@ -9073,5 +9073,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-13 08:36:07",
+    "Seller": "Raur",
+    "Stock": "370",
+    "Price": 0.0142,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-13 08:36:07",
+    "Seller": "Raur",
+    "Stock": "370",
+    "Price": 0.0142,
+    "Currency": "USD",
+    "Position": 14,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-13 08:36:07",
+    "Seller": "TrAleksGame",
+    "Stock": "1000",
+    "Price": 0.0145,
+    "Currency": "USD",
+    "Position": 16,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-13 08:36:07",
+    "Seller": "StrokerKIT",
+    "Stock": "1000",
+    "Price": 0.0146,
+    "Currency": "USD",
+    "Position": 17,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-13 08:36:07",
+    "Seller": "Moonfury",
+    "Stock": "600",
+    "Price": 0.0149,
+    "Currency": "USD",
+    "Position": 18,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
