@@ -13033,5 +13033,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-19 02:51:27",
+    "Seller": "azandr1321",
+    "Stock": "104",
+    "Price": 0.0125,
+    "Currency": "USD",
+    "Position": 10,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-19 02:51:27",
+    "Seller": "Danila313",
+    "Stock": "660",
+    "Price": 0.0126,
+    "Currency": "USD",
+    "Position": 11,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-19 02:51:27",
+    "Seller": "nostrah",
+    "Stock": "1400",
+    "Price": 0.0126,
+    "Currency": "USD",
+    "Position": 13,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-19 02:51:27",
+    "Seller": "IAmSoTasty",
+    "Stock": "2000",
+    "Price": 0.0126,
+    "Currency": "USD",
+    "Position": 14,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-19 02:51:27",
+    "Seller": "FnCGaming",
+    "Stock": "500",
+    "Price": 0.0127,
+    "Currency": "USD",
+    "Position": 15,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
