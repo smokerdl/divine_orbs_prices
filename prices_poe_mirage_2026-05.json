@@ -14518,5 +14518,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-22 02:44:38",
+    "Seller": "Nemesis787",
+    "Stock": "240",
+    "Price": 0.013,
+    "Currency": "USD",
+    "Position": 10,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-22 02:44:38",
+    "Seller": "ExilenceProvider",
+    "Stock": "950",
+    "Price": 0.0132,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-22 02:44:38",
+    "Seller": "ExilenceProvider",
+    "Stock": "950",
+    "Price": 0.0132,
+    "Currency": "USD",
+    "Position": 11,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-22 02:44:38",
+    "Seller": "TrAleksGame",
+    "Stock": "800",
+    "Price": 0.0139,
+    "Currency": "USD",
+    "Position": 17,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-22 02:44:38",
+    "Seller": "workandtravel",
+    "Stock": "1024",
+    "Price": 0.0142,
+    "Currency": "USD",
+    "Position": 19,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
