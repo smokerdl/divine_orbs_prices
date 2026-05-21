@@ -14463,5 +14463,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-22 01:06:35",
+    "Seller": "SIRvatson",
+    "Stock": "1100",
+    "Price": 0.0121,
+    "Currency": "USD",
+    "Position": 8,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-22 01:06:35",
+    "Seller": "TrAleksGame",
+    "Stock": "600",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 12,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-22 01:06:35",
+    "Seller": "Zazibulka",
+    "Stock": "650",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 13,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-22 01:06:35",
+    "Seller": "Nemesis787",
+    "Stock": "250",
+    "Price": 0.013,
+    "Currency": "USD",
+    "Position": 14,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-22 01:06:35",
+    "Seller": "workandtravel",
+    "Stock": "1024",
+    "Price": 0.0142,
+    "Currency": "USD",
+    "Position": 22,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
