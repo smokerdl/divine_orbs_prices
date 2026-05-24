@@ -16058,5 +16058,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-24 13:22:38",
+    "Seller": "Mupzik",
+    "Stock": "300",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 4,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-24 13:22:38",
+    "Seller": "Rynami",
+    "Stock": "197",
+    "Price": 0.0127,
+    "Currency": "USD",
+    "Position": 12,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-24 13:22:38",
+    "Seller": "Domnin",
+    "Stock": "500",
+    "Price": 0.0129,
+    "Currency": "USD",
+    "Position": 13,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-24 13:22:38",
+    "Seller": "arik1504",
+    "Stock": "300",
+    "Price": 0.0134,
+    "Currency": "USD",
+    "Position": 17,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-24 13:22:38",
+    "Seller": "Tapik",
+    "Stock": "260",
+    "Price": 0.0136,
+    "Currency": "USD",
+    "Position": 18,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
