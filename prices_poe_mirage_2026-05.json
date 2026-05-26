@@ -17213,5 +17213,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-26 04:47:19",
+    "Seller": "traderfaster",
+    "Stock": "1800",
+    "Price": 0.0138,
+    "Currency": "USD",
+    "Position": 23,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-26 04:47:19",
+    "Seller": "Zidans",
+    "Stock": "300",
+    "Price": 0.0138,
+    "Currency": "USD",
+    "Position": 27,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-26 04:47:19",
+    "Seller": "napeHbPy6axa",
+    "Stock": "1170",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 29,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-26 04:47:19",
+    "Seller": "Esqq",
+    "Stock": "911",
+    "Price": 0.0147,
+    "Currency": "USD",
+    "Position": 31,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-26 04:47:19",
+    "Seller": "WitedMW",
+    "Stock": "500",
+    "Price": 0.0147,
+    "Currency": "USD",
+    "Position": 32,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
