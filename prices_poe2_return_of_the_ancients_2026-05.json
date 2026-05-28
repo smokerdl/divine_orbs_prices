@@ -20,5 +20,38 @@
     "DisplayPosition": 5,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-05-28 13:42:25",
+    "Seller": "Maucuk123",
+    "Stock": "1000",
+    "Price": 105.22,
+    "Currency": "USD",
+    "Position": 1203,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-05-28 13:42:25",
+    "Seller": "Kronasss",
+    "Stock": "7",
+    "Price": 127.65,
+    "Currency": "USD",
+    "Position": 1204,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-05-28 13:42:25",
+    "Seller": "Midled",
+    "Stock": "100",
+    "Price": 127.66,
+    "Currency": "USD",
+    "Position": 1206,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
   }
 ]
