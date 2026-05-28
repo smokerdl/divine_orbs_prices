@@ -1,0 +1,24 @@
+[
+  {
+    "Timestamp": "2026-05-28 08:56:08",
+    "Seller": "Vas1447",
+    "Stock": "1",
+    "Price": 105.41,
+    "Currency": "USD",
+    "Position": 1241,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-05-28 08:56:08",
+    "Seller": "Maucuk123",
+    "Stock": "1000",
+    "Price": 105.41,
+    "Currency": "USD",
+    "Position": 1243,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  }
+]
