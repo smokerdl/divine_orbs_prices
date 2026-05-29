@@ -526,5 +526,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-05-29 22:24:17",
+    "Seller": "Knipe",
+    "Stock": "2",
+    "Price": 57.45,
+    "Currency": "USD",
+    "Position": 843,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-05-29 22:24:17",
+    "Seller": "FedyaDobro",
+    "Stock": "10",
+    "Price": 68.83,
+    "Currency": "USD",
+    "Position": 845,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-05-29 22:24:17",
+    "Seller": "Weice",
+    "Stock": "1",
+    "Price": 86.04,
+    "Currency": "USD",
+    "Position": 847,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-05-29 22:24:17",
+    "Seller": "Lskkk",
+    "Stock": "25",
+    "Price": 94.3,
+    "Currency": "USD",
+    "Position": 848,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-05-29 22:24:17",
+    "Seller": "POEtraderRMT",
+    "Stock": "3",
+    "Price": 103.25,
+    "Currency": "USD",
+    "Position": 849,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
