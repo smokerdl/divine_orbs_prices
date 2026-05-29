@@ -636,5 +636,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-05-30 02:00:00",
+    "Seller": "Sergey98",
+    "Stock": "999999999",
+    "Price": 34.34,
+    "Currency": "USD",
+    "Position": 977,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-05-30 02:00:00",
+    "Seller": "UrsusRursus",
+    "Stock": "10",
+    "Price": 56.17,
+    "Currency": "USD",
+    "Position": 984,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-05-30 02:00:00",
+    "Seller": "Knipe",
+    "Stock": "2",
+    "Price": 57.45,
+    "Currency": "USD",
+    "Position": 985,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-05-30 02:00:00",
+    "Seller": "FedyaDobro",
+    "Stock": "10",
+    "Price": 68.69,
+    "Currency": "USD",
+    "Position": 987,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-05-30 02:00:00",
+    "Seller": "Weice",
+    "Stock": "1",
+    "Price": 85.86,
+    "Currency": "USD",
+    "Position": 989,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
