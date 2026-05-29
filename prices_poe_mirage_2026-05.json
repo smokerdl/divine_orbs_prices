@@ -18588,5 +18588,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-29 15:36:28",
+    "Seller": "kapaup",
+    "Stock": "300",
+    "Price": 0.0118,
+    "Currency": "USD",
+    "Position": 7,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-29 15:36:28",
+    "Seller": "S3S2U1",
+    "Stock": "250",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 8,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-29 15:36:28",
+    "Seller": "NevermorCik",
+    "Stock": "4000",
+    "Price": 0.0125,
+    "Currency": "USD",
+    "Position": 9,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-29 15:36:28",
+    "Seller": "napeHbPy6axa",
+    "Stock": "1170",
+    "Price": 0.0126,
+    "Currency": "USD",
+    "Position": 10,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-29 15:36:28",
+    "Seller": "tarkovFunProvider137",
+    "Stock": "2500",
+    "Price": 0.0132,
+    "Currency": "USD",
+    "Position": 13,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
