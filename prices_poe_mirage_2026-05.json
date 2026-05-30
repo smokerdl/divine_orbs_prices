@@ -19578,5 +19578,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-31 02:45:44",
+    "Seller": "Linkzzz",
+    "Stock": "2100",
+    "Price": 0.0146,
+    "Currency": "USD",
+    "Position": 22,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-31 02:45:44",
+    "Seller": "ExaltBoss",
+    "Stock": "2600",
+    "Price": 0.0151,
+    "Currency": "USD",
+    "Position": 23,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-31 02:45:44",
+    "Seller": "NimisPoe",
+    "Stock": "700",
+    "Price": 0.0152,
+    "Currency": "USD",
+    "Position": 24,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-31 02:45:44",
+    "Seller": "Kleverbet",
+    "Stock": "5000",
+    "Price": 0.0152,
+    "Currency": "USD",
+    "Position": 25,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-31 02:45:44",
+    "Seller": "Lifetap",
+    "Stock": "3000",
+    "Price": 0.0152,
+    "Currency": "USD",
+    "Position": 27,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
