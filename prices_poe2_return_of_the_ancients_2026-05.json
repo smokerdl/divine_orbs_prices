@@ -746,5 +746,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-05-30 08:36:53",
+    "Seller": "Dmitriy1889",
+    "Stock": "1",
+    "Price": 3.01,
+    "Currency": "USD",
+    "Position": 908,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-05-30 08:36:53",
+    "Seller": "Draug72",
+    "Stock": "1",
+    "Price": 3.01,
+    "Currency": "USD",
+    "Position": 909,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-05-30 08:36:53",
+    "Seller": "Dazefera",
+    "Stock": "1",
+    "Price": 3.07,
+    "Currency": "USD",
+    "Position": 910,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-05-30 08:36:53",
+    "Seller": "OrcFactory",
+    "Stock": "1",
+    "Price": 3.25,
+    "Currency": "USD",
+    "Position": 916,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-05-30 08:36:53",
+    "Seller": "Lelkol",
+    "Stock": "1",
+    "Price": 3.26,
+    "Currency": "USD",
+    "Position": 917,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
