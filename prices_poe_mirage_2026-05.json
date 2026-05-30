@@ -19468,5 +19468,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-31 00:45:15",
+    "Seller": "Zidans",
+    "Stock": "40",
+    "Price": 0.0135,
+    "Currency": "USD",
+    "Position": 13,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-31 00:45:15",
+    "Seller": "traderfaster",
+    "Stock": "2500",
+    "Price": 0.0136,
+    "Currency": "USD",
+    "Position": 14,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-31 00:45:15",
+    "Seller": "ExaltBoss",
+    "Stock": "2600",
+    "Price": 0.0144,
+    "Currency": "USD",
+    "Position": 24,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-31 00:45:15",
+    "Seller": "VELHAN",
+    "Stock": "5508",
+    "Price": 0.0145,
+    "Currency": "USD",
+    "Position": 25,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-31 00:45:15",
+    "Seller": "Linkzzz",
+    "Stock": "2100",
+    "Price": 0.0146,
+    "Currency": "USD",
+    "Position": 26,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
