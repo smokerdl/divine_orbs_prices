@@ -19908,5 +19908,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-31 18:06:29",
+    "Seller": "AlexBrand",
+    "Stock": "1110",
+    "Price": 0.0127,
+    "Currency": "USD",
+    "Position": 17,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-31 18:06:29",
+    "Seller": "Pathofexalt",
+    "Stock": "2964",
+    "Price": 0.0127,
+    "Currency": "USD",
+    "Position": 18,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-31 18:06:29",
+    "Seller": "widowmake",
+    "Stock": "4800",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 19,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-31 18:06:29",
+    "Seller": "NimisPoe",
+    "Stock": "100",
+    "Price": 0.013,
+    "Currency": "USD",
+    "Position": 20,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-05-31 18:06:29",
+    "Seller": "Kleverbet",
+    "Stock": "5000",
+    "Price": 0.013,
+    "Currency": "USD",
+    "Position": 21,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
