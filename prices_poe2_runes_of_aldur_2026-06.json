@@ -1,0 +1,57 @@
+[
+  {
+    "Timestamp": "2026-06-01 17:44:54",
+    "Seller": "YaO1",
+    "Stock": "10",
+    "Price": 0.55,
+    "Currency": "USD",
+    "Position": 913,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-01 17:44:54",
+    "Seller": "stimstim",
+    "Stock": "64",
+    "Price": 0.56,
+    "Currency": "USD",
+    "Position": 916,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-01 17:44:54",
+    "Seller": "PowerPuffLuvv",
+    "Stock": "43",
+    "Price": 0.57,
+    "Currency": "USD",
+    "Position": 917,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-01 17:44:54",
+    "Seller": "Dezzzwow",
+    "Stock": "40",
+    "Price": 0.58,
+    "Currency": "USD",
+    "Position": 920,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-01 17:44:54",
+    "Seller": "kingdoomanton",
+    "Stock": "50",
+    "Price": 0.58,
+    "Currency": "USD",
+    "Position": 921,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
+  }
+]
