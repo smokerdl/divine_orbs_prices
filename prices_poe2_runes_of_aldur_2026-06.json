@@ -383,5 +383,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-02 20:56:03",
+    "Seller": "Shorkygg",
+    "Stock": "14",
+    "Price": 0.32,
+    "Currency": "USD",
+    "Position": 942,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-02 20:56:03",
+    "Seller": "Boon02",
+    "Stock": "83",
+    "Price": 0.32,
+    "Currency": "USD",
+    "Position": 943,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-02 20:56:03",
+    "Seller": "GoldyMorphin",
+    "Stock": "100",
+    "Price": 0.32,
+    "Currency": "USD",
+    "Position": 944,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-02 20:56:03",
+    "Seller": "Exailes",
+    "Stock": "20",
+    "Price": 0.33,
+    "Currency": "USD",
+    "Position": 952,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-02 20:56:03",
+    "Seller": "Aplix",
+    "Stock": "30",
+    "Price": 0.33,
+    "Currency": "USD",
+    "Position": 953,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
