@@ -163,5 +163,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-02 03:01:04",
+    "Seller": "Reeba",
+    "Stock": "3",
+    "Price": 0.47,
+    "Currency": "USD",
+    "Position": 935,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-02 03:01:04",
+    "Seller": "Kordel",
+    "Stock": "100",
+    "Price": 0.48,
+    "Currency": "USD",
+    "Position": 936,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-02 03:01:04",
+    "Seller": "Mrpopka",
+    "Stock": "30",
+    "Price": 0.48,
+    "Currency": "USD",
+    "Position": 937,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-02 03:01:04",
+    "Seller": "fiac",
+    "Stock": "50",
+    "Price": 0.48,
+    "Currency": "USD",
+    "Position": 938,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-02 03:01:04",
+    "Seller": "Arcar757",
+    "Stock": "15",
+    "Price": 0.48,
+    "Currency": "USD",
+    "Position": 939,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
