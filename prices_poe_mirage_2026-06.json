@@ -658,5 +658,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-03 05:13:33",
+    "Seller": "traderfaster",
+    "Stock": "2000",
+    "Price": 0.0132,
+    "Currency": "USD",
+    "Position": 14,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-03 05:13:33",
+    "Seller": "koba1993",
+    "Stock": "487",
+    "Price": 0.0132,
+    "Currency": "USD",
+    "Position": 17,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-03 05:13:33",
+    "Seller": "Satanah6",
+    "Stock": "12000",
+    "Price": 0.0136,
+    "Currency": "USD",
+    "Position": 19,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-03 05:13:33",
+    "Seller": "Divanodich",
+    "Stock": "3000",
+    "Price": 0.0139,
+    "Currency": "USD",
+    "Position": 23,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-03 05:13:33",
+    "Seller": "FERMERVALUTI",
+    "Stock": "5200",
+    "Price": 0.0142,
+    "Currency": "USD",
+    "Position": 25,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
