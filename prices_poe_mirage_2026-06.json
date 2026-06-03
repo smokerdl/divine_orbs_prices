@@ -768,5 +768,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-03 15:25:28",
+    "Seller": "Divanodich",
+    "Stock": "2800",
+    "Price": 0.0121,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-03 15:25:28",
+    "Seller": "Divanodich",
+    "Stock": "2800",
+    "Price": 0.0121,
+    "Currency": "USD",
+    "Position": 16,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-03 15:25:28",
+    "Seller": "FERMERVALUTI",
+    "Stock": "5200",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 18,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-03 15:25:28",
+    "Seller": "Constantinius",
+    "Stock": "20000",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 19,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-03 15:25:28",
+    "Seller": "Kleverbet",
+    "Stock": "5000",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 20,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
