@@ -768,5 +768,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-03 23:42:36",
+    "Seller": "Fatigar",
+    "Stock": "60",
+    "Price": 0.21,
+    "Currency": "USD",
+    "Position": 902,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-03 23:42:36",
+    "Seller": "sellcoinss",
+    "Stock": "60",
+    "Price": 0.21,
+    "Currency": "USD",
+    "Position": 904,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-03 23:42:36",
+    "Seller": "joySell",
+    "Stock": "140",
+    "Price": 0.21,
+    "Currency": "USD",
+    "Position": 907,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-03 23:42:36",
+    "Seller": "Inquisitor1336",
+    "Stock": "100",
+    "Price": 0.22,
+    "Currency": "USD",
+    "Position": 910,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-03 23:42:36",
+    "Seller": "Proxlada",
+    "Stock": "50",
+    "Price": 0.22,
+    "Currency": "USD",
+    "Position": 911,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
