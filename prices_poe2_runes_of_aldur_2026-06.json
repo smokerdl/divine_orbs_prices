@@ -823,5 +823,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-04 01:54:58",
+    "Seller": "Megopihar1",
+    "Stock": "6",
+    "Price": 0.198,
+    "Currency": "USD",
+    "Position": 902,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-04 01:54:58",
+    "Seller": "ValeriyPatau",
+    "Stock": "40",
+    "Price": 0.198,
+    "Currency": "USD",
+    "Position": 903,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-04 01:54:58",
+    "Seller": "wertan01",
+    "Stock": "8",
+    "Price": 0.199,
+    "Currency": "USD",
+    "Position": 904,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-04 01:54:58",
+    "Seller": "ExilenceProvider",
+    "Stock": "10",
+    "Price": 0.199,
+    "Currency": "USD",
+    "Position": 905,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-04 01:54:58",
+    "Seller": "sirsaumaf",
+    "Stock": "291",
+    "Price": 0.2,
+    "Currency": "USD",
+    "Position": 906,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
