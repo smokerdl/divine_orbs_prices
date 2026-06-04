@@ -1318,5 +1318,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-05 00:18:59",
+    "Seller": "picx12",
+    "Stock": "5000",
+    "Price": 0.0139,
+    "Currency": "USD",
+    "Position": 13,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-05 00:18:59",
+    "Seller": "Zeilon",
+    "Stock": "480",
+    "Price": 0.0139,
+    "Currency": "USD",
+    "Position": 14,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-05 00:18:59",
+    "Seller": "Divanodich",
+    "Stock": "580",
+    "Price": 0.0141,
+    "Currency": "USD",
+    "Position": 15,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-05 00:18:59",
+    "Seller": "VELHAN",
+    "Stock": "4205",
+    "Price": 0.0141,
+    "Currency": "USD",
+    "Position": 16,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-05 00:18:59",
+    "Seller": "Latinococ",
+    "Stock": "7000",
+    "Price": 0.0142,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
