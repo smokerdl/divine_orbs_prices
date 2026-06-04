@@ -1153,5 +1153,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-04 15:33:24",
+    "Seller": "Divanodich",
+    "Stock": "580",
+    "Price": 0.0139,
+    "Currency": "USD",
+    "Position": 11,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-04 15:33:24",
+    "Seller": "FERMERVALUTI",
+    "Stock": "5200",
+    "Price": 0.0143,
+    "Currency": "USD",
+    "Position": 12,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-04 15:33:24",
+    "Seller": "Gamer24",
+    "Stock": "800",
+    "Price": 0.0144,
+    "Currency": "USD",
+    "Position": 13,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-04 15:33:24",
+    "Seller": "Isgood72",
+    "Stock": "1613",
+    "Price": 0.0144,
+    "Currency": "USD",
+    "Position": 14,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-04 15:33:24",
+    "Seller": "VELHAN",
+    "Stock": "3320",
+    "Price": 0.0146,
+    "Currency": "USD",
+    "Position": 15,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
