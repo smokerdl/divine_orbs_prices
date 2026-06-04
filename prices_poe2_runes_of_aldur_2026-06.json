@@ -1153,5 +1153,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-04 22:09:19",
+    "Seller": "BreakingBad",
+    "Stock": "50",
+    "Price": 0.25,
+    "Currency": "USD",
+    "Position": 927,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-04 22:09:19",
+    "Seller": "Neority",
+    "Stock": "100",
+    "Price": 0.25,
+    "Currency": "USD",
+    "Position": 930,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-04 22:09:19",
+    "Seller": "serejkapwnz",
+    "Stock": "200",
+    "Price": 0.25,
+    "Currency": "USD",
+    "Position": 931,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-04 22:09:19",
+    "Seller": "KARLOSON23",
+    "Stock": "83",
+    "Price": 0.25,
+    "Currency": "USD",
+    "Position": 953,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-04 22:09:19",
+    "Seller": "Parfenka",
+    "Stock": "1",
+    "Price": 0.25,
+    "Currency": "USD",
+    "Position": 955,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
