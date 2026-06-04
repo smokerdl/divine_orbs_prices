@@ -1043,5 +1043,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-04 15:33:39",
+    "Seller": "moderntaker",
+    "Stock": "50",
+    "Price": 0.23,
+    "Currency": "USD",
+    "Position": 905,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-04 15:33:39",
+    "Seller": "Hurricanix",
+    "Stock": "120",
+    "Price": 0.23,
+    "Currency": "USD",
+    "Position": 906,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-04 15:33:39",
+    "Seller": "Hikigary",
+    "Stock": "100",
+    "Price": 0.23,
+    "Currency": "USD",
+    "Position": 907,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-04 15:33:39",
+    "Seller": "Rentgeno",
+    "Stock": "60",
+    "Price": 0.23,
+    "Currency": "USD",
+    "Position": 908,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-04 15:33:39",
+    "Seller": "LostInside666",
+    "Stock": "100",
+    "Price": 0.23,
+    "Currency": "USD",
+    "Position": 910,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
