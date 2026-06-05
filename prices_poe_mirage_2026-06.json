@@ -1758,5 +1758,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-05 23:43:58",
+    "Seller": "RolandDiskeyn",
+    "Stock": "300",
+    "Price": 0.0142,
+    "Currency": "USD",
+    "Position": 15,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-05 23:43:58",
+    "Seller": "Martens20",
+    "Stock": "1900",
+    "Price": 0.0142,
+    "Currency": "USD",
+    "Position": 16,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-05 23:43:58",
+    "Seller": "FERMERVALUTI",
+    "Stock": "5200",
+    "Price": 0.0143,
+    "Currency": "USD",
+    "Position": 17,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-05 23:43:58",
+    "Seller": "Pathofexalt",
+    "Stock": "1230",
+    "Price": 0.0145,
+    "Currency": "USD",
+    "Position": 18,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-05 23:43:58",
+    "Seller": "VELHAN",
+    "Stock": "4882",
+    "Price": 0.0145,
+    "Currency": "USD",
+    "Position": 19,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
