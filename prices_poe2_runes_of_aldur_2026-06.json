@@ -1538,5 +1538,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-05 19:21:02",
+    "Seller": "TrallGood",
+    "Stock": "15",
+    "Price": 0.24,
+    "Currency": "USD",
+    "Position": 968,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-05 19:21:02",
+    "Seller": "indigotr",
+    "Stock": "50",
+    "Price": 0.24,
+    "Currency": "USD",
+    "Position": 969,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-05 19:21:02",
+    "Seller": "ineedhealing",
+    "Stock": "55",
+    "Price": 0.24,
+    "Currency": "USD",
+    "Position": 970,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-05 19:21:02",
+    "Seller": "Moxnatik1",
+    "Stock": "24",
+    "Price": 0.24,
+    "Currency": "USD",
+    "Position": 971,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-05 19:21:02",
+    "Seller": "Fyjybv123",
+    "Stock": "50",
+    "Price": 0.24,
+    "Currency": "USD",
+    "Position": 973,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
