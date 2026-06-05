@@ -1318,5 +1318,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-05 04:55:31",
+    "Seller": "wonderdenny",
+    "Stock": "100",
+    "Price": 0.22,
+    "Currency": "USD",
+    "Position": 904,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-05 04:55:31",
+    "Seller": "RAPChykcha",
+    "Stock": "15",
+    "Price": 0.22,
+    "Currency": "USD",
+    "Position": 905,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-05 04:55:31",
+    "Seller": "gizmoo0",
+    "Stock": "50",
+    "Price": 0.23,
+    "Currency": "USD",
+    "Position": 906,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-05 04:55:31",
+    "Seller": "Observe",
+    "Stock": "50",
+    "Price": 0.23,
+    "Currency": "USD",
+    "Position": 907,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-05 04:55:31",
+    "Seller": "megapupsik",
+    "Stock": "30",
+    "Price": 0.23,
+    "Currency": "USD",
+    "Position": 908,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
