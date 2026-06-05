@@ -1593,5 +1593,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-05 16:44:48",
+    "Seller": "Zeilon",
+    "Stock": "480",
+    "Price": 0.0139,
+    "Currency": "USD",
+    "Position": 15,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-05 16:44:48",
+    "Seller": "widowmake",
+    "Stock": "1118",
+    "Price": 0.0141,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-05 16:44:48",
+    "Seller": "widowmake",
+    "Stock": "1118",
+    "Price": 0.0141,
+    "Currency": "USD",
+    "Position": 16,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-05 16:44:48",
+    "Seller": "RolandDiskeyn",
+    "Stock": "300",
+    "Price": 0.0142,
+    "Currency": "USD",
+    "Position": 17,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-05 16:44:48",
+    "Seller": "FERMERVALUTI",
+    "Stock": "5200",
+    "Price": 0.0144,
+    "Currency": "USD",
+    "Position": 18,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
