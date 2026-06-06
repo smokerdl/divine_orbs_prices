@@ -2253,5 +2253,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-06 23:00:48",
+    "Seller": "raxrar",
+    "Stock": "5",
+    "Price": 0.2,
+    "Currency": "USD",
+    "Position": 879,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-06 23:00:48",
+    "Seller": "KUPIFUN",
+    "Stock": "32",
+    "Price": 0.2,
+    "Currency": "USD",
+    "Position": 880,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-06 23:00:48",
+    "Seller": "Spectre777",
+    "Stock": "39",
+    "Price": 0.2,
+    "Currency": "USD",
+    "Position": 881,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-06 23:00:48",
+    "Seller": "sosokmorja",
+    "Stock": "100",
+    "Price": 0.2,
+    "Currency": "USD",
+    "Position": 882,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-06 23:00:48",
+    "Seller": "Resrob",
+    "Stock": "100",
+    "Price": 0.2,
+    "Currency": "USD",
+    "Position": 883,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
