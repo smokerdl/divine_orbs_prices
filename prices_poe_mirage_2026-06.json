@@ -2473,5 +2473,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-07 01:47:38",
+    "Seller": "FERMERVALUTI",
+    "Stock": "5200",
+    "Price": 0.0143,
+    "Currency": "USD",
+    "Position": 16,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-07 01:47:38",
+    "Seller": "VELHAN",
+    "Stock": "4628",
+    "Price": 0.0145,
+    "Currency": "USD",
+    "Position": 17,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-07 01:47:38",
+    "Seller": "Kose32",
+    "Stock": "16600",
+    "Price": 0.0147,
+    "Currency": "USD",
+    "Position": 18,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-07 01:47:38",
+    "Seller": "Kleverbet",
+    "Stock": "5000",
+    "Price": 0.0148,
+    "Currency": "USD",
+    "Position": 20,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-07 01:47:38",
+    "Seller": "Linkzzz",
+    "Stock": "2100",
+    "Price": 0.0148,
+    "Currency": "USD",
+    "Position": 21,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
