@@ -2198,5 +2198,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-06 18:02:02",
+    "Seller": "z1m5",
+    "Stock": "809",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 11,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-06 18:02:02",
+    "Seller": "koba1993",
+    "Stock": "403",
+    "Price": 0.0132,
+    "Currency": "USD",
+    "Position": 14,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-06 18:02:02",
+    "Seller": "AlexBrand",
+    "Stock": "4400",
+    "Price": 0.0132,
+    "Currency": "USD",
+    "Position": 15,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-06 18:02:02",
+    "Seller": "Klips00",
+    "Stock": "4000",
+    "Price": 0.0133,
+    "Currency": "USD",
+    "Position": 17,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-06 18:02:02",
+    "Seller": "Pathofexalt",
+    "Stock": "1500",
+    "Price": 0.0133,
+    "Currency": "USD",
+    "Position": 18,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
