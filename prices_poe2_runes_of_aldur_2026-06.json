@@ -2418,5 +2418,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-07 02:51:22",
+    "Seller": "BYBLGAME",
+    "Stock": "1",
+    "Price": 0.21,
+    "Currency": "USD",
+    "Position": 902,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-07 02:51:22",
+    "Seller": "MrDonat14",
+    "Stock": "23",
+    "Price": 0.21,
+    "Currency": "USD",
+    "Position": 903,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-07 02:51:22",
+    "Seller": "Radar091",
+    "Stock": "100",
+    "Price": 0.21,
+    "Currency": "USD",
+    "Position": 905,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-07 02:51:22",
+    "Seller": "AND1xBAM",
+    "Stock": "12",
+    "Price": 0.21,
+    "Currency": "USD",
+    "Position": 906,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-07 02:51:22",
+    "Seller": "Kodgen",
+    "Stock": "15",
+    "Price": 0.21,
+    "Currency": "USD",
+    "Position": 907,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
