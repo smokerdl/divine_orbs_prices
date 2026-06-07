@@ -2803,5 +2803,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-07 19:59:34",
+    "Seller": "MakLiBro",
+    "Stock": "260",
+    "Price": 0.165,
+    "Currency": "USD",
+    "Position": 884,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-07 19:59:34",
+    "Seller": "NewChains",
+    "Stock": "94",
+    "Price": 0.166,
+    "Currency": "USD",
+    "Position": 886,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-07 19:59:34",
+    "Seller": "MrHunter",
+    "Stock": "300",
+    "Price": 0.166,
+    "Currency": "USD",
+    "Position": 887,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-07 19:59:34",
+    "Seller": "Rustambog",
+    "Stock": "7",
+    "Price": 0.167,
+    "Currency": "USD",
+    "Position": 888,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-07 19:59:34",
+    "Seller": "JxOxKxExR",
+    "Stock": "40",
+    "Price": 0.167,
+    "Currency": "USD",
+    "Position": 889,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
