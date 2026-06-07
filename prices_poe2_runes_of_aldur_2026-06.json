@@ -2913,5 +2913,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-07 23:55:13",
+    "Seller": "Moon700",
+    "Stock": "140",
+    "Price": 0.153,
+    "Currency": "USD",
+    "Position": 907,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-07 23:55:13",
+    "Seller": "DuskGrotesque",
+    "Stock": "130",
+    "Price": 0.154,
+    "Currency": "USD",
+    "Position": 909,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-07 23:55:13",
+    "Seller": "Taraska21",
+    "Stock": "60",
+    "Price": 0.155,
+    "Currency": "USD",
+    "Position": 911,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-07 23:55:13",
+    "Seller": "kresman25",
+    "Stock": "150",
+    "Price": 0.155,
+    "Currency": "USD",
+    "Position": 912,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-07 23:55:13",
+    "Seller": "Gramble",
+    "Stock": "295",
+    "Price": 0.155,
+    "Currency": "USD",
+    "Position": 913,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
