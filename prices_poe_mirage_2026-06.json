@@ -3408,5 +3408,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-08 22:10:41",
+    "Seller": "happens",
+    "Stock": "3930",
+    "Price": 0.013,
+    "Currency": "USD",
+    "Position": 17,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-08 22:10:41",
+    "Seller": "Kleverbet",
+    "Stock": "5000",
+    "Price": 0.013,
+    "Currency": "USD",
+    "Position": 18,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-08 22:10:41",
+    "Seller": "Linkzzz",
+    "Stock": "2100",
+    "Price": 0.013,
+    "Currency": "USD",
+    "Position": 19,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-08 22:10:41",
+    "Seller": "VELHAN",
+    "Stock": "1229",
+    "Price": 0.013,
+    "Currency": "USD",
+    "Position": 20,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-08 22:10:41",
+    "Seller": "Flashart247",
+    "Stock": "99999",
+    "Price": 0.0131,
+    "Currency": "USD",
+    "Position": 25,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
