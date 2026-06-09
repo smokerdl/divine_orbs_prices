@@ -3958,5 +3958,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-10 00:25:08",
+    "Seller": "Kose32",
+    "Stock": "16600",
+    "Price": 0.015,
+    "Currency": "USD",
+    "Position": 18,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-10 00:25:08",
+    "Seller": "Linkzzz",
+    "Stock": "900",
+    "Price": 0.0152,
+    "Currency": "USD",
+    "Position": 20,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-10 00:25:08",
+    "Seller": "AdamTheZealot",
+    "Stock": "940",
+    "Price": 0.0158,
+    "Currency": "USD",
+    "Position": 23,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-10 00:25:08",
+    "Seller": "krusap",
+    "Stock": "6000",
+    "Price": 0.0159,
+    "Currency": "USD",
+    "Position": 25,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-10 00:25:08",
+    "Seller": "WitedMW",
+    "Stock": "930",
+    "Price": 0.0162,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
