@@ -3793,5 +3793,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-09 22:49:13",
+    "Seller": "MEP3ABETC",
+    "Stock": "42",
+    "Price": 0.101,
+    "Currency": "USD",
+    "Position": 792,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-09 22:49:13",
+    "Seller": "ExilenceProvider",
+    "Stock": "34",
+    "Price": 0.101,
+    "Currency": "USD",
+    "Position": 793,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-09 22:49:13",
+    "Seller": "Dashmurikk",
+    "Stock": "110",
+    "Price": 0.101,
+    "Currency": "USD",
+    "Position": 795,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-09 22:49:13",
+    "Seller": "Voloshe",
+    "Stock": "23",
+    "Price": 0.101,
+    "Currency": "USD",
+    "Position": 796,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-09 22:49:13",
+    "Seller": "promanvadeo",
+    "Stock": "60",
+    "Price": 0.101,
+    "Currency": "USD",
+    "Position": 797,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
