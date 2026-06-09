@@ -3848,5 +3848,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-09 20:47:54",
+    "Seller": "Linkzzz",
+    "Stock": "100",
+    "Price": 0.0152,
+    "Currency": "USD",
+    "Position": 17,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-09 20:47:54",
+    "Seller": "Flashart247",
+    "Stock": "99999",
+    "Price": 0.0154,
+    "Currency": "USD",
+    "Position": 19,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-09 20:47:54",
+    "Seller": "happens",
+    "Stock": "1900",
+    "Price": 0.0162,
+    "Currency": "USD",
+    "Position": 22,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-09 20:47:54",
+    "Seller": "WitedMW",
+    "Stock": "930",
+    "Price": 0.0162,
+    "Currency": "USD",
+    "Position": 24,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-09 20:47:54",
+    "Seller": "GrindStyle",
+    "Stock": "834",
+    "Price": 0.0162,
+    "Currency": "USD",
+    "Position": 26,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
