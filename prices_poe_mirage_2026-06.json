@@ -3628,5 +3628,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-09 08:54:58",
+    "Seller": "Glazom",
+    "Stock": "1535",
+    "Price": 0.0143,
+    "Currency": "USD",
+    "Position": 15,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-09 08:54:58",
+    "Seller": "FERMERVALUTI",
+    "Stock": "2838",
+    "Price": 0.0145,
+    "Currency": "USD",
+    "Position": 16,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-09 08:54:58",
+    "Seller": "Annet777",
+    "Stock": "7832",
+    "Price": 0.0147,
+    "Currency": "USD",
+    "Position": 17,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-09 08:54:58",
+    "Seller": "Kleverbet",
+    "Stock": "5000",
+    "Price": 0.015,
+    "Currency": "USD",
+    "Position": 18,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-09 08:54:58",
+    "Seller": "Linkzzz",
+    "Stock": "2100",
+    "Price": 0.015,
+    "Currency": "USD",
+    "Position": 19,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
