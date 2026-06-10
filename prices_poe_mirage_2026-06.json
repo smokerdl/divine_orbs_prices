@@ -4343,5 +4343,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-10 23:00:45",
+    "Seller": "GrindStyle",
+    "Stock": "834",
+    "Price": 0.0162,
+    "Currency": "USD",
+    "Position": 24,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-10 23:00:45",
+    "Seller": "Moonfury",
+    "Stock": "600",
+    "Price": 0.0168,
+    "Currency": "USD",
+    "Position": 26,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-10 23:00:45",
+    "Seller": "GoldR1ver",
+    "Stock": "24180",
+    "Price": 0.0169,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-10 23:00:45",
+    "Seller": "GoldR1ver",
+    "Stock": "24180",
+    "Price": 0.0169,
+    "Currency": "USD",
+    "Position": 27,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-10 23:00:45",
+    "Seller": "Zagorylko",
+    "Stock": "10000",
+    "Price": 0.017,
+    "Currency": "USD",
+    "Position": 28,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
