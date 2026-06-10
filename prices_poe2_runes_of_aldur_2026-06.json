@@ -3958,5 +3958,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-10 04:54:46",
+    "Seller": "zn14aoyo14i",
+    "Stock": "6",
+    "Price": 0.119,
+    "Currency": "USD",
+    "Position": 818,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-10 04:54:46",
+    "Seller": "TommyLoncey",
+    "Stock": "150",
+    "Price": 0.119,
+    "Currency": "USD",
+    "Position": 819,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-10 04:54:46",
+    "Seller": "BlackBeard",
+    "Stock": "200",
+    "Price": 0.12,
+    "Currency": "USD",
+    "Position": 820,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-10 04:54:46",
+    "Seller": "KuinsyPOV",
+    "Stock": "1",
+    "Price": 0.12,
+    "Currency": "USD",
+    "Position": 821,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-10 04:54:46",
+    "Seller": "Empowered",
+    "Stock": "350",
+    "Price": 0.12,
+    "Currency": "USD",
+    "Position": 822,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
