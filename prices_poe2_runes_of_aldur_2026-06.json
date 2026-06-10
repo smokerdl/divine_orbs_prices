@@ -4123,5 +4123,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-10 17:12:02",
+    "Seller": "Samen87",
+    "Stock": "22",
+    "Price": 0.121,
+    "Currency": "USD",
+    "Position": 844,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-10 17:12:02",
+    "Seller": "Leehaha",
+    "Stock": "100",
+    "Price": 0.121,
+    "Currency": "USD",
+    "Position": 846,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-10 17:12:02",
+    "Seller": "tiltwithzero",
+    "Stock": "75",
+    "Price": 0.121,
+    "Currency": "USD",
+    "Position": 849,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-10 17:12:02",
+    "Seller": "Topseller2268",
+    "Stock": "250",
+    "Price": 0.123,
+    "Currency": "USD",
+    "Position": 850,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-10 17:12:02",
+    "Seller": "MrZion",
+    "Stock": "900",
+    "Price": 0.125,
+    "Currency": "USD",
+    "Position": 851,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
