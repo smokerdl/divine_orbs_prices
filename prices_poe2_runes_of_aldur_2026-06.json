@@ -4398,5 +4398,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-11 08:16:06",
+    "Seller": "eugaug",
+    "Stock": "100",
+    "Price": 0.101,
+    "Currency": "USD",
+    "Position": 781,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-11 08:16:06",
+    "Seller": "RedFossa",
+    "Stock": "499",
+    "Price": 0.101,
+    "Currency": "USD",
+    "Position": 783,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-11 08:16:06",
+    "Seller": "Creative26",
+    "Stock": "400",
+    "Price": 0.101,
+    "Currency": "USD",
+    "Position": 784,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-11 08:16:06",
+    "Seller": "Lareg",
+    "Stock": "200",
+    "Price": 0.101,
+    "Currency": "USD",
+    "Position": 785,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-11 08:16:06",
+    "Seller": "Proxlada",
+    "Stock": "100",
+    "Price": 0.101,
+    "Currency": "USD",
+    "Position": 786,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
