@@ -4728,5 +4728,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-12 00:09:10",
+    "Seller": "RolandDiskeyn",
+    "Stock": "19",
+    "Price": 0.0145,
+    "Currency": "USD",
+    "Position": 13,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-12 00:09:10",
+    "Seller": "FERMERVALUTI",
+    "Stock": "1676",
+    "Price": 0.0147,
+    "Currency": "USD",
+    "Position": 14,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-12 00:09:10",
+    "Seller": "uBiman",
+    "Stock": "1060",
+    "Price": 0.0149,
+    "Currency": "USD",
+    "Position": 15,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-12 00:09:10",
+    "Seller": "ilikejbl",
+    "Stock": "10000",
+    "Price": 0.0152,
+    "Currency": "USD",
+    "Position": 17,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-12 00:09:10",
+    "Seller": "DreamShopPoE",
+    "Stock": "4083",
+    "Price": 0.0167,
+    "Currency": "USD",
+    "Position": 25,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
