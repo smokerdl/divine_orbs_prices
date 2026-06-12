@@ -4893,5 +4893,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-12 17:24:25",
+    "Seller": "Duderino",
+    "Stock": "50",
+    "Price": 0.102,
+    "Currency": "USD",
+    "Position": 862,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-12 17:24:25",
+    "Seller": "BarsDM",
+    "Stock": "150",
+    "Price": 0.102,
+    "Currency": "USD",
+    "Position": 863,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-12 17:24:25",
+    "Seller": "lSail",
+    "Stock": "300",
+    "Price": 0.102,
+    "Currency": "USD",
+    "Position": 864,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-12 17:24:25",
+    "Seller": "Pafnutik",
+    "Stock": "600",
+    "Price": 0.102,
+    "Currency": "USD",
+    "Position": 866,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-12 17:24:25",
+    "Seller": "PornoZv3zda",
+    "Stock": "20",
+    "Price": 0.103,
+    "Currency": "USD",
+    "Position": 867,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
