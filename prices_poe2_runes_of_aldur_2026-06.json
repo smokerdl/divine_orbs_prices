@@ -5058,5 +5058,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-13 00:21:25",
+    "Seller": "Deimier",
+    "Stock": "115",
+    "Price": 0.101,
+    "Currency": "USD",
+    "Position": 850,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-13 00:21:25",
+    "Seller": "Exprom",
+    "Stock": "120",
+    "Price": 0.101,
+    "Currency": "USD",
+    "Position": 851,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-13 00:21:25",
+    "Seller": "fkkx",
+    "Stock": "400",
+    "Price": 0.101,
+    "Currency": "USD",
+    "Position": 852,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-13 00:21:25",
+    "Seller": "volodyapupochek",
+    "Stock": "200",
+    "Price": 0.102,
+    "Currency": "USD",
+    "Position": 853,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-13 00:21:25",
+    "Seller": "KalebMihara",
+    "Stock": "200",
+    "Price": 0.102,
+    "Currency": "USD",
+    "Position": 854,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
