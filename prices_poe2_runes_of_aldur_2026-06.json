@@ -4783,5 +4783,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-12 10:08:31",
+    "Seller": "ArmagedDoNMeG",
+    "Stock": "100",
+    "Price": 0.103,
+    "Currency": "USD",
+    "Position": 890,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-12 10:08:31",
+    "Seller": "deniz4571",
+    "Stock": "130",
+    "Price": 0.103,
+    "Currency": "USD",
+    "Position": 891,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-12 10:08:31",
+    "Seller": "Vetinari",
+    "Stock": "40",
+    "Price": 0.105,
+    "Currency": "USD",
+    "Position": 893,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-12 10:08:31",
+    "Seller": "teslaleo1943",
+    "Stock": "4",
+    "Price": 0.105,
+    "Currency": "USD",
+    "Position": 894,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-12 10:08:31",
+    "Seller": "LostInside666",
+    "Stock": "280",
+    "Price": 0.105,
+    "Currency": "USD",
+    "Position": 895,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
