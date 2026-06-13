@@ -5608,5 +5608,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-13 23:56:09",
+    "Seller": "Belgica",
+    "Stock": "46",
+    "Price": 0.064,
+    "Currency": "USD",
+    "Position": 760,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-13 23:56:09",
+    "Seller": "Fernar",
+    "Stock": "2",
+    "Price": 0.066,
+    "Currency": "USD",
+    "Position": 764,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-13 23:56:09",
+    "Seller": "LeprekonTrader",
+    "Stock": "101",
+    "Price": 0.066,
+    "Currency": "USD",
+    "Position": 765,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-13 23:56:09",
+    "Seller": "DANIIL160",
+    "Stock": "100",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 770,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-13 23:56:09",
+    "Seller": "Heart49",
+    "Stock": "80",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 771,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
