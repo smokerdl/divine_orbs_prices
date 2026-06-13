@@ -5278,5 +5278,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-13 12:47:56",
+    "Seller": "TrenboloneLegion",
+    "Stock": "107",
+    "Price": 0.075,
+    "Currency": "USD",
+    "Position": 836,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-13 12:47:56",
+    "Seller": "Sunw1sh",
+    "Stock": "205",
+    "Price": 0.076,
+    "Currency": "USD",
+    "Position": 838,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-13 12:47:56",
+    "Seller": "Rangerpewpew",
+    "Stock": "100",
+    "Price": 0.077,
+    "Currency": "USD",
+    "Position": 843,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-13 12:47:56",
+    "Seller": "Elenthrill",
+    "Stock": "150",
+    "Price": 0.077,
+    "Currency": "USD",
+    "Position": 844,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-13 12:47:56",
+    "Seller": "Slowpochek",
+    "Stock": "130",
+    "Price": 0.077,
+    "Currency": "USD",
+    "Position": 845,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
