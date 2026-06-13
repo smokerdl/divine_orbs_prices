@@ -5498,5 +5498,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-13 16:14:28",
+    "Seller": "T4sel",
+    "Stock": "3000",
+    "Price": 0.0161,
+    "Currency": "USD",
+    "Position": 13,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-13 16:14:28",
+    "Seller": "AlexBrand",
+    "Stock": "1727",
+    "Price": 0.0165,
+    "Currency": "USD",
+    "Position": 14,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-13 16:14:28",
+    "Seller": "happens",
+    "Stock": "5000",
+    "Price": 0.0166,
+    "Currency": "USD",
+    "Position": 15,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-13 16:14:28",
+    "Seller": "traderfaster",
+    "Stock": "1494",
+    "Price": 0.0168,
+    "Currency": "USD",
+    "Position": 17,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-13 16:14:28",
+    "Seller": "Isgood72",
+    "Stock": "1000",
+    "Price": 0.017,
+    "Currency": "USD",
+    "Position": 24,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
