@@ -5663,5 +5663,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-14 01:49:32",
+    "Seller": "sawkick",
+    "Stock": "50",
+    "Price": 0.077,
+    "Currency": "USD",
+    "Position": 781,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-14 01:49:32",
+    "Seller": "FuryNah",
+    "Stock": "283",
+    "Price": 0.077,
+    "Currency": "USD",
+    "Position": 782,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-14 01:49:32",
+    "Seller": "Yawarro",
+    "Stock": "6",
+    "Price": 0.08,
+    "Currency": "USD",
+    "Position": 788,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-14 01:49:32",
+    "Seller": "Shenzy228",
+    "Stock": "1",
+    "Price": 0.08,
+    "Currency": "USD",
+    "Position": 789,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-14 01:49:32",
+    "Seller": "Alftwo",
+    "Stock": "50",
+    "Price": 0.08,
+    "Currency": "USD",
+    "Position": 790,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
