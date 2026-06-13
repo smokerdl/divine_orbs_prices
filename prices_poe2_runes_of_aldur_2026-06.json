@@ -5443,5 +5443,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-13 18:22:28",
+    "Seller": "frankew",
+    "Stock": "250",
+    "Price": 0.075,
+    "Currency": "USD",
+    "Position": 799,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-13 18:22:28",
+    "Seller": "ProdamAkkRQSrochno",
+    "Stock": "97",
+    "Price": 0.075,
+    "Currency": "USD",
+    "Position": 800,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-13 18:22:28",
+    "Seller": "MetalOlivka",
+    "Stock": "300",
+    "Price": 0.075,
+    "Currency": "USD",
+    "Position": 802,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-13 18:22:28",
+    "Seller": "GoldyyNoble",
+    "Stock": "147",
+    "Price": 0.075,
+    "Currency": "USD",
+    "Position": 803,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-13 18:22:28",
+    "Seller": "I9u4kuDpaKoHa",
+    "Stock": "374",
+    "Price": 0.075,
+    "Currency": "USD",
+    "Position": 804,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
