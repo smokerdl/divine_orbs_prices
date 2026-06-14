@@ -5938,5 +5938,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-14 10:09:59",
+    "Seller": "Ktoetatakoi",
+    "Stock": "165",
+    "Price": 0.0153,
+    "Currency": "USD",
+    "Position": 16,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-14 10:09:59",
+    "Seller": "Kose32",
+    "Stock": "8000",
+    "Price": 0.0159,
+    "Currency": "USD",
+    "Position": 18,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-14 10:09:59",
+    "Seller": "T4sel",
+    "Stock": "3000",
+    "Price": 0.0159,
+    "Currency": "USD",
+    "Position": 19,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-14 10:09:59",
+    "Seller": "Nyli",
+    "Stock": "3216",
+    "Price": 0.0164,
+    "Currency": "USD",
+    "Position": 21,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-14 10:09:59",
+    "Seller": "Imprayser",
+    "Stock": "205",
+    "Price": 0.0166,
+    "Currency": "USD",
+    "Position": 22,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
