@@ -6598,5 +6598,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-15 23:39:58",
+    "Seller": "Kose32",
+    "Stock": "8000",
+    "Price": 0.0159,
+    "Currency": "USD",
+    "Position": 19,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-15 23:39:58",
+    "Seller": "Nyli",
+    "Stock": "1821",
+    "Price": 0.0164,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-15 23:39:58",
+    "Seller": "Nyli",
+    "Stock": "1821",
+    "Price": 0.0164,
+    "Currency": "USD",
+    "Position": 21,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-15 23:39:58",
+    "Seller": "happens",
+    "Stock": "2300",
+    "Price": 0.0166,
+    "Currency": "USD",
+    "Position": 22,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-15 23:39:58",
+    "Seller": "Divanodich",
+    "Stock": "3444",
+    "Price": 0.0166,
+    "Currency": "USD",
+    "Position": 23,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
