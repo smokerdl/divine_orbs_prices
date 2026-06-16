@@ -6653,5 +6653,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-16 09:17:48",
+    "Seller": "ExilenceProvider",
+    "Stock": "140",
+    "Price": 0.05,
+    "Currency": "USD",
+    "Position": 841,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-16 09:17:48",
+    "Seller": "Demonesa",
+    "Stock": "2281",
+    "Price": 0.05,
+    "Currency": "USD",
+    "Position": 846,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-16 09:17:48",
+    "Seller": "AllFallen",
+    "Stock": "97",
+    "Price": 0.052,
+    "Currency": "USD",
+    "Position": 851,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-16 09:17:48",
+    "Seller": "Hytton",
+    "Stock": "90",
+    "Price": 0.052,
+    "Currency": "USD",
+    "Position": 858,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-16 09:17:48",
+    "Seller": "vowkaolpoeora",
+    "Stock": "100",
+    "Price": 0.052,
+    "Currency": "USD",
+    "Position": 859,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
