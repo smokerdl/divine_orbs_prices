@@ -6763,5 +6763,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-16 20:50:40",
+    "Seller": "Popapanda",
+    "Stock": "400",
+    "Price": 0.056,
+    "Currency": "USD",
+    "Position": 885,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-16 20:50:40",
+    "Seller": "Kurt177",
+    "Stock": "560",
+    "Price": 0.057,
+    "Currency": "USD",
+    "Position": 887,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-16 20:50:40",
+    "Seller": "THPL",
+    "Stock": "700",
+    "Price": 0.058,
+    "Currency": "USD",
+    "Position": 892,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-16 20:50:40",
+    "Seller": "Sleyk",
+    "Stock": "10",
+    "Price": 0.058,
+    "Currency": "USD",
+    "Position": 893,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-16 20:50:40",
+    "Seller": "Gizga",
+    "Stock": "350",
+    "Price": 0.059,
+    "Currency": "USD",
+    "Position": 897,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
