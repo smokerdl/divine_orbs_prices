@@ -6873,5 +6873,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-17 01:45:30",
+    "Seller": "sirsaumaf",
+    "Stock": "700",
+    "Price": 0.052,
+    "Currency": "USD",
+    "Position": 854,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-17 01:45:30",
+    "Seller": "KalebMihara",
+    "Stock": "100",
+    "Price": 0.052,
+    "Currency": "USD",
+    "Position": 855,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-17 01:45:30",
+    "Seller": "AdventurerDZ",
+    "Stock": "120",
+    "Price": 0.052,
+    "Currency": "USD",
+    "Position": 856,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-17 01:45:30",
+    "Seller": "tristitial",
+    "Stock": "350",
+    "Price": 0.052,
+    "Currency": "USD",
+    "Position": 857,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-17 01:45:30",
+    "Seller": "LFyou",
+    "Stock": "190",
+    "Price": 0.053,
+    "Currency": "USD",
+    "Position": 858,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
