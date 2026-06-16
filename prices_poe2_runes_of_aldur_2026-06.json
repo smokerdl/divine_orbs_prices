@@ -6708,5 +6708,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-16 14:57:50",
+    "Seller": "Grafons",
+    "Stock": "100",
+    "Price": 0.062,
+    "Currency": "USD",
+    "Position": 854,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-16 14:57:50",
+    "Seller": "Spectre777",
+    "Stock": "60",
+    "Price": 0.062,
+    "Currency": "USD",
+    "Position": 857,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-16 14:57:50",
+    "Seller": "ALSs",
+    "Stock": "800",
+    "Price": 0.062,
+    "Currency": "USD",
+    "Position": 858,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-16 14:57:50",
+    "Seller": "AnastasiaLashen",
+    "Stock": "240",
+    "Price": 0.062,
+    "Currency": "USD",
+    "Position": 859,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-16 14:57:50",
+    "Seller": "KrolgoBit",
+    "Stock": "50",
+    "Price": 0.062,
+    "Currency": "USD",
+    "Position": 860,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
