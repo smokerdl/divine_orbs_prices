@@ -6983,5 +6983,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-17 08:32:33",
+    "Seller": "grandmasterbit81",
+    "Stock": "12",
+    "Price": 0.057,
+    "Currency": "USD",
+    "Position": 836,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-17 08:32:33",
+    "Seller": "Bladoobls",
+    "Stock": "3390",
+    "Price": 0.057,
+    "Currency": "USD",
+    "Position": 837,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-17 08:32:33",
+    "Seller": "Proxlada",
+    "Stock": "100",
+    "Price": 0.058,
+    "Currency": "USD",
+    "Position": 841,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-17 08:32:33",
+    "Seller": "Hatsuke",
+    "Stock": "1300",
+    "Price": 0.058,
+    "Currency": "USD",
+    "Position": 842,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-17 08:32:33",
+    "Seller": "Rainbringer",
+    "Stock": "200",
+    "Price": 0.058,
+    "Currency": "USD",
+    "Position": 843,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
