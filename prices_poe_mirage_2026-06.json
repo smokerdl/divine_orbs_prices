@@ -7038,5 +7038,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-17 03:05:36",
+    "Seller": "GoldR1ver",
+    "Stock": "14805",
+    "Price": 0.0186,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-17 03:05:36",
+    "Seller": "GoldR1ver",
+    "Stock": "14805",
+    "Price": 0.0186,
+    "Currency": "USD",
+    "Position": 25,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-17 03:05:36",
+    "Seller": "Divanodich",
+    "Stock": "2090",
+    "Price": 0.0186,
+    "Currency": "USD",
+    "Position": 27,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-17 03:05:36",
+    "Seller": "Flashart247",
+    "Stock": "99608",
+    "Price": 0.0186,
+    "Currency": "USD",
+    "Position": 28,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12448"
+  },
+  {
+    "Timestamp": "2026-06-17 03:05:36",
+    "Seller": "BlizzardPoe",
+    "Stock": "360",
+    "Price": 0.0186,
+    "Currency": "USD",
+    "Position": 29,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12448"
   }
 ]
