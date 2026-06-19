@@ -7973,5 +7973,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-19 20:06:09",
+    "Seller": "Zelldao",
+    "Stock": "4",
+    "Price": 0.051,
+    "Currency": "USD",
+    "Position": 822,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-19 20:06:09",
+    "Seller": "lyewoiuu",
+    "Stock": "7",
+    "Price": 0.052,
+    "Currency": "USD",
+    "Position": 854,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-19 20:06:09",
+    "Seller": "Yuno321",
+    "Stock": "10",
+    "Price": 0.053,
+    "Currency": "USD",
+    "Position": 861,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-19 20:06:09",
+    "Seller": "velvet1408",
+    "Stock": "710",
+    "Price": 0.053,
+    "Currency": "USD",
+    "Position": 862,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-19 20:06:09",
+    "Seller": "Aplix",
+    "Stock": "300",
+    "Price": 0.054,
+    "Currency": "USD",
+    "Position": 864,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
