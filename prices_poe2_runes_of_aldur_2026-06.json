@@ -8083,5 +8083,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-19 23:57:08",
+    "Seller": "LuciferHC",
+    "Stock": "1000",
+    "Price": 0.052,
+    "Currency": "USD",
+    "Position": 888,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-19 23:57:08",
+    "Seller": "SellerHealer",
+    "Stock": "160",
+    "Price": 0.052,
+    "Currency": "USD",
+    "Position": 889,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-19 23:57:08",
+    "Seller": "Lepru",
+    "Stock": "450",
+    "Price": 0.052,
+    "Currency": "USD",
+    "Position": 890,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-19 23:57:08",
+    "Seller": "Xirpin",
+    "Stock": "600",
+    "Price": 0.052,
+    "Currency": "USD",
+    "Position": 891,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-19 23:57:08",
+    "Seller": "howlSO",
+    "Stock": "225",
+    "Price": 0.052,
+    "Currency": "USD",
+    "Position": 892,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
