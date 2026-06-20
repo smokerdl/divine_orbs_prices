@@ -8688,5 +8688,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-20 23:57:49",
+    "Seller": "AboveOnlyG",
+    "Stock": "160",
+    "Price": 0.05,
+    "Currency": "USD",
+    "Position": 833,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-20 23:57:49",
+    "Seller": "stat1k",
+    "Stock": "512",
+    "Price": 0.05,
+    "Currency": "USD",
+    "Position": 834,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-20 23:57:49",
+    "Seller": "SeekerZ92",
+    "Stock": "200",
+    "Price": 0.05,
+    "Currency": "USD",
+    "Position": 835,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-20 23:57:49",
+    "Seller": "NMnow",
+    "Stock": "4",
+    "Price": 0.05,
+    "Currency": "USD",
+    "Position": 836,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-20 23:57:49",
+    "Seller": "JT500",
+    "Stock": "257",
+    "Price": 0.05,
+    "Currency": "USD",
+    "Position": 839,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
