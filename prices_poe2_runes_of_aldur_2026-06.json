@@ -8743,5 +8743,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-21 01:53:23",
+    "Seller": "Katata5512",
+    "Stock": "170",
+    "Price": 0.043,
+    "Currency": "USD",
+    "Position": 797,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-21 01:53:23",
+    "Seller": "inhonorwetrust",
+    "Stock": "57",
+    "Price": 0.043,
+    "Currency": "USD",
+    "Position": 800,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-21 01:53:23",
+    "Seller": "Virst",
+    "Stock": "50",
+    "Price": 0.043,
+    "Currency": "USD",
+    "Position": 801,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-21 01:53:23",
+    "Seller": "DrPomidoR",
+    "Stock": "200",
+    "Price": 0.043,
+    "Currency": "USD",
+    "Position": 802,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-21 01:53:23",
+    "Seller": "majimaz",
+    "Stock": "390",
+    "Price": 0.043,
+    "Currency": "USD",
+    "Position": 803,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
