@@ -9073,5 +9073,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-21 20:12:43",
+    "Seller": "satsujin1",
+    "Stock": "1350",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 817,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-21 20:12:43",
+    "Seller": "NordLoL",
+    "Stock": "600",
+    "Price": 0.037,
+    "Currency": "USD",
+    "Position": 826,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-21 20:12:43",
+    "Seller": "eveneytopasen",
+    "Stock": "400",
+    "Price": 0.037,
+    "Currency": "USD",
+    "Position": 829,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-21 20:12:43",
+    "Seller": "ShadowQueenPro",
+    "Stock": "20",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 830,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-21 20:12:43",
+    "Seller": "Penpeni",
+    "Stock": "328",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 831,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
