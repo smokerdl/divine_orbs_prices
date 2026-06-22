@@ -9403,5 +9403,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-22 15:38:31",
+    "Seller": "drugnear",
+    "Stock": "1550",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 741,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-22 15:38:31",
+    "Seller": "Andrey924",
+    "Stock": "78",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 744,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-22 15:38:31",
+    "Seller": "Igares",
+    "Stock": "16",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 751,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-22 15:38:31",
+    "Seller": "Hunter0023",
+    "Stock": "75",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 753,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-22 15:38:31",
+    "Seller": "bkulikov",
+    "Stock": "10",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 757,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
