@@ -9623,5 +9623,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-23 02:56:44",
+    "Seller": "icclokk",
+    "Stock": "470",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 873,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-23 02:56:44",
+    "Seller": "FreeWars",
+    "Stock": "800",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 874,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-23 02:56:44",
+    "Seller": "Nqirio",
+    "Stock": "300",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 875,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-23 02:56:44",
+    "Seller": "Sh1Ne",
+    "Stock": "240",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 876,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-23 02:56:44",
+    "Seller": "Endgm",
+    "Stock": "325",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 881,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
