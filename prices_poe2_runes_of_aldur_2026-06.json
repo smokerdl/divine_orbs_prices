@@ -10008,5 +10008,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-24 00:20:12",
+    "Seller": "Zerxzerxzerx",
+    "Stock": "755",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 854,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-24 00:20:12",
+    "Seller": "Ilikecoin",
+    "Stock": "22",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 858,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-24 00:20:12",
+    "Seller": "jojo007",
+    "Stock": "560",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 861,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-24 00:20:12",
+    "Seller": "Dontknowhome",
+    "Stock": "780",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 863,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-24 00:20:12",
+    "Seller": "VodaFuji",
+    "Stock": "341",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 864,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
