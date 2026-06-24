@@ -10283,5 +10283,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-24 11:46:43",
+    "Seller": "Frizgh",
+    "Stock": "42",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 822,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-24 11:46:43",
+    "Seller": "Ind",
+    "Stock": "900",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 827,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-24 11:46:43",
+    "Seller": "CaptainJuzman",
+    "Stock": "740",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 828,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-24 11:46:43",
+    "Seller": "Attarx",
+    "Stock": "1200",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 831,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-24 11:46:43",
+    "Seller": "ShadoUwU",
+    "Stock": "511",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 832,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
