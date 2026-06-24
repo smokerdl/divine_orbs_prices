@@ -10613,5 +10613,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-25 01:56:01",
+    "Seller": "vadoskin",
+    "Stock": "600",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 862,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-25 01:56:01",
+    "Seller": "Groovis",
+    "Stock": "900",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 869,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-25 01:56:01",
+    "Seller": "FuryNah",
+    "Stock": "68",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 870,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-25 01:56:01",
+    "Seller": "kishmish3000",
+    "Stock": "500",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 873,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-25 01:56:01",
+    "Seller": "Kannbeg",
+    "Stock": "10",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 874,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
