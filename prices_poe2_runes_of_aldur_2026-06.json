@@ -11053,5 +11053,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-26 00:18:47",
+    "Seller": "Flixmo",
+    "Stock": "73",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 857,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-26 00:18:47",
+    "Seller": "Zidans",
+    "Stock": "100",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 865,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-26 00:18:48",
+    "Seller": "Tomys",
+    "Stock": "120",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 899,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-26 00:18:48",
+    "Seller": "Dendronich",
+    "Stock": "150",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 900,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-26 00:18:48",
+    "Seller": "Dmitry5237",
+    "Stock": "2000",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 901,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
