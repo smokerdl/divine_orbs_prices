@@ -11108,5 +11108,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-26 02:03:42",
+    "Seller": "Duderino",
+    "Stock": "100",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 889,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-26 02:03:42",
+    "Seller": "WoofWoof",
+    "Stock": "190",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 890,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-26 02:03:42",
+    "Seller": "daltonika",
+    "Stock": "1000",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 891,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-26 02:03:42",
+    "Seller": "XSSR",
+    "Stock": "118",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 894,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-26 02:03:42",
+    "Seller": "ParniHelp",
+    "Stock": "400",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 895,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
