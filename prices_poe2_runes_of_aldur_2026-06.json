@@ -10888,5 +10888,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-25 16:52:58",
+    "Seller": "ra7en",
+    "Stock": "600",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 852,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-25 16:52:58",
+    "Seller": "P0lkanot",
+    "Stock": "91",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 856,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-25 16:52:58",
+    "Seller": "MrYorjik",
+    "Stock": "180",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 857,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-25 16:52:58",
+    "Seller": "Latinococ",
+    "Stock": "3000",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 858,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-25 16:52:58",
+    "Seller": "IronBank",
+    "Stock": "288",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 859,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
