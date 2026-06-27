@@ -12318,5 +12318,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-28 02:46:16",
+    "Seller": "Littlepeep",
+    "Stock": "850",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 793,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-28 02:46:16",
+    "Seller": "Zhoraha",
+    "Stock": "300",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 794,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-28 02:46:16",
+    "Seller": "carrot333",
+    "Stock": "180",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 797,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-28 02:46:16",
+    "Seller": "Ch1mCh1m",
+    "Stock": "800",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 798,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-28 02:46:16",
+    "Seller": "Vampir2801",
+    "Stock": "100",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 799,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
