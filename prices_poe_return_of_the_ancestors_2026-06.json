@@ -460,5 +460,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12660"
+  },
+  {
+    "Timestamp": "2026-06-27 04:47:08",
+    "Seller": "Donne",
+    "Stock": "6",
+    "Price": 1.58,
+    "Currency": "USD",
+    "Position": 159,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-06-27 04:47:08",
+    "Seller": "exnek",
+    "Stock": "4",
+    "Price": 1.58,
+    "Currency": "USD",
+    "Position": 160,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-06-27 04:47:08",
+    "Seller": "kotoyama",
+    "Stock": "8",
+    "Price": 1.6,
+    "Currency": "USD",
+    "Position": 161,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-06-27 04:47:08",
+    "Seller": "Simbayo",
+    "Stock": "15",
+    "Price": 1.63,
+    "Currency": "USD",
+    "Position": 162,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-06-27 04:47:08",
+    "Seller": "Prikt",
+    "Stock": "26",
+    "Price": 1.64,
+    "Currency": "USD",
+    "Position": 163,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12660"
   }
 ]
