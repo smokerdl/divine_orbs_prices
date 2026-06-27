@@ -1010,5 +1010,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12660"
+  },
+  {
+    "Timestamp": "2026-06-28 00:47:14",
+    "Seller": "kotoyama",
+    "Stock": "15",
+    "Price": 0.41,
+    "Currency": "USD",
+    "Position": 156,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-06-28 00:47:14",
+    "Seller": "Musedw",
+    "Stock": "80",
+    "Price": 0.41,
+    "Currency": "USD",
+    "Position": 157,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-06-28 00:47:14",
+    "Seller": "Arannel",
+    "Stock": "120",
+    "Price": 0.41,
+    "Currency": "USD",
+    "Position": 158,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-06-28 00:47:14",
+    "Seller": "Botprodavec314",
+    "Stock": "100",
+    "Price": 0.41,
+    "Currency": "USD",
+    "Position": 159,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-06-28 00:47:14",
+    "Seller": "ImTooNewHere",
+    "Stock": "20",
+    "Price": 0.41,
+    "Currency": "USD",
+    "Position": 160,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12660"
   }
 ]
