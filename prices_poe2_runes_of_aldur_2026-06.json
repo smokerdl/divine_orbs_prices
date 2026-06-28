@@ -12648,5 +12648,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-28 18:07:09",
+    "Seller": "Swixti",
+    "Stock": "33",
+    "Price": 0.027,
+    "Currency": "USD",
+    "Position": 778,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-28 18:07:09",
+    "Seller": "AnastasiaLashen",
+    "Stock": "700",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 780,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-28 18:07:09",
+    "Seller": "Don1t",
+    "Stock": "22",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 783,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-28 18:07:09",
+    "Seller": "JohnChaser",
+    "Stock": "2387",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 784,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-28 18:07:09",
+    "Seller": "uBiman",
+    "Stock": "18",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 790,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
