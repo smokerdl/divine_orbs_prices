@@ -12373,5 +12373,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-28 04:56:54",
+    "Seller": "Texnofox",
+    "Stock": "10",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 797,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-28 04:56:54",
+    "Seller": "Djembo",
+    "Stock": "1010",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 798,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-28 04:56:54",
+    "Seller": "I9u4kuDpaKoHa",
+    "Stock": "1000",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 799,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-28 04:56:54",
+    "Seller": "Izmi",
+    "Stock": "1500",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 803,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-28 04:56:54",
+    "Seller": "ezerielblade",
+    "Stock": "4500",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 804,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
