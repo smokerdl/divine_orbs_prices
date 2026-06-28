@@ -12923,5 +12923,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-29 00:48:11",
+    "Seller": "prodavecsnega",
+    "Stock": "530",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 759,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-29 00:48:11",
+    "Seller": "Darl1ng1",
+    "Stock": "310",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 775,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-29 00:48:11",
+    "Seller": "SunHeat",
+    "Stock": "5250",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 780,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-29 00:48:11",
+    "Seller": "Warrior1",
+    "Stock": "500",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 781,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-29 00:48:11",
+    "Seller": "Hellstaff322",
+    "Stock": "3600",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 782,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
