@@ -13088,5 +13088,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-29 05:34:06",
+    "Seller": "lolskil",
+    "Stock": "1480",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 730,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-29 05:34:06",
+    "Seller": "Waiper",
+    "Stock": "2000",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 733,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-29 05:34:06",
+    "Seller": "Dallr0gg",
+    "Stock": "100",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 744,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-29 05:34:06",
+    "Seller": "BillyOver9000",
+    "Stock": "2100",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 747,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-29 05:34:06",
+    "Seller": "SoLD1233",
+    "Stock": "3",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 750,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
