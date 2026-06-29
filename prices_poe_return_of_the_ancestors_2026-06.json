@@ -2000,5 +2000,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12660"
+  },
+  {
+    "Timestamp": "2026-06-29 15:18:39",
+    "Seller": "HolidayStore",
+    "Stock": "214",
+    "Price": 0.15,
+    "Currency": "USD",
+    "Position": 106,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-06-29 15:18:39",
+    "Seller": "timovka2",
+    "Stock": "218",
+    "Price": 0.153,
+    "Currency": "USD",
+    "Position": 107,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-06-29 15:18:39",
+    "Seller": "Variture",
+    "Stock": "130",
+    "Price": 0.153,
+    "Currency": "USD",
+    "Position": 108,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-06-29 15:18:39",
+    "Seller": "Uramancer9403",
+    "Stock": "50",
+    "Price": 0.158,
+    "Currency": "USD",
+    "Position": 111,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-06-29 15:18:39",
+    "Seller": "LexaFarmer",
+    "Stock": "35",
+    "Price": 0.158,
+    "Currency": "USD",
+    "Position": 112,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12660"
   }
 ]
