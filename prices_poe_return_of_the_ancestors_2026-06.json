@@ -2495,5 +2495,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12660"
+  },
+  {
+    "Timestamp": "2026-06-30 15:57:44",
+    "Seller": "chelique",
+    "Stock": "1600",
+    "Price": 0.142,
+    "Currency": "USD",
+    "Position": 108,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-06-30 15:57:44",
+    "Seller": "Uramancer9403",
+    "Stock": "200",
+    "Price": 0.142,
+    "Currency": "USD",
+    "Position": 109,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-06-30 15:57:44",
+    "Seller": "lvlPOElvl",
+    "Stock": "40",
+    "Price": 0.142,
+    "Currency": "USD",
+    "Position": 110,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-06-30 15:57:44",
+    "Seller": "HoneySex",
+    "Stock": "24",
+    "Price": 0.148,
+    "Currency": "USD",
+    "Position": 111,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-06-30 15:57:44",
+    "Seller": "Betforgen",
+    "Stock": "200",
+    "Price": 0.148,
+    "Currency": "USD",
+    "Position": 112,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12660"
   }
 ]
