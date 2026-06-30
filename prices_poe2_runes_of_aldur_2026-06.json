@@ -13913,5 +13913,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-01 01:05:00",
+    "Seller": "VipSlipner",
+    "Stock": "25",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 704,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-01 01:05:00",
+    "Seller": "wazerd",
+    "Stock": "900",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 705,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-01 01:05:00",
+    "Seller": "iMiracle",
+    "Stock": "74",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 706,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-01 01:05:00",
+    "Seller": "Ashtray10",
+    "Stock": "1000",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 708,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-01 01:05:00",
+    "Seller": "Breddy",
+    "Stock": "1500",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 709,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
