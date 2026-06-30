@@ -13858,5 +13858,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-30 23:47:55",
+    "Seller": "Creative26",
+    "Stock": "259",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 677,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-30 23:47:55",
+    "Seller": "rtxPawn",
+    "Stock": "62",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 678,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-30 23:47:55",
+    "Seller": "ropeer",
+    "Stock": "580",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 679,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-30 23:47:55",
+    "Seller": "Zidans",
+    "Stock": "150",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 682,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-30 23:47:55",
+    "Seller": "Neverlate",
+    "Stock": "30",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 690,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
