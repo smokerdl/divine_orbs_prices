@@ -13803,5 +13803,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-30 21:25:31",
+    "Seller": "Arrow123",
+    "Stock": "500",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 670,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-30 21:25:31",
+    "Seller": "DrPomidoR",
+    "Stock": "1250",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 673,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-30 21:25:31",
+    "Seller": "EuroDump",
+    "Stock": "1000",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 674,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-30 21:25:31",
+    "Seller": "EnerguR",
+    "Stock": "500",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 677,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-06-30 21:25:31",
+    "Seller": "rtxPawn",
+    "Stock": "2600",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 678,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
