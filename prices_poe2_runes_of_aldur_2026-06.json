@@ -13968,5 +13968,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-01 02:54:16",
+    "Seller": "AkamiTRS",
+    "Stock": "150",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 691,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-01 02:54:16",
+    "Seller": "Breddy",
+    "Stock": "1500",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 692,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-01 02:54:16",
+    "Seller": "DrPomidoR",
+    "Stock": "1000",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 695,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-01 02:54:16",
+    "Seller": "KalebMihara",
+    "Stock": "300",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 696,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-01 02:54:16",
+    "Seller": "sell3r223",
+    "Stock": "400",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 699,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
