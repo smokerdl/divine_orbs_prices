@@ -218,5 +218,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-01 20:02:41",
+    "Seller": "Allzy",
+    "Stock": "840",
+    "Price": 0.0188,
+    "Currency": "USD",
+    "Position": 683,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-01 20:02:41",
+    "Seller": "Yellowmeow",
+    "Stock": "840",
+    "Price": 0.0188,
+    "Currency": "USD",
+    "Position": 684,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-01 20:02:41",
+    "Seller": "PaxanPT",
+    "Stock": "890",
+    "Price": 0.019,
+    "Currency": "USD",
+    "Position": 690,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-01 20:02:41",
+    "Seller": "FntNm",
+    "Stock": "879",
+    "Price": 0.0191,
+    "Currency": "USD",
+    "Position": 691,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-01 20:02:41",
+    "Seller": "cassidy",
+    "Stock": "900",
+    "Price": 0.0192,
+    "Currency": "USD",
+    "Position": 695,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
