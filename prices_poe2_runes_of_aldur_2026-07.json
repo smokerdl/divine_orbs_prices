@@ -383,5 +383,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-02 01:57:02",
+    "Seller": "RagnarLothbrock",
+    "Stock": "1400",
+    "Price": 0.0198,
+    "Currency": "USD",
+    "Position": 742,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-02 01:57:02",
+    "Seller": "Nikachika13",
+    "Stock": "172",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 743,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-02 01:57:02",
+    "Seller": "Syllabear10",
+    "Stock": "2000",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 744,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-02 01:57:02",
+    "Seller": "Falonar",
+    "Stock": "2",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 750,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-02 01:57:02",
+    "Seller": "RussianPsycho",
+    "Stock": "550",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 751,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
