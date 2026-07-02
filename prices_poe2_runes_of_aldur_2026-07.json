@@ -713,5 +713,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-02 18:56:20",
+    "Seller": "Shiplisu",
+    "Stock": "580",
+    "Price": 0.0188,
+    "Currency": "USD",
+    "Position": 699,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-02 18:56:20",
+    "Seller": "zuvahi",
+    "Stock": "300",
+    "Price": 0.0188,
+    "Currency": "USD",
+    "Position": 700,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-02 18:56:20",
+    "Seller": "BfGanime",
+    "Stock": "700",
+    "Price": 0.019,
+    "Currency": "USD",
+    "Position": 704,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-02 18:56:20",
+    "Seller": "Heaneyq",
+    "Stock": "783",
+    "Price": 0.0191,
+    "Currency": "USD",
+    "Position": 710,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-02 18:56:20",
+    "Seller": "VladMorend",
+    "Stock": "2",
+    "Price": 0.0191,
+    "Currency": "USD",
+    "Position": 712,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
