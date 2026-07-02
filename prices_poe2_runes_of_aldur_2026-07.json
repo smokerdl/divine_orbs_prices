@@ -438,5 +438,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-02 04:52:29",
+    "Seller": "Ilikecoin",
+    "Stock": "65",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 722,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-02 04:52:29",
+    "Seller": "DirtyChets",
+    "Stock": "1300",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 723,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-02 04:52:29",
+    "Seller": "SAKHARA",
+    "Stock": "2000",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 724,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-02 04:52:29",
+    "Seller": "Monopolia74",
+    "Stock": "2000",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 725,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-02 04:52:29",
+    "Seller": "Cloubeny",
+    "Stock": "3500",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 728,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
