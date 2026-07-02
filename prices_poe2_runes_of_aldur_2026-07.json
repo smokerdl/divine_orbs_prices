@@ -493,5 +493,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-02 08:44:39",
+    "Seller": "Egor19987",
+    "Stock": "2051",
+    "Price": 0.0192,
+    "Currency": "USD",
+    "Position": 718,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-02 08:44:39",
+    "Seller": "EndlessParadox",
+    "Stock": "1000",
+    "Price": 0.0192,
+    "Currency": "USD",
+    "Position": 719,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-02 08:44:39",
+    "Seller": "niceiceguys",
+    "Stock": "8000",
+    "Price": 0.0192,
+    "Currency": "USD",
+    "Position": 720,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-02 08:44:39",
+    "Seller": "Millionaire6",
+    "Stock": "1900",
+    "Price": 0.0192,
+    "Currency": "USD",
+    "Position": 721,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-02 08:44:39",
+    "Seller": "Amonamartht",
+    "Stock": "1890",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 726,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
