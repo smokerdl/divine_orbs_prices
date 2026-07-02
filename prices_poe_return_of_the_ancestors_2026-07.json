@@ -548,5 +548,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-02 11:35:47",
+    "Seller": "Gladion",
+    "Stock": "90",
+    "Price": 0.062,
+    "Currency": "USD",
+    "Position": 70,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-02 11:35:47",
+    "Seller": "Merseyside27",
+    "Stock": "130",
+    "Price": 0.063,
+    "Currency": "USD",
+    "Position": 72,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-02 11:35:47",
+    "Seller": "SashaIvankov",
+    "Stock": "400",
+    "Price": 0.063,
+    "Currency": "USD",
+    "Position": 73,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-02 11:35:47",
+    "Seller": "xxy",
+    "Stock": "130",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 74,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-02 11:35:47",
+    "Seller": "Isk4you",
+    "Stock": "16",
+    "Price": 0.068,
+    "Currency": "USD",
+    "Position": 75,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12660"
   }
 ]
