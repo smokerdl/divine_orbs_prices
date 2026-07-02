@@ -493,5 +493,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-02 08:44:26",
+    "Seller": "Arannel",
+    "Stock": "415",
+    "Price": 0.084,
+    "Currency": "USD",
+    "Position": 71,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-02 08:44:26",
+    "Seller": "PathOfEnjoyer",
+    "Stock": "258",
+    "Price": 0.085,
+    "Currency": "USD",
+    "Position": 72,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-02 08:44:26",
+    "Seller": "ShadoUwU",
+    "Stock": "197",
+    "Price": 0.086,
+    "Currency": "USD",
+    "Position": 73,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-02 08:44:26",
+    "Seller": "xxy",
+    "Stock": "130",
+    "Price": 0.087,
+    "Currency": "USD",
+    "Position": 75,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-02 08:44:26",
+    "Seller": "Prikt",
+    "Stock": "180",
+    "Price": 0.092,
+    "Currency": "USD",
+    "Position": 77,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12660"
   }
 ]
