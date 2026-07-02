@@ -603,5 +603,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-02 14:23:03",
+    "Seller": "volodyapupochek",
+    "Stock": "120",
+    "Price": 0.062,
+    "Currency": "USD",
+    "Position": 69,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-02 14:23:03",
+    "Seller": "Merseyside27",
+    "Stock": "10",
+    "Price": 0.063,
+    "Currency": "USD",
+    "Position": 70,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-02 14:23:03",
+    "Seller": "vociwmd1",
+    "Stock": "300",
+    "Price": 0.063,
+    "Currency": "USD",
+    "Position": 71,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-02 14:23:03",
+    "Seller": "Saturycon",
+    "Stock": "240",
+    "Price": 0.063,
+    "Currency": "USD",
+    "Position": 72,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-02 14:23:03",
+    "Seller": "zadyvochka",
+    "Stock": "290",
+    "Price": 0.063,
+    "Currency": "USD",
+    "Position": 73,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12660"
   }
 ]
