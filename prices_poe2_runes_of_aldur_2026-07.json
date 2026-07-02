@@ -548,5 +548,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-02 11:36:04",
+    "Seller": "rom131313",
+    "Stock": "400",
+    "Price": 0.0195,
+    "Currency": "USD",
+    "Position": 731,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-02 11:36:04",
+    "Seller": "LemakaSobaka",
+    "Stock": "100",
+    "Price": 0.0197,
+    "Currency": "USD",
+    "Position": 733,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-02 11:36:04",
+    "Seller": "Hazbulat",
+    "Stock": "360",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 734,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-02 11:36:04",
+    "Seller": "EndlessParadox",
+    "Stock": "200",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 735,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-02 11:36:04",
+    "Seller": "Suicide1g",
+    "Stock": "88",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 736,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
