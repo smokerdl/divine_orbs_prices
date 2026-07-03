@@ -1098,5 +1098,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-03 10:52:20",
+    "Seller": "Aleshadancee",
+    "Stock": "2200",
+    "Price": 0.0173,
+    "Currency": "USD",
+    "Position": 752,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-03 10:52:20",
+    "Seller": "FunDuil",
+    "Stock": "107",
+    "Price": 0.0175,
+    "Currency": "USD",
+    "Position": 753,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-03 10:52:20",
+    "Seller": "BleedingLove",
+    "Stock": "1634",
+    "Price": 0.0175,
+    "Currency": "USD",
+    "Position": 754,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-03 10:52:20",
+    "Seller": "Zarochka",
+    "Stock": "1000",
+    "Price": 0.0175,
+    "Currency": "USD",
+    "Position": 755,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-03 10:52:20",
+    "Seller": "XSSR",
+    "Stock": "69",
+    "Price": 0.0177,
+    "Currency": "USD",
+    "Position": 756,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
