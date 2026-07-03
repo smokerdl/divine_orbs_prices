@@ -1153,5 +1153,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-03 13:22:17",
+    "Seller": "StanleyDrummovich",
+    "Stock": "22",
+    "Price": 0.0194,
+    "Currency": "USD",
+    "Position": 770,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-03 13:22:17",
+    "Seller": "adenkashillen",
+    "Stock": "1500",
+    "Price": 0.0194,
+    "Currency": "USD",
+    "Position": 771,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-03 13:22:17",
+    "Seller": "HalFerJoJo",
+    "Stock": "3000",
+    "Price": 0.0194,
+    "Currency": "USD",
+    "Position": 772,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-03 13:22:17",
+    "Seller": "yasuuonx",
+    "Stock": "5000",
+    "Price": 0.0196,
+    "Currency": "USD",
+    "Position": 774,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-03 13:22:17",
+    "Seller": "DANONER",
+    "Stock": "760",
+    "Price": 0.0196,
+    "Currency": "USD",
+    "Position": 777,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
