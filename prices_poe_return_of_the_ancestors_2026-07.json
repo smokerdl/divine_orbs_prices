@@ -1208,5 +1208,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-03 15:31:29",
+    "Seller": "deen22",
+    "Stock": "670",
+    "Price": 0.075,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-03 15:31:29",
+    "Seller": "Beasty4",
+    "Stock": "45",
+    "Price": 0.075,
+    "Currency": "USD",
+    "Position": 76,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-03 15:31:29",
+    "Seller": "deen22",
+    "Stock": "670",
+    "Price": 0.075,
+    "Currency": "USD",
+    "Position": 77,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-03 15:31:29",
+    "Seller": "JewelledLotus",
+    "Stock": "630",
+    "Price": 0.075,
+    "Currency": "USD",
+    "Position": 78,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-03 15:31:29",
+    "Seller": "Glad3636",
+    "Stock": "100",
+    "Price": 0.076,
+    "Currency": "USD",
+    "Position": 79,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12660"
   }
 ]
