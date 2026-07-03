@@ -1263,5 +1263,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-03 17:58:48",
+    "Seller": "JewelledLotus",
+    "Stock": "640",
+    "Price": 0.075,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-03 17:58:48",
+    "Seller": "JewelledLotus",
+    "Stock": "640",
+    "Price": 0.075,
+    "Currency": "USD",
+    "Position": 78,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-03 17:58:48",
+    "Seller": "Glad3636",
+    "Stock": "100",
+    "Price": 0.075,
+    "Currency": "USD",
+    "Position": 79,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-03 17:58:48",
+    "Seller": "deen22",
+    "Stock": "530",
+    "Price": 0.075,
+    "Currency": "USD",
+    "Position": 80,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-03 17:58:48",
+    "Seller": "Cy64uk",
+    "Stock": "370",
+    "Price": 0.076,
+    "Currency": "USD",
+    "Position": 81,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12660"
   }
 ]
