@@ -1538,5 +1538,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-04 01:46:28",
+    "Seller": "JewelledLotus",
+    "Stock": "172",
+    "Price": 0.069,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-04 01:46:28",
+    "Seller": "JewelledLotus",
+    "Stock": "172",
+    "Price": 0.069,
+    "Currency": "USD",
+    "Position": 72,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-04 01:46:28",
+    "Seller": "homepay",
+    "Stock": "30",
+    "Price": 0.07,
+    "Currency": "USD",
+    "Position": 73,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-04 01:46:28",
+    "Seller": "Spartano",
+    "Stock": "200",
+    "Price": 0.07,
+    "Currency": "USD",
+    "Position": 75,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-04 01:46:28",
+    "Seller": "Gladion",
+    "Stock": "50",
+    "Price": 0.07,
+    "Currency": "USD",
+    "Position": 76,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12660"
   }
 ]
