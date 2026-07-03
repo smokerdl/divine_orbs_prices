@@ -1373,5 +1373,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-03 21:54:03",
+    "Seller": "JewelledLotus",
+    "Stock": "355",
+    "Price": 0.075,
+    "Currency": "USD",
+    "Position": 73,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-03 21:54:03",
+    "Seller": "Cy64uk",
+    "Stock": "370",
+    "Price": 0.076,
+    "Currency": "USD",
+    "Position": 74,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-03 21:54:03",
+    "Seller": "Harr1son",
+    "Stock": "295",
+    "Price": 0.077,
+    "Currency": "USD",
+    "Position": 75,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-03 21:54:03",
+    "Seller": "OutputPizza",
+    "Stock": "600",
+    "Price": 0.08,
+    "Currency": "USD",
+    "Position": 76,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-03 21:54:03",
+    "Seller": "homepay",
+    "Stock": "30",
+    "Price": 0.08,
+    "Currency": "USD",
+    "Position": 77,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12660"
   }
 ]
