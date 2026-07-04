@@ -1703,5 +1703,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-04 08:30:44",
+    "Seller": "hronovivert",
+    "Stock": "85",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 738,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-04 08:30:44",
+    "Seller": "GrandsStash",
+    "Stock": "6000",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 739,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-04 08:30:44",
+    "Seller": "SAKHARA",
+    "Stock": "4000",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 740,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-04 08:30:44",
+    "Seller": "limuro",
+    "Stock": "1000",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 741,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-04 08:30:44",
+    "Seller": "GrindDigger",
+    "Stock": "1000",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 742,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
