@@ -2308,5 +2308,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 01:42:25",
+    "Seller": "Rentgeno",
+    "Stock": "1655",
+    "Price": 0.0196,
+    "Currency": "USD",
+    "Position": 724,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 01:42:25",
+    "Seller": "Konstant777117",
+    "Stock": "900",
+    "Price": 0.0198,
+    "Currency": "USD",
+    "Position": 726,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 01:42:25",
+    "Seller": "Yellowgog",
+    "Stock": "500",
+    "Price": 0.0199,
+    "Currency": "USD",
+    "Position": 727,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 01:42:25",
+    "Seller": "Rapirra",
+    "Stock": "20",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 728,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 01:42:25",
+    "Seller": "Matsuoka",
+    "Stock": "1175",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 729,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
