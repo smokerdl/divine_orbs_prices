@@ -2088,5 +2088,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-04 20:50:07",
+    "Seller": "bestbrood",
+    "Stock": "1100",
+    "Price": 0.0191,
+    "Currency": "USD",
+    "Position": 702,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-04 20:50:07",
+    "Seller": "DarkEffekt",
+    "Stock": "98",
+    "Price": 0.0193,
+    "Currency": "USD",
+    "Position": 707,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-04 20:50:07",
+    "Seller": "StarMaD",
+    "Stock": "186",
+    "Price": 0.0193,
+    "Currency": "USD",
+    "Position": 708,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-04 20:50:07",
+    "Seller": "Vetal87",
+    "Stock": "120",
+    "Price": 0.0193,
+    "Currency": "USD",
+    "Position": 709,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-04 20:50:07",
+    "Seller": "NigaMiga",
+    "Stock": "108",
+    "Price": 0.0198,
+    "Currency": "USD",
+    "Position": 714,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
