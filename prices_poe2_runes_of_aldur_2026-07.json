@@ -1978,5 +1978,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-04 18:49:35",
+    "Seller": "Zhoraha",
+    "Stock": "300",
+    "Price": 0.0194,
+    "Currency": "USD",
+    "Position": 682,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-04 18:49:35",
+    "Seller": "Daniel990dark",
+    "Stock": "270",
+    "Price": 0.0194,
+    "Currency": "USD",
+    "Position": 683,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-04 18:49:35",
+    "Seller": "honor3333",
+    "Stock": "1000",
+    "Price": 0.0194,
+    "Currency": "USD",
+    "Position": 684,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-04 18:49:35",
+    "Seller": "VAIPcore",
+    "Stock": "100",
+    "Price": 0.0196,
+    "Currency": "USD",
+    "Position": 688,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-04 18:49:35",
+    "Seller": "Krevanik",
+    "Stock": "1122",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 689,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
