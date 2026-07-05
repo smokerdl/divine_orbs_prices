@@ -2693,5 +2693,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 17:21:30",
+    "Seller": "epinephrin",
+    "Stock": "3500",
+    "Price": 0.0165,
+    "Currency": "USD",
+    "Position": 780,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 17:21:30",
+    "Seller": "fufka",
+    "Stock": "2400",
+    "Price": 0.0166,
+    "Currency": "USD",
+    "Position": 782,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 17:21:30",
+    "Seller": "FntNm",
+    "Stock": "972",
+    "Price": 0.0167,
+    "Currency": "USD",
+    "Position": 784,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 17:21:30",
+    "Seller": "ProdavecAccov",
+    "Stock": "1000",
+    "Price": 0.0167,
+    "Currency": "USD",
+    "Position": 785,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 17:21:30",
+    "Seller": "Jukiss",
+    "Stock": "1850",
+    "Price": 0.0167,
+    "Currency": "USD",
+    "Position": 786,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
