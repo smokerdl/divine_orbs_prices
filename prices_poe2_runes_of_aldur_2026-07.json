@@ -2968,5 +2968,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-06 00:44:50",
+    "Seller": "ParniHelp",
+    "Stock": "1000",
+    "Price": 0.0159,
+    "Currency": "USD",
+    "Position": 682,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-06 00:44:50",
+    "Seller": "Hitrou",
+    "Stock": "1600",
+    "Price": 0.0159,
+    "Currency": "USD",
+    "Position": 683,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-06 00:44:50",
+    "Seller": "heybruh",
+    "Stock": "1800",
+    "Price": 0.016,
+    "Currency": "USD",
+    "Position": 684,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-06 00:44:50",
+    "Seller": "Darknillxoxo",
+    "Stock": "1400",
+    "Price": 0.0161,
+    "Currency": "USD",
+    "Position": 739,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-06 00:44:50",
+    "Seller": "LanselLannister",
+    "Stock": "3700",
+    "Price": 0.0161,
+    "Currency": "USD",
+    "Position": 740,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
