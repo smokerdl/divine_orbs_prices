@@ -2913,5 +2913,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 23:03:00",
+    "Seller": "GrindDigger",
+    "Stock": "1000",
+    "Price": 0.0156,
+    "Currency": "USD",
+    "Position": 701,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 23:03:00",
+    "Seller": "hatrad",
+    "Stock": "1400",
+    "Price": 0.0156,
+    "Currency": "USD",
+    "Position": 702,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 23:03:00",
+    "Seller": "Zerxzerxzerx",
+    "Stock": "690",
+    "Price": 0.0156,
+    "Currency": "USD",
+    "Position": 703,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 23:03:00",
+    "Seller": "Freua",
+    "Stock": "230",
+    "Price": 0.0156,
+    "Currency": "USD",
+    "Position": 704,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 23:03:00",
+    "Seller": "PoeFast",
+    "Stock": "1850",
+    "Price": 0.0157,
+    "Currency": "USD",
+    "Position": 705,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
