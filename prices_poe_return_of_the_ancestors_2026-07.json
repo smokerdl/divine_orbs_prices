@@ -2748,5 +2748,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-05 19:58:39",
+    "Seller": "Iceworldtrial",
+    "Stock": "300",
+    "Price": 0.078,
+    "Currency": "USD",
+    "Position": 79,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-05 19:58:39",
+    "Seller": "LoLLeR",
+    "Stock": "40",
+    "Price": 0.08,
+    "Currency": "USD",
+    "Position": 81,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-05 19:58:39",
+    "Seller": "DevilR007",
+    "Stock": "19",
+    "Price": 0.083,
+    "Currency": "USD",
+    "Position": 82,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-05 19:58:39",
+    "Seller": "RagZzz",
+    "Stock": "15",
+    "Price": 0.084,
+    "Currency": "USD",
+    "Position": 83,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-05 19:58:39",
+    "Seller": "loneg0d",
+    "Stock": "250",
+    "Price": 0.085,
+    "Currency": "USD",
+    "Position": 84,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12660"
   }
 ]
