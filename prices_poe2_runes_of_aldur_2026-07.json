@@ -3023,5 +3023,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-06 01:43:48",
+    "Seller": "dimagpay",
+    "Stock": "600",
+    "Price": 0.0161,
+    "Currency": "USD",
+    "Position": 730,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-06 01:43:48",
+    "Seller": "Evespace",
+    "Stock": "500",
+    "Price": 0.0161,
+    "Currency": "USD",
+    "Position": 731,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-06 01:43:48",
+    "Seller": "YaKirill",
+    "Stock": "2400",
+    "Price": 0.0161,
+    "Currency": "USD",
+    "Position": 732,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-06 01:43:48",
+    "Seller": "Bumblebee163",
+    "Stock": "200",
+    "Price": 0.0166,
+    "Currency": "USD",
+    "Position": 734,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-06 01:43:48",
+    "Seller": "Hitrou",
+    "Stock": "1700",
+    "Price": 0.0167,
+    "Currency": "USD",
+    "Position": 738,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
