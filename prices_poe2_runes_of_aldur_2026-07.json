@@ -2473,5 +2473,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 08:48:35",
+    "Seller": "WTScheap",
+    "Stock": "850",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 744,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 08:48:35",
+    "Seller": "Furikonst",
+    "Stock": "1100",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 745,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 08:48:35",
+    "Seller": "Vazmaz",
+    "Stock": "1400",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 746,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 08:48:35",
+    "Seller": "Yra123",
+    "Stock": "4148",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 747,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 08:48:35",
+    "Seller": "SpectrAll",
+    "Stock": "2000",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 748,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
