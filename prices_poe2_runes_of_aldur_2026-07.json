@@ -2583,5 +2583,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 13:54:30",
+    "Seller": "kHn",
+    "Stock": "200",
+    "Price": 0.019,
+    "Currency": "USD",
+    "Position": 758,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 13:54:30",
+    "Seller": "sensorlinc",
+    "Stock": "1500",
+    "Price": 0.0192,
+    "Currency": "USD",
+    "Position": 762,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 13:54:30",
+    "Seller": "snowallday",
+    "Stock": "20600",
+    "Price": 0.0193,
+    "Currency": "USD",
+    "Position": 763,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 13:54:30",
+    "Seller": "Baleron25",
+    "Stock": "1000",
+    "Price": 0.0193,
+    "Currency": "USD",
+    "Position": 767,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 13:54:30",
+    "Seller": "kryazhevskikh96",
+    "Stock": "458",
+    "Price": 0.0193,
+    "Currency": "USD",
+    "Position": 768,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
