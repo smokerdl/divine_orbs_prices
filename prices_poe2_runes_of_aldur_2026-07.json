@@ -2858,5 +2858,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 21:51:21",
+    "Seller": "hexensabbath",
+    "Stock": "1000",
+    "Price": 0.0177,
+    "Currency": "USD",
+    "Position": 777,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 21:51:21",
+    "Seller": "teratonlol",
+    "Stock": "2800",
+    "Price": 0.0177,
+    "Currency": "USD",
+    "Position": 778,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 21:51:21",
+    "Seller": "SickOfTheRain",
+    "Stock": "1689",
+    "Price": 0.0177,
+    "Currency": "USD",
+    "Position": 779,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 21:51:21",
+    "Seller": "Jukiss",
+    "Stock": "1800",
+    "Price": 0.0179,
+    "Currency": "USD",
+    "Position": 782,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-05 21:51:21",
+    "Seller": "nenaebyto4no",
+    "Stock": "820",
+    "Price": 0.0184,
+    "Currency": "USD",
+    "Position": 786,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
