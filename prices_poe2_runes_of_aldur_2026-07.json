@@ -3353,5 +3353,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-06 20:30:32",
+    "Seller": "sadme1",
+    "Stock": "283",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 627,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-06 20:30:32",
+    "Seller": "ImmortalaeLoo",
+    "Stock": "45",
+    "Price": 0.0129,
+    "Currency": "USD",
+    "Position": 643,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-06 20:30:32",
+    "Seller": "Gigansoo",
+    "Stock": "2000",
+    "Price": 0.0129,
+    "Currency": "USD",
+    "Position": 646,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-06 20:30:32",
+    "Seller": "p3ps1k0la",
+    "Stock": "2600",
+    "Price": 0.0129,
+    "Currency": "USD",
+    "Position": 647,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-06 20:30:32",
+    "Seller": "MetalOlivka",
+    "Stock": "1600",
+    "Price": 0.0129,
+    "Currency": "USD",
+    "Position": 648,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
