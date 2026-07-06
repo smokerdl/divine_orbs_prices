@@ -3188,5 +3188,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-06 09:11:39",
+    "Seller": "pathfinder666",
+    "Stock": "1500",
+    "Price": 0.0161,
+    "Currency": "USD",
+    "Position": 736,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-06 09:11:39",
+    "Seller": "SIRvatson",
+    "Stock": "600",
+    "Price": 0.0161,
+    "Currency": "USD",
+    "Position": 737,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-06 09:11:39",
+    "Seller": "Papas",
+    "Stock": "814",
+    "Price": 0.0161,
+    "Currency": "USD",
+    "Position": 738,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-06 09:11:39",
+    "Seller": "wintime",
+    "Stock": "927",
+    "Price": 0.0161,
+    "Currency": "USD",
+    "Position": 739,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-06 09:11:39",
+    "Seller": "Deimier",
+    "Stock": "2400",
+    "Price": 0.0161,
+    "Currency": "USD",
+    "Position": 740,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
