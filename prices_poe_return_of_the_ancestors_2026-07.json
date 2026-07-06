@@ -3188,5 +3188,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-06 14:17:30",
+    "Seller": "PathOfEnjoyer",
+    "Stock": "92",
+    "Price": 0.08,
+    "Currency": "USD",
+    "Position": 82,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-06 14:17:30",
+    "Seller": "Framaz",
+    "Stock": "232",
+    "Price": 0.081,
+    "Currency": "USD",
+    "Position": 83,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-06 14:17:30",
+    "Seller": "vadonc19",
+    "Stock": "200",
+    "Price": 0.081,
+    "Currency": "USD",
+    "Position": 84,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-06 14:17:30",
+    "Seller": "Nazarseller",
+    "Stock": "400",
+    "Price": 0.081,
+    "Currency": "USD",
+    "Position": 85,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-06 14:17:30",
+    "Seller": "AvetusTein",
+    "Stock": "212",
+    "Price": 0.082,
+    "Currency": "USD",
+    "Position": 86,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12660"
   }
 ]
