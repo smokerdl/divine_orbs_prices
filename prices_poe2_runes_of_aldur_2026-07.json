@@ -3958,5 +3958,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-07 22:27:24",
+    "Seller": "Corvx",
+    "Stock": "3500",
+    "Price": 0.0134,
+    "Currency": "USD",
+    "Position": 677,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-07 22:27:24",
+    "Seller": "GrindDigger",
+    "Stock": "750",
+    "Price": 0.0136,
+    "Currency": "USD",
+    "Position": 678,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-07 22:27:24",
+    "Seller": "SunHeat",
+    "Stock": "9474",
+    "Price": 0.0136,
+    "Currency": "USD",
+    "Position": 679,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-07 22:27:24",
+    "Seller": "cockroachsell",
+    "Stock": "9000",
+    "Price": 0.0137,
+    "Currency": "USD",
+    "Position": 680,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-07 22:27:24",
+    "Seller": "zhukaaaa",
+    "Stock": "640",
+    "Price": 0.0137,
+    "Currency": "USD",
+    "Position": 681,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
