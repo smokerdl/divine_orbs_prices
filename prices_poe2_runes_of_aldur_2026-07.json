@@ -4013,5 +4013,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-08 00:11:27",
+    "Seller": "L2Eternal",
+    "Stock": "40",
+    "Price": 0.0126,
+    "Currency": "USD",
+    "Position": 613,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-08 00:11:27",
+    "Seller": "Ilyajuicy",
+    "Stock": "1697",
+    "Price": 0.0129,
+    "Currency": "USD",
+    "Position": 623,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-08 00:11:27",
+    "Seller": "sirsaumaf",
+    "Stock": "8000",
+    "Price": 0.0132,
+    "Currency": "USD",
+    "Position": 646,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-08 00:11:27",
+    "Seller": "railgun2",
+    "Stock": "4300",
+    "Price": 0.0134,
+    "Currency": "USD",
+    "Position": 682,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-08 00:11:27",
+    "Seller": "hazardinnio",
+    "Stock": "1550",
+    "Price": 0.0136,
+    "Currency": "USD",
+    "Position": 683,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
