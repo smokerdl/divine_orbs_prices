@@ -4068,5 +4068,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-08 01:46:32",
+    "Seller": "JonSilva",
+    "Stock": "1100",
+    "Price": 0.0127,
+    "Currency": "USD",
+    "Position": 615,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-08 01:46:32",
+    "Seller": "Smutr",
+    "Stock": "150",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 623,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-08 01:46:32",
+    "Seller": "Bigoirovento",
+    "Stock": "404",
+    "Price": 0.0137,
+    "Currency": "USD",
+    "Position": 682,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-08 01:46:32",
+    "Seller": "Evilcarp",
+    "Stock": "45",
+    "Price": 0.0139,
+    "Currency": "USD",
+    "Position": 683,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-08 01:46:32",
+    "Seller": "dosadasnikom",
+    "Stock": "650",
+    "Price": 0.0139,
+    "Currency": "USD",
+    "Position": 685,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
