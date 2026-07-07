@@ -3848,5 +3848,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-07 18:36:55",
+    "Seller": "ExilenceProvider",
+    "Stock": "830",
+    "Price": 0.0125,
+    "Currency": "USD",
+    "Position": 597,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-07 18:36:55",
+    "Seller": "Ilikecoin",
+    "Stock": "15",
+    "Price": 0.0126,
+    "Currency": "USD",
+    "Position": 598,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-07 18:36:55",
+    "Seller": "Def69",
+    "Stock": "2500",
+    "Price": 0.0126,
+    "Currency": "USD",
+    "Position": 599,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-07 18:36:55",
+    "Seller": "Nemesis787",
+    "Stock": "650",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 603,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-07 18:36:55",
+    "Seller": "MrMarshall94",
+    "Stock": "800",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 610,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
