@@ -3628,5 +3628,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-07 04:29:08",
+    "Seller": "TradingZones",
+    "Stock": "200",
+    "Price": 0.0135,
+    "Currency": "USD",
+    "Position": 660,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-07 04:29:08",
+    "Seller": "farmilka",
+    "Stock": "311",
+    "Price": 0.0136,
+    "Currency": "USD",
+    "Position": 661,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-07 04:29:08",
+    "Seller": "krshl",
+    "Stock": "11",
+    "Price": 0.0137,
+    "Currency": "USD",
+    "Position": 662,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-07 04:29:08",
+    "Seller": "dumper1306",
+    "Stock": "1000",
+    "Price": 0.0137,
+    "Currency": "USD",
+    "Position": 663,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-07 04:29:08",
+    "Seller": "RaptorAleks",
+    "Stock": "320",
+    "Price": 0.0137,
+    "Currency": "USD",
+    "Position": 665,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
