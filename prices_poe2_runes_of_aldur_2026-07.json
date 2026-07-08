@@ -4398,5 +4398,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-08 15:09:18",
+    "Seller": "Methode",
+    "Stock": "46",
+    "Price": 0.0118,
+    "Currency": "USD",
+    "Position": 577,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-08 15:09:18",
+    "Seller": "rusyaPay",
+    "Stock": "5",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 579,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-08 15:09:18",
+    "Seller": "Agrail91",
+    "Stock": "600",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 580,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-08 15:09:18",
+    "Seller": "Exchaos32",
+    "Stock": "54",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 581,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-08 15:09:18",
+    "Seller": "Falonar",
+    "Stock": "42",
+    "Price": 0.0125,
+    "Currency": "USD",
+    "Position": 591,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
