@@ -4618,5 +4618,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-08 23:49:49",
+    "Seller": "OkimuroHD",
+    "Stock": "600",
+    "Price": 0.0126,
+    "Currency": "USD",
+    "Position": 591,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-08 23:49:49",
+    "Seller": "bestbrood",
+    "Stock": "1260",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 594,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-08 23:49:49",
+    "Seller": "RomPeso",
+    "Stock": "460",
+    "Price": 0.0129,
+    "Currency": "USD",
+    "Position": 621,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-08 23:49:49",
+    "Seller": "VyacheslavPhoenixx",
+    "Stock": "3000",
+    "Price": 0.0131,
+    "Currency": "USD",
+    "Position": 623,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-08 23:49:49",
+    "Seller": "albert456",
+    "Stock": "4500",
+    "Price": 0.0132,
+    "Currency": "USD",
+    "Position": 658,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
