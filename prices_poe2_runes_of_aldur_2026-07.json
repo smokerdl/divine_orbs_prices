@@ -4178,5 +4178,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-08 04:14:12",
+    "Seller": "seaddeath",
+    "Stock": "900",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 614,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-08 04:14:12",
+    "Seller": "kuma2473",
+    "Stock": "800",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 615,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-08 04:14:12",
+    "Seller": "Alexes11",
+    "Stock": "1900",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 617,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-08 04:14:12",
+    "Seller": "Deimier",
+    "Stock": "1000",
+    "Price": 0.0135,
+    "Currency": "USD",
+    "Position": 674,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-08 04:14:12",
+    "Seller": "Evilcarp",
+    "Stock": "45",
+    "Price": 0.0138,
+    "Currency": "USD",
+    "Position": 675,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
