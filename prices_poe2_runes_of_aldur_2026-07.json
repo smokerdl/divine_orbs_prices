@@ -5113,5 +5113,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-09 21:31:43",
+    "Seller": "opppppsss",
+    "Stock": "4200",
+    "Price": 0.0125,
+    "Currency": "USD",
+    "Position": 617,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-09 21:31:43",
+    "Seller": "NightWinnzer",
+    "Stock": "1560",
+    "Price": 0.0127,
+    "Currency": "USD",
+    "Position": 619,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-09 21:31:43",
+    "Seller": "UKKUNH",
+    "Stock": "1000",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 626,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-09 21:31:43",
+    "Seller": "FntNm",
+    "Stock": "1291",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 627,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-09 21:31:43",
+    "Seller": "Balkion",
+    "Stock": "10",
+    "Price": 0.013,
+    "Currency": "USD",
+    "Position": 648,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
