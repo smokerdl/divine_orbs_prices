@@ -5663,5 +5663,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-10 21:13:25",
+    "Seller": "Vernal1s",
+    "Stock": "22",
+    "Price": 0.0117,
+    "Currency": "USD",
+    "Position": 674,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-10 21:13:25",
+    "Seller": "aizecks",
+    "Stock": "1300",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 675,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-10 21:13:25",
+    "Seller": "poetorg33",
+    "Stock": "1400",
+    "Price": 0.0121,
+    "Currency": "USD",
+    "Position": 676,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-10 21:13:25",
+    "Seller": "MentalistSTR",
+    "Stock": "3000",
+    "Price": 0.0123,
+    "Currency": "USD",
+    "Position": 677,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-10 21:13:25",
+    "Seller": "PoeFast",
+    "Stock": "25000",
+    "Price": 0.0123,
+    "Currency": "USD",
+    "Position": 678,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
