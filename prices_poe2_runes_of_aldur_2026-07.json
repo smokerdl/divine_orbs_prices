@@ -5608,5 +5608,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-10 19:08:58",
+    "Seller": "olag777",
+    "Stock": "1000",
+    "Price": 0.0144,
+    "Currency": "USD",
+    "Position": 673,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-10 19:08:58",
+    "Seller": "Wabrea",
+    "Stock": "681",
+    "Price": 0.0144,
+    "Currency": "USD",
+    "Position": 674,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-10 19:08:58",
+    "Seller": "DarkEffekt",
+    "Stock": "2",
+    "Price": 0.0146,
+    "Currency": "USD",
+    "Position": 681,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-10 19:08:58",
+    "Seller": "dodolk",
+    "Stock": "193705",
+    "Price": 0.0146,
+    "Currency": "USD",
+    "Position": 682,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-10 19:08:58",
+    "Seller": "DeathHeroes",
+    "Stock": "964",
+    "Price": 0.0146,
+    "Currency": "USD",
+    "Position": 683,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
