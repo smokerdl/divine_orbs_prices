@@ -5663,5 +5663,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-10 23:07:49",
+    "Seller": "FerumVolk",
+    "Stock": "1",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 68,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-10 23:07:49",
+    "Seller": "Artenasd",
+    "Stock": "106",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 69,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-10 23:07:49",
+    "Seller": "ramiresss",
+    "Stock": "420",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 70,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-10 23:07:49",
+    "Seller": "KinGGlox",
+    "Stock": "600",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 72,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-10 23:07:49",
+    "Seller": "Nyli",
+    "Stock": "250",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 73,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12660"
   }
 ]
