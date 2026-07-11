@@ -5938,5 +5938,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-11 07:48:21",
+    "Seller": "Nyli",
+    "Stock": "100",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 69,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-11 07:48:21",
+    "Seller": "JadeTerr",
+    "Stock": "200",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-11 07:48:21",
+    "Seller": "JadeTerr",
+    "Stock": "200",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 75,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-11 07:48:21",
+    "Seller": "Vadimmm11",
+    "Stock": "80",
+    "Price": 0.038,
+    "Currency": "USD",
+    "Position": 76,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12660"
+  },
+  {
+    "Timestamp": "2026-07-11 07:48:21",
+    "Seller": "IAmSoTasty",
+    "Stock": "200",
+    "Price": 0.048,
+    "Currency": "USD",
+    "Position": 84,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12660"
   }
 ]
