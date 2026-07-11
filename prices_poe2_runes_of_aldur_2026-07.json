@@ -6378,5 +6378,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-11 18:40:44",
+    "Seller": "Sleyk",
+    "Stock": "358",
+    "Price": 0.013,
+    "Currency": "USD",
+    "Position": 639,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-11 18:40:44",
+    "Seller": "EtherealVoice",
+    "Stock": "305",
+    "Price": 0.0132,
+    "Currency": "USD",
+    "Position": 674,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-11 18:40:44",
+    "Seller": "Vernal1s",
+    "Stock": "22",
+    "Price": 0.0134,
+    "Currency": "USD",
+    "Position": 675,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-11 18:40:44",
+    "Seller": "DeadInside120",
+    "Stock": "1300",
+    "Price": 0.0134,
+    "Currency": "USD",
+    "Position": 676,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-11 18:40:44",
+    "Seller": "XxXrEvAnXxx00",
+    "Stock": "800",
+    "Price": 0.0135,
+    "Currency": "USD",
+    "Position": 677,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
