@@ -7258,5 +7258,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-12 18:43:51",
+    "Seller": "Xo4ypizzu",
+    "Stock": "500",
+    "Price": 0.0123,
+    "Currency": "USD",
+    "Position": 663,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-12 18:43:51",
+    "Seller": "Latinococ",
+    "Stock": "10400",
+    "Price": 0.0125,
+    "Currency": "USD",
+    "Position": 666,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-12 18:43:51",
+    "Seller": "Straxim",
+    "Stock": "1000",
+    "Price": 0.0127,
+    "Currency": "USD",
+    "Position": 676,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-12 18:43:51",
+    "Seller": "Sorcern",
+    "Stock": "8150",
+    "Price": 0.0127,
+    "Currency": "USD",
+    "Position": 677,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-12 18:43:51",
+    "Seller": "Norganonn",
+    "Stock": "300",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 679,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
