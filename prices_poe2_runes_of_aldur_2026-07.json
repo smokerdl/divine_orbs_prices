@@ -7313,5 +7313,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-12 19:40:23",
+    "Seller": "bestbrood",
+    "Stock": "2200",
+    "Price": 0.0137,
+    "Currency": "USD",
+    "Position": 661,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-12 19:40:23",
+    "Seller": "PunaBenoa",
+    "Stock": "1500",
+    "Price": 0.0139,
+    "Currency": "USD",
+    "Position": 662,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-12 19:40:23",
+    "Seller": "Jukiss",
+    "Stock": "1750",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 663,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-12 19:40:23",
+    "Seller": "DeadInside120",
+    "Stock": "1100",
+    "Price": 0.0141,
+    "Currency": "USD",
+    "Position": 664,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-12 19:40:23",
+    "Seller": "Lindi",
+    "Stock": "1000",
+    "Price": 0.0141,
+    "Currency": "USD",
+    "Position": 665,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
