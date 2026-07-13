@@ -7973,5 +7973,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-13 19:15:51",
+    "Seller": "HideoutWarrior",
+    "Stock": "1000",
+    "Price": 0.0129,
+    "Currency": "USD",
+    "Position": 664,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-13 19:15:51",
+    "Seller": "Cassadoo",
+    "Stock": "1000",
+    "Price": 0.0129,
+    "Currency": "USD",
+    "Position": 684,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-13 19:15:51",
+    "Seller": "rushtocomes",
+    "Stock": "1030",
+    "Price": 0.0129,
+    "Currency": "USD",
+    "Position": 685,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-13 19:15:51",
+    "Seller": "Gladiatorfp",
+    "Stock": "1",
+    "Price": 0.0131,
+    "Currency": "USD",
+    "Position": 687,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-13 19:15:51",
+    "Seller": "pilladin",
+    "Stock": "878",
+    "Price": 0.0131,
+    "Currency": "USD",
+    "Position": 688,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
