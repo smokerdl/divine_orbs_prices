@@ -7753,5 +7753,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-13 08:19:14",
+    "Seller": "Vieterdiger",
+    "Stock": "3000",
+    "Price": 0.0131,
+    "Currency": "USD",
+    "Position": 625,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-13 08:19:14",
+    "Seller": "SacraerAO",
+    "Stock": "1500",
+    "Price": 0.0131,
+    "Currency": "USD",
+    "Position": 626,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-13 08:19:14",
+    "Seller": "ARENAKAROS",
+    "Stock": "293",
+    "Price": 0.0132,
+    "Currency": "USD",
+    "Position": 628,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-13 08:19:14",
+    "Seller": "Ferrymanofficial",
+    "Stock": "6000",
+    "Price": 0.0132,
+    "Currency": "USD",
+    "Position": 629,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-13 08:19:14",
+    "Seller": "Rustambog",
+    "Stock": "1300",
+    "Price": 0.0132,
+    "Currency": "USD",
+    "Position": 630,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
