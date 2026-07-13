@@ -7918,5 +7918,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-13 16:51:02",
+    "Seller": "SAKHARA",
+    "Stock": "5500",
+    "Price": 0.0129,
+    "Currency": "USD",
+    "Position": 616,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-13 16:51:02",
+    "Seller": "RoflanLeague",
+    "Stock": "6700",
+    "Price": 0.0129,
+    "Currency": "USD",
+    "Position": 617,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-13 16:51:02",
+    "Seller": "Gladiatorfp",
+    "Stock": "1",
+    "Price": 0.0131,
+    "Currency": "USD",
+    "Position": 619,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-13 16:51:02",
+    "Seller": "pilladin",
+    "Stock": "10500",
+    "Price": 0.0131,
+    "Currency": "USD",
+    "Position": 620,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-13 16:51:02",
+    "Seller": "wintime",
+    "Stock": "1400",
+    "Price": 0.0134,
+    "Currency": "USD",
+    "Position": 655,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
