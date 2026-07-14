@@ -8413,5 +8413,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-14 09:58:34",
+    "Seller": "niceiceguys",
+    "Stock": "1500",
+    "Price": 0.0123,
+    "Currency": "USD",
+    "Position": 621,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-14 09:58:34",
+    "Seller": "Zhoraha",
+    "Stock": "600",
+    "Price": 0.0123,
+    "Currency": "USD",
+    "Position": 622,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-14 09:58:34",
+    "Seller": "InfusionAshenvale",
+    "Stock": "1600",
+    "Price": 0.0123,
+    "Currency": "USD",
+    "Position": 623,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-14 09:58:34",
+    "Seller": "Sandor228",
+    "Stock": "3000",
+    "Price": 0.0125,
+    "Currency": "USD",
+    "Position": 625,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-14 09:58:34",
+    "Seller": "dekty",
+    "Stock": "2300",
+    "Price": 0.0125,
+    "Currency": "USD",
+    "Position": 626,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
