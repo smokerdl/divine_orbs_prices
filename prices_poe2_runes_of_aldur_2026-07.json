@@ -8853,5 +8853,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-14 23:03:30",
+    "Seller": "Despodrom",
+    "Stock": "20",
+    "Price": 0.0112,
+    "Currency": "USD",
+    "Position": 700,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-14 23:03:30",
+    "Seller": "Aleksadr123123",
+    "Stock": "65",
+    "Price": 0.0112,
+    "Currency": "USD",
+    "Position": 701,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-14 23:03:30",
+    "Seller": "restor43one",
+    "Stock": "200",
+    "Price": 0.0112,
+    "Currency": "USD",
+    "Position": 724,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-14 23:03:30",
+    "Seller": "LastTry555",
+    "Stock": "215",
+    "Price": 0.0112,
+    "Currency": "USD",
+    "Position": 725,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-14 23:03:30",
+    "Seller": "LineAden",
+    "Stock": "2000",
+    "Price": 0.0113,
+    "Currency": "USD",
+    "Position": 728,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
