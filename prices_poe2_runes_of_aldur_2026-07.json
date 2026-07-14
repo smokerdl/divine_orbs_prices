@@ -8963,5 +8963,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-15 01:42:10",
+    "Seller": "immun3",
+    "Stock": "400",
+    "Price": 0.0129,
+    "Currency": "USD",
+    "Position": 718,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-15 01:42:10",
+    "Seller": "T0ommi",
+    "Stock": "2000",
+    "Price": 0.0131,
+    "Currency": "USD",
+    "Position": 753,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-15 01:42:10",
+    "Seller": "Djeedau",
+    "Stock": "1200",
+    "Price": 0.0136,
+    "Currency": "USD",
+    "Position": 754,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-15 01:42:10",
+    "Seller": "redgard8",
+    "Stock": "2000",
+    "Price": 0.0139,
+    "Currency": "USD",
+    "Position": 756,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-15 01:42:10",
+    "Seller": "ProdavecAccov",
+    "Stock": "840",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 757,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
