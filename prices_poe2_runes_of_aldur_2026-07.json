@@ -8743,5 +8743,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-14 20:52:27",
+    "Seller": "k1h1",
+    "Stock": "1508",
+    "Price": 0.0126,
+    "Currency": "USD",
+    "Position": 678,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-14 20:52:27",
+    "Seller": "Letheil",
+    "Stock": "474",
+    "Price": 0.0126,
+    "Currency": "USD",
+    "Position": 679,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-14 20:52:27",
+    "Seller": "Despodrom",
+    "Stock": "20",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 685,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-14 20:52:27",
+    "Seller": "Scizor",
+    "Stock": "2500",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 686,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-14 20:52:27",
+    "Seller": "Sweet2ch4life",
+    "Stock": "105",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 709,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
