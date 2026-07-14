@@ -8688,5 +8688,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-14 19:04:36",
+    "Seller": "AZAZELLLO",
+    "Stock": "1500",
+    "Price": 0.0109,
+    "Currency": "USD",
+    "Position": 670,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-14 19:04:36",
+    "Seller": "Zhoraha",
+    "Stock": "600",
+    "Price": 0.011,
+    "Currency": "USD",
+    "Position": 672,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-14 19:04:36",
+    "Seller": "GooodRobin",
+    "Stock": "1530",
+    "Price": 0.011,
+    "Currency": "USD",
+    "Position": 676,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-14 19:04:36",
+    "Seller": "widowmake",
+    "Stock": "2300",
+    "Price": 0.011,
+    "Currency": "USD",
+    "Position": 677,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-14 19:04:36",
+    "Seller": "Despodrom",
+    "Stock": "20",
+    "Price": 0.0112,
+    "Currency": "USD",
+    "Position": 683,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
