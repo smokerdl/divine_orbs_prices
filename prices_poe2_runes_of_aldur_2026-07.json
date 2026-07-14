@@ -8798,5 +8798,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-14 21:54:19",
+    "Seller": "TentProector",
+    "Stock": "545",
+    "Price": 0.0125,
+    "Currency": "USD",
+    "Position": 690,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-14 21:54:19",
+    "Seller": "indigotr",
+    "Stock": "600",
+    "Price": 0.0126,
+    "Currency": "USD",
+    "Position": 695,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-14 21:54:19",
+    "Seller": "Shankhvh",
+    "Stock": "1600",
+    "Price": 0.0126,
+    "Currency": "USD",
+    "Position": 696,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-14 21:54:19",
+    "Seller": "SunHeat",
+    "Stock": "11000",
+    "Price": 0.0126,
+    "Currency": "USD",
+    "Position": 697,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-14 21:54:19",
+    "Seller": "KotBazillio",
+    "Stock": "3100",
+    "Price": 0.0127,
+    "Currency": "USD",
+    "Position": 698,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
