@@ -9183,5 +9183,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-15 10:02:23",
+    "Seller": "pivpali4",
+    "Stock": "2000",
+    "Price": 0.0112,
+    "Currency": "USD",
+    "Position": 673,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-15 10:02:23",
+    "Seller": "EuphemiaSparkle",
+    "Stock": "1193",
+    "Price": 0.0112,
+    "Currency": "USD",
+    "Position": 674,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-15 10:02:23",
+    "Seller": "k1h1",
+    "Stock": "3700",
+    "Price": 0.0113,
+    "Currency": "USD",
+    "Position": 676,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-15 10:02:23",
+    "Seller": "T0ommi",
+    "Stock": "2000",
+    "Price": 0.0115,
+    "Currency": "USD",
+    "Position": 711,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-15 10:02:23",
+    "Seller": "Zhoraha",
+    "Stock": "1000",
+    "Price": 0.0117,
+    "Currency": "USD",
+    "Position": 712,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
