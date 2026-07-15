@@ -9733,5 +9733,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-16 02:44:17",
+    "Seller": "Kandidatyra",
+    "Stock": "1312",
+    "Price": 0.0126,
+    "Currency": "USD",
+    "Position": 683,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-16 02:44:17",
+    "Seller": "BannanaPower",
+    "Stock": "2000",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 688,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-16 02:44:17",
+    "Seller": "Middir",
+    "Stock": "2500",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 689,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-16 02:44:17",
+    "Seller": "SeishinIkari",
+    "Stock": "11000",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 714,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-16 02:44:17",
+    "Seller": "Golovorub",
+    "Stock": "2000",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 715,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
