@@ -9458,5 +9458,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-15 19:58:49",
+    "Seller": "MrHunter",
+    "Stock": "3100",
+    "Price": 0.0125,
+    "Currency": "USD",
+    "Position": 668,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-15 19:58:49",
+    "Seller": "Vovanlq",
+    "Stock": "1300",
+    "Price": 0.0125,
+    "Currency": "USD",
+    "Position": 672,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-15 19:58:49",
+    "Seller": "Gamaliyan",
+    "Stock": "4100",
+    "Price": 0.0125,
+    "Currency": "USD",
+    "Position": 673,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-15 19:58:49",
+    "Seller": "olag777",
+    "Stock": "1200",
+    "Price": 0.0126,
+    "Currency": "USD",
+    "Position": 675,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-15 19:58:49",
+    "Seller": "Valentin",
+    "Stock": "1300",
+    "Price": 0.0126,
+    "Currency": "USD",
+    "Position": 678,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
