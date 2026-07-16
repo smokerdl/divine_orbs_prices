@@ -10063,5 +10063,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-16 16:07:19",
+    "Seller": "Wistint",
+    "Stock": "3600",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 669,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-16 16:07:19",
+    "Seller": "Codname47",
+    "Stock": "3004",
+    "Price": 0.0126,
+    "Currency": "USD",
+    "Position": 674,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-16 16:07:19",
+    "Seller": "Golovorub",
+    "Stock": "1000",
+    "Price": 0.0127,
+    "Currency": "USD",
+    "Position": 692,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-16 16:07:19",
+    "Seller": "kryazhevskikh96",
+    "Stock": "9000",
+    "Price": 0.0127,
+    "Currency": "USD",
+    "Position": 693,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-16 16:07:19",
+    "Seller": "MyrlandSeller",
+    "Stock": "575",
+    "Price": 0.0127,
+    "Currency": "USD",
+    "Position": 695,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
