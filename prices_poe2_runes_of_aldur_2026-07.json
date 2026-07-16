@@ -9953,5 +9953,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-16 12:50:00",
+    "Seller": "InfusionAshenvale",
+    "Stock": "1800",
+    "Price": 0.0116,
+    "Currency": "USD",
+    "Position": 633,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-16 12:50:00",
+    "Seller": "Grestron",
+    "Stock": "525",
+    "Price": 0.0116,
+    "Currency": "USD",
+    "Position": 634,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-16 12:50:00",
+    "Seller": "aaeer",
+    "Stock": "1275",
+    "Price": 0.0116,
+    "Currency": "USD",
+    "Position": 635,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-16 12:50:00",
+    "Seller": "AdenaWTS",
+    "Stock": "200",
+    "Price": 0.0116,
+    "Currency": "USD",
+    "Position": 636,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-16 12:50:00",
+    "Seller": "Grizone",
+    "Stock": "700",
+    "Price": 0.0116,
+    "Currency": "USD",
+    "Position": 638,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
