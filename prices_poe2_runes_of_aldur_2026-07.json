@@ -10118,5 +10118,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-16 18:21:47",
+    "Seller": "Sankciya",
+    "Stock": "700",
+    "Price": 0.0113,
+    "Currency": "USD",
+    "Position": 643,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-16 18:21:47",
+    "Seller": "Ex1lantt",
+    "Stock": "806",
+    "Price": 0.0117,
+    "Currency": "USD",
+    "Position": 650,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-16 18:21:47",
+    "Seller": "pauchgan",
+    "Stock": "15",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 660,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-16 18:21:47",
+    "Seller": "HammApp",
+    "Stock": "1000",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 661,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-16 18:21:47",
+    "Seller": "anakonda2008",
+    "Stock": "6000",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 662,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
