@@ -10558,5 +10558,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 10:06:03",
+    "Seller": "Zhoraha",
+    "Stock": "950",
+    "Price": 0.0108,
+    "Currency": "USD",
+    "Position": 647,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 10:06:03",
+    "Seller": "LakeofTears",
+    "Stock": "1000",
+    "Price": 0.0108,
+    "Currency": "USD",
+    "Position": 650,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 10:06:03",
+    "Seller": "Sandor228",
+    "Stock": "1600",
+    "Price": 0.0108,
+    "Currency": "USD",
+    "Position": 651,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 10:06:03",
+    "Seller": "Vernal1s",
+    "Stock": "2000",
+    "Price": 0.0108,
+    "Currency": "USD",
+    "Position": 652,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 10:06:03",
+    "Seller": "Darknillxoxo",
+    "Stock": "2000",
+    "Price": 0.0109,
+    "Currency": "USD",
+    "Position": 654,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
