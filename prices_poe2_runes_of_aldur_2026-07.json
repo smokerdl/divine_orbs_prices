@@ -10943,5 +10943,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 21:44:52",
+    "Seller": "KisKass123",
+    "Stock": "199",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 625,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 21:44:52",
+    "Seller": "hells88",
+    "Stock": "7300",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 626,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 21:44:52",
+    "Seller": "Katoklizm",
+    "Stock": "1",
+    "Price": 0.0122,
+    "Currency": "USD",
+    "Position": 627,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 21:44:52",
+    "Seller": "Quarneto",
+    "Stock": "14",
+    "Price": 0.0122,
+    "Currency": "USD",
+    "Position": 628,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 21:44:52",
+    "Seller": "Lilit003",
+    "Stock": "14000",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 631,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
