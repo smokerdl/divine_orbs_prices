@@ -10998,5 +10998,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 22:53:19",
+    "Seller": "salavat10102003",
+    "Stock": "483",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 637,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 22:53:19",
+    "Seller": "lordniken",
+    "Stock": "5000",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 638,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 22:53:19",
+    "Seller": "Katoklizm",
+    "Stock": "1",
+    "Price": 0.0122,
+    "Currency": "USD",
+    "Position": 639,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 22:53:19",
+    "Seller": "Quarneto",
+    "Stock": "14",
+    "Price": 0.0122,
+    "Currency": "USD",
+    "Position": 640,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 22:53:19",
+    "Seller": "PorogForever",
+    "Stock": "1374",
+    "Price": 0.0122,
+    "Currency": "USD",
+    "Position": 641,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
