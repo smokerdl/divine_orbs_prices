@@ -10888,5 +10888,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 20:51:10",
+    "Seller": "MackerelPizza",
+    "Stock": "2324",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 624,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 20:51:10",
+    "Seller": "Katoklizm",
+    "Stock": "1",
+    "Price": 0.0122,
+    "Currency": "USD",
+    "Position": 626,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 20:51:10",
+    "Seller": "kryazhevskikh96",
+    "Stock": "6800",
+    "Price": 0.0122,
+    "Currency": "USD",
+    "Position": 627,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 20:51:10",
+    "Seller": "LEGENDARYKAI",
+    "Stock": "1300",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 630,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 20:51:10",
+    "Seller": "ragestrike",
+    "Stock": "571",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 631,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
