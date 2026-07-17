@@ -10833,5 +10833,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 19:03:41",
+    "Seller": "vigik2013",
+    "Stock": "1500",
+    "Price": 0.0117,
+    "Currency": "USD",
+    "Position": 571,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 19:03:41",
+    "Seller": "Latinococ",
+    "Stock": "20000",
+    "Price": 0.0117,
+    "Currency": "USD",
+    "Position": 572,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 19:03:41",
+    "Seller": "Nyli",
+    "Stock": "800",
+    "Price": 0.0118,
+    "Currency": "USD",
+    "Position": 574,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 19:03:41",
+    "Seller": "asd2281337",
+    "Stock": "3",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 579,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 19:03:41",
+    "Seller": "barosh",
+    "Stock": "1000",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 584,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
