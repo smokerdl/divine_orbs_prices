@@ -10503,5 +10503,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 07:48:07",
+    "Seller": "eveneytopasen",
+    "Stock": "800",
+    "Price": 0.0104,
+    "Currency": "USD",
+    "Position": 642,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 07:48:07",
+    "Seller": "sunctus",
+    "Stock": "70",
+    "Price": 0.0107,
+    "Currency": "USD",
+    "Position": 644,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 07:48:07",
+    "Seller": "Macrofarm",
+    "Stock": "700",
+    "Price": 0.0107,
+    "Currency": "USD",
+    "Position": 646,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 07:48:07",
+    "Seller": "bybligum",
+    "Stock": "2000",
+    "Price": 0.0108,
+    "Currency": "USD",
+    "Position": 649,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-17 07:48:07",
+    "Seller": "Darknillxoxo",
+    "Stock": "2000",
+    "Price": 0.0109,
+    "Currency": "USD",
+    "Position": 651,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
