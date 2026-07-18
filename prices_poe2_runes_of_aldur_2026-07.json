@@ -11768,5 +11768,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-18 19:39:13",
+    "Seller": "ExilenceProvider",
+    "Stock": "840",
+    "Price": 0.0126,
+    "Currency": "USD",
+    "Position": 599,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-18 19:39:13",
+    "Seller": "Max565578",
+    "Stock": "2000",
+    "Price": 0.0127,
+    "Currency": "USD",
+    "Position": 614,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-18 19:39:13",
+    "Seller": "imfrzn",
+    "Stock": "4500",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 620,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-18 19:39:13",
+    "Seller": "Jukiss",
+    "Stock": "700",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 621,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-18 19:39:13",
+    "Seller": "LanselLannister",
+    "Stock": "2700",
+    "Price": 0.013,
+    "Currency": "USD",
+    "Position": 657,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
