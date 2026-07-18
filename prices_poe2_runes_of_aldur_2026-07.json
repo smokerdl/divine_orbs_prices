@@ -11658,5 +11658,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-18 17:11:27",
+    "Seller": "Wistint",
+    "Stock": "6300",
+    "Price": 0.0129,
+    "Currency": "USD",
+    "Position": 583,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-18 17:11:27",
+    "Seller": "T0ommi",
+    "Stock": "2000",
+    "Price": 0.013,
+    "Currency": "USD",
+    "Position": 618,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-18 17:11:27",
+    "Seller": "DeadInside120",
+    "Stock": "13",
+    "Price": 0.0133,
+    "Currency": "USD",
+    "Position": 619,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-18 17:11:27",
+    "Seller": "tGold",
+    "Stock": "3000",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 623,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-18 17:11:27",
+    "Seller": "Lendermon",
+    "Stock": "22000",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 624,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
