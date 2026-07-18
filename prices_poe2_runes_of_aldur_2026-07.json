@@ -11988,5 +11988,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-18 23:37:35",
+    "Seller": "d3N20R",
+    "Stock": "3886",
+    "Price": 0.0108,
+    "Currency": "USD",
+    "Position": 677,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-18 23:37:35",
+    "Seller": "PoeFast",
+    "Stock": "5400",
+    "Price": 0.0111,
+    "Currency": "USD",
+    "Position": 684,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-18 23:37:35",
+    "Seller": "IRenatorIo",
+    "Stock": "1249",
+    "Price": 0.0112,
+    "Currency": "USD",
+    "Position": 706,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-18 23:37:35",
+    "Seller": "tGold",
+    "Stock": "3000",
+    "Price": 0.0115,
+    "Currency": "USD",
+    "Position": 741,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-18 23:37:35",
+    "Seller": "DeadInside120",
+    "Stock": "13",
+    "Price": 0.0117,
+    "Currency": "USD",
+    "Position": 742,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
