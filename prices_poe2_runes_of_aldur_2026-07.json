@@ -11328,5 +11328,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-18 07:33:36",
+    "Seller": "MoVEST111",
+    "Stock": "100",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 652,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-18 07:33:36",
+    "Seller": "FE4RLESS",
+    "Stock": "20",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 653,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-18 07:33:36",
+    "Seller": "Kanael",
+    "Stock": "71",
+    "Price": 0.0127,
+    "Currency": "USD",
+    "Position": 673,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-18 07:33:36",
+    "Seller": "AnimEhEnTaY",
+    "Stock": "73",
+    "Price": 0.0127,
+    "Currency": "USD",
+    "Position": 674,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-18 07:33:36",
+    "Seller": "eveneytopasen",
+    "Stock": "900",
+    "Price": 0.0127,
+    "Currency": "USD",
+    "Position": 675,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
