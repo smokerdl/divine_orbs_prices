@@ -11713,5 +11713,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-18 18:40:48",
+    "Seller": "ExilenceProvider",
+    "Stock": "5100",
+    "Price": 0.0126,
+    "Currency": "USD",
+    "Position": 564,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-18 18:40:48",
+    "Seller": "Foreveryoung88",
+    "Stock": "1250",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 581,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-18 18:40:48",
+    "Seller": "T0ommi",
+    "Stock": "2000",
+    "Price": 0.013,
+    "Currency": "USD",
+    "Position": 617,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-18 18:40:48",
+    "Seller": "DeadInside120",
+    "Stock": "13",
+    "Price": 0.0133,
+    "Currency": "USD",
+    "Position": 618,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-18 18:40:48",
+    "Seller": "STRDEXINT",
+    "Stock": "6100",
+    "Price": 0.0135,
+    "Currency": "USD",
+    "Position": 620,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
