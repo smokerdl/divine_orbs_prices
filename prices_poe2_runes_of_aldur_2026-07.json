@@ -12593,5 +12593,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-19 18:42:02",
+    "Seller": "ExilenceProvider",
+    "Stock": "660",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 607,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-19 18:42:02",
+    "Seller": "SegaBoss",
+    "Stock": "3",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 609,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-19 18:42:02",
+    "Seller": "Basilisklock",
+    "Stock": "3815",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 611,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-19 18:42:02",
+    "Seller": "Brexit",
+    "Stock": "500",
+    "Price": 0.0121,
+    "Currency": "USD",
+    "Position": 612,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-19 18:42:02",
+    "Seller": "MatGymMaster",
+    "Stock": "10",
+    "Price": 0.0122,
+    "Currency": "USD",
+    "Position": 613,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
