@@ -12373,5 +12373,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-19 12:31:35",
+    "Seller": "IloveLeno4ka228",
+    "Stock": "2721",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 610,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-19 12:31:35",
+    "Seller": "SegaBoss",
+    "Stock": "3",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 612,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-19 12:31:35",
+    "Seller": "Katoklizm",
+    "Stock": "1",
+    "Price": 0.0122,
+    "Currency": "USD",
+    "Position": 613,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-19 12:31:35",
+    "Seller": "kpolik",
+    "Stock": "1500",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 615,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-19 12:31:35",
+    "Seller": "RerixVarda",
+    "Stock": "1200",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 617,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
