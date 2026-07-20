@@ -13033,5 +13033,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-20 04:16:32",
+    "Seller": "SegaBoss",
+    "Stock": "3",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 667,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-20 04:16:32",
+    "Seller": "lvlPOElvl",
+    "Stock": "655",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 669,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-20 04:16:32",
+    "Seller": "Dadae",
+    "Stock": "2200",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 670,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-20 04:16:32",
+    "Seller": "di1",
+    "Stock": "2100",
+    "Price": 0.0121,
+    "Currency": "USD",
+    "Position": 671,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-20 04:16:32",
+    "Seller": "MatGymMaster",
+    "Stock": "10",
+    "Price": 0.0122,
+    "Currency": "USD",
+    "Position": 672,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
