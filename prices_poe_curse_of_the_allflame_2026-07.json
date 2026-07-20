@@ -548,5 +548,38 @@
     "DisplayPosition": 6,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-20 08:22:56",
+    "Seller": "grewen",
+    "Stock": "1000",
+    "Price": 0.037,
+    "Currency": "USD",
+    "Position": 68,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-20 08:22:56",
+    "Seller": "NeverLoseHVH",
+    "Stock": "600",
+    "Price": 0.041,
+    "Currency": "USD",
+    "Position": 73,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-20 08:22:56",
+    "Seller": "KrAsIvO2018",
+    "Stock": "1000000000",
+    "Price": 0.082,
+    "Currency": "USD",
+    "Position": 90,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
   }
 ]
