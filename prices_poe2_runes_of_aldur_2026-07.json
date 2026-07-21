@@ -13913,5 +13913,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-21 15:14:09",
+    "Seller": "Xlop4ik12",
+    "Stock": "445",
+    "Price": 0.0102,
+    "Currency": "USD",
+    "Position": 567,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-21 15:14:09",
+    "Seller": "NGNLZERO",
+    "Stock": "585",
+    "Price": 0.0102,
+    "Currency": "USD",
+    "Position": 568,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-21 15:14:09",
+    "Seller": "BornToSlow",
+    "Stock": "1500",
+    "Price": 0.0102,
+    "Currency": "USD",
+    "Position": 569,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-21 15:14:09",
+    "Seller": "SaleForYou",
+    "Stock": "440",
+    "Price": 0.0104,
+    "Currency": "USD",
+    "Position": 575,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-21 15:14:09",
+    "Seller": "Dendronich",
+    "Stock": "600",
+    "Price": 0.0104,
+    "Currency": "USD",
+    "Position": 576,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
