@@ -13858,5 +13858,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-21 13:09:14",
+    "Seller": "Numizzzmatik",
+    "Stock": "1250",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 619,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-21 13:09:14",
+    "Seller": "Katoklizm",
+    "Stock": "1",
+    "Price": 0.0122,
+    "Currency": "USD",
+    "Position": 620,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-21 13:09:14",
+    "Seller": "ch0kehold",
+    "Stock": "2000",
+    "Price": 0.0122,
+    "Currency": "USD",
+    "Position": 621,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-21 13:09:14",
+    "Seller": "Shavermiy",
+    "Stock": "2",
+    "Price": 0.0123,
+    "Currency": "USD",
+    "Position": 623,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-21 13:09:14",
+    "Seller": "NigaMiga",
+    "Stock": "12",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 625,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
