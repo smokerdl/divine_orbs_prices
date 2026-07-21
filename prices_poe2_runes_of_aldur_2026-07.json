@@ -13968,5 +13968,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-21 17:50:54",
+    "Seller": "Dendronich",
+    "Stock": "100",
+    "Price": 0.0118,
+    "Currency": "USD",
+    "Position": 612,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-21 17:50:54",
+    "Seller": "RLang",
+    "Stock": "2900",
+    "Price": 0.0118,
+    "Currency": "USD",
+    "Position": 613,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-21 17:50:54",
+    "Seller": "goldsanter",
+    "Stock": "1351",
+    "Price": 0.0118,
+    "Currency": "USD",
+    "Position": 614,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-21 17:50:54",
+    "Seller": "Nemesis787",
+    "Stock": "950",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 617,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-21 17:50:54",
+    "Seller": "Katoklizm",
+    "Stock": "1",
+    "Price": 0.0122,
+    "Currency": "USD",
+    "Position": 618,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
