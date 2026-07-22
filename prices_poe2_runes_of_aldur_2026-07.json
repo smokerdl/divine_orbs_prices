@@ -14848,5 +14848,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-23 00:54:16",
+    "Seller": "Profirus",
+    "Stock": "600",
+    "Price": 0.0116,
+    "Currency": "USD",
+    "Position": 683,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-23 00:54:16",
+    "Seller": "TkachSude6",
+    "Stock": "3500",
+    "Price": 0.0116,
+    "Currency": "USD",
+    "Position": 684,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-23 00:54:16",
+    "Seller": "Vidiar",
+    "Stock": "2",
+    "Price": 0.0117,
+    "Currency": "USD",
+    "Position": 685,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-23 00:54:16",
+    "Seller": "Taurissan",
+    "Stock": "750",
+    "Price": 0.0118,
+    "Currency": "USD",
+    "Position": 689,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-23 00:54:16",
+    "Seller": "JugesX",
+    "Stock": "1000",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 698,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
