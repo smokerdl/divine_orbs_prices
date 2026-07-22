@@ -14793,5 +14793,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-22 23:01:51",
+    "Seller": "Nesqwiuk",
+    "Stock": "70",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 695,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-22 23:01:51",
+    "Seller": "Grestron",
+    "Stock": "500",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 696,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-22 23:01:51",
+    "Seller": "fahedd",
+    "Stock": "3200",
+    "Price": 0.0121,
+    "Currency": "USD",
+    "Position": 698,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-22 23:01:51",
+    "Seller": "Arteqisa",
+    "Stock": "8500",
+    "Price": 0.0121,
+    "Currency": "USD",
+    "Position": 699,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-22 23:01:51",
+    "Seller": "Katoklizm",
+    "Stock": "1",
+    "Price": 0.0122,
+    "Currency": "USD",
+    "Position": 700,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
