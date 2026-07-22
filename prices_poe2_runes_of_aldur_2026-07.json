@@ -14573,5 +14573,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-22 15:16:41",
+    "Seller": "joySell",
+    "Stock": "1000",
+    "Price": 0.0112,
+    "Currency": "USD",
+    "Position": 528,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-22 15:16:41",
+    "Seller": "Plyuhich",
+    "Stock": "1077",
+    "Price": 0.0112,
+    "Currency": "USD",
+    "Position": 529,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-22 15:16:41",
+    "Seller": "Latinococ",
+    "Stock": "12000",
+    "Price": 0.0114,
+    "Currency": "USD",
+    "Position": 530,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-22 15:16:41",
+    "Seller": "PawPal",
+    "Stock": "2000",
+    "Price": 0.0115,
+    "Currency": "USD",
+    "Position": 534,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-22 15:16:41",
+    "Seller": "Unforgiven2504",
+    "Stock": "930",
+    "Price": 0.0115,
+    "Currency": "USD",
+    "Position": 537,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
