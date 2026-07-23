@@ -15398,5 +15398,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-23 21:02:48",
+    "Seller": "asd2281337",
+    "Stock": "3",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 593,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-23 21:02:48",
+    "Seller": "blvckmxre",
+    "Stock": "32",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 595,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-23 21:02:48",
+    "Seller": "iMiracle",
+    "Stock": "680",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 596,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-23 21:02:48",
+    "Seller": "Wistint",
+    "Stock": "5000",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 598,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-23 21:02:48",
+    "Seller": "Arteqisa",
+    "Stock": "8000",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 599,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
