@@ -15013,5 +15013,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-23 04:17:52",
+    "Seller": "Gupnarte",
+    "Stock": "4500",
+    "Price": 0.0103,
+    "Currency": "USD",
+    "Position": 657,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-23 04:17:52",
+    "Seller": "Grestron",
+    "Stock": "2115",
+    "Price": 0.0104,
+    "Currency": "USD",
+    "Position": 668,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-23 04:17:52",
+    "Seller": "IloveLeno4ka228",
+    "Stock": "4740",
+    "Price": 0.0104,
+    "Currency": "USD",
+    "Position": 669,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-23 04:17:52",
+    "Seller": "Katoklizm",
+    "Stock": "1",
+    "Price": 0.0107,
+    "Currency": "USD",
+    "Position": 671,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-23 04:17:52",
+    "Seller": "Crue1ty",
+    "Stock": "2650",
+    "Price": 0.0107,
+    "Currency": "USD",
+    "Position": 672,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
