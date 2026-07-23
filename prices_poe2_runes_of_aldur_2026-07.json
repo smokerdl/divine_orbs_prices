@@ -15233,5 +15233,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-23 15:17:33",
+    "Seller": "samurov",
+    "Stock": "941",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 576,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-23 15:17:33",
+    "Seller": "DomainGleb",
+    "Stock": "2000",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 577,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-23 15:17:33",
+    "Seller": "REDICERED",
+    "Stock": "1100",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 578,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-23 15:17:33",
+    "Seller": "Grestron",
+    "Stock": "66",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 580,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-23 15:17:33",
+    "Seller": "IloveLeno4ka228",
+    "Stock": "9936",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 581,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
