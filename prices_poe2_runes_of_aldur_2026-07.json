@@ -15838,5 +15838,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-24 13:01:30",
+    "Seller": "r1pt1de",
+    "Stock": "1600",
+    "Price": 0.0111,
+    "Currency": "USD",
+    "Position": 590,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-24 13:01:30",
+    "Seller": "Vampir2801",
+    "Stock": "50",
+    "Price": 0.0111,
+    "Currency": "USD",
+    "Position": 591,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-24 13:01:30",
+    "Seller": "DarkEffekt",
+    "Stock": "476",
+    "Price": 0.0111,
+    "Currency": "USD",
+    "Position": 592,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-24 13:01:30",
+    "Seller": "den1209",
+    "Stock": "100",
+    "Price": 0.0114,
+    "Currency": "USD",
+    "Position": 593,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-24 13:01:30",
+    "Seller": "Ch1mCh1m",
+    "Stock": "1000",
+    "Price": 0.0115,
+    "Currency": "USD",
+    "Position": 597,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
