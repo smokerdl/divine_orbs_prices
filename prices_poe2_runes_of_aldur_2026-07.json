@@ -16003,5 +16003,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-24 21:07:04",
+    "Seller": "Shark2792",
+    "Stock": "300",
+    "Price": 0.0102,
+    "Currency": "USD",
+    "Position": 608,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-24 21:07:04",
+    "Seller": "PeaceDeath8",
+    "Stock": "1040",
+    "Price": 0.0107,
+    "Currency": "USD",
+    "Position": 615,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-24 21:07:04",
+    "Seller": "Citrelina",
+    "Stock": "2500",
+    "Price": 0.0109,
+    "Currency": "USD",
+    "Position": 617,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-24 21:07:04",
+    "Seller": "Xantinay",
+    "Stock": "1000",
+    "Price": 0.0109,
+    "Currency": "USD",
+    "Position": 618,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-24 21:07:04",
+    "Seller": "Klips00",
+    "Stock": "5000",
+    "Price": 0.011,
+    "Currency": "USD",
+    "Position": 619,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
