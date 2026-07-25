@@ -16938,5 +16938,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-26 00:39:48",
+    "Seller": "MatGymMaster",
+    "Stock": "10",
+    "Price": 0.0123,
+    "Currency": "USD",
+    "Position": 617,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-26 00:39:48",
+    "Seller": "Katoklizm",
+    "Stock": "1",
+    "Price": 0.0123,
+    "Currency": "USD",
+    "Position": 618,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-26 00:39:48",
+    "Seller": "Shavermiy",
+    "Stock": "2",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 619,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-26 00:39:48",
+    "Seller": "andersonmat",
+    "Stock": "300",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 621,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-26 00:39:48",
+    "Seller": "fkkx",
+    "Stock": "1000",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 622,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
