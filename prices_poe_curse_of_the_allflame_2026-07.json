@@ -1307,5 +1307,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-25 23:02:18",
+    "Seller": "DarckLight",
+    "Stock": "1",
+    "Price": 1.82,
+    "Currency": "USD",
+    "Position": 165,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-25 23:02:18",
+    "Seller": "tinynotairlines",
+    "Stock": "3",
+    "Price": 1.84,
+    "Currency": "USD",
+    "Position": 166,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-25 23:02:18",
+    "Seller": "Uramancer9403",
+    "Stock": "34",
+    "Price": 1.88,
+    "Currency": "USD",
+    "Position": 168,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-25 23:02:18",
+    "Seller": "TreasureVault",
+    "Stock": "10",
+    "Price": 1.88,
+    "Currency": "USD",
+    "Position": 169,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-25 23:02:18",
+    "Seller": "Flaymer321",
+    "Stock": "44",
+    "Price": 1.88,
+    "Currency": "USD",
+    "Position": 170,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
