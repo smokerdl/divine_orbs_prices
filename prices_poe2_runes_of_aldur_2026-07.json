@@ -16388,5 +16388,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-25 10:05:50",
+    "Seller": "Bambum123",
+    "Stock": "1070",
+    "Price": 0.0118,
+    "Currency": "USD",
+    "Position": 631,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-25 10:05:50",
+    "Seller": "WTScheap",
+    "Stock": "2500",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 639,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-25 10:05:50",
+    "Seller": "Vazmaz",
+    "Stock": "170",
+    "Price": 0.0121,
+    "Currency": "USD",
+    "Position": 640,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-25 10:05:50",
+    "Seller": "MaximLodygin",
+    "Stock": "6000",
+    "Price": 0.0121,
+    "Currency": "USD",
+    "Position": 642,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-25 10:05:50",
+    "Seller": "gyaruuu",
+    "Stock": "5681",
+    "Price": 0.0123,
+    "Currency": "USD",
+    "Position": 643,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
