@@ -1197,5 +1197,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-25 20:44:26",
+    "Seller": "YagamiMugen",
+    "Stock": "1",
+    "Price": 1.82,
+    "Currency": "USD",
+    "Position": 169,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-25 20:44:26",
+    "Seller": "Celerus",
+    "Stock": "1",
+    "Price": 1.82,
+    "Currency": "USD",
+    "Position": 170,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-25 20:44:26",
+    "Seller": "Exercim",
+    "Stock": "1",
+    "Price": 1.82,
+    "Currency": "USD",
+    "Position": 171,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-25 20:44:26",
+    "Seller": "Artemus1",
+    "Stock": "8",
+    "Price": 1.83,
+    "Currency": "USD",
+    "Position": 172,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-25 20:44:26",
+    "Seller": "Prestije",
+    "Stock": "1",
+    "Price": 1.88,
+    "Currency": "USD",
+    "Position": 174,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
