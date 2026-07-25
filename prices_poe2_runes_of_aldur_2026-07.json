@@ -16773,5 +16773,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-25 20:44:40",
+    "Seller": "IgorOvi",
+    "Stock": "5000",
+    "Price": 0.0123,
+    "Currency": "USD",
+    "Position": 612,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-25 20:44:40",
+    "Seller": "Shavermiy",
+    "Stock": "2",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 613,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-25 20:44:40",
+    "Seller": "andersonmat",
+    "Stock": "400",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 615,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-25 20:44:40",
+    "Seller": "RLang",
+    "Stock": "1200",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 616,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-25 20:44:40",
+    "Seller": "Atletmz",
+    "Stock": "600",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 617,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
