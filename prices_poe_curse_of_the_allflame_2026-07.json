@@ -922,5 +922,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-25 13:57:19",
+    "Seller": "pankfan",
+    "Stock": "2",
+    "Price": 2.84,
+    "Currency": "USD",
+    "Position": 164,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-25 13:57:19",
+    "Seller": "Monkb",
+    "Stock": "2",
+    "Price": 2.84,
+    "Currency": "USD",
+    "Position": 165,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-25 13:57:19",
+    "Seller": "attackep",
+    "Stock": "1",
+    "Price": 2.85,
+    "Currency": "USD",
+    "Position": 166,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-25 13:57:19",
+    "Seller": "Sinowt",
+    "Stock": "1",
+    "Price": 2.85,
+    "Currency": "USD",
+    "Position": 167,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-25 13:57:19",
+    "Seller": "Exilepitek",
+    "Stock": "1",
+    "Price": 2.91,
+    "Currency": "USD",
+    "Position": 168,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
