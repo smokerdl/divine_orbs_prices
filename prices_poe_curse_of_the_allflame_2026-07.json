@@ -1142,5 +1142,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-25 19:38:57",
+    "Seller": "Alililisaa",
+    "Stock": "6",
+    "Price": 2.04,
+    "Currency": "USD",
+    "Position": 170,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-25 19:38:57",
+    "Seller": "Rentgeno",
+    "Stock": "12",
+    "Price": 2.06,
+    "Currency": "USD",
+    "Position": 171,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-25 19:38:57",
+    "Seller": "MackerelPizza",
+    "Stock": "21",
+    "Price": 2.06,
+    "Currency": "USD",
+    "Position": 172,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-25 19:38:57",
+    "Seller": "largo19",
+    "Stock": "17",
+    "Price": 2.06,
+    "Currency": "USD",
+    "Position": 173,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-25 19:38:57",
+    "Seller": "Frashta",
+    "Stock": "8",
+    "Price": 2.06,
+    "Currency": "USD",
+    "Position": 174,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
