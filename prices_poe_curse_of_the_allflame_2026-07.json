@@ -812,5 +812,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-25 10:05:37",
+    "Seller": "theartes89",
+    "Stock": "1",
+    "Price": 3.88,
+    "Currency": "USD",
+    "Position": 156,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-25 10:05:37",
+    "Seller": "tunesx",
+    "Stock": "2",
+    "Price": 3.92,
+    "Currency": "USD",
+    "Position": 157,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-25 10:05:37",
+    "Seller": "dezilxtoo3",
+    "Stock": "1",
+    "Price": 3.94,
+    "Currency": "USD",
+    "Position": 159,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-25 10:05:37",
+    "Seller": "LimoLD",
+    "Stock": "1",
+    "Price": 3.96,
+    "Currency": "USD",
+    "Position": 160,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-25 10:05:37",
+    "Seller": "SongOfDoom",
+    "Stock": "1",
+    "Price": 3.96,
+    "Currency": "USD",
+    "Position": 161,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
