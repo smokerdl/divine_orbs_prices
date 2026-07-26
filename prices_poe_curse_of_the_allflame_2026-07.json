@@ -2022,5 +2022,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-26 20:47:04",
+    "Seller": "SashaIvankov",
+    "Stock": "40",
+    "Price": 0.66,
+    "Currency": "USD",
+    "Position": 152,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-26 20:47:04",
+    "Seller": "Arslanchikus",
+    "Stock": "4",
+    "Price": 0.67,
+    "Currency": "USD",
+    "Position": 153,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-26 20:47:04",
+    "Seller": "townboy",
+    "Stock": "15",
+    "Price": 0.67,
+    "Currency": "USD",
+    "Position": 154,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-26 20:47:04",
+    "Seller": "Flaymer321",
+    "Stock": "6",
+    "Price": 0.67,
+    "Currency": "USD",
+    "Position": 155,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-26 20:47:04",
+    "Seller": "ActionIsComing",
+    "Stock": "31",
+    "Price": 0.67,
+    "Currency": "USD",
+    "Position": 156,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
