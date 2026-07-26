@@ -17708,5 +17708,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-26 22:59:51",
+    "Seller": "HeIIoy",
+    "Stock": "1443",
+    "Price": 0.0116,
+    "Currency": "USD",
+    "Position": 546,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-26 22:59:51",
+    "Seller": "Nemesis787",
+    "Stock": "750",
+    "Price": 0.0117,
+    "Currency": "USD",
+    "Position": 547,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-26 22:59:51",
+    "Seller": "properino",
+    "Stock": "8000",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 550,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-26 22:59:51",
+    "Seller": "Boiler",
+    "Stock": "2100",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 558,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-26 22:59:51",
+    "Seller": "soptax",
+    "Stock": "1500",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 559,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
