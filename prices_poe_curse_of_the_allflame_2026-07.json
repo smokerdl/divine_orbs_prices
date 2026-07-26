@@ -2077,5 +2077,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-26 21:45:47",
+    "Seller": "Cassadoo",
+    "Stock": "45",
+    "Price": 0.66,
+    "Currency": "USD",
+    "Position": 153,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-26 21:45:47",
+    "Seller": "Alexey72",
+    "Stock": "21",
+    "Price": 0.66,
+    "Currency": "USD",
+    "Position": 154,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-26 21:45:47",
+    "Seller": "Din16",
+    "Stock": "1",
+    "Price": 0.68,
+    "Currency": "USD",
+    "Position": 155,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-26 21:45:47",
+    "Seller": "igor1488",
+    "Stock": "38",
+    "Price": 0.71,
+    "Currency": "USD",
+    "Position": 156,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-26 21:45:47",
+    "Seller": "e1darel",
+    "Stock": "40",
+    "Price": 0.71,
+    "Currency": "USD",
+    "Position": 158,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
