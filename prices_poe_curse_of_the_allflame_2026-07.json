@@ -2187,5 +2187,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-27 00:43:26",
+    "Seller": "Sfired",
+    "Stock": "6",
+    "Price": 0.52,
+    "Currency": "USD",
+    "Position": 145,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-27 00:43:26",
+    "Seller": "Elementik",
+    "Stock": "2",
+    "Price": 0.52,
+    "Currency": "USD",
+    "Position": 146,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-27 00:43:26",
+    "Seller": "MagicOmi",
+    "Stock": "8",
+    "Price": 0.52,
+    "Currency": "USD",
+    "Position": 147,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-27 00:43:26",
+    "Seller": "Nakk322",
+    "Stock": "15",
+    "Price": 0.52,
+    "Currency": "USD",
+    "Position": 148,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-27 00:43:26",
+    "Seller": "NigaMiga",
+    "Stock": "1",
+    "Price": 0.53,
+    "Currency": "USD",
+    "Position": 149,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
