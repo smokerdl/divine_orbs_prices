@@ -1747,5 +1747,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-26 14:49:37",
+    "Seller": "phx",
+    "Stock": "4",
+    "Price": 0.99,
+    "Currency": "USD",
+    "Position": 152,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-26 14:49:37",
+    "Seller": "Xehkii",
+    "Stock": "2",
+    "Price": 0.99,
+    "Currency": "USD",
+    "Position": 153,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-26 14:49:37",
+    "Seller": "maxim0102",
+    "Stock": "5",
+    "Price": 0.99,
+    "Currency": "USD",
+    "Position": 154,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-26 14:49:37",
+    "Seller": "downeel",
+    "Stock": "10",
+    "Price": 0.99,
+    "Currency": "USD",
+    "Position": 155,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-26 14:49:37",
+    "Seller": "TopIrishman",
+    "Stock": "3",
+    "Price": 1.0,
+    "Currency": "USD",
+    "Position": 156,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
