@@ -1692,5 +1692,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-26 13:24:45",
+    "Seller": "GIGANTIP",
+    "Stock": "13",
+    "Price": 0.94,
+    "Currency": "USD",
+    "Position": 149,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-26 13:24:45",
+    "Seller": "Dunich",
+    "Stock": "16",
+    "Price": 0.94,
+    "Currency": "USD",
+    "Position": 150,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-26 13:24:45",
+    "Seller": "eugaug",
+    "Stock": "20",
+    "Price": 0.95,
+    "Currency": "USD",
+    "Position": 151,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-26 13:24:45",
+    "Seller": "Locustiz",
+    "Stock": "30",
+    "Price": 0.96,
+    "Currency": "USD",
+    "Position": 152,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-26 13:24:45",
+    "Seller": "Saendin",
+    "Stock": "30",
+    "Price": 0.96,
+    "Currency": "USD",
+    "Position": 153,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
