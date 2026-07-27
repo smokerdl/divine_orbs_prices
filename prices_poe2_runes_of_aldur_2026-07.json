@@ -17983,5 +17983,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-27 08:32:49",
+    "Seller": "Titan02",
+    "Stock": "800",
+    "Price": 0.0116,
+    "Currency": "USD",
+    "Position": 585,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-27 08:32:49",
+    "Seller": "Shandarmale",
+    "Stock": "300",
+    "Price": 0.0118,
+    "Currency": "USD",
+    "Position": 587,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-27 08:32:49",
+    "Seller": "wednesdaybdo",
+    "Stock": "3600",
+    "Price": 0.0118,
+    "Currency": "USD",
+    "Position": 590,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-27 08:32:49",
+    "Seller": "Boiler",
+    "Stock": "2100",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 598,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-27 08:32:49",
+    "Seller": "fkkx",
+    "Stock": "1000",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 599,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
