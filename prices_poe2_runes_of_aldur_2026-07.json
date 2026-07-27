@@ -17928,5 +17928,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-27 04:22:41",
+    "Seller": "ALEN22",
+    "Stock": "116",
+    "Price": 0.0116,
+    "Currency": "USD",
+    "Position": 591,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-27 04:22:41",
+    "Seller": "properino",
+    "Stock": "3826",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 595,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-27 04:22:41",
+    "Seller": "Boiler",
+    "Stock": "2100",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 603,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-27 04:22:41",
+    "Seller": "SegaBoss",
+    "Stock": "3",
+    "Price": 0.0121,
+    "Currency": "USD",
+    "Position": 605,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-27 04:22:41",
+    "Seller": "MatGymMaster",
+    "Stock": "10",
+    "Price": 0.0122,
+    "Currency": "USD",
+    "Position": 607,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
