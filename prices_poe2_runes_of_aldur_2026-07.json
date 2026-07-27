@@ -18038,5 +18038,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-27 11:59:04",
+    "Seller": "Vcut",
+    "Stock": "4300",
+    "Price": 0.0114,
+    "Currency": "USD",
+    "Position": 592,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-27 11:59:04",
+    "Seller": "HeIIoy",
+    "Stock": "4862",
+    "Price": 0.0116,
+    "Currency": "USD",
+    "Position": 597,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-27 11:59:04",
+    "Seller": "Boiler",
+    "Stock": "2100",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 608,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-27 11:59:04",
+    "Seller": "Toocomplex",
+    "Stock": "180",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 609,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-27 11:59:04",
+    "Seller": "SubjectiveMind",
+    "Stock": "400",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 610,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
