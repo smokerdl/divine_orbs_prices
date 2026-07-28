@@ -3067,5 +3067,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-28 13:15:39",
+    "Seller": "Mind2k",
+    "Stock": "10",
+    "Price": 0.33,
+    "Currency": "USD",
+    "Position": 94,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-28 13:15:39",
+    "Seller": "Lelkol",
+    "Stock": "45",
+    "Price": 0.33,
+    "Currency": "USD",
+    "Position": 95,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-28 13:15:39",
+    "Seller": "Haniko321",
+    "Stock": "25",
+    "Price": 0.33,
+    "Currency": "USD",
+    "Position": 96,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-28 13:15:39",
+    "Seller": "fecht",
+    "Stock": "10",
+    "Price": 0.34,
+    "Currency": "USD",
+    "Position": 97,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-28 13:15:39",
+    "Seller": "GarryGoodman",
+    "Stock": "1",
+    "Price": 0.34,
+    "Currency": "USD",
+    "Position": 98,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
