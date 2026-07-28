@@ -18918,5 +18918,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-28 23:52:30",
+    "Seller": "GRIGORI223124",
+    "Stock": "21",
+    "Price": 0.0115,
+    "Currency": "USD",
+    "Position": 573,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-28 23:52:30",
+    "Seller": "gufuk",
+    "Stock": "700",
+    "Price": 0.0115,
+    "Currency": "USD",
+    "Position": 574,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-28 23:52:30",
+    "Seller": "Postmanby",
+    "Stock": "850",
+    "Price": 0.0116,
+    "Currency": "USD",
+    "Position": 577,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-28 23:52:30",
+    "Seller": "MrSpell",
+    "Stock": "3000",
+    "Price": 0.0118,
+    "Currency": "USD",
+    "Position": 584,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-28 23:52:30",
+    "Seller": "SegaBoss",
+    "Stock": "3",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 586,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
