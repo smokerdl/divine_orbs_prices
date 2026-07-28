@@ -18698,5 +18698,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-28 15:27:09",
+    "Seller": "SegaBoss",
+    "Stock": "3",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 516,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-28 15:27:09",
+    "Seller": "AdenaWTS",
+    "Stock": "250",
+    "Price": 0.0121,
+    "Currency": "USD",
+    "Position": 517,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-28 15:27:09",
+    "Seller": "cantstopthespice",
+    "Stock": "1000",
+    "Price": 0.0121,
+    "Currency": "USD",
+    "Position": 518,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-28 15:27:09",
+    "Seller": "IncCreep",
+    "Stock": "2000",
+    "Price": 0.0121,
+    "Currency": "USD",
+    "Position": 519,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-28 15:27:09",
+    "Seller": "Cy64uk",
+    "Stock": "3000",
+    "Price": 0.0123,
+    "Currency": "USD",
+    "Position": 520,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
