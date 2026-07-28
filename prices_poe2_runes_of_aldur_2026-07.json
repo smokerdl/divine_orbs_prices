@@ -19083,5 +19083,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-29 02:45:25",
+    "Seller": "SegaBoss",
+    "Stock": "3",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 577,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-29 02:45:25",
+    "Seller": "Danil353180",
+    "Stock": "32",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 578,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-29 02:45:25",
+    "Seller": "Katoklizm",
+    "Stock": "1",
+    "Price": 0.0121,
+    "Currency": "USD",
+    "Position": 580,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-29 02:45:25",
+    "Seller": "EtoYaDaDaDa",
+    "Stock": "1300",
+    "Price": 0.0126,
+    "Currency": "USD",
+    "Position": 598,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-29 02:45:25",
+    "Seller": "Prostoez69",
+    "Stock": "2500",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 603,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
