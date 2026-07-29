@@ -3727,5 +3727,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-29 13:20:55",
+    "Seller": "pangeon",
+    "Stock": "96",
+    "Price": 0.24,
+    "Currency": "USD",
+    "Position": 80,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-29 13:20:55",
+    "Seller": "Reifa",
+    "Stock": "260",
+    "Price": 0.24,
+    "Currency": "USD",
+    "Position": 81,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-29 13:20:55",
+    "Seller": "zero1",
+    "Stock": "300",
+    "Price": 0.24,
+    "Currency": "USD",
+    "Position": 82,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-29 13:20:55",
+    "Seller": "Legbon",
+    "Stock": "62",
+    "Price": 0.24,
+    "Currency": "USD",
+    "Position": 83,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-29 13:20:55",
+    "Seller": "MeowSQ",
+    "Stock": "70",
+    "Price": 0.24,
+    "Currency": "USD",
+    "Position": 84,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
