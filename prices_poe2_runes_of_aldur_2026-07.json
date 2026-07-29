@@ -19578,5 +19578,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-29 23:04:10",
+    "Seller": "MatGymMaster",
+    "Stock": "10",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 595,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-29 23:04:10",
+    "Seller": "Katoklizm",
+    "Stock": "1",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 596,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-29 23:04:10",
+    "Seller": "Dev1ak",
+    "Stock": "840",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 597,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-29 23:04:10",
+    "Seller": "makeeeeeee",
+    "Stock": "300",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 617,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-29 23:04:10",
+    "Seller": "poesmash",
+    "Stock": "8486",
+    "Price": 0.0127,
+    "Currency": "USD",
+    "Position": 653,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
