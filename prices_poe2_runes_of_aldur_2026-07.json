@@ -19468,5 +19468,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-29 19:59:39",
+    "Seller": "Phamagul",
+    "Stock": "60",
+    "Price": 0.0104,
+    "Currency": "USD",
+    "Position": 580,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-29 19:59:39",
+    "Seller": "MatGymMaster",
+    "Stock": "10",
+    "Price": 0.0105,
+    "Currency": "USD",
+    "Position": 582,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-29 19:59:39",
+    "Seller": "Katoklizm",
+    "Stock": "1",
+    "Price": 0.0105,
+    "Currency": "USD",
+    "Position": 583,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-29 19:59:39",
+    "Seller": "KotBazillio",
+    "Stock": "3400",
+    "Price": 0.0109,
+    "Currency": "USD",
+    "Position": 590,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-29 19:59:39",
+    "Seller": "IloveLeno4ka228",
+    "Stock": "7198",
+    "Price": 0.0109,
+    "Currency": "USD",
+    "Position": 603,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
