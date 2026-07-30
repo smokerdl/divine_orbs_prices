@@ -20293,5 +20293,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-31 00:53:03",
+    "Seller": "SKOKSTER",
+    "Stock": "10",
+    "Price": 0.0118,
+    "Currency": "USD",
+    "Position": 592,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-31 00:53:03",
+    "Seller": "Katoklizm",
+    "Stock": "1",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 593,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-31 00:53:03",
+    "Seller": "Tanukichi",
+    "Stock": "500",
+    "Price": 0.013,
+    "Currency": "USD",
+    "Position": 655,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-31 00:53:03",
+    "Seller": "DeadInside120",
+    "Stock": "13",
+    "Price": 0.0131,
+    "Currency": "USD",
+    "Position": 656,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-31 00:53:03",
+    "Seller": "TkachSude6",
+    "Stock": "5500",
+    "Price": 0.0131,
+    "Currency": "USD",
+    "Position": 657,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
