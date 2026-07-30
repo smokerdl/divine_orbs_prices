@@ -4442,5 +4442,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-30 15:17:32",
+    "Seller": "Duderino",
+    "Stock": "20",
+    "Price": 0.199,
+    "Currency": "USD",
+    "Position": 75,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-30 15:17:32",
+    "Seller": "Vetinari",
+    "Stock": "40",
+    "Price": 0.199,
+    "Currency": "USD",
+    "Position": 76,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-30 15:17:32",
+    "Seller": "RoMoT",
+    "Stock": "245",
+    "Price": 0.199,
+    "Currency": "USD",
+    "Position": 77,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-30 15:17:32",
+    "Seller": "Hydraceros",
+    "Stock": "265",
+    "Price": 0.199,
+    "Currency": "USD",
+    "Position": 78,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-30 15:17:32",
+    "Seller": "FeedingFrenzzy",
+    "Stock": "40",
+    "Price": 0.199,
+    "Currency": "USD",
+    "Position": 79,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
