@@ -19963,5 +19963,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-30 13:06:03",
+    "Seller": "Kikior",
+    "Stock": "1200",
+    "Price": 0.0116,
+    "Currency": "USD",
+    "Position": 592,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-30 13:06:03",
+    "Seller": "Zhoraha",
+    "Stock": "2300",
+    "Price": 0.0116,
+    "Currency": "USD",
+    "Position": 593,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-30 13:06:03",
+    "Seller": "Jesfrost",
+    "Stock": "7",
+    "Price": 0.0117,
+    "Currency": "USD",
+    "Position": 601,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-30 13:06:03",
+    "Seller": "Tareq",
+    "Stock": "1800",
+    "Price": 0.0117,
+    "Currency": "USD",
+    "Position": 602,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-30 13:06:03",
+    "Seller": "Pashtet1990",
+    "Stock": "6300",
+    "Price": 0.0117,
+    "Currency": "USD",
+    "Position": 603,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
