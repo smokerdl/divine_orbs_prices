@@ -20568,5 +20568,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-31 11:23:02",
+    "Seller": "SKOKSTER",
+    "Stock": "10",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 582,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-31 11:23:02",
+    "Seller": "Katoklizm",
+    "Stock": "1",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 583,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-31 11:23:02",
+    "Seller": "EyesXX",
+    "Stock": "1200",
+    "Price": 0.0122,
+    "Currency": "USD",
+    "Position": 585,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-31 11:23:02",
+    "Seller": "DimonZaz",
+    "Stock": "1000",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 589,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-07-31 11:23:02",
+    "Seller": "OlegStalker",
+    "Stock": "250",
+    "Price": 0.0125,
+    "Currency": "USD",
+    "Position": 601,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
