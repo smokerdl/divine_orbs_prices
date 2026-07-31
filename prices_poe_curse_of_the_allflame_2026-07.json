@@ -5157,5 +5157,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-31 18:49:03",
+    "Seller": "goodg4me",
+    "Stock": "130",
+    "Price": 0.158,
+    "Currency": "USD",
+    "Position": 71,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-31 18:49:03",
+    "Seller": "Rekrait0",
+    "Stock": "50",
+    "Price": 0.161,
+    "Currency": "USD",
+    "Position": 72,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-31 18:49:03",
+    "Seller": "bobuxman1",
+    "Stock": "200",
+    "Price": 0.161,
+    "Currency": "USD",
+    "Position": 73,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-31 18:49:03",
+    "Seller": "Falconpg",
+    "Stock": "57",
+    "Price": 0.162,
+    "Currency": "USD",
+    "Position": 74,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-07-31 18:49:03",
+    "Seller": "youngexile",
+    "Stock": "110",
+    "Price": 0.162,
+    "Currency": "USD",
+    "Position": 75,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
