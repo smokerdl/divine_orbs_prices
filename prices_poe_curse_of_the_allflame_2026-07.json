@@ -5432,5 +5432,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-01 01:45:06",
+    "Seller": "NigaMiga",
+    "Stock": "1",
+    "Price": 0.149,
+    "Currency": "USD",
+    "Position": 64,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-01 01:45:06",
+    "Seller": "Routch",
+    "Stock": "70",
+    "Price": 0.15,
+    "Currency": "USD",
+    "Position": 65,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-01 01:45:06",
+    "Seller": "Jumahs",
+    "Stock": "38",
+    "Price": 0.15,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-01 01:45:06",
+    "Seller": "fanMMORPG",
+    "Stock": "70",
+    "Price": 0.15,
+    "Currency": "USD",
+    "Position": 67,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-01 01:45:06",
+    "Seller": "AlexBars888",
+    "Stock": "105",
+    "Price": 0.152,
+    "Currency": "USD",
+    "Position": 68,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
