@@ -438,5 +438,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-01 19:42:10",
+    "Seller": "NimisPoe",
+    "Stock": "6",
+    "Price": 0.0149,
+    "Currency": "USD",
+    "Position": 601,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-01 19:42:10",
+    "Seller": "Akazuki",
+    "Stock": "1000",
+    "Price": 0.0149,
+    "Currency": "USD",
+    "Position": 602,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-01 19:42:10",
+    "Seller": "BoostExperts",
+    "Stock": "1000",
+    "Price": 0.0151,
+    "Currency": "USD",
+    "Position": 603,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-01 19:42:10",
+    "Seller": "xzzTwink",
+    "Stock": "2600",
+    "Price": 0.0152,
+    "Currency": "USD",
+    "Position": 604,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-01 19:42:10",
+    "Seller": "Arhiblade",
+    "Stock": "150",
+    "Price": 0.0152,
+    "Currency": "USD",
+    "Position": 605,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
