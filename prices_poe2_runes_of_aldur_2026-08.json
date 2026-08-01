@@ -713,5 +713,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-02 01:40:32",
+    "Seller": "m1sterduke",
+    "Stock": "150",
+    "Price": 0.013,
+    "Currency": "USD",
+    "Position": 692,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-02 01:40:32",
+    "Seller": "DeadInside120",
+    "Stock": "13",
+    "Price": 0.0131,
+    "Currency": "USD",
+    "Position": 693,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-02 01:40:31",
+    "Seller": "TkachSude6",
+    "Stock": "100",
+    "Price": 0.0133,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-02 01:40:32",
+    "Seller": "TkachSude6",
+    "Stock": "100",
+    "Price": 0.0133,
+    "Currency": "USD",
+    "Position": 698,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-02 01:40:32",
+    "Seller": "merfes2297",
+    "Stock": "120",
+    "Price": 0.0134,
+    "Currency": "USD",
+    "Position": 699,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
