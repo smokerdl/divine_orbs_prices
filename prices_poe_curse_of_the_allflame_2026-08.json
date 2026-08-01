@@ -713,5 +713,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-02 01:40:17",
+    "Seller": "Rynami",
+    "Stock": "427",
+    "Price": 0.112,
+    "Currency": "USD",
+    "Position": 65,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-02 01:40:17",
+    "Seller": "questionmark",
+    "Stock": "340",
+    "Price": 0.112,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-02 01:40:17",
+    "Seller": "BestPrice",
+    "Stock": "120",
+    "Price": 0.112,
+    "Currency": "USD",
+    "Position": 67,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-02 01:40:17",
+    "Seller": "Cinderace",
+    "Stock": "550",
+    "Price": 0.112,
+    "Currency": "USD",
+    "Position": 68,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-02 01:40:17",
+    "Seller": "JT500",
+    "Stock": "127",
+    "Price": 0.112,
+    "Currency": "USD",
+    "Position": 69,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
