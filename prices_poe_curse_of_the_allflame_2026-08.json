@@ -108,5 +108,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-01 10:53:25",
+    "Seller": "Scorrrpick",
+    "Stock": "3",
+    "Price": 0.129,
+    "Currency": "USD",
+    "Position": 65,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-01 10:53:25",
+    "Seller": "NigaMiga",
+    "Stock": "1",
+    "Price": 0.129,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-01 10:53:25",
+    "Seller": "NeverN3",
+    "Stock": "20",
+    "Price": 0.129,
+    "Currency": "USD",
+    "Position": 67,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-01 10:53:25",
+    "Seller": "D1msho",
+    "Stock": "500",
+    "Price": 0.129,
+    "Currency": "USD",
+    "Position": 68,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-01 10:53:25",
+    "Seller": "Frext",
+    "Stock": "15",
+    "Price": 0.13,
+    "Currency": "USD",
+    "Position": 69,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
