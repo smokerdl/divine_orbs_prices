@@ -603,5 +603,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-01 23:00:46",
+    "Seller": "Ilikecoin",
+    "Stock": "95",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 663,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-01 23:00:46",
+    "Seller": "Sp0Rt1kK",
+    "Stock": "29",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 672,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-01 23:00:46",
+    "Seller": "Maksimkaaa11",
+    "Stock": "200",
+    "Price": 0.0147,
+    "Currency": "USD",
+    "Position": 680,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-01 23:00:46",
+    "Seller": "NimisPoe",
+    "Stock": "6",
+    "Price": 0.0149,
+    "Currency": "USD",
+    "Position": 687,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-01 23:00:46",
+    "Seller": "UndeonDeadK",
+    "Stock": "800",
+    "Price": 0.0149,
+    "Currency": "USD",
+    "Position": 688,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
