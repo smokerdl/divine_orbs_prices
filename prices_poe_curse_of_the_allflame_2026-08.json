@@ -988,5 +988,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-02 12:49:06",
+    "Seller": "pihpox",
+    "Stock": "60",
+    "Price": 0.11,
+    "Currency": "USD",
+    "Position": 75,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-02 12:49:06",
+    "Seller": "flashyura",
+    "Stock": "160",
+    "Price": 0.11,
+    "Currency": "USD",
+    "Position": 76,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-02 12:49:06",
+    "Seller": "RoMoT",
+    "Stock": "340",
+    "Price": 0.111,
+    "Currency": "USD",
+    "Position": 77,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-02 12:49:06",
+    "Seller": "Fllamen",
+    "Stock": "220",
+    "Price": 0.111,
+    "Currency": "USD",
+    "Position": 78,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-02 12:49:06",
+    "Seller": "Linkzzz",
+    "Stock": "1500",
+    "Price": 0.111,
+    "Currency": "USD",
+    "Position": 79,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
