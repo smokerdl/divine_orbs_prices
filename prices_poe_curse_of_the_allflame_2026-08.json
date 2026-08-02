@@ -1318,5 +1318,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-02 20:46:28",
+    "Seller": "largo19",
+    "Stock": "2",
+    "Price": 0.091,
+    "Currency": "USD",
+    "Position": 69,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-02 20:46:28",
+    "Seller": "Gebbaaaa",
+    "Stock": "150",
+    "Price": 0.091,
+    "Currency": "USD",
+    "Position": 70,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-02 20:46:28",
+    "Seller": "biohan",
+    "Stock": "200",
+    "Price": 0.093,
+    "Currency": "USD",
+    "Position": 71,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-02 20:46:28",
+    "Seller": "Souseiseki",
+    "Stock": "73",
+    "Price": 0.093,
+    "Currency": "USD",
+    "Position": 72,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-02 20:46:28",
+    "Seller": "SonAnarchy",
+    "Stock": "235",
+    "Price": 0.093,
+    "Currency": "USD",
+    "Position": 73,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
