@@ -1373,5 +1373,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-02 21:45:03",
+    "Seller": "Arima221",
+    "Stock": "1",
+    "Price": 0.0148,
+    "Currency": "USD",
+    "Position": 720,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-02 21:45:03",
+    "Seller": "Arois",
+    "Stock": "230",
+    "Price": 0.0156,
+    "Currency": "USD",
+    "Position": 764,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-02 21:45:03",
+    "Seller": "HoBa2",
+    "Stock": "670",
+    "Price": 0.0156,
+    "Currency": "USD",
+    "Position": 767,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-02 21:45:03",
+    "Seller": "wmztrader",
+    "Stock": "850",
+    "Price": 0.0156,
+    "Currency": "USD",
+    "Position": 774,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-02 21:45:03",
+    "Seller": "stimstim",
+    "Stock": "1838",
+    "Price": 0.0156,
+    "Currency": "USD",
+    "Position": 789,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
