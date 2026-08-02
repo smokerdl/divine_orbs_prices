@@ -878,5 +878,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-02 08:00:44",
+    "Seller": "DeadInside120",
+    "Stock": "13",
+    "Price": 0.0131,
+    "Currency": "USD",
+    "Position": 698,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-02 08:00:44",
+    "Seller": "merfes2297",
+    "Stock": "120",
+    "Price": 0.0134,
+    "Currency": "USD",
+    "Position": 703,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-02 08:00:44",
+    "Seller": "Skymoon",
+    "Stock": "100",
+    "Price": 0.0139,
+    "Currency": "USD",
+    "Position": 706,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-02 08:00:44",
+    "Seller": "Sp0Rt1kK",
+    "Stock": "29",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 709,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-02 08:00:44",
+    "Seller": "kg800",
+    "Stock": "1236",
+    "Price": 0.0147,
+    "Currency": "USD",
+    "Position": 715,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
