@@ -2088,5 +2088,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-04 00:53:01",
+    "Seller": "Exprom",
+    "Stock": "120",
+    "Price": 0.0131,
+    "Currency": "USD",
+    "Position": 633,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-04 00:53:01",
+    "Seller": "Lexka",
+    "Stock": "41",
+    "Price": 0.0139,
+    "Currency": "USD",
+    "Position": 643,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-04 00:53:01",
+    "Seller": "Sp0Rt1kK",
+    "Stock": "2",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 645,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-04 00:53:01",
+    "Seller": "Arima221",
+    "Stock": "1",
+    "Price": 0.0146,
+    "Currency": "USD",
+    "Position": 653,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-04 00:53:01",
+    "Seller": "TiErOpera",
+    "Stock": "264",
+    "Price": 0.0146,
+    "Currency": "USD",
+    "Position": 654,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
