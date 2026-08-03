@@ -1648,5 +1648,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-03 04:18:16",
+    "Seller": "Dreamfeather",
+    "Stock": "4425",
+    "Price": 0.0152,
+    "Currency": "USD",
+    "Position": 692,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-03 04:18:16",
+    "Seller": "Arois",
+    "Stock": "40",
+    "Price": 0.0156,
+    "Currency": "USD",
+    "Position": 736,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-03 04:18:16",
+    "Seller": "diabloid1972",
+    "Stock": "1100",
+    "Price": 0.0156,
+    "Currency": "USD",
+    "Position": 760,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-03 04:18:16",
+    "Seller": "Otch3m",
+    "Stock": "3000",
+    "Price": 0.0156,
+    "Currency": "USD",
+    "Position": 761,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-03 04:18:16",
+    "Seller": "lameerpit",
+    "Stock": "1090",
+    "Price": 0.0156,
+    "Currency": "USD",
+    "Position": 762,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
