@@ -1703,5 +1703,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-03 08:23:21",
+    "Seller": "Wabrea",
+    "Stock": "70",
+    "Price": 0.079,
+    "Currency": "USD",
+    "Position": 62,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-03 08:23:22",
+    "Seller": "terribob",
+    "Stock": "1",
+    "Price": 0.079,
+    "Currency": "USD",
+    "Position": 63,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-03 08:23:22",
+    "Seller": "PatchOfRMT",
+    "Stock": "400",
+    "Price": 0.079,
+    "Currency": "USD",
+    "Position": 64,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-03 08:23:22",
+    "Seller": "Mamba560",
+    "Stock": "50",
+    "Price": 0.079,
+    "Currency": "USD",
+    "Position": 65,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-03 08:23:22",
+    "Seller": "Dendronich",
+    "Stock": "100",
+    "Price": 0.079,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
