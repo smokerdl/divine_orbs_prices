@@ -2583,5 +2583,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-04 20:25:09",
+    "Seller": "FastFoodK",
+    "Stock": "150",
+    "Price": 0.0146,
+    "Currency": "USD",
+    "Position": 605,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-04 20:25:09",
+    "Seller": "Maksimkaaa11",
+    "Stock": "250",
+    "Price": 0.0149,
+    "Currency": "USD",
+    "Position": 607,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-04 20:25:09",
+    "Seller": "OverlordSa",
+    "Stock": "4200",
+    "Price": 0.0149,
+    "Currency": "USD",
+    "Position": 608,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-04 20:25:09",
+    "Seller": "Jack1Thorns",
+    "Stock": "18977",
+    "Price": 0.0149,
+    "Currency": "USD",
+    "Position": 609,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-04 20:25:09",
+    "Seller": "escador88",
+    "Stock": "170",
+    "Price": 0.0151,
+    "Currency": "USD",
+    "Position": 614,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
