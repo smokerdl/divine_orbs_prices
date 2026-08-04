@@ -2473,5 +2473,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-04 15:30:48",
+    "Seller": "Kotik4",
+    "Stock": "100",
+    "Price": 0.083,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-04 15:30:48",
+    "Seller": "GOTHBOICLIQUE1",
+    "Stock": "250",
+    "Price": 0.083,
+    "Currency": "USD",
+    "Position": 63,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-04 15:30:48",
+    "Seller": "zagruzk",
+    "Stock": "233",
+    "Price": 0.084,
+    "Currency": "USD",
+    "Position": 64,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-04 15:30:48",
+    "Seller": "MoonSunGoo",
+    "Stock": "300",
+    "Price": 0.084,
+    "Currency": "USD",
+    "Position": 65,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-04 15:30:48",
+    "Seller": "Prikt",
+    "Stock": "710",
+    "Price": 0.085,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
