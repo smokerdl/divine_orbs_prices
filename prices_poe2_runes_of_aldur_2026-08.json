@@ -2418,5 +2418,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-04 13:21:27",
+    "Seller": "Lexka",
+    "Stock": "41",
+    "Price": 0.0138,
+    "Currency": "USD",
+    "Position": 616,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-04 13:21:27",
+    "Seller": "merfes2297",
+    "Stock": "100",
+    "Price": 0.0138,
+    "Currency": "USD",
+    "Position": 618,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-04 13:21:27",
+    "Seller": "Ak4za",
+    "Stock": "1000",
+    "Price": 0.0138,
+    "Currency": "USD",
+    "Position": 619,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-04 13:21:27",
+    "Seller": "Karlyxa32",
+    "Stock": "1000",
+    "Price": 0.0138,
+    "Currency": "USD",
+    "Position": 620,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-04 13:21:27",
+    "Seller": "FastDeliveryGold",
+    "Stock": "500",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 621,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
