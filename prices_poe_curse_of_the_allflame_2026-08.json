@@ -3078,5 +3078,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-05 15:28:12",
+    "Seller": "OopsSorry",
+    "Stock": "200",
+    "Price": 0.08,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-05 15:28:12",
+    "Seller": "bugaga3228",
+    "Stock": "300",
+    "Price": 0.08,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-05 15:28:12",
+    "Seller": "Nulik322",
+    "Stock": "350",
+    "Price": 0.08,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-05 15:28:12",
+    "Seller": "MicroPira",
+    "Stock": "400",
+    "Price": 0.08,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-05 15:28:12",
+    "Seller": "Lareg",
+    "Stock": "340",
+    "Price": 0.08,
+    "Currency": "USD",
+    "Position": 62,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
