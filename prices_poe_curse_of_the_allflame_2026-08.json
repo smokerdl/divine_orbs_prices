@@ -3518,5 +3518,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-06 07:49:27",
+    "Seller": "Draklas",
+    "Stock": "6",
+    "Price": 0.076,
+    "Currency": "USD",
+    "Position": 63,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-06 07:49:27",
+    "Seller": "Rgasm",
+    "Stock": "236",
+    "Price": 0.076,
+    "Currency": "USD",
+    "Position": 65,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-06 07:49:27",
+    "Seller": "Hex23",
+    "Stock": "150",
+    "Price": 0.077,
+    "Currency": "USD",
+    "Position": 66,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-06 07:49:27",
+    "Seller": "Allisoninmyheart",
+    "Stock": "40",
+    "Price": 0.079,
+    "Currency": "USD",
+    "Position": 67,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-06 07:49:27",
+    "Seller": "Taurissan",
+    "Stock": "1101",
+    "Price": 0.08,
+    "Currency": "USD",
+    "Position": 68,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
