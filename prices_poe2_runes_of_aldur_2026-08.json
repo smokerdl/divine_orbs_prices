@@ -3683,5 +3683,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-06 15:31:23",
+    "Seller": "ExilenceProvider",
+    "Stock": "1760",
+    "Price": 0.0136,
+    "Currency": "USD",
+    "Position": 606,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-06 15:31:23",
+    "Seller": "poesmash",
+    "Stock": "4784",
+    "Price": 0.0137,
+    "Currency": "USD",
+    "Position": 610,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-06 15:31:23",
+    "Seller": "SinisterSoul",
+    "Stock": "145",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 611,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-06 15:31:23",
+    "Seller": "Adal29",
+    "Stock": "1620",
+    "Price": 0.0146,
+    "Currency": "USD",
+    "Position": 619,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-06 15:31:23",
+    "Seller": "Crue1ty",
+    "Stock": "267",
+    "Price": 0.0147,
+    "Currency": "USD",
+    "Position": 620,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
