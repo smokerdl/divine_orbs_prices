@@ -3738,5 +3738,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-06 18:01:26",
+    "Seller": "Groovis",
+    "Stock": "200",
+    "Price": 0.071,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-06 18:01:26",
+    "Seller": "SongOfL",
+    "Stock": "60",
+    "Price": 0.072,
+    "Currency": "USD",
+    "Position": 62,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-06 18:01:26",
+    "Seller": "Cinderace",
+    "Stock": "600",
+    "Price": 0.072,
+    "Currency": "USD",
+    "Position": 63,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-06 18:01:26",
+    "Seller": "Wistint",
+    "Stock": "750",
+    "Price": 0.072,
+    "Currency": "USD",
+    "Position": 64,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-06 18:01:26",
+    "Seller": "DelVentro",
+    "Stock": "400",
+    "Price": 0.072,
+    "Currency": "USD",
+    "Position": 65,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
