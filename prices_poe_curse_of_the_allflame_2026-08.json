@@ -4288,5 +4288,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-07 17:01:24",
+    "Seller": "nightout",
+    "Stock": "450",
+    "Price": 0.066,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-07 17:01:24",
+    "Seller": "Heramkill",
+    "Stock": "200",
+    "Price": 0.066,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-07 17:01:24",
+    "Seller": "StrokerKIT",
+    "Stock": "250",
+    "Price": 0.066,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-07 17:01:24",
+    "Seller": "ch0kehold",
+    "Stock": "2000",
+    "Price": 0.066,
+    "Currency": "USD",
+    "Position": 62,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-07 17:01:24",
+    "Seller": "Lelkol",
+    "Stock": "400",
+    "Price": 0.066,
+    "Currency": "USD",
+    "Position": 63,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
