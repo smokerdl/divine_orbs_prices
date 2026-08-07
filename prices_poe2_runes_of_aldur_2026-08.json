@@ -4233,5 +4233,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-07 15:31:40",
+    "Seller": "moonfix704",
+    "Stock": "8",
+    "Price": 0.0132,
+    "Currency": "USD",
+    "Position": 574,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-07 15:31:40",
+    "Seller": "morozkodrago",
+    "Stock": "55",
+    "Price": 0.0133,
+    "Currency": "USD",
+    "Position": 575,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-07 15:31:40",
+    "Seller": "xPACKATx",
+    "Stock": "100",
+    "Price": 0.0136,
+    "Currency": "USD",
+    "Position": 583,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-07 15:31:40",
+    "Seller": "ExilenceProvider",
+    "Stock": "980",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 584,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-07 15:31:40",
+    "Seller": "Deimier",
+    "Stock": "112",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 585,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
