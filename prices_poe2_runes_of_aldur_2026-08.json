@@ -4288,5 +4288,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-07 17:01:40",
+    "Seller": "ExilenceProvider",
+    "Stock": "960",
+    "Price": 0.0134,
+    "Currency": "USD",
+    "Position": 590,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-07 17:01:40",
+    "Seller": "joySell",
+    "Stock": "1000",
+    "Price": 0.0134,
+    "Currency": "USD",
+    "Position": 592,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-07 17:01:40",
+    "Seller": "Karlyxa32",
+    "Stock": "888",
+    "Price": 0.0136,
+    "Currency": "USD",
+    "Position": 599,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-07 17:01:40",
+    "Seller": "DimaZorin",
+    "Stock": "1000",
+    "Price": 0.0136,
+    "Currency": "USD",
+    "Position": 600,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-07 17:01:40",
+    "Seller": "YouHadMeAtHello",
+    "Stock": "2900",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 601,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
