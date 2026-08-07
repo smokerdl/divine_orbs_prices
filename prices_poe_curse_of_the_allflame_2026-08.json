@@ -4343,5 +4343,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-07 18:39:20",
+    "Seller": "Joka30",
+    "Stock": "200",
+    "Price": 0.066,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-07 18:39:20",
+    "Seller": "Dementophobia",
+    "Stock": "900",
+    "Price": 0.066,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-07 18:39:20",
+    "Seller": "Wistint",
+    "Stock": "2000",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-07 18:39:20",
+    "Seller": "LinaOrlova",
+    "Stock": "44",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-07 18:39:20",
+    "Seller": "PsyBurger",
+    "Stock": "130",
+    "Price": 0.067,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
