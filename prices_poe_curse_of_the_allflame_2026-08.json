@@ -4563,5 +4563,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-07 22:40:22",
+    "Seller": "Spectre777",
+    "Stock": "18",
+    "Price": 0.064,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-07 22:40:22",
+    "Seller": "ComradeD",
+    "Stock": "750",
+    "Price": 0.064,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-07 22:40:22",
+    "Seller": "Apostatezxc",
+    "Stock": "300",
+    "Price": 0.065,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-07 22:40:22",
+    "Seller": "bestbrood",
+    "Stock": "340",
+    "Price": 0.065,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-07 22:40:22",
+    "Seller": "Wistint",
+    "Stock": "640",
+    "Price": 0.066,
+    "Currency": "USD",
+    "Position": 62,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
