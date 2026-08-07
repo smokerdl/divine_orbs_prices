@@ -4673,5 +4673,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-08 00:23:33",
+    "Seller": "SinMaminoiPodrugi",
+    "Stock": "215",
+    "Price": 0.063,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-08 00:23:33",
+    "Seller": "LevGames",
+    "Stock": "300",
+    "Price": 0.063,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-08 00:23:33",
+    "Seller": "artureo",
+    "Stock": "400",
+    "Price": 0.063,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-08 00:23:33",
+    "Seller": "wertan01",
+    "Stock": "250",
+    "Price": 0.064,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-08 00:23:33",
+    "Seller": "Duderino",
+    "Stock": "50",
+    "Price": 0.064,
+    "Currency": "USD",
+    "Position": 62,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
