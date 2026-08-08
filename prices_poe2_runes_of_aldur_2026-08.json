@@ -5278,5 +5278,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-08 13:16:11",
+    "Seller": "GoldBiFrost",
+    "Stock": "1000",
+    "Price": 0.0121,
+    "Currency": "USD",
+    "Position": 656,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-08 13:16:11",
+    "Seller": "Zhoraha",
+    "Stock": "3600",
+    "Price": 0.0121,
+    "Currency": "USD",
+    "Position": 657,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-08 13:16:11",
+    "Seller": "YouHadMeAtHello",
+    "Stock": "1558",
+    "Price": 0.0121,
+    "Currency": "USD",
+    "Position": 658,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-08 13:16:11",
+    "Seller": "BeerBooster",
+    "Stock": "4400",
+    "Price": 0.0125,
+    "Currency": "USD",
+    "Position": 666,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-08 13:16:11",
+    "Seller": "Mapaky9Off",
+    "Stock": "10",
+    "Price": 0.0126,
+    "Currency": "USD",
+    "Position": 668,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
