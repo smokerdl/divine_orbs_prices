@@ -5113,5 +5113,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-08 10:36:52",
+    "Seller": "Chrono90",
+    "Stock": "624",
+    "Price": 0.0136,
+    "Currency": "USD",
+    "Position": 659,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-08 10:36:52",
+    "Seller": "Semicore",
+    "Stock": "2004",
+    "Price": 0.0137,
+    "Currency": "USD",
+    "Position": 660,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-08 10:36:52",
+    "Seller": "Zhoraha",
+    "Stock": "3300",
+    "Price": 0.0143,
+    "Currency": "USD",
+    "Position": 663,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-08 10:36:52",
+    "Seller": "ScrollsS",
+    "Stock": "35",
+    "Price": 0.0143,
+    "Currency": "USD",
+    "Position": 669,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-08 10:36:52",
+    "Seller": "Easymoneylo",
+    "Stock": "4100",
+    "Price": 0.0143,
+    "Currency": "USD",
+    "Position": 670,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
