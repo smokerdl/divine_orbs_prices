@@ -5498,5 +5498,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-08 17:19:11",
+    "Seller": "Vazmaz",
+    "Stock": "46",
+    "Price": 0.0141,
+    "Currency": "USD",
+    "Position": 658,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-08 17:19:11",
+    "Seller": "NoobSaiboot",
+    "Stock": "3000",
+    "Price": 0.0143,
+    "Currency": "USD",
+    "Position": 666,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-08 17:19:11",
+    "Seller": "Soulfrozz",
+    "Stock": "3195",
+    "Price": 0.0143,
+    "Currency": "USD",
+    "Position": 667,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-08 17:19:11",
+    "Seller": "BeerBooster",
+    "Stock": "400",
+    "Price": 0.0145,
+    "Currency": "USD",
+    "Position": 668,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-08 17:19:11",
+    "Seller": "alekssssswee",
+    "Stock": "87",
+    "Price": 0.0145,
+    "Currency": "USD",
+    "Position": 669,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
