@@ -5663,5 +5663,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-08 20:16:05",
+    "Seller": "StarMaD",
+    "Stock": "209",
+    "Price": 0.057,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-08 20:16:05",
+    "Seller": "CoinTremor",
+    "Stock": "360",
+    "Price": 0.057,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-08 20:16:05",
+    "Seller": "arik1504",
+    "Stock": "200",
+    "Price": 0.057,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-08 20:16:05",
+    "Seller": "SashaStrizh",
+    "Stock": "600",
+    "Price": 0.057,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-08 20:16:05",
+    "Seller": "Wistint",
+    "Stock": "1800",
+    "Price": 0.057,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
