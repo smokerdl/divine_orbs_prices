@@ -5443,5 +5443,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-08 16:35:07",
+    "Seller": "nevnikay",
+    "Stock": "2200",
+    "Price": 0.0142,
+    "Currency": "USD",
+    "Position": 659,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-08 16:35:07",
+    "Seller": "Driadik",
+    "Stock": "3000",
+    "Price": 0.0142,
+    "Currency": "USD",
+    "Position": 660,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-08 16:35:07",
+    "Seller": "NoobSaiboot",
+    "Stock": "3000",
+    "Price": 0.0143,
+    "Currency": "USD",
+    "Position": 666,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-08 16:35:07",
+    "Seller": "Soulfrozz",
+    "Stock": "3195",
+    "Price": 0.0143,
+    "Currency": "USD",
+    "Position": 667,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-08 16:35:07",
+    "Seller": "BeerBooster",
+    "Stock": "400",
+    "Price": 0.0145,
+    "Currency": "USD",
+    "Position": 668,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
