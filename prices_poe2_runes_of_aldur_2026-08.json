@@ -5828,5 +5828,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-08 23:12:37",
+    "Seller": "Region412",
+    "Stock": "150",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 634,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-08 23:12:37",
+    "Seller": "BlackGhost50",
+    "Stock": "200",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 635,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-08 23:12:37",
+    "Seller": "DebTT",
+    "Stock": "15000",
+    "Price": 0.0142,
+    "Currency": "USD",
+    "Position": 638,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-08 23:12:37",
+    "Seller": "Maksimkaaa11",
+    "Stock": "500",
+    "Price": 0.0142,
+    "Currency": "USD",
+    "Position": 639,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-08 23:12:37",
+    "Seller": "NoobSaiboot",
+    "Stock": "3000",
+    "Price": 0.0143,
+    "Currency": "USD",
+    "Position": 645,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
