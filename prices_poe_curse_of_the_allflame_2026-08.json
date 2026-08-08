@@ -5828,5 +5828,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-08 23:12:20",
+    "Seller": "fafa10",
+    "Stock": "14",
+    "Price": 0.051,
+    "Currency": "USD",
+    "Position": 55,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-08 23:12:20",
+    "Seller": "castle06",
+    "Stock": "170",
+    "Price": 0.051,
+    "Currency": "USD",
+    "Position": 56,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-08 23:12:20",
+    "Seller": "CorpseRunZG",
+    "Stock": "70",
+    "Price": 0.051,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-08 23:12:20",
+    "Seller": "chto4to777",
+    "Stock": "64",
+    "Price": 0.051,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-08 23:12:20",
+    "Seller": "BcergaIIepBblu",
+    "Stock": "238",
+    "Price": 0.051,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
