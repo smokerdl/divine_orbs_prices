@@ -5718,5 +5718,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-08 21:15:24",
+    "Seller": "Xepman",
+    "Stock": "220",
+    "Price": 0.049,
+    "Currency": "USD",
+    "Position": 56,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-08 21:15:24",
+    "Seller": "JW666",
+    "Stock": "300",
+    "Price": 0.049,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-08 21:15:24",
+    "Seller": "POBEDILDER",
+    "Stock": "650",
+    "Price": 0.049,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-08 21:15:24",
+    "Seller": "Agonistik",
+    "Stock": "410",
+    "Price": 0.049,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-08 21:15:24",
+    "Seller": "fafa10",
+    "Stock": "14",
+    "Price": 0.051,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
