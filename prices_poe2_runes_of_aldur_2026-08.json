@@ -6763,5 +6763,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-09 18:16:05",
+    "Seller": "zloykuz",
+    "Stock": "947",
+    "Price": 0.0134,
+    "Currency": "USD",
+    "Position": 673,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-09 18:16:05",
+    "Seller": "OrangEApplE2",
+    "Stock": "10421",
+    "Price": 0.0135,
+    "Currency": "USD",
+    "Position": 675,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-09 18:16:05",
+    "Seller": "ineurofunk",
+    "Stock": "1400",
+    "Price": 0.0137,
+    "Currency": "USD",
+    "Position": 682,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-09 18:16:05",
+    "Seller": "SerjShow",
+    "Stock": "200",
+    "Price": 0.0137,
+    "Currency": "USD",
+    "Position": 683,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-09 18:16:05",
+    "Seller": "DinoLover",
+    "Stock": "1000",
+    "Price": 0.0137,
+    "Currency": "USD",
+    "Position": 684,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
