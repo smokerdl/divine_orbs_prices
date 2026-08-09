@@ -6543,5 +6543,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-09 14:15:26",
+    "Seller": "Region412",
+    "Stock": "150",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 627,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-09 14:15:26",
+    "Seller": "Ramzan55",
+    "Stock": "300",
+    "Price": 0.0141,
+    "Currency": "USD",
+    "Position": 628,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-09 14:15:26",
+    "Seller": "Arima221",
+    "Stock": "1",
+    "Price": 0.0144,
+    "Currency": "USD",
+    "Position": 636,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-09 14:15:26",
+    "Seller": "NoobSaiboot",
+    "Stock": "3000",
+    "Price": 0.0144,
+    "Currency": "USD",
+    "Position": 637,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-09 14:15:26",
+    "Seller": "restor43one",
+    "Stock": "400",
+    "Price": 0.0146,
+    "Currency": "USD",
+    "Position": 639,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
