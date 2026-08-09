@@ -6048,5 +6048,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-09 03:36:55",
+    "Seller": "legendarityman",
+    "Stock": "1250",
+    "Price": 0.0125,
+    "Currency": "USD",
+    "Position": 575,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-09 03:36:55",
+    "Seller": "DeadInside120",
+    "Stock": "13",
+    "Price": 0.0127,
+    "Currency": "USD",
+    "Position": 576,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-09 03:36:55",
+    "Seller": "Derzkiyyyyy38",
+    "Stock": "1300",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 582,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-09 03:36:55",
+    "Seller": "G3N9",
+    "Stock": "254",
+    "Price": 0.0136,
+    "Currency": "USD",
+    "Position": 591,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-09 03:36:55",
+    "Seller": "TorgoviyPutnik",
+    "Stock": "600",
+    "Price": 0.0136,
+    "Currency": "USD",
+    "Position": 592,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
