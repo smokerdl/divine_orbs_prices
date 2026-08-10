@@ -7973,5 +7973,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-10 22:44:19",
+    "Seller": "GrandUi",
+    "Stock": "4000",
+    "Price": 0.0135,
+    "Currency": "USD",
+    "Position": 711,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-10 22:44:19",
+    "Seller": "UndeonDeadK",
+    "Stock": "18",
+    "Price": 0.0139,
+    "Currency": "USD",
+    "Position": 712,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-10 22:44:19",
+    "Seller": "biohan",
+    "Stock": "851",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 713,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-10 22:44:19",
+    "Seller": "Brexit",
+    "Stock": "986",
+    "Price": 0.0141,
+    "Currency": "USD",
+    "Position": 716,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-10 22:44:19",
+    "Seller": "Alexhap",
+    "Stock": "1200",
+    "Price": 0.0141,
+    "Currency": "USD",
+    "Position": 717,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
