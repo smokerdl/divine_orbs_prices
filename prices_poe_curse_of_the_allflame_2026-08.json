@@ -7588,5 +7588,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-10 14:36:50",
+    "Seller": "Heeberd",
+    "Stock": "40",
+    "Price": 0.045,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-10 14:36:50",
+    "Seller": "Pro100go1d",
+    "Stock": "755",
+    "Price": 0.045,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-10 14:36:50",
+    "Seller": "Arteqisa",
+    "Stock": "1100",
+    "Price": 0.045,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-10 14:36:50",
+    "Seller": "Lelkol",
+    "Stock": "300",
+    "Price": 0.045,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-10 14:36:50",
+    "Seller": "daltonika",
+    "Stock": "600",
+    "Price": 0.047,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
