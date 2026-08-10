@@ -7918,5 +7918,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-10 21:36:41",
+    "Seller": "SonAnarchy",
+    "Stock": "335",
+    "Price": 0.047,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-10 21:36:41",
+    "Seller": "Explame",
+    "Stock": "150",
+    "Price": 0.047,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-10 21:36:41",
+    "Seller": "chaosattack",
+    "Stock": "2500",
+    "Price": 0.047,
+    "Currency": "USD",
+    "Position": 62,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-10 21:36:41",
+    "Seller": "CorpseRunZG",
+    "Stock": "80",
+    "Price": 0.047,
+    "Currency": "USD",
+    "Position": 63,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-10 21:36:41",
+    "Seller": "Wistint",
+    "Stock": "400",
+    "Price": 0.047,
+    "Currency": "USD",
+    "Position": 64,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
