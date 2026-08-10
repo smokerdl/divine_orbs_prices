@@ -7313,5 +7313,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-10 06:01:59",
+    "Seller": "biohan",
+    "Stock": "851",
+    "Price": 0.0122,
+    "Currency": "USD",
+    "Position": 625,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-10 06:01:59",
+    "Seller": "TerminatorGT",
+    "Stock": "3017",
+    "Price": 0.0122,
+    "Currency": "USD",
+    "Position": 626,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-10 06:01:59",
+    "Seller": "Darksell",
+    "Stock": "477",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 629,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-10 06:01:59",
+    "Seller": "Arima221",
+    "Stock": "1",
+    "Price": 0.0125,
+    "Currency": "USD",
+    "Position": 635,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-10 06:01:59",
+    "Seller": "fkkx",
+    "Stock": "2000",
+    "Price": 0.0125,
+    "Currency": "USD",
+    "Position": 637,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
