@@ -9293,5 +9293,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-12 02:25:10",
+    "Seller": "Exprom",
+    "Stock": "100",
+    "Price": 0.0135,
+    "Currency": "USD",
+    "Position": 656,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-12 02:25:10",
+    "Seller": "Roggez",
+    "Stock": "6000",
+    "Price": 0.0137,
+    "Currency": "USD",
+    "Position": 657,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-12 02:25:10",
+    "Seller": "Grisha27",
+    "Stock": "2000",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 658,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-12 02:25:10",
+    "Seller": "Koching",
+    "Stock": "2000",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 659,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-12 02:25:10",
+    "Seller": "Darksell",
+    "Stock": "931",
+    "Price": 0.0141,
+    "Currency": "USD",
+    "Position": 662,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
