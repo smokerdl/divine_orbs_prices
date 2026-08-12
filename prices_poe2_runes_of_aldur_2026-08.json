@@ -9458,5 +9458,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-12 08:19:39",
+    "Seller": "UndeonDeadK",
+    "Stock": "1000",
+    "Price": 0.0134,
+    "Currency": "USD",
+    "Position": 614,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-12 08:19:39",
+    "Seller": "IncCreep",
+    "Stock": "3500",
+    "Price": 0.0134,
+    "Currency": "USD",
+    "Position": 615,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-12 08:19:39",
+    "Seller": "WTScheap",
+    "Stock": "10000",
+    "Price": 0.0135,
+    "Currency": "USD",
+    "Position": 618,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-12 08:19:39",
+    "Seller": "f4kn3r",
+    "Stock": "176",
+    "Price": 0.0135,
+    "Currency": "USD",
+    "Position": 623,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-12 08:19:39",
+    "Seller": "Exprom",
+    "Stock": "100",
+    "Price": 0.0135,
+    "Currency": "USD",
+    "Position": 624,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
