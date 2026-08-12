@@ -9733,5 +9733,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-12 14:35:22",
+    "Seller": "heccgal",
+    "Stock": "7000",
+    "Price": 0.0131,
+    "Currency": "USD",
+    "Position": 672,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-12 14:35:22",
+    "Seller": "WTScheap",
+    "Stock": "3333",
+    "Price": 0.0133,
+    "Currency": "USD",
+    "Position": 675,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-12 14:35:22",
+    "Seller": "Azyxy",
+    "Stock": "100",
+    "Price": 0.0134,
+    "Currency": "USD",
+    "Position": 678,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-12 14:35:22",
+    "Seller": "PabloSiz",
+    "Stock": "161",
+    "Price": 0.0134,
+    "Currency": "USD",
+    "Position": 683,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-12 14:35:22",
+    "Seller": "Slonic777",
+    "Stock": "2000",
+    "Price": 0.0134,
+    "Currency": "USD",
+    "Position": 684,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
