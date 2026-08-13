@@ -10888,5 +10888,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-13 18:43:25",
+    "Seller": "GroodSpeek",
+    "Stock": "590",
+    "Price": 0.042,
+    "Currency": "USD",
+    "Position": 62,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-13 18:43:25",
+    "Seller": "UltraMegaTOP1",
+    "Stock": "100",
+    "Price": 0.042,
+    "Currency": "USD",
+    "Position": 63,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-13 18:43:25",
+    "Seller": "ellipf",
+    "Stock": "1200",
+    "Price": 0.044,
+    "Currency": "USD",
+    "Position": 64,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-13 18:43:25",
+    "Seller": "Telltaler",
+    "Stock": "100",
+    "Price": 0.044,
+    "Currency": "USD",
+    "Position": 65,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-13 18:43:25",
+    "Seller": "Egor2345",
+    "Stock": "179",
+    "Price": 0.044,
+    "Currency": "USD",
+    "Position": 67,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
