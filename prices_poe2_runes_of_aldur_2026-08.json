@@ -10668,5 +10668,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-13 13:46:28",
+    "Seller": "Stek111",
+    "Stock": "40",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 605,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-13 13:46:28",
+    "Seller": "shhegol",
+    "Stock": "4790",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 606,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-13 13:46:28",
+    "Seller": "ElinorBoost",
+    "Stock": "1397",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 607,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-13 13:46:28",
+    "Seller": "JustEdW",
+    "Stock": "1000",
+    "Price": 0.0126,
+    "Currency": "USD",
+    "Position": 610,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-13 13:46:28",
+    "Seller": "Koching",
+    "Stock": "7000",
+    "Price": 0.0126,
+    "Currency": "USD",
+    "Position": 611,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
