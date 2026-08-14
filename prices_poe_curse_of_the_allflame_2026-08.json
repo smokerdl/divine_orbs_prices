@@ -11438,5 +11438,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-14 06:15:38",
+    "Seller": "GroodSpeek",
+    "Stock": "590",
+    "Price": 0.043,
+    "Currency": "USD",
+    "Position": 53,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-14 06:15:38",
+    "Seller": "WeHadTwoBagsOfGrass",
+    "Stock": "1650",
+    "Price": 0.043,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-14 06:15:38",
+    "Seller": "Mipo",
+    "Stock": "500",
+    "Price": 0.043,
+    "Currency": "USD",
+    "Position": 55,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-14 06:15:38",
+    "Seller": "zani",
+    "Stock": "2000",
+    "Price": 0.044,
+    "Currency": "USD",
+    "Position": 56,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-14 06:15:38",
+    "Seller": "DoLhi",
+    "Stock": "2000",
+    "Price": 0.044,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
