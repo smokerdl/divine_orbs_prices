@@ -12153,5 +12153,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-14 22:39:18",
+    "Seller": "K4mO",
+    "Stock": "3300",
+    "Price": 0.0132,
+    "Currency": "USD",
+    "Position": 701,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-14 22:39:18",
+    "Seller": "Lexion",
+    "Stock": "300",
+    "Price": 0.0138,
+    "Currency": "USD",
+    "Position": 705,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-14 22:39:18",
+    "Seller": "Lymyril",
+    "Stock": "1834",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 711,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-14 22:39:18",
+    "Seller": "kryazhevskikh96",
+    "Stock": "1600",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 712,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-14 22:39:18",
+    "Seller": "Deimier",
+    "Stock": "1700",
+    "Price": 0.0144,
+    "Currency": "USD",
+    "Position": 718,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
