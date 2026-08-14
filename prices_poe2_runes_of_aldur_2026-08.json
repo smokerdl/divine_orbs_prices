@@ -11933,5 +11933,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-14 18:37:31",
+    "Seller": "Dimka538",
+    "Stock": "106",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 662,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-14 18:37:31",
+    "Seller": "Region412",
+    "Stock": "150",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 679,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-14 18:37:31",
+    "Seller": "wowmmm",
+    "Stock": "10000",
+    "Price": 0.0141,
+    "Currency": "USD",
+    "Position": 680,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-14 18:37:31",
+    "Seller": "braza07",
+    "Stock": "2484",
+    "Price": 0.0143,
+    "Currency": "USD",
+    "Position": 681,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-14 18:37:31",
+    "Seller": "Khrognak",
+    "Stock": "2000",
+    "Price": 0.0143,
+    "Currency": "USD",
+    "Position": 682,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
