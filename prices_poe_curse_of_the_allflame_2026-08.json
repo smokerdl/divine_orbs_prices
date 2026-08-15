@@ -13363,5 +13363,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-15 23:00:17",
+    "Seller": "ComradeD",
+    "Stock": "800",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-15 23:00:17",
+    "Seller": "Ivvaa",
+    "Stock": "3000",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-15 23:00:17",
+    "Seller": "ExpFreez",
+    "Stock": "2000",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-15 23:00:17",
+    "Seller": "gvinbleik",
+    "Stock": "430",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-15 23:00:17",
+    "Seller": "TakeMyEnergy",
+    "Stock": "1300",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 62,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
