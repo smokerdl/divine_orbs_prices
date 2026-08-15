@@ -12428,5 +12428,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-15 03:23:45",
+    "Seller": "merzoxz",
+    "Stock": "67",
+    "Price": 0.0148,
+    "Currency": "USD",
+    "Position": 757,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-15 03:23:45",
+    "Seller": "Bezmozglik",
+    "Stock": "219",
+    "Price": 0.0157,
+    "Currency": "USD",
+    "Position": 759,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-15 03:23:45",
+    "Seller": "SerjShow",
+    "Stock": "600",
+    "Price": 0.016,
+    "Currency": "USD",
+    "Position": 760,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-15 03:23:45",
+    "Seller": "Balkion",
+    "Stock": "400",
+    "Price": 0.0162,
+    "Currency": "USD",
+    "Position": 762,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-15 03:23:45",
+    "Seller": "BlodyFarm",
+    "Stock": "1070",
+    "Price": 0.0162,
+    "Currency": "USD",
+    "Position": 763,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
