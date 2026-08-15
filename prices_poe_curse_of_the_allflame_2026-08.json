@@ -12813,5 +12813,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-15 13:04:44",
+    "Seller": "Fabion15",
+    "Stock": "414",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 55,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-15 13:04:44",
+    "Seller": "Matsuoka",
+    "Stock": "270",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 56,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-15 13:04:44",
+    "Seller": "Londalius",
+    "Stock": "780",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-15 13:04:44",
+    "Seller": "dmntr",
+    "Stock": "200",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-15 13:04:44",
+    "Seller": "Scizor",
+    "Stock": "800",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
