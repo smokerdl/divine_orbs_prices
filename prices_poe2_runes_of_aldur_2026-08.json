@@ -14023,5 +14023,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-16 12:12:18",
+    "Seller": "xdfdafshasd",
+    "Stock": "1100",
+    "Price": 0.0122,
+    "Currency": "USD",
+    "Position": 630,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-16 12:12:18",
+    "Seller": "valelonga",
+    "Stock": "2",
+    "Price": 0.0125,
+    "Currency": "USD",
+    "Position": 632,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-16 12:12:18",
+    "Seller": "Maraak",
+    "Stock": "400",
+    "Price": 0.0132,
+    "Currency": "USD",
+    "Position": 640,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-16 12:12:18",
+    "Seller": "AleksandrV",
+    "Stock": "100",
+    "Price": 0.0133,
+    "Currency": "USD",
+    "Position": 646,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-16 12:12:18",
+    "Seller": "GoldBiFrost",
+    "Stock": "1000",
+    "Price": 0.0133,
+    "Currency": "USD",
+    "Position": 647,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
