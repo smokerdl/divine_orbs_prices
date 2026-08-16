@@ -13913,5 +13913,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-16 10:19:30",
+    "Seller": "J0kerge",
+    "Stock": "300",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 676,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-16 10:19:30",
+    "Seller": "valelonga",
+    "Stock": "2",
+    "Price": 0.0125,
+    "Currency": "USD",
+    "Position": 679,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-16 10:19:30",
+    "Seller": "HammApp",
+    "Stock": "1000",
+    "Price": 0.0133,
+    "Currency": "USD",
+    "Position": 692,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-16 10:19:30",
+    "Seller": "GoldBiFrost",
+    "Stock": "1500",
+    "Price": 0.0139,
+    "Currency": "USD",
+    "Position": 696,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-16 10:19:30",
+    "Seller": "TorgoviyPutnik",
+    "Stock": "300",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 702,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
