@@ -14463,5 +14463,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-16 20:06:34",
+    "Seller": "VasyaBanyas",
+    "Stock": "2000",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 639,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-16 20:06:34",
+    "Seller": "seon1990",
+    "Stock": "2330",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 640,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-16 20:06:34",
+    "Seller": "NannyFa1rTrade",
+    "Stock": "8596",
+    "Price": 0.0131,
+    "Currency": "USD",
+    "Position": 643,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-16 20:06:34",
+    "Seller": "AleksandrV",
+    "Stock": "100",
+    "Price": 0.0133,
+    "Currency": "USD",
+    "Position": 652,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-16 20:06:34",
+    "Seller": "Brexit",
+    "Stock": "4300",
+    "Price": 0.0133,
+    "Currency": "USD",
+    "Position": 653,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
