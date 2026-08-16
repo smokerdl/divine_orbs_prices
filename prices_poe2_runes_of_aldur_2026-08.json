@@ -13803,5 +13803,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-16 08:14:13",
+    "Seller": "wednesdaybdo",
+    "Stock": "1400",
+    "Price": 0.0134,
+    "Currency": "USD",
+    "Position": 666,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-16 08:14:13",
+    "Seller": "Tusureth",
+    "Stock": "6500",
+    "Price": 0.0136,
+    "Currency": "USD",
+    "Position": 667,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-16 08:14:13",
+    "Seller": "merfes2297",
+    "Stock": "110",
+    "Price": 0.0139,
+    "Currency": "USD",
+    "Position": 670,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-16 08:14:13",
+    "Seller": "TorgoviyPutnik",
+    "Stock": "400",
+    "Price": 0.014,
+    "Currency": "USD",
+    "Position": 676,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-16 08:14:13",
+    "Seller": "KevLARpoe",
+    "Stock": "5033",
+    "Price": 0.0145,
+    "Currency": "USD",
+    "Position": 682,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
