@@ -15343,5 +15343,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-17 13:16:38",
+    "Seller": "veles1337",
+    "Stock": "800",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 52,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-17 13:16:38",
+    "Seller": "Lexka",
+    "Stock": "50",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 53,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-17 13:16:38",
+    "Seller": "ExileStorm",
+    "Stock": "650",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-17 13:16:38",
+    "Seller": "Dmitry5237",
+    "Stock": "260",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-17 13:16:38",
+    "Seller": "Rangerpewpew",
+    "Stock": "300",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
