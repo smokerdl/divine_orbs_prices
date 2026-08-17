@@ -15673,5 +15673,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-17 19:09:51",
+    "Seller": "FermerUz2000x",
+    "Stock": "280",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 637,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-17 19:09:51",
+    "Seller": "valelonga",
+    "Stock": "2",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 640,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-17 19:09:51",
+    "Seller": "intnet",
+    "Stock": "5000",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 645,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-17 19:09:51",
+    "Seller": "Roggez",
+    "Stock": "4300",
+    "Price": 0.013,
+    "Currency": "USD",
+    "Position": 647,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-17 19:09:51",
+    "Seller": "MrFaker",
+    "Stock": "4",
+    "Price": 0.0131,
+    "Currency": "USD",
+    "Position": 655,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
