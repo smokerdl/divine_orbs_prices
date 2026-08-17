@@ -15508,5 +15508,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-17 16:28:30",
+    "Seller": "Fury94",
+    "Stock": "1900",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 607,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-17 16:28:30",
+    "Seller": "Roggez",
+    "Stock": "6000",
+    "Price": 0.013,
+    "Currency": "USD",
+    "Position": 610,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-17 16:28:30",
+    "Seller": "MrFaker",
+    "Stock": "4",
+    "Price": 0.0131,
+    "Currency": "USD",
+    "Position": 618,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-17 16:28:30",
+    "Seller": "AleksandrV",
+    "Stock": "100",
+    "Price": 0.0131,
+    "Currency": "USD",
+    "Position": 619,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-17 16:28:30",
+    "Seller": "BrowningHighPower",
+    "Stock": "783",
+    "Price": 0.0131,
+    "Currency": "USD",
+    "Position": 620,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
