@@ -16058,5 +16058,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-18 02:07:26",
+    "Seller": "Nivelen",
+    "Stock": "17",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-18 02:07:26",
+    "Seller": "Virus32111",
+    "Stock": "300",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 55,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-18 02:07:26",
+    "Seller": "Ghoul0Tokyo",
+    "Stock": "5000",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 56,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-18 02:07:26",
+    "Seller": "hrbngr",
+    "Stock": "2000",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-18 02:07:26",
+    "Seller": "onebuyforwin",
+    "Stock": "2580",
+    "Price": 0.03,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
