@@ -15893,5 +15893,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-17 23:09:47",
+    "Seller": "Nivelen",
+    "Stock": "39",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 57,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-17 23:09:47",
+    "Seller": "ncr43123",
+    "Stock": "1678",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 58,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-17 23:09:47",
+    "Seller": "VLADOS2809",
+    "Stock": "1302",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 59,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-17 23:09:47",
+    "Seller": "Fernardo123",
+    "Stock": "1200",
+    "Price": 0.034,
+    "Currency": "USD",
+    "Position": 60,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-17 23:09:47",
+    "Seller": "wintime",
+    "Stock": "400",
+    "Price": 0.035,
+    "Currency": "USD",
+    "Position": 61,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
