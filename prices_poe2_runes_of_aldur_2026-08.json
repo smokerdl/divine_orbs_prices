@@ -17103,5 +17103,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 22:17:25",
+    "Seller": "Accessiv",
+    "Stock": "1600",
+    "Price": 0.0115,
+    "Currency": "USD",
+    "Position": 604,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 22:17:25",
+    "Seller": "Akazuki",
+    "Stock": "1000",
+    "Price": 0.0117,
+    "Currency": "USD",
+    "Position": 622,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 22:17:25",
+    "Seller": "heccgal",
+    "Stock": "10000",
+    "Price": 0.0117,
+    "Currency": "USD",
+    "Position": 623,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 22:17:25",
+    "Seller": "DoniZanmey",
+    "Stock": "1200",
+    "Price": 0.0117,
+    "Currency": "USD",
+    "Position": 624,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 22:17:25",
+    "Seller": "PacMan888999",
+    "Stock": "1100",
+    "Price": 0.0118,
+    "Currency": "USD",
+    "Position": 629,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
