@@ -16718,5 +16718,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 15:15:25",
+    "Seller": "GoldBiFrost",
+    "Stock": "1000",
+    "Price": 0.0114,
+    "Currency": "USD",
+    "Position": 565,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 15:15:25",
+    "Seller": "andrey67RUS",
+    "Stock": "1300",
+    "Price": 0.0114,
+    "Currency": "USD",
+    "Position": 566,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 15:15:25",
+    "Seller": "Arteqisa",
+    "Stock": "11500",
+    "Price": 0.0115,
+    "Currency": "USD",
+    "Position": 573,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 15:15:25",
+    "Seller": "Akazuki",
+    "Stock": "1000",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 627,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 15:15:25",
+    "Seller": "lanko",
+    "Stock": "9000",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 628,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
