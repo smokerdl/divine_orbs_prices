@@ -16388,5 +16388,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 09:17:24",
+    "Seller": "TumanT",
+    "Stock": "555",
+    "Price": 0.0121,
+    "Currency": "USD",
+    "Position": 639,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 09:17:24",
+    "Seller": "nimf12",
+    "Stock": "618",
+    "Price": 0.0122,
+    "Currency": "USD",
+    "Position": 640,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 09:17:24",
+    "Seller": "valelonga",
+    "Stock": "2",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 643,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 09:17:24",
+    "Seller": "Exprom",
+    "Stock": "520",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 644,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 09:17:24",
+    "Seller": "DebTT",
+    "Stock": "7500",
+    "Price": 0.0124,
+    "Currency": "USD",
+    "Position": 645,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
