@@ -16553,5 +16553,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-18 12:16:42",
+    "Seller": "SolevoyTorgovec",
+    "Stock": "1",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 51,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-18 12:16:42",
+    "Seller": "CorpseRunZG",
+    "Stock": "80",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 52,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-18 12:16:42",
+    "Seller": "Tovish",
+    "Stock": "200",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 53,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-18 12:16:42",
+    "Seller": "Raur",
+    "Stock": "200",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-18 12:16:42",
+    "Seller": "Nivelen",
+    "Stock": "17",
+    "Price": 0.033,
+    "Currency": "USD",
+    "Position": 55,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
