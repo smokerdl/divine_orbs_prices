@@ -16333,5 +16333,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 08:16:14",
+    "Seller": "Tusureth",
+    "Stock": "7000",
+    "Price": 0.0107,
+    "Currency": "USD",
+    "Position": 641,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 08:16:14",
+    "Seller": "merfes2297",
+    "Stock": "175",
+    "Price": 0.011,
+    "Currency": "USD",
+    "Position": 642,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 08:16:14",
+    "Seller": "BlodyFarm",
+    "Stock": "1270",
+    "Price": 0.011,
+    "Currency": "USD",
+    "Position": 643,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 08:16:14",
+    "Seller": "Roggez",
+    "Stock": "4300",
+    "Price": 0.0112,
+    "Currency": "USD",
+    "Position": 649,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 08:16:14",
+    "Seller": "SweetC4t",
+    "Stock": "1392",
+    "Price": 0.0113,
+    "Currency": "USD",
+    "Position": 656,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
