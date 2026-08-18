@@ -17048,5 +17048,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 21:14:50",
+    "Seller": "mr4anderssonPoE",
+    "Stock": "2700",
+    "Price": 0.0114,
+    "Currency": "USD",
+    "Position": 597,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 21:14:50",
+    "Seller": "Arteqisa",
+    "Stock": "8968",
+    "Price": 0.0115,
+    "Currency": "USD",
+    "Position": 605,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 21:14:50",
+    "Seller": "Driadik",
+    "Stock": "600",
+    "Price": 0.0115,
+    "Currency": "USD",
+    "Position": 606,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 21:14:50",
+    "Seller": "exalong",
+    "Stock": "1300",
+    "Price": 0.0115,
+    "Currency": "USD",
+    "Position": 607,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 21:14:50",
+    "Seller": "Akazuki",
+    "Stock": "1000",
+    "Price": 0.0117,
+    "Currency": "USD",
+    "Position": 621,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
