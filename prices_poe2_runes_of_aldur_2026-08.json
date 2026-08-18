@@ -17158,5 +17158,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 23:01:53",
+    "Seller": "Alexborg11",
+    "Stock": "1220",
+    "Price": 0.011,
+    "Currency": "USD",
+    "Position": 595,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 23:01:53",
+    "Seller": "huriken",
+    "Stock": "2000",
+    "Price": 0.0111,
+    "Currency": "USD",
+    "Position": 598,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 23:01:53",
+    "Seller": "rushtocomes",
+    "Stock": "530",
+    "Price": 0.0112,
+    "Currency": "USD",
+    "Position": 599,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 23:01:53",
+    "Seller": "Rambri",
+    "Stock": "545",
+    "Price": 0.0112,
+    "Currency": "USD",
+    "Position": 600,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-18 23:01:53",
+    "Seller": "IncCreep",
+    "Stock": "2000",
+    "Price": 0.0114,
+    "Currency": "USD",
+    "Position": 603,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
