@@ -16663,5 +16663,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-18 14:11:00",
+    "Seller": "Sinzari",
+    "Stock": "274",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-18 14:11:00",
+    "Seller": "GangDon",
+    "Stock": "190",
+    "Price": 0.031,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-18 14:11:00",
+    "Seller": "Skreenoff",
+    "Stock": "260",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-18 14:11:00",
+    "Seller": "samurov",
+    "Stock": "567",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-18 14:11:00",
+    "Seller": "mopeda123",
+    "Stock": "265",
+    "Price": 0.032,
+    "Currency": "USD",
+    "Position": 51,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
