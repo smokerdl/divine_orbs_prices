@@ -18093,5 +18093,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-19 17:18:48",
+    "Seller": "Fem",
+    "Stock": "5600",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-19 17:18:48",
+    "Seller": "GUPIpice",
+    "Stock": "250",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-19 17:18:48",
+    "Seller": "Antonchikov",
+    "Stock": "150",
+    "Price": 0.027,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-19 17:18:48",
+    "Seller": "haydx",
+    "Stock": "500",
+    "Price": 0.027,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-19 17:18:48",
+    "Seller": "indigotr",
+    "Stock": "100",
+    "Price": 0.027,
+    "Currency": "USD",
+    "Position": 51,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
