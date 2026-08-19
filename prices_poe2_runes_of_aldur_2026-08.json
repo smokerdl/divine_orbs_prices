@@ -17983,5 +17983,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-19 15:15:00",
+    "Seller": "Mangust161",
+    "Stock": "500",
+    "Price": 0.0102,
+    "Currency": "USD",
+    "Position": 459,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-19 15:15:00",
+    "Seller": "DebTT",
+    "Stock": "5000",
+    "Price": 0.0102,
+    "Currency": "USD",
+    "Position": 460,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-19 15:15:00",
+    "Seller": "Roggez",
+    "Stock": "4350",
+    "Price": 0.0102,
+    "Currency": "USD",
+    "Position": 461,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-19 15:15:00",
+    "Seller": "SubjectiveMind",
+    "Stock": "200",
+    "Price": 0.0102,
+    "Currency": "USD",
+    "Position": 462,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-19 15:15:00",
+    "Seller": "Mamba560",
+    "Stock": "1300",
+    "Price": 0.0102,
+    "Currency": "USD",
+    "Position": 463,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
