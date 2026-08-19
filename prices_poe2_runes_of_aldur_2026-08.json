@@ -18258,5 +18258,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-19 20:12:22",
+    "Seller": "ExlRe",
+    "Stock": "500",
+    "Price": 0.0083,
+    "Currency": "USD",
+    "Position": 520,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-19 20:12:22",
+    "Seller": "escador88",
+    "Stock": "800",
+    "Price": 0.0083,
+    "Currency": "USD",
+    "Position": 521,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-19 20:12:22",
+    "Seller": "Shankhvh",
+    "Stock": "2700",
+    "Price": 0.0083,
+    "Currency": "USD",
+    "Position": 522,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-19 20:12:22",
+    "Seller": "PoeFast",
+    "Stock": "12411",
+    "Price": 0.0083,
+    "Currency": "USD",
+    "Position": 523,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-19 20:12:22",
+    "Seller": "WTScheap",
+    "Stock": "11111",
+    "Price": 0.0083,
+    "Currency": "USD",
+    "Position": 524,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
