@@ -18368,5 +18368,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-19 22:13:17",
+    "Seller": "GrossmaR",
+    "Stock": "700",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-19 22:13:17",
+    "Seller": "chaosattack",
+    "Stock": "3500",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 44,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-19 22:13:17",
+    "Seller": "BornToSlow",
+    "Stock": "300",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-19 22:13:17",
+    "Seller": "RoflanLeague",
+    "Stock": "970",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-19 22:13:17",
+    "Seller": "NInesouls",
+    "Stock": "578",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
