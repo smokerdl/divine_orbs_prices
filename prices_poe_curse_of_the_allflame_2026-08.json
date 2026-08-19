@@ -18148,5 +18148,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-19 18:15:34",
+    "Seller": "Denis515",
+    "Stock": "800",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 45,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-19 18:15:34",
+    "Seller": "PaxanPT",
+    "Stock": "790",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-19 18:15:34",
+    "Seller": "Saendin",
+    "Stock": "150",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-19 18:15:34",
+    "Seller": "railgun2",
+    "Stock": "719",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-19 18:15:34",
+    "Seller": "EndlessParadox",
+    "Stock": "350",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
