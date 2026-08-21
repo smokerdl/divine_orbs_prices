@@ -20183,5 +20183,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-21 09:19:41",
+    "Seller": "Proffit",
+    "Stock": "800",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 38,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-21 09:19:41",
+    "Seller": "widowmake",
+    "Stock": "3800",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-21 09:19:41",
+    "Seller": "deen22",
+    "Stock": "1000",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-21 09:19:41",
+    "Seller": "oldHruchel",
+    "Stock": "8666",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-21 09:19:41",
+    "Seller": "Dendronich",
+    "Stock": "1000",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
