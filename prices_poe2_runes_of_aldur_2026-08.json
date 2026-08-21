@@ -20018,5 +20018,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-21 06:37:37",
+    "Seller": "lo8ec",
+    "Stock": "2000",
+    "Price": 0.0111,
+    "Currency": "USD",
+    "Position": 547,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-21 06:37:37",
+    "Seller": "MirrorStash",
+    "Stock": "1000",
+    "Price": 0.0112,
+    "Currency": "USD",
+    "Position": 548,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-21 06:37:37",
+    "Seller": "dodolk",
+    "Stock": "586293",
+    "Price": 0.0112,
+    "Currency": "USD",
+    "Position": 552,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-21 06:37:37",
+    "Seller": "diabloid1972",
+    "Stock": "1000",
+    "Price": 0.0112,
+    "Currency": "USD",
+    "Position": 553,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-21 06:37:37",
+    "Seller": "SadArlekin",
+    "Stock": "678",
+    "Price": 0.0112,
+    "Currency": "USD",
+    "Position": 554,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
