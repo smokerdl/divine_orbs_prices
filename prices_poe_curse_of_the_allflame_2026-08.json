@@ -22273,5 +22273,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-23 00:05:38",
+    "Seller": "wowmmm",
+    "Stock": "3800",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-23 00:05:38",
+    "Seller": "MonTees",
+    "Stock": "8450",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 51,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-23 00:05:38",
+    "Seller": "Yuriuss",
+    "Stock": "980",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 52,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-23 00:05:38",
+    "Seller": "Joka30",
+    "Stock": "1070",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 53,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-23 00:05:38",
+    "Seller": "Margulllis",
+    "Stock": "220",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
