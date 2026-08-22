@@ -21943,5 +21943,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-22 18:01:43",
+    "Seller": "datpet",
+    "Stock": "600",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-22 18:01:43",
+    "Seller": "TentProector",
+    "Stock": "400",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-22 18:01:43",
+    "Seller": "Raur",
+    "Stock": "290",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-22 18:01:43",
+    "Seller": "Codname47",
+    "Stock": "1043",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-22 18:01:43",
+    "Seller": "DelioN227",
+    "Stock": "5600",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 51,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
