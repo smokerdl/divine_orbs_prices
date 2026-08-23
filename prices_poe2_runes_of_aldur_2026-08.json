@@ -22768,5 +22768,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-23 10:21:49",
+    "Seller": "SquadOfRacoons",
+    "Stock": "510",
+    "Price": 0.0102,
+    "Currency": "USD",
+    "Position": 577,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-23 10:21:49",
+    "Seller": "kryazhevskikh96",
+    "Stock": "1000",
+    "Price": 0.0105,
+    "Currency": "USD",
+    "Position": 584,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-23 10:21:49",
+    "Seller": "KerCus",
+    "Stock": "3602",
+    "Price": 0.0111,
+    "Currency": "USD",
+    "Position": 589,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-23 10:21:49",
+    "Seller": "MrHunter",
+    "Stock": "2000",
+    "Price": 0.0112,
+    "Currency": "USD",
+    "Position": 590,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-23 10:21:49",
+    "Seller": "Neverzy",
+    "Stock": "2250",
+    "Price": 0.0112,
+    "Currency": "USD",
+    "Position": 591,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
