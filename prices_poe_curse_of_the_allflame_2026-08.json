@@ -23043,5 +23043,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-23 15:01:33",
+    "Seller": "TanLoon",
+    "Stock": "900",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-23 15:01:33",
+    "Seller": "First1113",
+    "Stock": "1080",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 50,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-23 15:01:33",
+    "Seller": "Raur",
+    "Stock": "100",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 51,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-23 15:01:33",
+    "Seller": "Divanodich",
+    "Stock": "700",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 52,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-23 15:01:33",
+    "Seller": "Joka30",
+    "Stock": "488",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 53,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
