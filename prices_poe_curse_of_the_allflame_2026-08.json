@@ -23648,5 +23648,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-24 02:02:10",
+    "Seller": "Melismut",
+    "Stock": "200",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-24 02:02:10",
+    "Seller": "Qxxxi",
+    "Stock": "2000",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-24 02:02:10",
+    "Seller": "Lindi",
+    "Stock": "500",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 44,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-24 02:02:10",
+    "Seller": "Exoslamvdetsad",
+    "Stock": "1808",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 45,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-24 02:02:10",
+    "Seller": "TrAleksGame",
+    "Stock": "400",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
