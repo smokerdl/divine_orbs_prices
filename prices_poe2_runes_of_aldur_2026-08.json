@@ -23758,5 +23758,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-24 05:13:32",
+    "Seller": "Vadimxdq",
+    "Stock": "900",
+    "Price": 0.0112,
+    "Currency": "USD",
+    "Position": 599,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-24 05:13:32",
+    "Seller": "GeoS9",
+    "Stock": "100",
+    "Price": 0.0112,
+    "Currency": "USD",
+    "Position": 600,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-24 05:13:32",
+    "Seller": "Deimier",
+    "Stock": "470",
+    "Price": 0.0113,
+    "Currency": "USD",
+    "Position": 601,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-24 05:13:32",
+    "Seller": "Shandarmale",
+    "Stock": "800",
+    "Price": 0.0115,
+    "Currency": "USD",
+    "Position": 608,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-24 05:13:32",
+    "Seller": "Atletmz",
+    "Stock": "946",
+    "Price": 0.0118,
+    "Currency": "USD",
+    "Position": 614,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
