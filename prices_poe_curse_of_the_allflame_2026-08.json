@@ -24363,5 +24363,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-24 16:39:00",
+    "Seller": "Scizor",
+    "Stock": "1200",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 33,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-24 16:39:00",
+    "Seller": "Exoslamvdetsad",
+    "Stock": "1720",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-24 16:39:00",
+    "Seller": "orel57boostservice",
+    "Stock": "1104",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-24 16:39:00",
+    "Seller": "onebuyforwin",
+    "Stock": "4146",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-24 16:39:00",
+    "Seller": "Mirkle",
+    "Stock": "1000",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
