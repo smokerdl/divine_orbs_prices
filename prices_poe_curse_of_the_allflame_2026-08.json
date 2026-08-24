@@ -23703,5 +23703,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-24 03:01:06",
+    "Seller": "Exoslamvdetsad",
+    "Stock": "1808",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-24 03:01:06",
+    "Seller": "Quasfeed",
+    "Stock": "22",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-24 03:01:06",
+    "Seller": "sadorsad",
+    "Stock": "230",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 45,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-24 03:01:06",
+    "Seller": "Wlad68",
+    "Stock": "4900",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-24 03:01:06",
+    "Seller": "DSS21",
+    "Stock": "10000",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
