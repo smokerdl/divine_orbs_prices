@@ -24858,5 +24858,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-25 01:10:16",
+    "Seller": "HolidayStore",
+    "Stock": "4700",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 36,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-25 01:10:16",
+    "Seller": "TradeGame",
+    "Stock": "1500",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 37,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-25 01:10:16",
+    "Seller": "BornToSlow",
+    "Stock": "400",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 38,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-25 01:10:16",
+    "Seller": "fatamayle",
+    "Stock": "3500",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-25 01:10:16",
+    "Seller": "danilaaaaaaa321",
+    "Stock": "1800",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
