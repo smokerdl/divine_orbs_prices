@@ -24143,5 +24143,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-24 12:31:44",
+    "Seller": "LetitBear",
+    "Stock": "500",
+    "Price": 0.0104,
+    "Currency": "USD",
+    "Position": 575,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-24 12:31:44",
+    "Seller": "arhanghel15",
+    "Stock": "240",
+    "Price": 0.0104,
+    "Currency": "USD",
+    "Position": 576,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-24 12:31:44",
+    "Seller": "Venni",
+    "Stock": "650",
+    "Price": 0.0104,
+    "Currency": "USD",
+    "Position": 577,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-24 12:31:44",
+    "Seller": "CoIossus",
+    "Stock": "1100",
+    "Price": 0.0107,
+    "Currency": "USD",
+    "Position": 579,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-24 12:31:44",
+    "Seller": "forward22",
+    "Stock": "100",
+    "Price": 0.0109,
+    "Currency": "USD",
+    "Position": 583,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
