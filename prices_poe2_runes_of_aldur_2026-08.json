@@ -25023,5 +25023,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-25 05:09:31",
+    "Seller": "Brossgame",
+    "Stock": "700",
+    "Price": 0.0086,
+    "Currency": "USD",
+    "Position": 583,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-25 05:09:31",
+    "Seller": "n0n4m3nsk",
+    "Stock": "2383",
+    "Price": 0.0089,
+    "Currency": "USD",
+    "Position": 591,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-25 05:09:31",
+    "Seller": "RaidyOneY",
+    "Stock": "3000",
+    "Price": 0.0089,
+    "Currency": "USD",
+    "Position": 592,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-25 05:09:31",
+    "Seller": "Pokiroko",
+    "Stock": "3508",
+    "Price": 0.0089,
+    "Currency": "USD",
+    "Position": 594,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-25 05:09:31",
+    "Seller": "Diabblo888",
+    "Stock": "2778",
+    "Price": 0.0092,
+    "Currency": "USD",
+    "Position": 598,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
