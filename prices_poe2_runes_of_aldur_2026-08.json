@@ -25793,5 +25793,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-25 19:20:27",
+    "Seller": "ARENAKAROS",
+    "Stock": "2200",
+    "Price": 0.0089,
+    "Currency": "USD",
+    "Position": 548,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-25 19:20:27",
+    "Seller": "Gromor",
+    "Stock": "950",
+    "Price": 0.0089,
+    "Currency": "USD",
+    "Position": 549,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-25 19:20:27",
+    "Seller": "FermerUz2000x",
+    "Stock": "230",
+    "Price": 0.0089,
+    "Currency": "USD",
+    "Position": 550,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-25 19:20:27",
+    "Seller": "TkachSude6",
+    "Stock": "2800",
+    "Price": 0.0092,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-25 19:20:27",
+    "Seller": "Arestov",
+    "Stock": "3300",
+    "Price": 0.0092,
+    "Currency": "USD",
+    "Position": 556,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
