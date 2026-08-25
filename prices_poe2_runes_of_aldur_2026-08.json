@@ -25518,5 +25518,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-25 14:13:04",
+    "Seller": "HickmanAlex",
+    "Stock": "41",
+    "Price": 0.0098,
+    "Currency": "USD",
+    "Position": 573,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-25 14:13:04",
+    "Seller": "Hemohlobines",
+    "Stock": "5075",
+    "Price": 0.0098,
+    "Currency": "USD",
+    "Position": 574,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-25 14:13:04",
+    "Seller": "Drakonid13",
+    "Stock": "2500",
+    "Price": 0.0101,
+    "Currency": "USD",
+    "Position": 576,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-25 14:13:04",
+    "Seller": "kryazhevskikh96",
+    "Stock": "1700",
+    "Price": 0.0103,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-25 14:13:04",
+    "Seller": "kryazhevskikh96",
+    "Stock": "1700",
+    "Price": 0.0103,
+    "Currency": "USD",
+    "Position": 583,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
