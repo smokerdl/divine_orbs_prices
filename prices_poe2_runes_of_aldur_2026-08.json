@@ -25903,5 +25903,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-25 21:17:44",
+    "Seller": "braza07",
+    "Stock": "1000",
+    "Price": 0.0094,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-25 21:17:44",
+    "Seller": "braza07",
+    "Stock": "1000",
+    "Price": 0.0094,
+    "Currency": "USD",
+    "Position": 572,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-25 21:17:44",
+    "Seller": "Scorpions89",
+    "Stock": "300",
+    "Price": 0.0094,
+    "Currency": "USD",
+    "Position": 573,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-25 21:17:44",
+    "Seller": "KotBazillio",
+    "Stock": "2600",
+    "Price": 0.0095,
+    "Currency": "USD",
+    "Position": 574,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-25 21:17:44",
+    "Seller": "Dubakpzdc",
+    "Stock": "1100",
+    "Price": 0.0096,
+    "Currency": "USD",
+    "Position": 578,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
