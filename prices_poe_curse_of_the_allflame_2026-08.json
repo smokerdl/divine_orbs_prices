@@ -27553,5 +27553,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-29 17:42:39",
+    "Seller": "mormosh",
+    "Stock": "1094",
+    "Price": 0.0191,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-29 17:42:39",
+    "Seller": "widowmake",
+    "Stock": "2100",
+    "Price": 0.0193,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-29 17:42:39",
+    "Seller": "Saendin",
+    "Stock": "190",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-29 17:42:39",
+    "Seller": "arik1504",
+    "Stock": "200",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-08-29 17:42:39",
+    "Seller": "Atlant000000",
+    "Stock": "600",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 45,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
