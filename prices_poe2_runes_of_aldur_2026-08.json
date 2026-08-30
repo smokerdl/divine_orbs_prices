@@ -27828,5 +27828,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-30 10:32:08",
+    "Seller": "Aidar1657",
+    "Stock": "700",
+    "Price": 0.0059,
+    "Currency": "USD",
+    "Position": 475,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-30 10:32:08",
+    "Seller": "AquaLife",
+    "Stock": "1900",
+    "Price": 0.0059,
+    "Currency": "USD",
+    "Position": 476,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-30 10:32:08",
+    "Seller": "HoBa2",
+    "Stock": "1500",
+    "Price": 0.0062,
+    "Currency": "USD",
+    "Position": 478,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-30 10:32:08",
+    "Seller": "KevLARpoe",
+    "Stock": "1079",
+    "Price": 0.0063,
+    "Currency": "USD",
+    "Position": 479,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12605"
+  },
+  {
+    "Timestamp": "2026-08-30 10:32:08",
+    "Seller": "SquadOfRacoons",
+    "Stock": "1281",
+    "Price": 0.0064,
+    "Currency": "USD",
+    "Position": 484,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12605"
   }
 ]
