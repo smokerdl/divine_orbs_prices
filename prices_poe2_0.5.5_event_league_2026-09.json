@@ -1,0 +1,24 @@
+[
+  {
+    "Timestamp": "2026-09-02 09:28:05",
+    "Seller": "bonry123",
+    "Stock": "11",
+    "Price": 0.0148,
+    "Currency": "USD",
+    "Position": 841,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-02 09:28:05",
+    "Seller": "Invalidka",
+    "Stock": "1",
+    "Price": 14.61,
+    "Currency": "USD",
+    "Position": 1599,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  }
+]
