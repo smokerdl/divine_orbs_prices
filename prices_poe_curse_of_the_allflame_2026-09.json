@@ -493,5 +493,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-02 14:45:32",
+    "Seller": "Neozzz11",
+    "Stock": "340",
+    "Price": 0.0173,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-02 14:45:32",
+    "Seller": "Danila313",
+    "Stock": "650",
+    "Price": 0.0175,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-02 14:45:32",
+    "Seller": "ccxxcc",
+    "Stock": "108",
+    "Price": 0.0175,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-02 14:45:32",
+    "Seller": "kotoyama",
+    "Stock": "510",
+    "Price": 0.0177,
+    "Currency": "USD",
+    "Position": 45,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-02 14:45:32",
+    "Seller": "cheapExaltos",
+    "Stock": "1000",
+    "Price": 0.0177,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
