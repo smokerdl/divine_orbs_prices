@@ -713,5 +713,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-03 03:45:16",
+    "Seller": "Zapitay",
+    "Stock": "68",
+    "Price": 0.018,
+    "Currency": "USD",
+    "Position": 38,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-03 03:45:16",
+    "Seller": "hazapet",
+    "Stock": "45",
+    "Price": 0.0182,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-03 03:45:16",
+    "Seller": "seregasirota",
+    "Stock": "1000",
+    "Price": 0.0183,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-03 03:45:16",
+    "Seller": "Modness",
+    "Stock": "800",
+    "Price": 0.0186,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-03 03:45:16",
+    "Seller": "mirrorofexile",
+    "Stock": "13000",
+    "Price": 0.019,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
