@@ -1373,5 +1373,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-05 00:04:37",
+    "Seller": "QuantumS",
+    "Stock": "1",
+    "Price": 0.0148,
+    "Currency": "USD",
+    "Position": 37,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-05 00:04:37",
+    "Seller": "oldHruchel",
+    "Stock": "10000",
+    "Price": 0.0148,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-05 00:04:37",
+    "Seller": "dvitaha90",
+    "Stock": "4",
+    "Price": 0.0153,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-05 00:04:37",
+    "Seller": "EvilMisterio",
+    "Stock": "6",
+    "Price": 0.0154,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-05 00:04:37",
+    "Seller": "Obitan1",
+    "Stock": "150",
+    "Price": 0.0158,
+    "Currency": "USD",
+    "Position": 44,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
