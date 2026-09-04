@@ -1263,5 +1263,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-04 18:09:35",
+    "Seller": "Saendin",
+    "Stock": "300",
+    "Price": 0.0164,
+    "Currency": "USD",
+    "Position": 30,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-04 18:09:35",
+    "Seller": "T1KOK",
+    "Stock": "186",
+    "Price": 0.0168,
+    "Currency": "USD",
+    "Position": 31,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-04 18:09:35",
+    "Seller": "Domander",
+    "Stock": "130",
+    "Price": 0.0169,
+    "Currency": "USD",
+    "Position": 32,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-04 18:09:35",
+    "Seller": "Nyli",
+    "Stock": "3000",
+    "Price": 0.0169,
+    "Currency": "USD",
+    "Position": 33,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-04 18:09:35",
+    "Seller": "QuantumS",
+    "Stock": "1",
+    "Price": 0.0171,
+    "Currency": "USD",
+    "Position": 36,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
