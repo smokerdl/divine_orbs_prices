@@ -306,5 +306,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-05 19:58:14",
+    "Seller": "happyseller111",
+    "Stock": "3",
+    "Price": 0.79,
+    "Currency": "USD",
+    "Position": 1662,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-05 19:58:14",
+    "Seller": "NightmareFrom1986",
+    "Stock": "1",
+    "Price": 0.79,
+    "Currency": "USD",
+    "Position": 1664,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-05 19:58:14",
+    "Seller": "Mkajs",
+    "Stock": "4",
+    "Price": 0.79,
+    "Currency": "USD",
+    "Position": 1665,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-05 19:58:14",
+    "Seller": "dukalis1337",
+    "Stock": "1",
+    "Price": 0.79,
+    "Currency": "USD",
+    "Position": 1666,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-05 19:58:14",
+    "Seller": "SARKI",
+    "Stock": "2",
+    "Price": 0.82,
+    "Currency": "USD",
+    "Position": 1667,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
