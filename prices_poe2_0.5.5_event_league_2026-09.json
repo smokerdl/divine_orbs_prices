@@ -581,5 +581,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-06 09:32:13",
+    "Seller": "wednesdaybdo",
+    "Stock": "108",
+    "Price": 0.62,
+    "Currency": "USD",
+    "Position": 1589,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-06 09:32:13",
+    "Seller": "vlados1113",
+    "Stock": "1",
+    "Price": 0.62,
+    "Currency": "USD",
+    "Position": 1590,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-06 09:32:13",
+    "Seller": "mmoplayer001",
+    "Stock": "999",
+    "Price": 0.62,
+    "Currency": "USD",
+    "Position": 1591,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-06 09:32:13",
+    "Seller": "SAKSkun",
+    "Stock": "65",
+    "Price": 0.62,
+    "Currency": "USD",
+    "Position": 1592,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-06 09:32:13",
+    "Seller": "Sqruji",
+    "Stock": "100",
+    "Price": 0.63,
+    "Currency": "USD",
+    "Position": 1593,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
