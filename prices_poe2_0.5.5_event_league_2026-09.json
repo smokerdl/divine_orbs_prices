@@ -1076,5 +1076,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-07 16:03:43",
+    "Seller": "ALEN22",
+    "Stock": "21",
+    "Price": 0.22,
+    "Currency": "USD",
+    "Position": 1566,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-07 16:03:43",
+    "Seller": "Vadimmm11",
+    "Stock": "1",
+    "Price": 0.22,
+    "Currency": "USD",
+    "Position": 1598,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-07 16:03:43",
+    "Seller": "PatchOfRMT",
+    "Stock": "68",
+    "Price": 0.22,
+    "Currency": "USD",
+    "Position": 1600,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-07 16:03:43",
+    "Seller": "WeHadTwoBagsOfGrass",
+    "Stock": "140",
+    "Price": 0.22,
+    "Currency": "USD",
+    "Position": 1601,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-07 16:03:43",
+    "Seller": "willkax",
+    "Stock": "30",
+    "Price": 0.22,
+    "Currency": "USD",
+    "Position": 1602,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
