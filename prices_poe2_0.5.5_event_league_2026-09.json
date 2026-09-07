@@ -1021,5 +1021,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-07 09:39:37",
+    "Seller": "LordKroll",
+    "Stock": "50",
+    "Price": 0.24,
+    "Currency": "USD",
+    "Position": 1437,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-07 09:39:37",
+    "Seller": "Kuzou",
+    "Stock": "90",
+    "Price": 0.24,
+    "Currency": "USD",
+    "Position": 1438,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-07 09:39:37",
+    "Seller": "Vetinari",
+    "Stock": "10",
+    "Price": 0.24,
+    "Currency": "USD",
+    "Position": 1439,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-07 09:39:37",
+    "Seller": "Derterus",
+    "Stock": "34",
+    "Price": 0.24,
+    "Currency": "USD",
+    "Position": 1441,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-07 09:39:37",
+    "Seller": "anudavay",
+    "Stock": "8",
+    "Price": 0.24,
+    "Currency": "USD",
+    "Position": 1442,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
