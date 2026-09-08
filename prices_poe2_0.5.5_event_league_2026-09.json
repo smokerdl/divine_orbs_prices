@@ -1406,5 +1406,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-08 14:46:45",
+    "Seller": "XTRaySnZ",
+    "Stock": "10",
+    "Price": 0.124,
+    "Currency": "USD",
+    "Position": 1464,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-08 14:46:45",
+    "Seller": "LongestDckInTheWildW",
+    "Stock": "114",
+    "Price": 0.125,
+    "Currency": "USD",
+    "Position": 1465,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-08 14:46:45",
+    "Seller": "Agresssor",
+    "Stock": "150",
+    "Price": 0.129,
+    "Currency": "USD",
+    "Position": 1480,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-08 14:46:45",
+    "Seller": "ddt922",
+    "Stock": "15",
+    "Price": 0.129,
+    "Currency": "USD",
+    "Position": 1481,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-08 14:46:45",
+    "Seller": "brbrvrg",
+    "Stock": "5000",
+    "Price": 0.129,
+    "Currency": "USD",
+    "Position": 1482,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
