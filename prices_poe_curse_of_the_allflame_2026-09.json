@@ -2803,5 +2803,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-08 14:46:31",
+    "Seller": "Tateponchik",
+    "Stock": "11919",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 36,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-08 14:46:31",
+    "Seller": "Zagorylko",
+    "Stock": "3800",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 37,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-08 14:46:31",
+    "Seller": "Nyli",
+    "Stock": "3000",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 38,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-08 14:46:31",
+    "Seller": "TrAleksGame",
+    "Stock": "700",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-08 14:46:31",
+    "Seller": "dodik22898",
+    "Stock": "230",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
