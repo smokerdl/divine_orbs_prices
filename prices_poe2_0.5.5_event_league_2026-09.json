@@ -1571,5 +1571,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-09 01:02:52",
+    "Seller": "IronBank",
+    "Stock": "249",
+    "Price": 0.086,
+    "Currency": "USD",
+    "Position": 1444,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-09 01:02:52",
+    "Seller": "Jeder",
+    "Stock": "242",
+    "Price": 0.088,
+    "Currency": "USD",
+    "Position": 1458,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-09 01:02:52",
+    "Seller": "CheerGold",
+    "Stock": "265",
+    "Price": 0.088,
+    "Currency": "USD",
+    "Position": 1459,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-09 01:02:52",
+    "Seller": "banomen",
+    "Stock": "120",
+    "Price": 0.089,
+    "Currency": "USD",
+    "Position": 1460,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-09 01:02:52",
+    "Seller": "wowmmm",
+    "Stock": "350",
+    "Price": 0.089,
+    "Currency": "USD",
+    "Position": 1462,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
