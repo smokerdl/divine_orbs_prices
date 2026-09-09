@@ -1846,5 +1846,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-09 21:02:22",
+    "Seller": "Comgod",
+    "Stock": "330",
+    "Price": 0.086,
+    "Currency": "USD",
+    "Position": 1435,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-09 21:02:22",
+    "Seller": "Tea1over",
+    "Stock": "200",
+    "Price": 0.087,
+    "Currency": "USD",
+    "Position": 1436,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-09 21:02:22",
+    "Seller": "den1209",
+    "Stock": "50",
+    "Price": 0.087,
+    "Currency": "USD",
+    "Position": 1437,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-09 21:02:22",
+    "Seller": "Ch0oJoy",
+    "Stock": "950",
+    "Price": 0.087,
+    "Currency": "USD",
+    "Position": 1438,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-09 21:02:22",
+    "Seller": "Botprodavec314",
+    "Stock": "80",
+    "Price": 0.087,
+    "Currency": "USD",
+    "Position": 1451,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
