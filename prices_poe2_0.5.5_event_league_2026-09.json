@@ -2176,5 +2176,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-10 18:14:24",
+    "Seller": "AkemoSS",
+    "Stock": "150",
+    "Price": 0.069,
+    "Currency": "USD",
+    "Position": 1343,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-10 18:14:24",
+    "Seller": "Qertue",
+    "Stock": "70",
+    "Price": 0.071,
+    "Currency": "USD",
+    "Position": 1347,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-10 18:14:24",
+    "Seller": "Xolbroa",
+    "Stock": "300",
+    "Price": 0.071,
+    "Currency": "USD",
+    "Position": 1349,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-10 18:14:24",
+    "Seller": "Lanceofsteel",
+    "Stock": "10",
+    "Price": 0.071,
+    "Currency": "USD",
+    "Position": 1351,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-10 18:14:24",
+    "Seller": "Fabion15",
+    "Stock": "500",
+    "Price": 0.072,
+    "Currency": "USD",
+    "Position": 1356,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
