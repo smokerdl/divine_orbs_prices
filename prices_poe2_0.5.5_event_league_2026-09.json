@@ -2341,5 +2341,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-11 02:26:30",
+    "Seller": "Kirill228cs",
+    "Stock": "220",
+    "Price": 0.055,
+    "Currency": "USD",
+    "Position": 1360,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-11 02:26:30",
+    "Seller": "Lumetrion",
+    "Stock": "80",
+    "Price": 0.055,
+    "Currency": "USD",
+    "Position": 1361,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-11 02:26:30",
+    "Seller": "arik1504",
+    "Stock": "100",
+    "Price": 0.055,
+    "Currency": "USD",
+    "Position": 1362,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-11 02:26:30",
+    "Seller": "Zoolwarn",
+    "Stock": "120",
+    "Price": 0.055,
+    "Currency": "USD",
+    "Position": 1363,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-11 02:26:30",
+    "Seller": "Ilikecoin",
+    "Stock": "13",
+    "Price": 0.056,
+    "Currency": "USD",
+    "Position": 1368,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
