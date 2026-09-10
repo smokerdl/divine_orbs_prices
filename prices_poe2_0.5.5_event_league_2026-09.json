@@ -2231,5 +2231,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-10 21:42:39",
+    "Seller": "LuckySuperMan",
+    "Stock": "70",
+    "Price": 0.066,
+    "Currency": "USD",
+    "Position": 1429,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-10 21:42:39",
+    "Seller": "Allistor",
+    "Stock": "170",
+    "Price": 0.066,
+    "Currency": "USD",
+    "Position": 1430,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-10 21:42:39",
+    "Seller": "OverFear",
+    "Stock": "100",
+    "Price": 0.066,
+    "Currency": "USD",
+    "Position": 1431,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-10 21:42:39",
+    "Seller": "altshka",
+    "Stock": "550",
+    "Price": 0.066,
+    "Currency": "USD",
+    "Position": 1432,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-10 21:42:39",
+    "Seller": "Sergarrez",
+    "Stock": "130",
+    "Price": 0.066,
+    "Currency": "USD",
+    "Position": 1433,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
