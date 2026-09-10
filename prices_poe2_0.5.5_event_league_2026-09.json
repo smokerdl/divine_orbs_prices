@@ -2011,5 +2011,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-10 04:31:37",
+    "Seller": "Bekonchezzz",
+    "Stock": "36",
+    "Price": 0.071,
+    "Currency": "USD",
+    "Position": 1361,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-10 04:31:37",
+    "Seller": "cookieD",
+    "Stock": "270",
+    "Price": 0.071,
+    "Currency": "USD",
+    "Position": 1365,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-10 04:31:37",
+    "Seller": "bykin26",
+    "Stock": "165",
+    "Price": 0.073,
+    "Currency": "USD",
+    "Position": 1369,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-10 04:31:37",
+    "Seller": "DarkD0mi",
+    "Stock": "50",
+    "Price": 0.073,
+    "Currency": "USD",
+    "Position": 1371,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-10 04:31:37",
+    "Seller": "HardScreamV",
+    "Stock": "25",
+    "Price": 0.073,
+    "Currency": "USD",
+    "Position": 1416,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
