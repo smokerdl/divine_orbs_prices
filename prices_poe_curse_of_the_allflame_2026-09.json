@@ -4013,5 +4013,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-11 21:46:24",
+    "Seller": "GazhaGG",
+    "Stock": "260",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 38,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-11 21:46:24",
+    "Seller": "g0dKillas",
+    "Stock": "1300",
+    "Price": 0.027,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-11 21:46:24",
+    "Seller": "g0dKillas",
+    "Stock": "1300",
+    "Price": 0.027,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-11 21:46:24",
+    "Seller": "ArmagedDoNMeG",
+    "Stock": "900",
+    "Price": 0.027,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-11 21:46:24",
+    "Seller": "acolade",
+    "Stock": "25",
+    "Price": 0.027,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
