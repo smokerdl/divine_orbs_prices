@@ -3001,5 +3001,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-12 20:27:49",
+    "Seller": "CDModi",
+    "Stock": "50",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 1242,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-12 20:27:49",
+    "Seller": "Kirpich2287",
+    "Stock": "125",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 1243,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-12 20:27:49",
+    "Seller": "Wistint",
+    "Stock": "2500",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 1244,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-12 20:27:49",
+    "Seller": "nimf12",
+    "Stock": "1000",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 1245,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-12 20:27:49",
+    "Seller": "aq100000",
+    "Stock": "625",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 1248,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
