@@ -3111,5 +3111,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-13 00:42:48",
+    "Seller": "verk1234",
+    "Stock": "100",
+    "Price": 0.044,
+    "Currency": "USD",
+    "Position": 1285,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-13 00:42:48",
+    "Seller": "soulflow",
+    "Stock": "216",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 1286,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-13 00:42:48",
+    "Seller": "AlecksS",
+    "Stock": "1",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 1289,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-13 00:42:48",
+    "Seller": "asdfghjkl123333789",
+    "Stock": "70",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 1290,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-13 00:42:48",
+    "Seller": "etonevzaimno",
+    "Stock": "600",
+    "Price": 0.046,
+    "Currency": "USD",
+    "Position": 1291,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
