@@ -2781,5 +2781,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-12 04:37:13",
+    "Seller": "S0fa",
+    "Stock": "800",
+    "Price": 0.049,
+    "Currency": "USD",
+    "Position": 1195,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-12 04:37:13",
+    "Seller": "BlackBeard",
+    "Stock": "273",
+    "Price": 0.049,
+    "Currency": "USD",
+    "Position": 1196,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-12 04:37:13",
+    "Seller": "Dzenkaa",
+    "Stock": "300",
+    "Price": 0.049,
+    "Currency": "USD",
+    "Position": 1197,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-12 04:37:13",
+    "Seller": "Gonzo",
+    "Stock": "740",
+    "Price": 0.049,
+    "Currency": "USD",
+    "Position": 1198,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-12 04:37:13",
+    "Seller": "Divaninapoly",
+    "Stock": "120",
+    "Price": 0.049,
+    "Currency": "USD",
+    "Position": 1199,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
