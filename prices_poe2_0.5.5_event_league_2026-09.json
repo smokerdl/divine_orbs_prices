@@ -3166,5 +3166,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-13 02:27:30",
+    "Seller": "Intes7",
+    "Stock": "784",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 1210,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-13 02:27:30",
+    "Seller": "Freecell",
+    "Stock": "229",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 1211,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-13 02:27:30",
+    "Seller": "kngbby",
+    "Stock": "1292",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 1212,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-13 02:27:30",
+    "Seller": "Markonix1",
+    "Stock": "1500",
+    "Price": 0.041,
+    "Currency": "USD",
+    "Position": 1214,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-13 02:27:30",
+    "Seller": "exloste",
+    "Stock": "1230",
+    "Price": 0.041,
+    "Currency": "USD",
+    "Position": 1215,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
