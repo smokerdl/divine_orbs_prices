@@ -4453,5 +4453,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-12 22:40:18",
+    "Seller": "venorum",
+    "Stock": "1000",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-12 22:40:18",
+    "Seller": "T4sel",
+    "Stock": "611",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-12 22:40:18",
+    "Seller": "funseller322228",
+    "Stock": "140",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-12 22:40:18",
+    "Seller": "traderfaster",
+    "Stock": "1100",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-12 22:40:18",
+    "Seller": "NeoDogma777",
+    "Stock": "783",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
