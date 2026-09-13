@@ -3551,5 +3551,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-14 02:40:14",
+    "Seller": "HardStory",
+    "Stock": "69",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 1170,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-14 02:40:14",
+    "Seller": "Markonix1",
+    "Stock": "2400",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 1172,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-14 02:40:14",
+    "Seller": "GodWaken",
+    "Stock": "280",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 1174,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-14 02:40:14",
+    "Seller": "Joker334",
+    "Stock": "2",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 1214,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-14 02:40:14",
+    "Seller": "ZleiQ",
+    "Stock": "210",
+    "Price": 0.029,
+    "Currency": "USD",
+    "Position": 1219,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
