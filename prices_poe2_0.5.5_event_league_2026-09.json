@@ -3441,5 +3441,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-13 22:00:35",
+    "Seller": "promanvadeo",
+    "Stock": "300",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 1168,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-13 22:00:35",
+    "Seller": "donater22",
+    "Stock": "1500",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 1170,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-13 22:00:35",
+    "Seller": "Latinococ",
+    "Stock": "1119",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 1171,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-13 22:00:35",
+    "Seller": "PL1",
+    "Stock": "400",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 1172,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-13 22:00:35",
+    "Seller": "GodWaken",
+    "Stock": "440",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 1181,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
