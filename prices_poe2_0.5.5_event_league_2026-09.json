@@ -3276,5 +3276,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-13 09:48:41",
+    "Seller": "OlandeseVolante",
+    "Stock": "3",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 1191,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-13 09:48:41",
+    "Seller": "Phamagul",
+    "Stock": "71",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 1192,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-13 09:48:41",
+    "Seller": "Mentalque",
+    "Stock": "1900",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 1193,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-13 09:48:41",
+    "Seller": "den1209",
+    "Stock": "200",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 1194,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-13 09:48:41",
+    "Seller": "Teftel",
+    "Stock": "2350",
+    "Price": 0.04,
+    "Currency": "USD",
+    "Position": 1198,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
