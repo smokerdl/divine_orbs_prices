@@ -3386,5 +3386,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-13 19:40:16",
+    "Seller": "largo19",
+    "Stock": "150",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 1205,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-13 19:40:16",
+    "Seller": "ELFiRiN",
+    "Stock": "75",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 1206,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-13 19:40:16",
+    "Seller": "TechnoGoose",
+    "Stock": "500",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 1207,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-13 19:40:16",
+    "Seller": "BuhankaBonk",
+    "Stock": "200",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 1208,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-13 19:40:16",
+    "Seller": "Yellowmeow",
+    "Stock": "310",
+    "Price": 0.028,
+    "Currency": "USD",
+    "Position": 1209,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
