@@ -4101,5 +4101,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-15 23:28:59",
+    "Seller": "GOKU11",
+    "Stock": "45",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 1157,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-15 23:28:59",
+    "Seller": "SunHeat",
+    "Stock": "2250",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 1159,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-15 23:28:59",
+    "Seller": "Aleonora",
+    "Stock": "2200",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 1160,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-15 23:28:59",
+    "Seller": "rewer212199",
+    "Stock": "300",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 1161,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-15 23:28:59",
+    "Seller": "Faicony1",
+    "Stock": "1300",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 1162,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
