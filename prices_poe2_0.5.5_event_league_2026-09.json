@@ -3881,5 +3881,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-15 03:59:50",
+    "Seller": "Explame",
+    "Stock": "427",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 1099,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-15 03:59:50",
+    "Seller": "pleshik",
+    "Stock": "1100",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 1100,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-15 03:59:50",
+    "Seller": "Neverzy",
+    "Stock": "500",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 1101,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-15 03:59:50",
+    "Seller": "UselessIdol",
+    "Stock": "2170",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 1103,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-15 03:59:50",
+    "Seller": "ZanyPants",
+    "Stock": "1000",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 1104,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
