@@ -4046,5 +4046,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-15 20:19:19",
+    "Seller": "Alex72Ru",
+    "Stock": "600",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 1154,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-15 20:19:19",
+    "Seller": "GreshoG",
+    "Stock": "600",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 1155,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-15 20:19:19",
+    "Seller": "Raykira",
+    "Stock": "8500",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 1156,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-15 20:19:19",
+    "Seller": "Nemesis787",
+    "Stock": "275",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 1157,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-15 20:19:19",
+    "Seller": "Betforgen",
+    "Stock": "1852",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 1158,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
