@@ -3991,5 +3991,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-15 15:14:09",
+    "Seller": "PaxanPT",
+    "Stock": "840",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 1070,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-15 15:14:09",
+    "Seller": "Honda1488",
+    "Stock": "100",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 1071,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-15 15:14:09",
+    "Seller": "PunaBenoa",
+    "Stock": "1500",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 1073,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-15 15:14:09",
+    "Seller": "Veyron32",
+    "Stock": "500",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 1074,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-15 15:14:09",
+    "Seller": "Qieden",
+    "Stock": "805",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 1075,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
