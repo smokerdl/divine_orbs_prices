@@ -4321,5 +4321,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-16 15:13:27",
+    "Seller": "Rair",
+    "Stock": "100",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 1089,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-16 15:13:27",
+    "Seller": "mambetk",
+    "Stock": "1980",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 1090,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-16 15:13:27",
+    "Seller": "HideoutWarrior",
+    "Stock": "600",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 1093,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-16 15:13:27",
+    "Seller": "Khrognak",
+    "Stock": "1600",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 1094,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-16 15:13:27",
+    "Seller": "ZTW",
+    "Stock": "2300",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 1097,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
