@@ -4486,5 +4486,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-17 02:17:32",
+    "Seller": "KirillPr0X",
+    "Stock": "1000",
+    "Price": 0.0166,
+    "Currency": "USD",
+    "Position": 1087,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-17 02:17:32",
+    "Seller": "JOJOPENIS",
+    "Stock": "850",
+    "Price": 0.0167,
+    "Currency": "USD",
+    "Position": 1094,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-17 02:17:32",
+    "Seller": "eraldcoil1",
+    "Stock": "150",
+    "Price": 0.0167,
+    "Currency": "USD",
+    "Position": 1095,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-17 02:17:32",
+    "Seller": "largo19",
+    "Stock": "230",
+    "Price": 0.0167,
+    "Currency": "USD",
+    "Position": 1096,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-17 02:17:32",
+    "Seller": "WutFace",
+    "Stock": "64",
+    "Price": 0.0173,
+    "Currency": "USD",
+    "Position": 1106,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
