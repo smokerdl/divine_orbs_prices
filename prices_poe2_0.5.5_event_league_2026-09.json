@@ -4376,5 +4376,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-16 20:18:48",
+    "Seller": "K1ndy",
+    "Stock": "480",
+    "Price": 0.019,
+    "Currency": "USD",
+    "Position": 1080,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-16 20:18:48",
+    "Seller": "PenguinPenPen",
+    "Stock": "1000",
+    "Price": 0.019,
+    "Currency": "USD",
+    "Position": 1081,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-16 20:18:48",
+    "Seller": "Yurik2992",
+    "Stock": "2359",
+    "Price": 0.019,
+    "Currency": "USD",
+    "Position": 1082,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-16 20:18:48",
+    "Seller": "Deeeffff",
+    "Stock": "50",
+    "Price": 0.0191,
+    "Currency": "USD",
+    "Position": 1089,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-16 20:18:48",
+    "Seller": "Batdeim",
+    "Stock": "240",
+    "Price": 0.0191,
+    "Currency": "USD",
+    "Position": 1090,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
