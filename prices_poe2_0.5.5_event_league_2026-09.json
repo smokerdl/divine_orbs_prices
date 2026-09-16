@@ -4431,5 +4431,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-16 23:28:04",
+    "Seller": "Zhoraha",
+    "Stock": "400",
+    "Price": 0.0184,
+    "Currency": "USD",
+    "Position": 1087,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-16 23:28:04",
+    "Seller": "CoinDog",
+    "Stock": "500",
+    "Price": 0.0188,
+    "Currency": "USD",
+    "Position": 1093,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-16 23:28:04",
+    "Seller": "rom131313",
+    "Stock": "785",
+    "Price": 0.0188,
+    "Currency": "USD",
+    "Position": 1094,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-16 23:28:04",
+    "Seller": "Scizor",
+    "Stock": "900",
+    "Price": 0.0189,
+    "Currency": "USD",
+    "Position": 1095,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-16 23:28:04",
+    "Seller": "willkax",
+    "Stock": "400",
+    "Price": 0.019,
+    "Currency": "USD",
+    "Position": 1097,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
