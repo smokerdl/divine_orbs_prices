@@ -4706,5 +4706,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-17 20:18:21",
+    "Seller": "Kalandra",
+    "Stock": "5300",
+    "Price": 0.0161,
+    "Currency": "USD",
+    "Position": 994,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-17 20:18:21",
+    "Seller": "Gizga",
+    "Stock": "600",
+    "Price": 0.0161,
+    "Currency": "USD",
+    "Position": 995,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-17 20:18:21",
+    "Seller": "LuckySuperMan",
+    "Stock": "2",
+    "Price": 0.0161,
+    "Currency": "USD",
+    "Position": 996,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-17 20:18:21",
+    "Seller": "wflspirit",
+    "Stock": "3000",
+    "Price": 0.0161,
+    "Currency": "USD",
+    "Position": 997,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-17 20:18:21",
+    "Seller": "ncr43123",
+    "Stock": "4100",
+    "Price": 0.0161,
+    "Currency": "USD",
+    "Position": 998,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
