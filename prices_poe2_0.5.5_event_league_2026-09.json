@@ -4816,5 +4816,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-18 02:08:50",
+    "Seller": "tonchik",
+    "Stock": "525",
+    "Price": 0.0157,
+    "Currency": "USD",
+    "Position": 1016,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-18 02:08:50",
+    "Seller": "ZabaviRadi666",
+    "Stock": "1015",
+    "Price": 0.0157,
+    "Currency": "USD",
+    "Position": 1017,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-18 02:08:50",
+    "Seller": "Telltaler",
+    "Stock": "100",
+    "Price": 0.0158,
+    "Currency": "USD",
+    "Position": 1018,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-18 02:08:50",
+    "Seller": "Gonzo",
+    "Stock": "700",
+    "Price": 0.0158,
+    "Currency": "USD",
+    "Position": 1019,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-18 02:08:50",
+    "Seller": "Gradusniki",
+    "Stock": "900",
+    "Price": 0.016,
+    "Currency": "USD",
+    "Position": 1021,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
