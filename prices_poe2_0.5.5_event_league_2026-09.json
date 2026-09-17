@@ -4596,5 +4596,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-17 09:46:04",
+    "Seller": "Biomansky",
+    "Stock": "700",
+    "Price": 0.0177,
+    "Currency": "USD",
+    "Position": 1047,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-17 09:46:04",
+    "Seller": "SuperMilk1",
+    "Stock": "1500",
+    "Price": 0.0178,
+    "Currency": "USD",
+    "Position": 1049,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-17 09:46:04",
+    "Seller": "Sergarrez",
+    "Stock": "936",
+    "Price": 0.0178,
+    "Currency": "USD",
+    "Position": 1050,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-17 09:46:04",
+    "Seller": "lHinamizawal",
+    "Stock": "1000",
+    "Price": 0.0179,
+    "Currency": "USD",
+    "Position": 1054,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-17 09:46:04",
+    "Seller": "widowmake",
+    "Stock": "400",
+    "Price": 0.0179,
+    "Currency": "USD",
+    "Position": 1055,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
