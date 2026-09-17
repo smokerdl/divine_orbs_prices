@@ -4541,5 +4541,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-17 04:48:29",
+    "Seller": "LordDexe",
+    "Stock": "100",
+    "Price": 0.0188,
+    "Currency": "USD",
+    "Position": 1058,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-17 04:48:29",
+    "Seller": "ktifj",
+    "Stock": "32",
+    "Price": 0.019,
+    "Currency": "USD",
+    "Position": 1061,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-17 04:48:29",
+    "Seller": "RonRenar",
+    "Stock": "170",
+    "Price": 0.019,
+    "Currency": "USD",
+    "Position": 1062,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-17 04:48:29",
+    "Seller": "Dareno",
+    "Stock": "970",
+    "Price": 0.019,
+    "Currency": "USD",
+    "Position": 1063,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-17 04:48:29",
+    "Seller": "JOJOPENIS",
+    "Stock": "196",
+    "Price": 0.0191,
+    "Currency": "USD",
+    "Position": 1070,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
