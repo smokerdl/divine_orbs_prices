@@ -5036,5 +5036,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-18 18:18:04",
+    "Seller": "Raur",
+    "Stock": "380",
+    "Price": 0.0162,
+    "Currency": "USD",
+    "Position": 981,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-18 18:18:04",
+    "Seller": "titio",
+    "Stock": "1050",
+    "Price": 0.0162,
+    "Currency": "USD",
+    "Position": 986,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-18 18:18:04",
+    "Seller": "Nirozen",
+    "Stock": "950",
+    "Price": 0.0162,
+    "Currency": "USD",
+    "Position": 987,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-18 18:18:04",
+    "Seller": "heccgal",
+    "Stock": "700",
+    "Price": 0.0162,
+    "Currency": "USD",
+    "Position": 988,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-18 18:18:04",
+    "Seller": "pewpewdollars",
+    "Stock": "250",
+    "Price": 0.0162,
+    "Currency": "USD",
+    "Position": 989,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
