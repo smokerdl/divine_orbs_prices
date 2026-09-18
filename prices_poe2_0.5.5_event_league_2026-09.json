@@ -5146,5 +5146,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-19 00:17:57",
+    "Seller": "Smoulder",
+    "Stock": "500",
+    "Price": 0.0172,
+    "Currency": "USD",
+    "Position": 1033,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-19 00:17:57",
+    "Seller": "Ilikecoin",
+    "Stock": "75",
+    "Price": 0.0174,
+    "Currency": "USD",
+    "Position": 1035,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-19 00:17:57",
+    "Seller": "Gizga",
+    "Stock": "2130",
+    "Price": 0.0177,
+    "Currency": "USD",
+    "Position": 1040,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-19 00:17:57",
+    "Seller": "Akazuki",
+    "Stock": "500",
+    "Price": 0.0177,
+    "Currency": "USD",
+    "Position": 1048,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-19 00:17:57",
+    "Seller": "AntonGrustnov",
+    "Stock": "150",
+    "Price": 0.0177,
+    "Currency": "USD",
+    "Position": 1049,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
