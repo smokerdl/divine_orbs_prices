@@ -5091,5 +5091,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-18 21:39:31",
+    "Seller": "M0neyMaker",
+    "Stock": "1500",
+    "Price": 0.015,
+    "Currency": "USD",
+    "Position": 1040,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-18 21:39:31",
+    "Seller": "mambetk",
+    "Stock": "1810",
+    "Price": 0.0151,
+    "Currency": "USD",
+    "Position": 1042,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-18 21:39:31",
+    "Seller": "Latinococ",
+    "Stock": "6000",
+    "Price": 0.0151,
+    "Currency": "USD",
+    "Position": 1043,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-18 21:39:31",
+    "Seller": "Fem",
+    "Stock": "2300",
+    "Price": 0.0154,
+    "Currency": "USD",
+    "Position": 1056,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-18 21:39:31",
+    "Seller": "leamonfusion",
+    "Stock": "1400",
+    "Price": 0.0154,
+    "Currency": "USD",
+    "Position": 1057,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
