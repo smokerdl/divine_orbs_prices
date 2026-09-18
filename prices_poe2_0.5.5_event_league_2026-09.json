@@ -4871,5 +4871,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-18 04:37:28",
+    "Seller": "FastFoodK",
+    "Stock": "45",
+    "Price": 0.0161,
+    "Currency": "USD",
+    "Position": 1003,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-18 04:37:28",
+    "Seller": "GoldLavka",
+    "Stock": "600",
+    "Price": 0.0161,
+    "Currency": "USD",
+    "Position": 1004,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-18 04:37:28",
+    "Seller": "YakabiByster321",
+    "Stock": "1000",
+    "Price": 0.0161,
+    "Currency": "USD",
+    "Position": 1005,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-18 04:37:28",
+    "Seller": "taovalantis",
+    "Stock": "1300",
+    "Price": 0.0163,
+    "Currency": "USD",
+    "Position": 1007,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-18 04:37:28",
+    "Seller": "Souseiseki",
+    "Stock": "1050",
+    "Price": 0.0164,
+    "Currency": "USD",
+    "Position": 1008,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
