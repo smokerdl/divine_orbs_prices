@@ -5311,5 +5311,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-19 09:42:25",
+    "Seller": "DuskGrotesque",
+    "Stock": "430",
+    "Price": 0.0175,
+    "Currency": "USD",
+    "Position": 998,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-19 09:42:25",
+    "Seller": "heccgal",
+    "Stock": "637",
+    "Price": 0.0176,
+    "Currency": "USD",
+    "Position": 1005,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-19 09:42:25",
+    "Seller": "kryazhevskikh96",
+    "Stock": "516",
+    "Price": 0.0176,
+    "Currency": "USD",
+    "Position": 1006,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-19 09:42:25",
+    "Seller": "Respirator11",
+    "Stock": "300",
+    "Price": 0.0178,
+    "Currency": "USD",
+    "Position": 1009,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-19 09:42:25",
+    "Seller": "Nekou",
+    "Stock": "800",
+    "Price": 0.0179,
+    "Currency": "USD",
+    "Position": 1012,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
