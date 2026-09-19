@@ -6708,5 +6708,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-19 09:42:10",
+    "Seller": "HunterSn",
+    "Stock": "3400",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 36,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-19 09:42:10",
+    "Seller": "dodik22898",
+    "Stock": "400",
+    "Price": 0.025,
+    "Currency": "USD",
+    "Position": 37,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-19 09:42:10",
+    "Seller": "T4sel",
+    "Stock": "447",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 38,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-19 09:42:10",
+    "Seller": "traderfaster",
+    "Stock": "2100",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-19 09:42:10",
+    "Seller": "ExaltBoss",
+    "Stock": "800",
+    "Price": 0.026,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
