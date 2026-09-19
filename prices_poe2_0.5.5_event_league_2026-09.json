@@ -5476,5 +5476,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-19 20:30:16",
+    "Seller": "Kutikula33",
+    "Stock": "1000",
+    "Price": 0.0169,
+    "Currency": "USD",
+    "Position": 1053,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-19 20:30:16",
+    "Seller": "PatchOfRMT",
+    "Stock": "1",
+    "Price": 0.0169,
+    "Currency": "USD",
+    "Position": 1055,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-19 20:30:16",
+    "Seller": "BlackJack17",
+    "Stock": "1000",
+    "Price": 0.0169,
+    "Currency": "USD",
+    "Position": 1057,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-19 20:30:16",
+    "Seller": "OneStrix",
+    "Stock": "50",
+    "Price": 0.0169,
+    "Currency": "USD",
+    "Position": 1058,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-19 20:30:16",
+    "Seller": "donater22",
+    "Stock": "2500",
+    "Price": 0.017,
+    "Currency": "USD",
+    "Position": 1062,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
