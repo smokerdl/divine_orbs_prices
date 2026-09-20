@@ -5751,5 +5751,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-20 10:06:24",
+    "Seller": "untilibleedout",
+    "Stock": "2507",
+    "Price": 0.0169,
+    "Currency": "USD",
+    "Position": 1003,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-20 10:06:24",
+    "Seller": "GGGg231",
+    "Stock": "185",
+    "Price": 0.0169,
+    "Currency": "USD",
+    "Position": 1004,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-20 10:06:24",
+    "Seller": "Defcon",
+    "Stock": "1500",
+    "Price": 0.0172,
+    "Currency": "USD",
+    "Position": 1012,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-20 10:06:24",
+    "Seller": "Furikonst",
+    "Stock": "900",
+    "Price": 0.0173,
+    "Currency": "USD",
+    "Position": 1014,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-20 10:06:24",
+    "Seller": "Neverzy",
+    "Stock": "1500",
+    "Price": 0.0175,
+    "Currency": "USD",
+    "Position": 1017,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
