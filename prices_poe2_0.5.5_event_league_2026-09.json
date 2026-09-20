@@ -5861,5 +5861,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-20 19:31:43",
+    "Seller": "Neviv0dnoi",
+    "Stock": "1600",
+    "Price": 0.0126,
+    "Currency": "USD",
+    "Position": 942,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-20 19:31:43",
+    "Seller": "EndlessParadox",
+    "Stock": "900",
+    "Price": 0.0127,
+    "Currency": "USD",
+    "Position": 944,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-20 19:31:43",
+    "Seller": "Aleonora",
+    "Stock": "800",
+    "Price": 0.0127,
+    "Currency": "USD",
+    "Position": 955,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-20 19:31:43",
+    "Seller": "Latinococ",
+    "Stock": "13200",
+    "Price": 0.0127,
+    "Currency": "USD",
+    "Position": 956,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-20 19:31:43",
+    "Seller": "heccgal",
+    "Stock": "4400",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 1041,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
