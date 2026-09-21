@@ -6191,5 +6191,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-21 20:13:10",
+    "Seller": "belka0013",
+    "Stock": "50",
+    "Price": 0.0128,
+    "Currency": "USD",
+    "Position": 844,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-21 20:13:10",
+    "Seller": "Visk",
+    "Stock": "450",
+    "Price": 0.013,
+    "Currency": "USD",
+    "Position": 847,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-21 20:13:10",
+    "Seller": "eto1sova",
+    "Stock": "900",
+    "Price": 0.013,
+    "Currency": "USD",
+    "Position": 849,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-21 20:13:10",
+    "Seller": "Roman1223334444",
+    "Stock": "63",
+    "Price": 0.0132,
+    "Currency": "USD",
+    "Position": 855,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-21 20:13:10",
+    "Seller": "DeathEye",
+    "Stock": "2000",
+    "Price": 0.0133,
+    "Currency": "USD",
+    "Position": 866,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
