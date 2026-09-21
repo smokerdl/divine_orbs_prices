@@ -6026,5 +6026,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-21 03:35:24",
+    "Seller": "AntonGrustnov",
+    "Stock": "250",
+    "Price": 0.0147,
+    "Currency": "USD",
+    "Position": 988,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-21 03:35:24",
+    "Seller": "rad1ar",
+    "Stock": "10",
+    "Price": 0.0147,
+    "Currency": "USD",
+    "Position": 989,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-21 03:35:24",
+    "Seller": "cleshna",
+    "Stock": "815",
+    "Price": 0.0147,
+    "Currency": "USD",
+    "Position": 990,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-21 03:35:24",
+    "Seller": "FoSFoRiat",
+    "Stock": "1000",
+    "Price": 0.0147,
+    "Currency": "USD",
+    "Position": 991,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-21 03:35:24",
+    "Seller": "downeel",
+    "Stock": "1000",
+    "Price": 0.0147,
+    "Currency": "USD",
+    "Position": 1003,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
