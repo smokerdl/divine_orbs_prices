@@ -6136,5 +6136,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-21 14:09:21",
+    "Seller": "venos97",
+    "Stock": "530",
+    "Price": 0.0114,
+    "Currency": "USD",
+    "Position": 836,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-21 14:09:21",
+    "Seller": "Xpuna",
+    "Stock": "2700",
+    "Price": 0.0114,
+    "Currency": "USD",
+    "Position": 837,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-21 14:09:21",
+    "Seller": "Akulinich",
+    "Stock": "12",
+    "Price": 0.0115,
+    "Currency": "USD",
+    "Position": 842,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-21 14:09:21",
+    "Seller": "SmtgNeverKnow",
+    "Stock": "620",
+    "Price": 0.0115,
+    "Currency": "USD",
+    "Position": 849,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-21 14:09:21",
+    "Seller": "powerofgreed",
+    "Stock": "500",
+    "Price": 0.0115,
+    "Currency": "USD",
+    "Position": 850,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
