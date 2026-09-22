@@ -6576,5 +6576,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-23 01:26:45",
+    "Seller": "Euppy",
+    "Stock": "15",
+    "Price": 0.0099,
+    "Currency": "USD",
+    "Position": 786,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-23 01:26:45",
+    "Seller": "MmmIceCream",
+    "Stock": "1100",
+    "Price": 0.0099,
+    "Currency": "USD",
+    "Position": 787,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-23 01:26:45",
+    "Seller": "BornToSlow",
+    "Stock": "500",
+    "Price": 0.0099,
+    "Currency": "USD",
+    "Position": 788,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-23 01:26:45",
+    "Seller": "Baglayer201",
+    "Stock": "500",
+    "Price": 0.0102,
+    "Currency": "USD",
+    "Position": 795,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-23 01:26:45",
+    "Seller": "GolDiDragon",
+    "Stock": "4000",
+    "Price": 0.0102,
+    "Currency": "USD",
+    "Position": 798,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
