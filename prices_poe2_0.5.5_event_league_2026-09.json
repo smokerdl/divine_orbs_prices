@@ -7126,5 +7126,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-24 20:35:21",
+    "Seller": "igorigoruxa",
+    "Stock": "1",
+    "Price": 0.0108,
+    "Currency": "USD",
+    "Position": 777,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-24 20:35:21",
+    "Seller": "EdgarPo",
+    "Stock": "29",
+    "Price": 0.0109,
+    "Currency": "USD",
+    "Position": 782,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-24 20:35:21",
+    "Seller": "Scizor",
+    "Stock": "500",
+    "Price": 0.0111,
+    "Currency": "USD",
+    "Position": 784,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-24 20:35:21",
+    "Seller": "Brexit",
+    "Stock": "50",
+    "Price": 0.0112,
+    "Currency": "USD",
+    "Position": 787,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-24 20:35:21",
+    "Seller": "PoeFast",
+    "Stock": "1600",
+    "Price": 0.0112,
+    "Currency": "USD",
+    "Position": 789,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
