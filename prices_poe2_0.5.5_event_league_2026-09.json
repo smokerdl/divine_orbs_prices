@@ -6961,5 +6961,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-24 04:41:12",
+    "Seller": "GolDiDragon",
+    "Stock": "485",
+    "Price": 0.0102,
+    "Currency": "USD",
+    "Position": 738,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-24 04:41:12",
+    "Seller": "vctcompany",
+    "Stock": "2000",
+    "Price": 0.0102,
+    "Currency": "USD",
+    "Position": 739,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-24 04:41:12",
+    "Seller": "ZleiQ",
+    "Stock": "1000",
+    "Price": 0.0102,
+    "Currency": "USD",
+    "Position": 755,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-24 04:41:12",
+    "Seller": "SorrySanya4sv",
+    "Stock": "5000",
+    "Price": 0.0102,
+    "Currency": "USD",
+    "Position": 756,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-24 04:41:12",
+    "Seller": "Beelzeboush",
+    "Stock": "2950",
+    "Price": 0.0102,
+    "Currency": "USD",
+    "Position": 757,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
