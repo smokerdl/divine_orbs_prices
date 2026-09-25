@@ -7346,5 +7346,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-25 11:12:35",
+    "Seller": "EasyBreazy",
+    "Stock": "800",
+    "Price": 0.011,
+    "Currency": "USD",
+    "Position": 788,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-25 11:12:35",
+    "Seller": "Aleonora",
+    "Stock": "5500",
+    "Price": 0.0111,
+    "Currency": "USD",
+    "Position": 789,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-25 11:12:35",
+    "Seller": "Andrei777888",
+    "Stock": "350",
+    "Price": 0.0111,
+    "Currency": "USD",
+    "Position": 792,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-25 11:12:35",
+    "Seller": "Anabolism",
+    "Stock": "2000",
+    "Price": 0.0111,
+    "Currency": "USD",
+    "Position": 793,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-25 11:12:35",
+    "Seller": "GameBrest",
+    "Stock": "2700",
+    "Price": 0.0112,
+    "Currency": "USD",
+    "Position": 795,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
