@@ -8853,5 +8853,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-25 21:57:51",
+    "Seller": "T4sel",
+    "Stock": "890",
+    "Price": 0.0194,
+    "Currency": "USD",
+    "Position": 37,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-25 21:57:51",
+    "Seller": "wertxim",
+    "Stock": "397",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 38,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-25 21:57:51",
+    "Seller": "AdamTheZealot",
+    "Stock": "620",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-25 21:57:51",
+    "Seller": "maximagg",
+    "Stock": "1120",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-25 21:57:51",
+    "Seller": "Salaratron",
+    "Stock": "413",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
