@@ -7456,5 +7456,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-25 21:58:08",
+    "Seller": "FViROS",
+    "Stock": "500",
+    "Price": 0.011,
+    "Currency": "USD",
+    "Position": 780,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-25 21:58:08",
+    "Seller": "MaTeMaRi",
+    "Stock": "100",
+    "Price": 0.0113,
+    "Currency": "USD",
+    "Position": 784,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-25 21:58:08",
+    "Seller": "OfUndecember",
+    "Stock": "1270",
+    "Price": 0.0116,
+    "Currency": "USD",
+    "Position": 795,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-25 21:58:08",
+    "Seller": "Zhoraha",
+    "Stock": "720",
+    "Price": 0.0116,
+    "Currency": "USD",
+    "Position": 796,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-25 21:58:08",
+    "Seller": "Gdgemes",
+    "Stock": "50",
+    "Price": 0.0118,
+    "Currency": "USD",
+    "Position": 811,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
