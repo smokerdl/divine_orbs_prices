@@ -9018,5 +9018,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-26 09:41:54",
+    "Seller": "g0dKillas",
+    "Stock": "4435",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 38,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-26 09:41:54",
+    "Seller": "traderfaster",
+    "Stock": "950",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-26 09:41:54",
+    "Seller": "AvariceCovenant",
+    "Stock": "285",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-26 09:41:54",
+    "Seller": "homepay",
+    "Stock": "100",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-26 09:41:54",
+    "Seller": "GJman",
+    "Stock": "55",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 44,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
