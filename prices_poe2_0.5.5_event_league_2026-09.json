@@ -7621,5 +7621,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-26 09:42:08",
+    "Seller": "Tarakot",
+    "Stock": "23",
+    "Price": 0.0115,
+    "Currency": "USD",
+    "Position": 744,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-26 09:42:08",
+    "Seller": "UNBOUNDMalevi4",
+    "Stock": "20",
+    "Price": 0.0118,
+    "Currency": "USD",
+    "Position": 765,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-26 09:42:08",
+    "Seller": "kryazhevskikh96",
+    "Stock": "600",
+    "Price": 0.0118,
+    "Currency": "USD",
+    "Position": 773,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-26 09:42:08",
+    "Seller": "TkachSude6",
+    "Stock": "300",
+    "Price": 0.0118,
+    "Currency": "USD",
+    "Position": 774,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-26 09:42:08",
+    "Seller": "Duderino",
+    "Stock": "100",
+    "Price": 0.0118,
+    "Currency": "USD",
+    "Position": 775,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
