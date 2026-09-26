@@ -9293,5 +9293,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-27 02:56:13",
+    "Seller": "Rico1298",
+    "Stock": "3600",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-27 02:56:13",
+    "Seller": "Nyli",
+    "Stock": "705",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-27 02:56:13",
+    "Seller": "Danyel",
+    "Stock": "1048",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 44,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-27 02:56:13",
+    "Seller": "Nyli",
+    "Stock": "705",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 45,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-27 02:56:13",
+    "Seller": "HyugaEd",
+    "Stock": "15000",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
