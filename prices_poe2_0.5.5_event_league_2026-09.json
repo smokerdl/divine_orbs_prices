@@ -7676,5 +7676,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-26 14:52:35",
+    "Seller": "RerixVarda",
+    "Stock": "500",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 794,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-26 14:52:35",
+    "Seller": "TradeBoB",
+    "Stock": "1200",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 795,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-26 14:52:35",
+    "Seller": "Raur",
+    "Stock": "500",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 796,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-26 14:52:35",
+    "Seller": "Fem",
+    "Stock": "1500",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 833,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-26 14:52:35",
+    "Seller": "Tradebobx",
+    "Stock": "3555",
+    "Price": 0.0123,
+    "Currency": "USD",
+    "Position": 837,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
