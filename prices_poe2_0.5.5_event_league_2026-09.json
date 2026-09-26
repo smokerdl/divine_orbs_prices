@@ -7896,5 +7896,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-27 02:56:26",
+    "Seller": "LegOms",
+    "Stock": "180",
+    "Price": 0.0118,
+    "Currency": "USD",
+    "Position": 817,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-27 02:56:26",
+    "Seller": "chaosattack",
+    "Stock": "2500",
+    "Price": 0.0118,
+    "Currency": "USD",
+    "Position": 818,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-27 02:56:26",
+    "Seller": "largo19",
+    "Stock": "1080",
+    "Price": 0.0119,
+    "Currency": "USD",
+    "Position": 828,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-27 02:56:26",
+    "Seller": "Raur",
+    "Stock": "1500",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 829,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-27 02:56:26",
+    "Seller": "Tomys",
+    "Stock": "112",
+    "Price": 0.012,
+    "Currency": "USD",
+    "Position": 867,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
