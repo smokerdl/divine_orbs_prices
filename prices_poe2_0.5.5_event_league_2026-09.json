@@ -8116,5 +8116,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-27 22:20:11",
+    "Seller": "T4sel",
+    "Stock": "2079",
+    "Price": 0.0103,
+    "Currency": "USD",
+    "Position": 789,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-27 22:20:11",
+    "Seller": "wow121",
+    "Stock": "8000",
+    "Price": 0.0107,
+    "Currency": "USD",
+    "Position": 801,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-27 22:20:11",
+    "Seller": "Latinococ",
+    "Stock": "20000",
+    "Price": 0.0107,
+    "Currency": "USD",
+    "Position": 802,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-27 22:20:11",
+    "Seller": "Nemesis787",
+    "Stock": "550",
+    "Price": 0.0109,
+    "Currency": "USD",
+    "Position": 804,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-27 22:20:11",
+    "Seller": "amiloo",
+    "Stock": "1000",
+    "Price": 0.011,
+    "Currency": "USD",
+    "Position": 807,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
