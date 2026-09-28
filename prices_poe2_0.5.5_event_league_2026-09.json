@@ -8391,5 +8391,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-29 01:18:02",
+    "Seller": "Akazuki",
+    "Stock": "2000",
+    "Price": 0.0098,
+    "Currency": "USD",
+    "Position": 750,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-29 01:18:02",
+    "Seller": "wowmmm",
+    "Stock": "5000",
+    "Price": 0.0099,
+    "Currency": "USD",
+    "Position": 751,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-29 01:18:02",
+    "Seller": "ncr43123",
+    "Stock": "6",
+    "Price": 0.01,
+    "Currency": "USD",
+    "Position": 756,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-29 01:18:02",
+    "Seller": "sherba14",
+    "Stock": "150",
+    "Price": 0.01,
+    "Currency": "USD",
+    "Position": 757,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-29 01:18:02",
+    "Seller": "Lumetrion",
+    "Stock": "230",
+    "Price": 0.0101,
+    "Currency": "USD",
+    "Position": 759,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
