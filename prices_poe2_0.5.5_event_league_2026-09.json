@@ -8281,5 +8281,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-28 10:45:33",
+    "Seller": "VincentMine",
+    "Stock": "1100",
+    "Price": 0.0102,
+    "Currency": "USD",
+    "Position": 751,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-28 10:45:33",
+    "Seller": "Milanxolia",
+    "Stock": "500",
+    "Price": 0.0102,
+    "Currency": "USD",
+    "Position": 752,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-28 10:45:33",
+    "Seller": "indigotr",
+    "Stock": "750",
+    "Price": 0.0102,
+    "Currency": "USD",
+    "Position": 753,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-28 10:45:33",
+    "Seller": "Erinuez",
+    "Stock": "2650",
+    "Price": 0.0103,
+    "Currency": "USD",
+    "Position": 759,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-28 10:45:33",
+    "Seller": "kryazhevskikh96",
+    "Stock": "700",
+    "Price": 0.0103,
+    "Currency": "USD",
+    "Position": 773,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
