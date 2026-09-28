@@ -8336,5 +8336,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-28 19:05:34",
+    "Seller": "DKondor",
+    "Stock": "350",
+    "Price": 0.0101,
+    "Currency": "USD",
+    "Position": 737,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-28 19:05:34",
+    "Seller": "magich8489",
+    "Stock": "1411",
+    "Price": 0.0101,
+    "Currency": "USD",
+    "Position": 738,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-28 19:05:34",
+    "Seller": "EternalTilted",
+    "Stock": "3300",
+    "Price": 0.0101,
+    "Currency": "USD",
+    "Position": 739,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-28 19:05:34",
+    "Seller": "TheTopShop",
+    "Stock": "350",
+    "Price": 0.0102,
+    "Currency": "USD",
+    "Position": 740,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-28 19:05:34",
+    "Seller": "Middir",
+    "Stock": "3200",
+    "Price": 0.0102,
+    "Currency": "USD",
+    "Position": 741,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
