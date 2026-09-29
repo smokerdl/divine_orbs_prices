@@ -8501,5 +8501,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-29 12:07:31",
+    "Seller": "kadexcc",
+    "Stock": "1200",
+    "Price": 0.0077,
+    "Currency": "USD",
+    "Position": 704,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-29 12:07:31",
+    "Seller": "TheTopShop",
+    "Stock": "2250",
+    "Price": 0.0079,
+    "Currency": "USD",
+    "Position": 706,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-29 12:07:31",
+    "Seller": "Sacredsai",
+    "Stock": "290",
+    "Price": 0.008,
+    "Currency": "USD",
+    "Position": 708,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-29 12:07:31",
+    "Seller": "xzsandrzx",
+    "Stock": "2500",
+    "Price": 0.0082,
+    "Currency": "USD",
+    "Position": 715,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-29 12:07:31",
+    "Seller": "NirkoD",
+    "Stock": "2800",
+    "Price": 0.0082,
+    "Currency": "USD",
+    "Position": 720,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
