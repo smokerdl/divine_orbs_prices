@@ -10063,5 +10063,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-30 03:47:19",
+    "Seller": "GssGTFO",
+    "Stock": "2000",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 51,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-30 03:47:19",
+    "Seller": "Neroko",
+    "Stock": "1300",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 52,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-30 03:47:19",
+    "Seller": "ExaltBoss",
+    "Stock": "1000",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 53,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-30 03:47:19",
+    "Seller": "KevLARpoe",
+    "Stock": "604",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 54,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-09-30 03:47:19",
+    "Seller": "JohhnyRingo",
+    "Stock": "350",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 55,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
