@@ -8666,5 +8666,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-30 03:47:35",
+    "Seller": "rtxPawn",
+    "Stock": "450",
+    "Price": 0.0099,
+    "Currency": "USD",
+    "Position": 710,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-30 03:47:35",
+    "Seller": "User666qqq",
+    "Stock": "1000",
+    "Price": 0.0101,
+    "Currency": "USD",
+    "Position": 717,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-30 03:47:35",
+    "Seller": "seaddeath",
+    "Stock": "851",
+    "Price": 0.0101,
+    "Currency": "USD",
+    "Position": 718,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-30 03:47:35",
+    "Seller": "Kanael",
+    "Stock": "10",
+    "Price": 0.0102,
+    "Currency": "USD",
+    "Position": 720,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-30 03:47:35",
+    "Seller": "Zhuban",
+    "Stock": "2000",
+    "Price": 0.0102,
+    "Currency": "USD",
+    "Position": 721,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
