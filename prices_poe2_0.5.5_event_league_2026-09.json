@@ -8886,5 +8886,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-01 01:39:58",
+    "Seller": "Raur",
+    "Stock": "1300",
+    "Price": 0.0089,
+    "Currency": "USD",
+    "Position": 712,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-01 01:39:58",
+    "Seller": "heccgal",
+    "Stock": "1133",
+    "Price": 0.0089,
+    "Currency": "USD",
+    "Position": 718,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-01 01:39:58",
+    "Seller": "Slonic777",
+    "Stock": "1500",
+    "Price": 0.0089,
+    "Currency": "USD",
+    "Position": 720,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-01 01:39:58",
+    "Seller": "Akazuki",
+    "Stock": "1000",
+    "Price": 0.0089,
+    "Currency": "USD",
+    "Position": 722,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-01 01:39:58",
+    "Seller": "Flixmo",
+    "Stock": "30",
+    "Price": 0.0089,
+    "Currency": "USD",
+    "Position": 723,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
