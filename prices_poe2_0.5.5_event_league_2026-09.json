@@ -8721,5 +8721,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-30 09:02:47",
+    "Seller": "enakinzzz",
+    "Stock": "1",
+    "Price": 0.0093,
+    "Currency": "USD",
+    "Position": 691,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-30 09:02:47",
+    "Seller": "WTScheap",
+    "Stock": "8000",
+    "Price": 0.0093,
+    "Currency": "USD",
+    "Position": 692,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-30 09:02:47",
+    "Seller": "SleepyArcher",
+    "Stock": "500",
+    "Price": 0.0093,
+    "Currency": "USD",
+    "Position": 693,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-30 09:02:47",
+    "Seller": "F1uffyBone",
+    "Stock": "1000",
+    "Price": 0.0094,
+    "Currency": "USD",
+    "Position": 696,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-09-30 09:02:47",
+    "Seller": "heymars",
+    "Stock": "14",
+    "Price": 0.0095,
+    "Currency": "USD",
+    "Position": 700,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
