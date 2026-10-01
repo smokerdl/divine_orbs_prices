@@ -108,5 +108,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-01 17:49:55",
+    "Seller": "Balkion",
+    "Stock": "1",
+    "Price": 0.0085,
+    "Currency": "USD",
+    "Position": 651,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-01 17:49:55",
+    "Seller": "Ke1evRa24",
+    "Stock": "3300",
+    "Price": 0.0085,
+    "Currency": "USD",
+    "Position": 652,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-01 17:49:55",
+    "Seller": "Basilisklock",
+    "Stock": "3500",
+    "Price": 0.0086,
+    "Currency": "USD",
+    "Position": 657,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-01 17:49:55",
+    "Seller": "Telltaler",
+    "Stock": "1300",
+    "Price": 0.0087,
+    "Currency": "USD",
+    "Position": 659,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-01 17:49:55",
+    "Seller": "Qeqseek",
+    "Stock": "1087",
+    "Price": 0.0088,
+    "Currency": "USD",
+    "Position": 662,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
