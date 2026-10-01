@@ -163,5 +163,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-01 22:54:25",
+    "Seller": "GooodRobin",
+    "Stock": "4900",
+    "Price": 0.0086,
+    "Currency": "USD",
+    "Position": 641,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-01 22:54:25",
+    "Seller": "Kanael",
+    "Stock": "100",
+    "Price": 0.0086,
+    "Currency": "USD",
+    "Position": 644,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-01 22:54:25",
+    "Seller": "Nemesis787",
+    "Stock": "450",
+    "Price": 0.0086,
+    "Currency": "USD",
+    "Position": 645,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-01 22:54:25",
+    "Seller": "Qeqseek",
+    "Stock": "361",
+    "Price": 0.0088,
+    "Currency": "USD",
+    "Position": 647,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-01 22:54:25",
+    "Seller": "IvanVulkanqq",
+    "Stock": "2500",
+    "Price": 0.0088,
+    "Currency": "USD",
+    "Position": 648,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
