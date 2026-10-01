@@ -53,5 +53,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-01 10:51:17",
+    "Seller": "SleepyArcher",
+    "Stock": "100",
+    "Price": 0.0085,
+    "Currency": "USD",
+    "Position": 684,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-01 10:51:17",
+    "Seller": "BlameDesi",
+    "Stock": "2000",
+    "Price": 0.0085,
+    "Currency": "USD",
+    "Position": 685,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-01 10:51:17",
+    "Seller": "SmtgNeverKnow",
+    "Stock": "1000",
+    "Price": 0.0086,
+    "Currency": "USD",
+    "Position": 690,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-01 10:51:17",
+    "Seller": "Raur",
+    "Stock": "750",
+    "Price": 0.0089,
+    "Currency": "USD",
+    "Position": 700,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-01 10:51:17",
+    "Seller": "clownesss",
+    "Stock": "2100",
+    "Price": 0.0089,
+    "Currency": "USD",
+    "Position": 702,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
