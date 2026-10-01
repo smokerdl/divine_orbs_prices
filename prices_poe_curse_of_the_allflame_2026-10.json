@@ -218,5 +218,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-02 02:32:36",
+    "Seller": "dodik22898",
+    "Stock": "550",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-02 02:32:36",
+    "Seller": "fff344fd",
+    "Stock": "450",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 44,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-02 02:32:36",
+    "Seller": "Kininat",
+    "Stock": "400",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-02 02:32:36",
+    "Seller": "ExaltBoss",
+    "Stock": "675",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-02 02:32:36",
+    "Seller": "Nyli",
+    "Stock": "300",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
