@@ -328,5 +328,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-02 12:02:38",
+    "Seller": "nikNikko",
+    "Stock": "4000",
+    "Price": 0.0077,
+    "Currency": "USD",
+    "Position": 666,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-02 12:02:38",
+    "Seller": "Middir",
+    "Stock": "5200",
+    "Price": 0.0077,
+    "Currency": "USD",
+    "Position": 667,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-02 12:02:38",
+    "Seller": "ExpFreez",
+    "Stock": "1700",
+    "Price": 0.0077,
+    "Currency": "USD",
+    "Position": 669,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-02 12:02:38",
+    "Seller": "Necrodely",
+    "Stock": "1200",
+    "Price": 0.008,
+    "Currency": "USD",
+    "Position": 674,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-02 12:02:38",
+    "Seller": "Ilikecoin",
+    "Stock": "150",
+    "Price": 0.0082,
+    "Currency": "USD",
+    "Position": 683,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
