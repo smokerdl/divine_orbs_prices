@@ -438,5 +438,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-03 00:03:38",
+    "Seller": "Rair",
+    "Stock": "58",
+    "Price": 0.0071,
+    "Currency": "USD",
+    "Position": 653,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-03 00:03:38",
+    "Seller": "Naveel15",
+    "Stock": "970",
+    "Price": 0.0074,
+    "Currency": "USD",
+    "Position": 684,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-03 00:03:38",
+    "Seller": "MaTeMaRi",
+    "Stock": "100",
+    "Price": 0.0074,
+    "Currency": "USD",
+    "Position": 685,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-03 00:03:38",
+    "Seller": "ExilenceProvider",
+    "Stock": "710",
+    "Price": 0.0076,
+    "Currency": "USD",
+    "Position": 686,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-03 00:03:38",
+    "Seller": "Kynlas",
+    "Stock": "1500",
+    "Price": 0.0077,
+    "Currency": "USD",
+    "Position": 688,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
