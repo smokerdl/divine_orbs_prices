@@ -603,5 +603,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-03 13:40:41",
+    "Seller": "Qwepozer",
+    "Stock": "120",
+    "Price": 0.0198,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-03 13:40:41",
+    "Seller": "Glazom",
+    "Stock": "770",
+    "Price": 0.0198,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-03 13:40:41",
+    "Seller": "T4sel",
+    "Stock": "991",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-03 13:40:41",
+    "Seller": "Neroko",
+    "Stock": "4600",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-03 13:40:41",
+    "Seller": "AkiraMirai",
+    "Stock": "350",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 44,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
