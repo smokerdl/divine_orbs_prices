@@ -713,5 +713,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-03 21:50:57",
+    "Seller": "vowkaolpoeora",
+    "Stock": "307",
+    "Price": 0.0076,
+    "Currency": "USD",
+    "Position": 701,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-03 21:50:57",
+    "Seller": "sanjas",
+    "Stock": "1",
+    "Price": 0.008,
+    "Currency": "USD",
+    "Position": 709,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-03 21:50:57",
+    "Seller": "steelsome",
+    "Stock": "1550",
+    "Price": 0.008,
+    "Currency": "USD",
+    "Position": 710,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-03 21:50:57",
+    "Seller": "Winkey1",
+    "Stock": "1720",
+    "Price": 0.0082,
+    "Currency": "USD",
+    "Position": 719,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-03 21:50:57",
+    "Seller": "AezakmiOG",
+    "Stock": "3150",
+    "Price": 0.0082,
+    "Currency": "USD",
+    "Position": 720,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
