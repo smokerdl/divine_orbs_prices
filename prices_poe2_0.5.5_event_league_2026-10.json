@@ -548,5 +548,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-03 08:50:15",
+    "Seller": "Scizor",
+    "Stock": "1000",
+    "Price": 0.0084,
+    "Currency": "USD",
+    "Position": 671,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-03 08:50:15",
+    "Seller": "LordDexe",
+    "Stock": "200",
+    "Price": 0.0084,
+    "Currency": "USD",
+    "Position": 672,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-03 08:50:15",
+    "Seller": "Raur",
+    "Stock": "800",
+    "Price": 0.0084,
+    "Currency": "USD",
+    "Position": 673,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-03 08:50:15",
+    "Seller": "Balkion",
+    "Stock": "1",
+    "Price": 0.0084,
+    "Currency": "USD",
+    "Position": 674,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-03 08:50:15",
+    "Seller": "Steel1994",
+    "Stock": "800",
+    "Price": 0.0084,
+    "Currency": "USD",
+    "Position": 675,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
