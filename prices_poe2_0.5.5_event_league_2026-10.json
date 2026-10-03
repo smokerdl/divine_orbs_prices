@@ -768,5 +768,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-04 00:57:50",
+    "Seller": "sanjas",
+    "Stock": "1",
+    "Price": 0.0071,
+    "Currency": "USD",
+    "Position": 707,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-04 00:57:50",
+    "Seller": "Gangerr",
+    "Stock": "800",
+    "Price": 0.0075,
+    "Currency": "USD",
+    "Position": 717,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-04 00:57:50",
+    "Seller": "patentsh",
+    "Stock": "21",
+    "Price": 0.0075,
+    "Currency": "USD",
+    "Position": 718,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-04 00:57:50",
+    "Seller": "chaosattack",
+    "Stock": "4000",
+    "Price": 0.0075,
+    "Currency": "USD",
+    "Position": 719,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-04 00:57:50",
+    "Seller": "zero1",
+    "Stock": "7332",
+    "Price": 0.0076,
+    "Currency": "USD",
+    "Position": 723,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
