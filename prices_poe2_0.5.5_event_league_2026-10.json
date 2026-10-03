@@ -493,5 +493,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-03 03:46:10",
+    "Seller": "Naveel15",
+    "Stock": "220",
+    "Price": 0.0066,
+    "Currency": "USD",
+    "Position": 653,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-03 03:46:10",
+    "Seller": "Ggmasterpro1",
+    "Stock": "500",
+    "Price": 0.0066,
+    "Currency": "USD",
+    "Position": 654,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-03 03:46:10",
+    "Seller": "Balkion",
+    "Stock": "1",
+    "Price": 0.0075,
+    "Currency": "USD",
+    "Position": 671,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-03 03:46:10",
+    "Seller": "IvanVulkanqq",
+    "Stock": "4300",
+    "Price": 0.0076,
+    "Currency": "USD",
+    "Position": 673,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-03 03:46:10",
+    "Seller": "SmtgNeverKnow",
+    "Stock": "3000",
+    "Price": 0.0076,
+    "Currency": "USD",
+    "Position": 675,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
