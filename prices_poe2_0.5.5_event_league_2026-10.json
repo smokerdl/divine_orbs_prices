@@ -878,5 +878,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-04 09:26:43",
+    "Seller": "wednesdaybdo",
+    "Stock": "42493",
+    "Price": 0.0078,
+    "Currency": "USD",
+    "Position": 658,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-04 09:26:43",
+    "Seller": "Scizor",
+    "Stock": "2000",
+    "Price": 0.008,
+    "Currency": "USD",
+    "Position": 660,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-04 09:26:43",
+    "Seller": "Splashik21",
+    "Stock": "3000",
+    "Price": 0.008,
+    "Currency": "USD",
+    "Position": 661,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-04 09:26:43",
+    "Seller": "NORMT",
+    "Stock": "19000",
+    "Price": 0.008,
+    "Currency": "USD",
+    "Position": 662,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-04 09:26:43",
+    "Seller": "NauXayd",
+    "Stock": "1000",
+    "Price": 0.0082,
+    "Currency": "USD",
+    "Position": 670,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
