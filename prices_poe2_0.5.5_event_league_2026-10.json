@@ -988,5 +988,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-04 20:07:09",
+    "Seller": "Neverzy",
+    "Stock": "3700",
+    "Price": 0.0069,
+    "Currency": "USD",
+    "Position": 690,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-04 20:07:09",
+    "Seller": "Latinococ",
+    "Stock": "13000",
+    "Price": 0.0069,
+    "Currency": "USD",
+    "Position": 692,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-04 20:07:09",
+    "Seller": "steelsome",
+    "Stock": "2900",
+    "Price": 0.0069,
+    "Currency": "USD",
+    "Position": 693,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-04 20:07:09",
+    "Seller": "Dedamura",
+    "Stock": "1400",
+    "Price": 0.0072,
+    "Currency": "USD",
+    "Position": 700,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-04 20:07:09",
+    "Seller": "IvanVulkanqq",
+    "Stock": "2500",
+    "Price": 0.0073,
+    "Currency": "USD",
+    "Position": 709,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
