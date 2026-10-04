@@ -878,5 +878,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-04 09:26:30",
+    "Seller": "T4sel",
+    "Stock": "960",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-04 09:26:30",
+    "Seller": "VELHAN",
+    "Stock": "2259",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-04 09:26:30",
+    "Seller": "Kininat",
+    "Stock": "400",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-04 09:26:30",
+    "Seller": "TrueTrove",
+    "Stock": "400",
+    "Price": 0.023,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-04 09:26:30",
+    "Seller": "savetig",
+    "Stock": "1",
+    "Price": 0.024,
+    "Currency": "USD",
+    "Position": 44,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
