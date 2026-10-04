@@ -1043,5 +1043,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-04 23:30:10",
+    "Seller": "Bugebas",
+    "Stock": "2894",
+    "Price": 0.0077,
+    "Currency": "USD",
+    "Position": 738,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-04 23:30:10",
+    "Seller": "nostrah",
+    "Stock": "624",
+    "Price": 0.0077,
+    "Currency": "USD",
+    "Position": 739,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-04 23:30:10",
+    "Seller": "Andrzey",
+    "Stock": "5000",
+    "Price": 0.0078,
+    "Currency": "USD",
+    "Position": 740,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-04 23:30:10",
+    "Seller": "dwqdts",
+    "Stock": "3800",
+    "Price": 0.0079,
+    "Currency": "USD",
+    "Position": 751,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-04 23:30:10",
+    "Seller": "Scorpions89",
+    "Stock": "10000",
+    "Price": 0.008,
+    "Currency": "USD",
+    "Position": 753,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
