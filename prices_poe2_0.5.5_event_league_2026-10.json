@@ -1263,5 +1263,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-05 21:52:47",
+    "Seller": "Aleonora",
+    "Stock": "3350",
+    "Price": 0.0079,
+    "Currency": "USD",
+    "Position": 699,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-05 21:52:47",
+    "Seller": "nikita301103",
+    "Stock": "3350",
+    "Price": 0.0079,
+    "Currency": "USD",
+    "Position": 702,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-05 21:52:47",
+    "Seller": "Yanoverg",
+    "Stock": "1200",
+    "Price": 0.0082,
+    "Currency": "USD",
+    "Position": 713,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-05 21:52:47",
+    "Seller": "ArmagedDoNMeG",
+    "Stock": "2000",
+    "Price": 0.0083,
+    "Currency": "USD",
+    "Position": 714,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-05 21:52:47",
+    "Seller": "Fabion15",
+    "Stock": "4000",
+    "Price": 0.0083,
+    "Currency": "USD",
+    "Position": 715,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
