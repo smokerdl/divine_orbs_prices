@@ -1373,5 +1373,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-06 09:55:20",
+    "Seller": "Shyvnya",
+    "Stock": "149",
+    "Price": 0.0083,
+    "Currency": "USD",
+    "Position": 700,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-06 09:55:20",
+    "Seller": "Moxnatik1",
+    "Stock": "918",
+    "Price": 0.0083,
+    "Currency": "USD",
+    "Position": 701,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-06 09:55:20",
+    "Seller": "wintime",
+    "Stock": "2900",
+    "Price": 0.0083,
+    "Currency": "USD",
+    "Position": 702,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-06 09:55:20",
+    "Seller": "ExlRe",
+    "Stock": "750",
+    "Price": 0.0085,
+    "Currency": "USD",
+    "Position": 706,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-06 09:55:20",
+    "Seller": "Gonzo",
+    "Stock": "2500",
+    "Price": 0.0086,
+    "Currency": "USD",
+    "Position": 707,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
