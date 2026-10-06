@@ -1483,5 +1483,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-06 22:08:08",
+    "Seller": "Nemesis787",
+    "Stock": "600",
+    "Price": 0.008,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-06 22:08:08",
+    "Seller": "Nemesis787",
+    "Stock": "600",
+    "Price": 0.008,
+    "Currency": "USD",
+    "Position": 714,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-06 22:08:08",
+    "Seller": "K1ndy",
+    "Stock": "800",
+    "Price": 0.0082,
+    "Currency": "USD",
+    "Position": 716,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-06 22:08:08",
+    "Seller": "Sephiroth",
+    "Stock": "1400",
+    "Price": 0.0083,
+    "Currency": "USD",
+    "Position": 717,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-06 22:08:08",
+    "Seller": "nostrah",
+    "Stock": "110",
+    "Price": 0.0083,
+    "Currency": "USD",
+    "Position": 718,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
