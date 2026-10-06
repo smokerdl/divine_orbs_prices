@@ -1538,5 +1538,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-07 02:21:39",
+    "Seller": "YakuT16",
+    "Stock": "467",
+    "Price": 0.0078,
+    "Currency": "USD",
+    "Position": 696,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-07 02:21:39",
+    "Seller": "sanjas",
+    "Stock": "1",
+    "Price": 0.0079,
+    "Currency": "USD",
+    "Position": 699,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-07 02:21:39",
+    "Seller": "Sanya32292",
+    "Stock": "4505",
+    "Price": 0.0079,
+    "Currency": "USD",
+    "Position": 701,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-07 02:21:39",
+    "Seller": "rom131313",
+    "Stock": "5",
+    "Price": 0.0081,
+    "Currency": "USD",
+    "Position": 711,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-07 02:21:39",
+    "Seller": "Necrodely",
+    "Stock": "1100",
+    "Price": 0.0083,
+    "Currency": "USD",
+    "Position": 713,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
