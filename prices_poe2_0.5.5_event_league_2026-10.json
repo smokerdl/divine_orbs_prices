@@ -1593,5 +1593,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-07 05:44:29",
+    "Seller": "rom131313",
+    "Stock": "5",
+    "Price": 0.0081,
+    "Currency": "USD",
+    "Position": 675,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-07 05:44:29",
+    "Seller": "Raur",
+    "Stock": "900",
+    "Price": 0.0082,
+    "Currency": "USD",
+    "Position": 676,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-07 05:44:29",
+    "Seller": "SellerHealer",
+    "Stock": "1448",
+    "Price": 0.0083,
+    "Currency": "USD",
+    "Position": 678,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-07 05:44:29",
+    "Seller": "Necrodely",
+    "Stock": "1100",
+    "Price": 0.0083,
+    "Currency": "USD",
+    "Position": 679,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-07 05:44:29",
+    "Seller": "UNBOUNDMalevi4",
+    "Stock": "20",
+    "Price": 0.0083,
+    "Currency": "USD",
+    "Position": 680,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
