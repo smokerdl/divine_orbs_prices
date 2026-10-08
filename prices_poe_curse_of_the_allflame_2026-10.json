@@ -1813,5 +1813,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-08 05:18:09",
+    "Seller": "Chell69",
+    "Stock": "450",
+    "Price": 0.0198,
+    "Currency": "USD",
+    "Position": 38,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-08 05:18:09",
+    "Seller": "kliysear",
+    "Stock": "419",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-08 05:18:09",
+    "Seller": "ExaltBoss",
+    "Stock": "835",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 41,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-08 05:18:09",
+    "Seller": "Dendronich",
+    "Stock": "1000",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-08 05:18:09",
+    "Seller": "Nyli",
+    "Stock": "150",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 44,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
