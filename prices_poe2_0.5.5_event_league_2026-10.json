@@ -1813,5 +1813,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-08 05:18:24",
+    "Seller": "fkkx",
+    "Stock": "2000",
+    "Price": 0.0075,
+    "Currency": "USD",
+    "Position": 671,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-08 05:18:24",
+    "Seller": "oneness120",
+    "Stock": "1100",
+    "Price": 0.0077,
+    "Currency": "USD",
+    "Position": 676,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-08 05:18:24",
+    "Seller": "Rave328",
+    "Stock": "50",
+    "Price": 0.0077,
+    "Currency": "USD",
+    "Position": 677,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-08 05:18:24",
+    "Seller": "sanjas",
+    "Stock": "1",
+    "Price": 0.0078,
+    "Currency": "USD",
+    "Position": 679,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-08 05:18:24",
+    "Seller": "Bibamora",
+    "Stock": "238",
+    "Price": 0.008,
+    "Currency": "USD",
+    "Position": 687,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
