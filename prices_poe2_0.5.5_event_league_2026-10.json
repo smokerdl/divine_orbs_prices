@@ -1978,5 +1978,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-09 01:30:51",
+    "Seller": "Januke",
+    "Stock": "700",
+    "Price": 0.0069,
+    "Currency": "USD",
+    "Position": 715,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-09 01:30:51",
+    "Seller": "largo19",
+    "Stock": "3600",
+    "Price": 0.0069,
+    "Currency": "USD",
+    "Position": 716,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-09 01:30:51",
+    "Seller": "Raur",
+    "Stock": "1200",
+    "Price": 0.007,
+    "Currency": "USD",
+    "Position": 718,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-09 01:30:51",
+    "Seller": "mozetonq",
+    "Stock": "5000",
+    "Price": 0.007,
+    "Currency": "USD",
+    "Position": 719,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-09 01:30:51",
+    "Seller": "Koitus13",
+    "Stock": "4000",
+    "Price": 0.0072,
+    "Currency": "USD",
+    "Position": 728,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
