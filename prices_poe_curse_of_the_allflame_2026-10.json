@@ -2088,5 +2088,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-09 12:40:26",
+    "Seller": "workandtravel",
+    "Stock": "844",
+    "Price": 0.0174,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-09 12:40:26",
+    "Seller": "Skullxbasher",
+    "Stock": "440",
+    "Price": 0.0174,
+    "Currency": "USD",
+    "Position": 44,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-09 12:40:26",
+    "Seller": "Cloubeny",
+    "Stock": "1400",
+    "Price": 0.018,
+    "Currency": "USD",
+    "Position": 45,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-09 12:40:26",
+    "Seller": "VELHAN",
+    "Stock": "2259",
+    "Price": 0.0193,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-09 12:40:26",
+    "Seller": "Rubykybik",
+    "Stock": "330",
+    "Price": 0.0193,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
