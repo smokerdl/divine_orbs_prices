@@ -2143,5 +2143,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-09 19:38:37",
+    "Seller": "Dayn6849",
+    "Stock": "3110",
+    "Price": 0.0068,
+    "Currency": "USD",
+    "Position": 571,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-09 19:38:37",
+    "Seller": "Tigrics",
+    "Stock": "100",
+    "Price": 0.0068,
+    "Currency": "USD",
+    "Position": 572,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-09 19:38:37",
+    "Seller": "AlexGrape",
+    "Stock": "6000",
+    "Price": 0.007,
+    "Currency": "USD",
+    "Position": 575,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-09 19:38:37",
+    "Seller": "NirkoD",
+    "Stock": "4000",
+    "Price": 0.0071,
+    "Currency": "USD",
+    "Position": 582,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-09 19:38:37",
+    "Seller": "LordDexe",
+    "Stock": "200",
+    "Price": 0.0073,
+    "Currency": "USD",
+    "Position": 583,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
