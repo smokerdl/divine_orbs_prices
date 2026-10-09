@@ -2033,5 +2033,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-09 05:35:58",
+    "Seller": "Chente",
+    "Stock": "530",
+    "Price": 0.0188,
+    "Currency": "USD",
+    "Position": 40,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-09 05:35:58",
+    "Seller": "workandtravel",
+    "Stock": "1150",
+    "Price": 0.0195,
+    "Currency": "USD",
+    "Position": 42,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-09 05:35:58",
+    "Seller": "GssGTFO",
+    "Stock": "1530",
+    "Price": 0.0198,
+    "Currency": "USD",
+    "Position": 43,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-09 05:35:58",
+    "Seller": "ExaltBoss",
+    "Stock": "755",
+    "Price": 0.0198,
+    "Currency": "USD",
+    "Position": 45,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-09 05:35:58",
+    "Seller": "Neroko",
+    "Stock": "4600",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
