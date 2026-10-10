@@ -2363,5 +2363,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-10 16:59:55",
+    "Seller": "RerixVarda",
+    "Stock": "3500",
+    "Price": 0.007,
+    "Currency": "USD",
+    "Position": 669,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-10 16:59:55",
+    "Seller": "rad1ar",
+    "Stock": "2000",
+    "Price": 0.007,
+    "Currency": "USD",
+    "Position": 670,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-10 16:59:55",
+    "Seller": "Driadik",
+    "Stock": "2000",
+    "Price": 0.007,
+    "Currency": "USD",
+    "Position": 671,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-10 16:59:55",
+    "Seller": "largo19",
+    "Stock": "585",
+    "Price": 0.007,
+    "Currency": "USD",
+    "Position": 672,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-10 16:59:55",
+    "Seller": "kryazhevskikh96",
+    "Stock": "1000",
+    "Price": 0.007,
+    "Currency": "USD",
+    "Position": 673,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
