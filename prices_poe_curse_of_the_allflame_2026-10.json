@@ -2253,5 +2253,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-10 04:19:16",
+    "Seller": "TrAleksGame",
+    "Stock": "900",
+    "Price": 0.021,
+    "Currency": "USD",
+    "Position": 44,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-10 04:19:16",
+    "Seller": "Rubykybik",
+    "Stock": "330",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 46,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-10 04:19:16",
+    "Seller": "GREX999",
+    "Stock": "2283",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 47,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-10 04:19:16",
+    "Seller": "Neroko",
+    "Stock": "1900",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 48,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-10 04:19:16",
+    "Seller": "KevLARpoe",
+    "Stock": "355",
+    "Price": 0.022,
+    "Currency": "USD",
+    "Position": 49,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
