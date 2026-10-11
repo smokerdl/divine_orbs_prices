@@ -2693,5 +2693,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-11 23:38:33",
+    "Seller": "Lethal0992",
+    "Stock": "2400",
+    "Price": 0.0058,
+    "Currency": "USD",
+    "Position": 642,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-11 23:38:33",
+    "Seller": "Katoklizm",
+    "Stock": "5500",
+    "Price": 0.006,
+    "Currency": "USD",
+    "Position": 645,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-11 23:38:33",
+    "Seller": "Draklas",
+    "Stock": "2339",
+    "Price": 0.006,
+    "Currency": "USD",
+    "Position": 646,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-11 23:38:33",
+    "Seller": "Venni",
+    "Stock": "1200",
+    "Price": 0.0061,
+    "Currency": "USD",
+    "Position": 648,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-11 23:38:33",
+    "Seller": "RoflanMaster",
+    "Stock": "2200",
+    "Price": 0.0062,
+    "Currency": "USD",
+    "Position": 649,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
