@@ -2913,5 +2913,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-13 02:17:01",
+    "Seller": "amplumnox",
+    "Stock": "5500",
+    "Price": 0.0064,
+    "Currency": "USD",
+    "Position": 559,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-13 02:17:01",
+    "Seller": "albert456",
+    "Stock": "27000",
+    "Price": 0.0064,
+    "Currency": "USD",
+    "Position": 560,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-13 02:17:01",
+    "Seller": "querian9880",
+    "Stock": "500",
+    "Price": 0.0064,
+    "Currency": "USD",
+    "Position": 566,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-13 02:17:01",
+    "Seller": "San41k333",
+    "Stock": "4500",
+    "Price": 0.0064,
+    "Currency": "USD",
+    "Position": 567,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-13 02:17:01",
+    "Seller": "GobShop",
+    "Stock": "4000",
+    "Price": 0.0064,
+    "Currency": "USD",
+    "Position": 568,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
