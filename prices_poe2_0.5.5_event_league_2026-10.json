@@ -2968,5 +2968,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-13 15:14:00",
+    "Seller": "DeathEye",
+    "Stock": "2000",
+    "Price": 0.0059,
+    "Currency": "USD",
+    "Position": 516,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-13 15:14:00",
+    "Seller": "menyastepa",
+    "Stock": "4900",
+    "Price": 0.0059,
+    "Currency": "USD",
+    "Position": 517,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-13 15:14:00",
+    "Seller": "GGGg231",
+    "Stock": "800",
+    "Price": 0.006,
+    "Currency": "USD",
+    "Position": 518,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-13 15:14:00",
+    "Seller": "Telltaler",
+    "Stock": "2300",
+    "Price": 0.0062,
+    "Currency": "USD",
+    "Position": 523,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-13 15:14:00",
+    "Seller": "kryazhevskikh96",
+    "Stock": "2200",
+    "Price": 0.0062,
+    "Currency": "USD",
+    "Position": 524,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
