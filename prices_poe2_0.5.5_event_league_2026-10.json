@@ -3353,5 +3353,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-15 01:42:59",
+    "Seller": "Raykira",
+    "Stock": "6000",
+    "Price": 0.0059,
+    "Currency": "USD",
+    "Position": 564,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-15 01:42:59",
+    "Seller": "Clubbuster",
+    "Stock": "1119",
+    "Price": 0.0062,
+    "Currency": "USD",
+    "Position": 568,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-15 01:42:59",
+    "Seller": "R4GGED",
+    "Stock": "1050",
+    "Price": 0.0064,
+    "Currency": "USD",
+    "Position": 569,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-15 01:42:59",
+    "Seller": "kent9irik",
+    "Stock": "1300",
+    "Price": 0.0064,
+    "Currency": "USD",
+    "Position": 570,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-15 01:42:59",
+    "Seller": "Akazuki",
+    "Stock": "2000",
+    "Price": 0.0064,
+    "Currency": "USD",
+    "Position": 572,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
