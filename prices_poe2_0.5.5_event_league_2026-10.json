@@ -3188,5 +3188,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-14 11:03:22",
+    "Seller": "JohnMilimetron",
+    "Stock": "3600",
+    "Price": 0.0057,
+    "Currency": "USD",
+    "Position": 597,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-14 11:03:22",
+    "Seller": "Alex434334",
+    "Stock": "2800",
+    "Price": 0.0057,
+    "Currency": "USD",
+    "Position": 600,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-14 11:03:22",
+    "Seller": "Chiporol",
+    "Stock": "4000",
+    "Price": 0.0057,
+    "Currency": "USD",
+    "Position": 601,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-14 11:03:22",
+    "Seller": "Cowboy",
+    "Stock": "2000",
+    "Price": 0.0059,
+    "Currency": "USD",
+    "Position": 609,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-14 11:03:22",
+    "Seller": "kryazhevskikh96",
+    "Stock": "1300",
+    "Price": 0.0059,
+    "Currency": "USD",
+    "Position": 610,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
