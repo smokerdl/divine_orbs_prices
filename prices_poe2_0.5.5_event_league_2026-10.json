@@ -3243,5 +3243,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-14 17:05:26",
+    "Seller": "mentor192",
+    "Stock": "9000",
+    "Price": 0.0049,
+    "Currency": "USD",
+    "Position": 548,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-14 17:05:26",
+    "Seller": "Latinococ",
+    "Stock": "5000",
+    "Price": 0.005,
+    "Currency": "USD",
+    "Position": 549,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-14 17:05:26",
+    "Seller": "nostrah",
+    "Stock": "348",
+    "Price": 0.005,
+    "Currency": "USD",
+    "Position": 550,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-14 17:05:26",
+    "Seller": "OldDementor",
+    "Stock": "229",
+    "Price": 0.0051,
+    "Currency": "USD",
+    "Position": 552,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-14 17:05:26",
+    "Seller": "leepricon",
+    "Stock": "1080",
+    "Price": 0.0053,
+    "Currency": "USD",
+    "Position": 562,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
