@@ -3628,5 +3628,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-15 23:34:03",
+    "Seller": "elNino",
+    "Stock": "1000",
+    "Price": 0.0055,
+    "Currency": "USD",
+    "Position": 627,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-15 23:34:03",
+    "Seller": "PRoman9",
+    "Stock": "14",
+    "Price": 0.0058,
+    "Currency": "USD",
+    "Position": 633,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-15 23:34:03",
+    "Seller": "Balkion",
+    "Stock": "100",
+    "Price": 0.0059,
+    "Currency": "USD",
+    "Position": 645,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-15 23:34:03",
+    "Seller": "Sankqa",
+    "Stock": "500",
+    "Price": 0.0061,
+    "Currency": "USD",
+    "Position": 648,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-15 23:34:03",
+    "Seller": "alekssssswee",
+    "Stock": "6",
+    "Price": 0.0062,
+    "Currency": "USD",
+    "Position": 650,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
