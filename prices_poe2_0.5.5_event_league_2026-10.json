@@ -3958,5 +3958,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-16 23:07:24",
+    "Seller": "PapaGuss",
+    "Stock": "5000",
+    "Price": 0.006,
+    "Currency": "USD",
+    "Position": 668,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-16 23:07:24",
+    "Seller": "Zhoraha",
+    "Stock": "1100",
+    "Price": 0.006,
+    "Currency": "USD",
+    "Position": 669,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-16 23:07:24",
+    "Seller": "wflspirit",
+    "Stock": "3500",
+    "Price": 0.0063,
+    "Currency": "USD",
+    "Position": 673,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-16 23:07:24",
+    "Seller": "Rico1298",
+    "Stock": "14000",
+    "Price": 0.0063,
+    "Currency": "USD",
+    "Position": 674,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-16 23:07:24",
+    "Seller": "UsaEnnemy",
+    "Stock": "92",
+    "Price": 0.0064,
+    "Currency": "USD",
+    "Position": 680,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
