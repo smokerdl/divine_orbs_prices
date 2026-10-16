@@ -3903,5 +3903,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-16 20:00:41",
+    "Seller": "Middir",
+    "Stock": "5500",
+    "Price": 0.0064,
+    "Currency": "USD",
+    "Position": 662,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-16 20:00:41",
+    "Seller": "Zhoraha",
+    "Stock": "1200",
+    "Price": 0.0064,
+    "Currency": "USD",
+    "Position": 663,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-16 20:00:41",
+    "Seller": "Feuerzeug",
+    "Stock": "1729",
+    "Price": 0.0064,
+    "Currency": "USD",
+    "Position": 664,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-16 20:00:41",
+    "Seller": "nimf12",
+    "Stock": "1300",
+    "Price": 0.0064,
+    "Currency": "USD",
+    "Position": 666,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-16 20:00:41",
+    "Seller": "BillyOver9000",
+    "Stock": "4800",
+    "Price": 0.0066,
+    "Currency": "USD",
+    "Position": 667,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
