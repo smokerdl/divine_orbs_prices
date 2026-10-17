@@ -4178,5 +4178,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-17 14:13:07",
+    "Seller": "Kyorakuuu",
+    "Stock": "274",
+    "Price": 0.0069,
+    "Currency": "USD",
+    "Position": 660,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-17 14:13:07",
+    "Seller": "Telltaler",
+    "Stock": "700",
+    "Price": 0.007,
+    "Currency": "USD",
+    "Position": 661,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-17 14:13:07",
+    "Seller": "EgorMissClick",
+    "Stock": "900",
+    "Price": 0.0071,
+    "Currency": "USD",
+    "Position": 665,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-17 14:13:07",
+    "Seller": "sadorsad",
+    "Stock": "600",
+    "Price": 0.0071,
+    "Currency": "USD",
+    "Position": 666,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-17 14:13:07",
+    "Seller": "AezakmiOG",
+    "Stock": "2950",
+    "Price": 0.0071,
+    "Currency": "USD",
+    "Position": 667,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
