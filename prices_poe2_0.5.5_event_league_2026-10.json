@@ -4123,5 +4123,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-17 09:16:07",
+    "Seller": "iMillka",
+    "Stock": "150",
+    "Price": 0.006,
+    "Currency": "USD",
+    "Position": 600,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-17 09:16:07",
+    "Seller": "OneStrix",
+    "Stock": "500",
+    "Price": 0.0065,
+    "Currency": "USD",
+    "Position": 608,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-17 09:16:07",
+    "Seller": "PL1",
+    "Stock": "2200",
+    "Price": 0.0065,
+    "Currency": "USD",
+    "Position": 609,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-17 09:16:07",
+    "Seller": "alekssssswee",
+    "Stock": "200",
+    "Price": 0.0066,
+    "Currency": "USD",
+    "Position": 611,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-17 09:16:07",
+    "Seller": "Alex434334",
+    "Stock": "2800",
+    "Price": 0.0066,
+    "Currency": "USD",
+    "Position": 612,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
