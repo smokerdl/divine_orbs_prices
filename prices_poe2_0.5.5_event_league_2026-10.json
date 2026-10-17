@@ -4343,5 +4343,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-17 22:44:08",
+    "Seller": "Joker141",
+    "Stock": "2000",
+    "Price": 0.0077,
+    "Currency": "USD",
+    "Position": 700,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-17 22:44:08",
+    "Seller": "G1ukMaker",
+    "Stock": "1000",
+    "Price": 0.0077,
+    "Currency": "USD",
+    "Position": 701,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-17 22:44:08",
+    "Seller": "Necrodely",
+    "Stock": "1500",
+    "Price": 0.0077,
+    "Currency": "USD",
+    "Position": 702,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-17 22:44:08",
+    "Seller": "OrcBariga",
+    "Stock": "500",
+    "Price": 0.0078,
+    "Currency": "USD",
+    "Position": 703,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-17 22:44:08",
+    "Seller": "Furikonst",
+    "Stock": "2700",
+    "Price": 0.0078,
+    "Currency": "USD",
+    "Position": 704,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
