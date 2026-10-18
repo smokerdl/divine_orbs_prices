@@ -4673,5 +4673,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-18 14:46:27",
+    "Seller": "widowmake",
+    "Stock": "200",
+    "Price": 0.019,
+    "Currency": "USD",
+    "Position": 35,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-18 14:46:27",
+    "Seller": "WNero",
+    "Stock": "600",
+    "Price": 0.0193,
+    "Currency": "USD",
+    "Position": 36,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-18 14:46:27",
+    "Seller": "Nyli",
+    "Stock": "280",
+    "Price": 0.0197,
+    "Currency": "USD",
+    "Position": 37,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-18 14:46:27",
+    "Seller": "AvariceCovenant",
+    "Stock": "620",
+    "Price": 0.0199,
+    "Currency": "USD",
+    "Position": 38,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-18 14:46:27",
+    "Seller": "dragdiler",
+    "Stock": "1000",
+    "Price": 0.02,
+    "Currency": "USD",
+    "Position": 39,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
