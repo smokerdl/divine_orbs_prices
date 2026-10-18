@@ -4508,5 +4508,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-18 04:35:07",
+    "Seller": "xyligannn",
+    "Stock": "2000",
+    "Price": 0.0075,
+    "Currency": "USD",
+    "Position": 639,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-18 04:35:07",
+    "Seller": "verygood70rus",
+    "Stock": "8000",
+    "Price": 0.0075,
+    "Currency": "USD",
+    "Position": 640,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-18 04:35:07",
+    "Seller": "Pers123",
+    "Stock": "5000",
+    "Price": 0.0078,
+    "Currency": "USD",
+    "Position": 643,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-18 04:35:07",
+    "Seller": "aq100000",
+    "Stock": "741",
+    "Price": 0.0078,
+    "Currency": "USD",
+    "Position": 644,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-18 04:35:07",
+    "Seller": "MirrorStash",
+    "Stock": "2200",
+    "Price": 0.0079,
+    "Currency": "USD",
+    "Position": 648,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
