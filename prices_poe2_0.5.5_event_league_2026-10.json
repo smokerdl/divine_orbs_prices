@@ -4673,5 +4673,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-18 17:53:31",
+    "Seller": "IncCreep",
+    "Stock": "6000",
+    "Price": 0.0071,
+    "Currency": "USD",
+    "Position": 682,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-18 17:53:31",
+    "Seller": "Gangerr",
+    "Stock": "1000",
+    "Price": 0.0072,
+    "Currency": "USD",
+    "Position": 683,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-18 17:53:31",
+    "Seller": "Yellowmeow",
+    "Stock": "1480",
+    "Price": 0.0072,
+    "Currency": "USD",
+    "Position": 684,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-18 17:53:31",
+    "Seller": "Merlin001",
+    "Stock": "70",
+    "Price": 0.0072,
+    "Currency": "USD",
+    "Position": 690,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-18 17:53:31",
+    "Seller": "ctokman",
+    "Stock": "900",
+    "Price": 0.0072,
+    "Currency": "USD",
+    "Position": 691,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
