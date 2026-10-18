@@ -4893,5 +4893,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-19 00:56:53",
+    "Seller": "Omar2k",
+    "Stock": "130",
+    "Price": 0.019,
+    "Currency": "USD",
+    "Position": 35,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-19 00:56:53",
+    "Seller": "xFINTx",
+    "Stock": "1329",
+    "Price": 0.019,
+    "Currency": "USD",
+    "Position": 36,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-19 00:56:53",
+    "Seller": "Nyli",
+    "Stock": "50",
+    "Price": 0.0198,
+    "Currency": "USD",
+    "Position": 1,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-19 00:56:53",
+    "Seller": "Nyli",
+    "Stock": "50",
+    "Price": 0.0198,
+    "Currency": "USD",
+    "Position": 37,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12728"
+  },
+  {
+    "Timestamp": "2026-10-19 00:56:53",
+    "Seller": "AvariceCovenant",
+    "Stock": "620",
+    "Price": 0.0199,
+    "Currency": "USD",
+    "Position": 38,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12728"
   }
 ]
