@@ -4838,5 +4838,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-19 00:57:08",
+    "Seller": "wflspirit",
+    "Stock": "7055",
+    "Price": 0.0065,
+    "Currency": "USD",
+    "Position": 666,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-19 00:57:08",
+    "Seller": "Souseiseki",
+    "Stock": "6000",
+    "Price": 0.0065,
+    "Currency": "USD",
+    "Position": 667,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-19 00:57:08",
+    "Seller": "KAMAEK1998",
+    "Stock": "55",
+    "Price": 0.0066,
+    "Currency": "USD",
+    "Position": 675,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-19 00:57:08",
+    "Seller": "Bolk234432",
+    "Stock": "700",
+    "Price": 0.0068,
+    "Currency": "USD",
+    "Position": 677,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-19 00:57:08",
+    "Seller": "Cornelius1994",
+    "Stock": "1000",
+    "Price": 0.0068,
+    "Currency": "USD",
+    "Position": 678,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
