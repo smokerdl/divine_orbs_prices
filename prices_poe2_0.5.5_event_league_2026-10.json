@@ -4618,5 +4618,60 @@
     "DisplayPosition": 8,
     "Online": true,
     "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-18 14:46:40",
+    "Seller": "Scizor",
+    "Stock": "3000",
+    "Price": 0.0072,
+    "Currency": "USD",
+    "Position": 672,
+    "DisplayPosition": 4,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-18 14:46:40",
+    "Seller": "Merlin001",
+    "Stock": "70",
+    "Price": 0.0072,
+    "Currency": "USD",
+    "Position": 678,
+    "DisplayPosition": 5,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-18 14:46:40",
+    "Seller": "ctokman",
+    "Stock": "900",
+    "Price": 0.0072,
+    "Currency": "USD",
+    "Position": 679,
+    "DisplayPosition": 6,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-18 14:46:40",
+    "Seller": "AlexKuj0",
+    "Stock": "1600",
+    "Price": 0.0072,
+    "Currency": "USD",
+    "Position": 680,
+    "DisplayPosition": 7,
+    "Online": true,
+    "League": "12906"
+  },
+  {
+    "Timestamp": "2026-10-18 14:46:40",
+    "Seller": "SubjectiveMind",
+    "Stock": "500",
+    "Price": 0.0072,
+    "Currency": "USD",
+    "Position": 681,
+    "DisplayPosition": 8,
+    "Online": true,
+    "League": "12906"
   }
 ]
